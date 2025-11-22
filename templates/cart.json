@@ -1,0 +1,113 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "cab84052-d761-4842-9540-7e5257a30e2a": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17609135030556__cab84052-d761-4842-9540-7e5257a30e2a-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h4>Spirit orders now shipping throughout California for a flat rate of $25 per order. </h4><p>Someone 21+ must be present to sign for alcohol delivery. UPS will attempt to deliver a maximum of 3 times! If no one is home and/or no one 21+ is available to sign, your product will be returned and you will NOT BE ELIGIBLE FOR A REFUND!</p>",
+            "heading_size": "h2"
+          }
+        },
+        "f4e15131-8ee1-474a-af98-68d9ae866d9d": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h4>Or visit the Distillery to pick up your order M/W/F, 8:00 AM to 1:00 PM</h4>",
+            "heading_size": "h2"
+          }
+        },
+        "template--17609135030556__cab84052-d761-4842-9540-7e5257a30e2a-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If our current open hours for pickup are not convenient for you, please email sales@hiatuscrafthouse.com after placing your order to make other arrangements.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17609135030556__cab84052-d761-4842-9540-7e5257a30e2a-heading-1",
+        "f4e15131-8ee1-474a-af98-68d9ae866d9d",
+        "template--17609135030556__cab84052-d761-4842-9540-7e5257a30e2a-text-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
+    "cart-items": {
+      "type": "main-cart-items",
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 24
+      }
+    },
+    "cart-footer": {
+      "type": "main-cart-footer",
+      "blocks": {
+        "subtotal": {
+          "type": "subtotal",
+          "settings": {
+          }
+        },
+        "buttons": {
+          "type": "buttons",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "subtotal",
+        "buttons"
+      ],
+      "settings": {
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "frontpage",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 96
+      }
+    }
+  },
+  "order": [
+    "cab84052-d761-4842-9540-7e5257a30e2a",
+    "cart-items",
+    "cart-footer",
+    "featured-collection"
+  ]
+}

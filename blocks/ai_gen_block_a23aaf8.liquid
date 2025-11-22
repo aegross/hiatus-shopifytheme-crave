@@ -1,0 +1,354 @@
+{% doc %}
+  @prompt
+    two featured photos, in layout, add padding options, do not crop the photo
+{% enddoc %}
+{% assign ai_gen_id = block.id | replace: '_', '' | downcase %}
+
+{% style %}
+  .ai-featured-photos-container-{{ ai_gen_id }} {
+    padding-top: {{ block.settings.padding_top }}px;
+    padding-bottom: {{ block.settings.padding_bottom }}px;
+    padding-left: {{ block.settings.padding_left }}px;
+    padding-right: {{ block.settings.padding_right }}px;
+  }
+
+  .ai-featured-photos-{{ ai_gen_id }} {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: {{ block.settings.gap }}px;
+    width: 100%;
+  }
+
+  .ai-featured-photo-{{ ai_gen_id }} {
+    position: relative;
+    overflow: hidden;
+    border-radius: {{ block.settings.border_radius }}px;
+    border: {{ block.settings.border_thickness }}px solid {{ block.settings.border_color }};
+  }
+
+  .ai-featured-photo-wrapper-{{ ai_gen_id }} {
+    position: relative;
+    width: 100%;
+  }
+
+  .ai-featured-photo-image-{{ ai_gen_id }} {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  .ai-featured-photo-placeholder-{{ ai_gen_id }} {
+    position: relative;
+    width: 100%;
+    padding-bottom: 100%;
+    background-color: #f4f4f4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .ai-featured-photo-placeholder-{{ ai_gen_id }} svg {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    height: 100%;
+    max-width: 300px;
+    max-height: 300px;
+  }
+
+  .ai-featured-photo-overlay-{{ ai_gen_id }} {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: {{ block.settings.overlay_padding }}px;
+    background: linear-gradient(to top, rgba(0, 0, 0, {{ block.settings.overlay_opacity }}), transparent);
+    color: {{ block.settings.overlay_text_color }};
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+
+  .ai-featured-photo-{{ ai_gen_id }}:hover .ai-featured-photo-overlay-{{ ai_gen_id }} {
+    opacity: 1;
+  }
+
+  .ai-featured-photo-title-{{ ai_gen_id }} {
+    font-size: {{ block.settings.title_size }}px;
+    font-weight: 600;
+    margin: 0 0 8px;
+  }
+
+  .ai-featured-photo-description-{{ ai_gen_id }} {
+    font-size: {{ block.settings.description_size }}px;
+    margin: 0;
+  }
+
+  .ai-featured-photo-empty-state-{{ ai_gen_id }} {
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 12px 20px;
+    font-size: 14px;
+    color: #666;
+    text-align: center;
+    pointer-events: none;
+  }
+
+  @media screen and (max-width: 749px) {
+    .ai-featured-photos-{{ ai_gen_id }} {
+      grid-template-columns: 1fr;
+    }
+  }
+{% endstyle %}
+
+<div class="ai-featured-photos-container-{{ ai_gen_id }}" {{ block.shopify_attributes }}>
+  <div class="ai-featured-photos-{{ ai_gen_id }}">
+    {% for i in (1..2) %}
+      {% liquid
+        assign image_key = 'image_' | append: i
+        assign title_key = 'title_' | append: i
+        assign description_key = 'description_' | append: i
+        assign link_key = 'link_' | append: i
+
+        assign image = block.settings[image_key]
+        assign title = block.settings[title_key]
+        assign description = block.settings[description_key]
+        assign link = block.settings[link_key]
+      %}
+
+      <div class="ai-featured-photo-{{ ai_gen_id }}">
+        {% if link != blank %}
+          <a href="{{ link }}">
+        {% endif %}
+
+        <div class="ai-featured-photo-wrapper-{{ ai_gen_id }}">
+          {% if image %}
+            <img
+              src="{{ image | image_url: width: 1000 }}"
+              alt="{{ image.alt | escape }}"
+              loading="lazy"
+              width="{{ image.width }}"
+              height="{{ image.height }}"
+              class="ai-featured-photo-image-{{ ai_gen_id }}"
+            >
+          {% else %}
+            <div class="ai-featured-photo-placeholder-{{ ai_gen_id }}">
+              {{ 'image' | placeholder_svg_tag }}
+              <div class="ai-featured-photo-empty-state-{{ ai_gen_id }}">
+                Add image {{ i }}
+              </div>
+            </div>
+          {% endif %}
+
+          {% if title != blank or description != blank %}
+            <div class="ai-featured-photo-overlay-{{ ai_gen_id }}">
+              {% if title != blank %}
+                <h3 class="ai-featured-photo-title-{{ ai_gen_id }}">{{ title }}</h3>
+              {% endif %}
+              {% if description != blank %}
+                <p class="ai-featured-photo-description-{{ ai_gen_id }}">{{ description }}</p>
+              {% endif %}
+            </div>
+          {% endif %}
+        </div>
+
+        {% if link != blank %}
+          </a>
+        {% endif %}
+      </div>
+    {% endfor %}
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "Featured photos",
+  "settings": [
+    {
+      "type": "header",
+      "content": "Layout"
+    },
+    {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "Top padding",
+      "default": 0
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "Bottom padding",
+      "default": 0
+    },
+    {
+      "type": "range",
+      "id": "padding_left",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "Left padding",
+      "default": 0
+    },
+    {
+      "type": "range",
+      "id": "padding_right",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "Right padding",
+      "default": 0
+    },
+    {
+      "type": "range",
+      "id": "gap",
+      "min": 0,
+      "max": 40,
+      "step": 4,
+      "unit": "px",
+      "label": "Gap between photos",
+      "default": 12
+    },
+    {
+      "type": "range",
+      "id": "border_radius",
+      "min": 0,
+      "max": 40,
+      "step": 2,
+      "unit": "px",
+      "label": "Border radius",
+      "default": 12
+    },
+    {
+      "type": "range",
+      "id": "border_thickness",
+      "min": 0,
+      "max": 10,
+      "step": 1,
+      "unit": "px",
+      "label": "Border thickness",
+      "default": 2
+    },
+    {
+      "type": "color",
+      "id": "border_color",
+      "label": "Border color",
+      "default": "#3d081b"
+    },
+    {
+      "type": "header",
+      "content": "Overlay"
+    },
+    {
+      "type": "range",
+      "id": "overlay_opacity",
+      "min": 0,
+      "max": 1,
+      "step": 0.1,
+      "label": "Overlay opacity",
+      "default": 0.7
+    },
+    {
+      "type": "color",
+      "id": "overlay_text_color",
+      "label": "Text color",
+      "default": "#ffffff"
+    },
+    {
+      "type": "range",
+      "id": "overlay_padding",
+      "min": 10,
+      "max": 40,
+      "step": 5,
+      "unit": "px",
+      "label": "Padding",
+      "default": 20
+    },
+    {
+      "type": "range",
+      "id": "title_size",
+      "min": 14,
+      "max": 32,
+      "step": 2,
+      "unit": "px",
+      "label": "Title size",
+      "default": 20
+    },
+    {
+      "type": "range",
+      "id": "description_size",
+      "min": 12,
+      "max": 20,
+      "step": 1,
+      "unit": "px",
+      "label": "Description size",
+      "default": 14
+    },
+    {
+      "type": "header",
+      "content": "Photo 1"
+    },
+    {
+      "type": "image_picker",
+      "id": "image_1",
+      "label": "Image"
+    },
+    {
+      "type": "text",
+      "id": "title_1",
+      "label": "Title"
+    },
+    {
+      "type": "text",
+      "id": "description_1",
+      "label": "Description"
+    },
+    {
+      "type": "url",
+      "id": "link_1",
+      "label": "Link"
+    },
+    {
+      "type": "header",
+      "content": "Photo 2"
+    },
+    {
+      "type": "image_picker",
+      "id": "image_2",
+      "label": "Image"
+    },
+    {
+      "type": "text",
+      "id": "title_2",
+      "label": "Title"
+    },
+    {
+      "type": "text",
+      "id": "description_2",
+      "label": "Description"
+    },
+    {
+      "type": "url",
+      "id": "link_2",
+      "label": "Link"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Featured photos"
+    }
+  ]
+}
+{% endschema %}
