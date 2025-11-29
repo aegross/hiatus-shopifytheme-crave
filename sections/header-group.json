@@ -75,6 +75,7 @@
             }
           }
         },
+        
         "block_order": [
           "announcement_gYtPXP",
           "announcement_6yMY6c",
@@ -87,8 +88,8 @@
         ],
 
         "settings": {}
-        
         },
+
         "header": {
         "type": "header",
         "settings": {
