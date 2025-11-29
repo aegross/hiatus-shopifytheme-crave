@@ -3596,8 +3596,7 @@ details-disclosure > details {
   }
 }
 
-.center.small-hide.medium-hide a.button {
-    margin-top: 80px;
-    margin-bottom: 24px;
-    position: relative;
+.collection__view-all .button {
+    padding-inline: 36px
+    min-width: auto;
 }
