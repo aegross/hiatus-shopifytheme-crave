@@ -3595,3 +3595,9 @@ details-disclosure > details {
     transform: translateX(100%) scaleX(0);
   }
 }
+
+.center.small-hide.medium-hide a.button {
+    margin-top: 24px;
+    margin-bottom: 24px;
+    position: relative;
+}
