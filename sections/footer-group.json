@@ -28,7 +28,7 @@
         "image"
       ],
       "settings": {
-        "color_scheme": "accent-1",
+        "color_scheme": "inverse",
         "newsletter_enable": false,
         "newsletter_heading": "",
         "enable_follow_on_shop": false,
