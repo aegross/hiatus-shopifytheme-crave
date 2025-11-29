@@ -4,8 +4,20 @@
     "HCH-Crave": {
       "hau_form_options": "Word of Mouth / From a Friend, Google/Map/Search, Facebook, Instagram, Nextdoor, Other Social Media, Other online, Event, In print",
 
+      "colors_solid_button_labels": "#faf9e1",
+      "colors_accent_1": "#14404b",
+      "gradient_accent_1": "",
+      "colors_accent_2": "#91850f",
+      "gradient_accent_2": "",
+      "colors_text": "#3d081b",
+      "colors_outline_button_labels": "#3d081b",
+      "colors_background_1": "#faf9e1",
+      "gradient_background_1": "",
+      "colors_background_2": "#faf9e1",
+      "gradient_background_2": "",
+
       "color_schemes": {
-        "scheme-1": {
+        "background-1": {
           "settings": {
             "background": "#f2efdd",
             "background_gradient": "",
@@ -16,7 +28,7 @@
             "shadow": "#3d081b"
           }
         },
-        "scheme-2": {
+        "background-2": {
           "settings": {
             "background": "#FAF9E1",
             "background_gradient": "",
@@ -27,7 +39,7 @@
             "shadow": "#3d081b"
           }
         },
-        "scheme-3": {
+        "accent-1": {
           "settings": {
             "background": "#3d081b",
             "background_gradient": "",
@@ -38,7 +50,7 @@
             "shadow": "#3d081b"
           }
         },
-        "scheme-4": {
+        "accent-2": {
           "settings": {
             "background": "#910f3f",
             "background_gradient": "",
@@ -49,7 +61,7 @@
             "shadow": "#3d081b"
           }
         },
-        "scheme-5": {
+        "inverse": {
           "settings": {
             "background": "#F9E547",
             "background_gradient": "",
@@ -102,7 +114,7 @@
       "card_style": "card",
       "card_image_padding": 0,
       "card_text_alignment": "left",
-      "card_color_scheme": "hch-scheme-default",
+      "card_color_scheme": "background-1",
       "card_border_thickness": 2,
       "card_border_opacity": 100,
       "card_corner_radius": 12,
@@ -114,7 +126,7 @@
       "collection_card_style": "standard",
       "collection_card_image_padding": 0,
       "collection_card_text_alignment": "left",
-      "collection_card_color_scheme": "hch-scheme-default",
+      "collection_card_color_scheme": "background-1",
       "collection_card_border_thickness": 2,
       "collection_card_border_opacity": 100,
       "collection_card_corner_radius": 12,
@@ -126,7 +138,7 @@
       "blog_card_style": "card",
       "blog_card_image_padding": 0,
       "blog_card_text_alignment": "left",
-      "blog_card_color_scheme": "hch-scheme-default",
+      "blog_card_color_scheme": "background-1",
       "blog_card_border_thickness": 2,
       "blog_card_border_opacity": 100,
       "blog_card_corner_radius": 12,
@@ -169,8 +181,8 @@
       "badge_position": "top right",
       "badge_corner_radius": 40,
 
-      "sale_badge_color_scheme": "hch-scheme-default",
-      "sold_out_badge_color_scheme": "hch-scheme-default",
+      "sale_badge_color_scheme": "accent-2",
+      "sold_out_badge_color_scheme": "background-1",
       "accent_icons": "text",
 
       "brand_headline": "",
@@ -198,7 +210,7 @@
       "show_vendor": false,
       "show_cart_note": true,
       "cart_drawer_collection": "frontpage",
-      "cart_color_scheme": "hch-scheme-default",
+      "cart_color_scheme": "background-1",
 
       "checkout_header_image": "shopify://shop_images/cover1.jpg",
       "checkout_logo_image": "shopify://shop_images/Picture3.png",
@@ -332,7 +344,7 @@
             "image"
           ],
           "settings": {
-            "color_scheme": "hch-scheme-default",
+            "color_scheme": "accent-1",
             "newsletter_enable": false,
             "newsletter_heading": "",
             "show_social": true,
@@ -350,14 +362,14 @@
           "settings": {
             "logo": "{{ shop.brand.logo }}",
             "logo_max_width": 70,
-            "color_scheme": "hch-scheme-default"
+            "color_scheme": "background-1"
           }
         },
         
         "main-password-footer": {
           "type": "main-password-footer",
           "settings": {
-            "color_scheme": "hch-scheme-default"
+            "color_scheme": "background-1"
           }
         }
       },
