@@ -3599,6 +3599,6 @@ details-disclosure > details {
 /* adjusting margins (exterior padding) of the "View All" button inside of the featured collection*/
 .collection__view-all .button {
     min-width: auto;
-    margin-top: 36px !important;
-    margin-bottom: 36px !important;
+    margin-top: 24px !important;
+    margin-bottom: 24px !important;
 }
