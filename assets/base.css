@@ -3597,6 +3597,9 @@ details-disclosure > details {
 }
 
 .collection__view-all .button {
-    padding-inline: 100px !important;!i;!;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
     min-width: auto;
 }
