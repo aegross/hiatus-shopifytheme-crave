@@ -9,6 +9,8 @@
  */
 {
   "current": {
+    "logo": "shopify://shop_images/HCH_Prelim_2_219177ee-b422-4aa7-97d4-6891d00a26d0.png",
+    "logo_width": 180,
     "favicon": "shopify://shop_images/HiatusCH_letterform_primary_png.png",
     "type_header_font": "madera_n6",
     "heading_scale": 120,
@@ -221,11 +223,11 @@
       },
       "background-2": {
         "settings": {
-          "background": "#FAF9E1",
+          "background": "#faf9e1",
           "background_gradient": "",
           "text": "#3d081b",
           "button": "#3d081b",
-          "button_label": "#FAF9E1",
+          "button_label": "#faf9e1",
           "secondary_button_label": "#3d081b",
           "shadow": "#3d081b"
         }
@@ -254,13 +256,13 @@
       },
       "inverse": {
         "settings": {
-          "background": "#F9E547",
+          "background": "#f9e547",
           "background_gradient": "",
-          "text": "#3D081B",
-          "button": "#3D081B",
-          "button_label": "#F9E547",
-          "secondary_button_label": "#3D081B",
-          "shadow": "#3D081B"
+          "text": "#3d081b",
+          "button": "#3d081b",
+          "button_label": "#f9e547",
+          "secondary_button_label": "#3d081b",
+          "shadow": "#3d081b"
         }
       }
     }

@@ -1,327 +1,339 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
-    "sections": {
-        "slideshow": {
-            "type": "slideshow",
-            "blocks": {
-                "slide_zKVfqn": {
-                    "type": "slide",
-                    "settings": {
-                        "image": "shopify:\/\/shop_images\/IMG_2864.jpg",
-                        "heading": "Thursday, December 4— Winter Mixology Workshop",
-                        "heading_size": "h1",
-                        "subheading": "Join us on Thursday, December 4th, for a Holiday Mixology Workshop with Nick and Alex from Firefly Bartending! Cocktails, recipe cards, and festive bites included. Whether you’re a holiday enthusiast or just looking to expand your cocktail repertoire, this workshop is designed to be fun, interactive, and delicious. No prior experience needed, and all tools are provided!",
-                        "button_label": "Get your tickets now!",
-                        "link": "https:\/\/www.eventbrite.com\/e\/holiday-mixology-workshop-tickets-1935960502979",
-                        "button_style_secondary": false,
-                        "box_align": "middle-center",
-                        "show_text_box": false,
-                        "text_alignment": "center",
-                        "image_overlay_opacity": 60,
-                        "color_scheme": "background-1",
-                        "text_alignment_mobile": "center"
-                    }
-                },
-                "slide_XAJh3a": {
-                    "type": "slide",
-                    "settings": {
-                        "image": "shopify:\/\/shop_images\/IMG_2378.jpg",
-                        "heading": "Saturday, December 13— Magic Show and Spirit Tasting",
-                        "heading_size": "h1",
-                        "subheading": "Join us on Saturday, December 13th, for an exciting night of mind-blowing magic and illusions from Magic Castle performers Raven and Migz! Our December 12th show sold out immediately— don't miss out a second time!",
-                        "button_label": "Get your tickets now!",
-                        "link": "https:\/\/ticketstripe.com\/events\/7866108104619767",
-                        "button_style_secondary": false,
-                        "box_align": "middle-center",
-                        "show_text_box": false,
-                        "text_alignment": "center",
-                        "image_overlay_opacity": 60,
-                        "color_scheme": "background-1",
-                        "text_alignment_mobile": "center"
-                    }
-                },
-                "slide_TK6LpF": {
-                    "type": "slide",
-                    "settings": {
-                        "image": "shopify:\/\/shop_images\/IMG20251031120807.jpg",
-                        "heading": "Apple Cider Whiskey Sour",
-                        "heading_size": "h1",
-                        "subheading": "Cocktail of the Month, available every Saturday in November!",
-                        "button_label": "Book a Tasting Today",
-                        "link": "shopify:\/\/products\/tasting",
-                        "button_style_secondary": false,
-                        "box_align": "middle-center",
-                        "show_text_box": false,
-                        "text_alignment": "center",
-                        "image_overlay_opacity": 60,
-                        "color_scheme": "background-1",
-                        "text_alignment_mobile": "center"
-                    }
-                },
-                "slide_MDQjaN": {
-                    "type": "slide",
-                    "settings": {
-                        "image": "shopify:\/\/shop_images\/IMG_1986.jpg",
-                        "heading": "Check out our holiday recipes!",
-                        "heading_size": "h1",
-                        "subheading": "Made with Hiatus Craft House spirits!",
-                        "button_label": "Recipes",
-                        "link": "shopify:\/\/pages\/recipes",
-                        "button_style_secondary": false,
-                        "box_align": "middle-center",
-                        "show_text_box": false,
-                        "text_alignment": "center",
-                        "image_overlay_opacity": 60,
-                        "color_scheme": "background-1",
-                        "text_alignment_mobile": "center"
-                    }
-                },
-                "slide-0": {
-                    "type": "slide",
-                    "settings": {
-                        "image": "shopify:\/\/shop_images\/Asset_3_1f18c9d4-f635-4fae-ad2b-0cbb39c0773f.png",
-                        "heading": "Join our Bottle Club for exclusive access!",
-                        "heading_size": "h1",
-                        "subheading": "Join by December 31, 2025 to become part of the Founders Circle and receive a custom Lollygaggers jersey and an invitation to the January Founders Party.",
-                        "button_label": "Join Now!",
-                        "link": "shopify:\/\/pages\/members",
-                        "button_style_secondary": false,
-                        "box_align": "bottom-center",
-                        "show_text_box": false,
-                        "text_alignment": "center",
-                        "image_overlay_opacity": 0,
-                        "color_scheme": "background-1",
-                        "text_alignment_mobile": "center"
-                    }
-                },
-                "slide_9DGtDz": {
-                    "type": "slide",
-                    "settings": {
-                        "image": "shopify:\/\/shop_images\/IMG_3757.jpg",
-                        "heading": "Schedule a private event for the holiday season!",
-                        "heading_size": "h1",
-                        "subheading": "",
-                        "button_label": "Contact Us Today",
-                        "link": "shopify:\/\/pages\/contact",
-                        "button_style_secondary": false,
-                        "box_align": "middle-center",
-                        "show_text_box": false,
-                        "text_alignment": "center",
-                        "image_overlay_opacity": 60,
-                        "color_scheme": "background-1",
-                        "text_alignment_mobile": "center"
-                    }
-                },
-                "slide_cjdkdq": {
-                    "type": "slide",
-                    "settings": {
-                        "image": "shopify:\/\/shop_images\/IMG_3955.jpg",
-                        "heading": "Gift a tasting for the holidays!",
-                        "heading_size": "h2",
-                        "subheading": "",
-                        "button_label": "Buy now",
-                        "link": "shopify:\/\/products\/spirit-tasting-gift-card",
-                        "button_style_secondary": false,
-                        "box_align": "middle-center",
-                        "show_text_box": false,
-                        "text_alignment": "center",
-                        "image_overlay_opacity": 60,
-                        "color_scheme": "background-1",
-                        "text_alignment_mobile": "center"
-                    }
-                },
-                "slide_PbQA9Y": {
-                    "type": "slide",
-                    "settings": {
-                        "image": "shopify:\/\/shop_images\/IMG_3963_1.jpg",
-                        "heading": "SALE: Pumpkin Spice Crème Liqueur",
-                        "heading_size": "h1",
-                        "subheading": "Experience the rich embrace of the season with our Pumpkin Spice Crème Liqueur. Crafted with the perfect blend of cinnamon, nutmeg and ginger, then kicked up a notch with Kentucky Bourbon Whiskey. It's a velvety indulgence that captures the cozy flavors of fall in every sip.",
-                        "button_label": "BUY NOW",
-                        "link": "shopify:\/\/products\/psl",
-                        "button_style_secondary": false,
-                        "box_align": "middle-center",
-                        "show_text_box": false,
-                        "text_alignment": "center",
-                        "image_overlay_opacity": 60,
-                        "color_scheme": "background-1",
-                        "text_alignment_mobile": "center"
-                    }
-                },
-                "e43c93ae-2d02-4689-9536-9c3b51643f65": {
-                    "type": "slide",
-                    "settings": {
-                        "image": "shopify:\/\/shop_images\/IMG_3153_ddbbc237-6894-4898-b9d9-8809ed5415bb.jpg",
-                        "heading": "Straight Bourbon Whiskey",
-                        "heading_size": "h2",
-                        "subheading": "Try our first two varieties of grain-to-bottle small-batch straight bourbon whiskey, mashed, fermented, distilled, aged, and bottled at our plant in Camarillo, California.",
-                        "button_label": "BUY NOW",
-                        "link": "shopify:\/\/collections\/frontpage",
-                        "button_style_secondary": false,
-                        "box_align": "middle-center",
-                        "show_text_box": false,
-                        "text_alignment": "center",
-                        "image_overlay_opacity": 50,
-                        "color_scheme": "background-1",
-                        "text_alignment_mobile": "center"
-                    }
-                },
-                "slide_jq6q7t": {
-                    "type": "slide",
-                    "settings": {
-                        "image": "shopify:\/\/shop_images\/20241014_115917.jpg",
-                        "heading": "Visit Our Tasting Room",
-                        "heading_size": "h2",
-                        "subheading": "",
-                        "button_label": "Book a Tasting Today",
-                        "link": "shopify:\/\/products\/tasting",
-                        "button_style_secondary": false,
-                        "box_align": "middle-center",
-                        "show_text_box": false,
-                        "text_alignment": "center",
-                        "image_overlay_opacity": 40,
-                        "color_scheme": "background-1",
-                        "text_alignment_mobile": "center"
-                    }
-                }
-            },
-            "block_order": [
-                "slide_zKVfqn",
-                "slide_XAJh3a",
-                "slide_TK6LpF",
-                "slide_MDQjaN",
-                "slide-0",
-                "slide_9DGtDz",
-                "slide_cjdkdq",
-                "slide_PbQA9Y",
-                "e43c93ae-2d02-4689-9536-9c3b51643f65",
-                "slide_jq6q7t"
-            ],
-            "settings": {
-                "layout": "grid",
-                "slide_height": "large",
-                "slider_visual": "dots",
-                "auto_rotate": true,
-                "change_slides_speed": 5,
-                "show_text_below": true,
-                "accessibility_info": "Slideshow about our brand"
-            }
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_zKVfqn": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/IMG_2864.jpg",
+            "image_overlay_opacity": 60,
+            "heading": "Thursday, December 4— Winter Mixology Workshop",
+            "heading_size": "h1",
+            "subheading": "Join us on Thursday, December 4th, for a Holiday Mixology Workshop with Nick and Alex from Firefly Bartending! Cocktails, recipe cards, and festive bites included. Whether you’re a holiday enthusiast or just looking to expand your cocktail repertoire, this workshop is designed to be fun, interactive, and delicious. No prior experience needed, and all tools are provided!",
+            "button_label": "Get your tickets now!",
+            "link": "https://www.eventbrite.com/e/holiday-mixology-workshop-tickets-1935960502979",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "accent-1"
+          }
         },
-        "featured_collection_dJQGf8": {
-            "type": "featured-collection",
-            "name": "t:sections.featured-collection.presets.name",
-            "settings": {
-                "title": "Shop Our Spirits",
-                "heading_size": "h1",
-                "description": "",
-                "show_description": false,
-                "description_style": "body",
-                "collection": "frontpage",
-                "products_to_show": 4,
-                "columns_desktop": 4,
-                "full_width": false,
-                "show_view_all": true,
-                "view_all_style": "solid",
-                "enable_desktop_slider": false,
-                "color_scheme": "background-1",
-                "image_ratio": "adapt",
-                "show_secondary_image": false,
-                "show_vendor": false,
-                "show_rating": false,
-                "enable_quick_add": false,
-                "columns_mobile": "2",
-                "swipe_on_mobile": false,
-                "padding_top": 36,
-                "padding_bottom": 36
-            }
+        "slide_XAJh3a": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/IMG_2378.jpg",
+            "image_overlay_opacity": 60,
+            "heading": "Saturday, December 13— Magic Show and Spirit Tasting",
+            "heading_size": "h1",
+            "subheading": "Join us on Saturday, December 13th, for an exciting night of mind-blowing magic and illusions from Magic Castle performers Raven and Migz! Our December 12th show sold out immediately— don't miss out a second time!",
+            "button_label": "Get your tickets now!",
+            "link": "https://ticketstripe.com/events/7866108104619767",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "accent-1"
+          }
         },
-        "newsletter": {
-            "type": "newsletter",
-            "blocks": {
-                "heading": {
-                    "type": "heading",
-                    "settings": {
-                        "heading": "Not ready to join the Bottle Club? Subscribe to our Newsletter for the latest news and events!",
-                        "heading_size": "h2"
-                    }
-                },
-                "email_form": {
-                    "type": "email_form",
-                    "settings": {}
-                }
-            },
-            "block_order": [
-                "heading",
-                "email_form"
-            ],
-            "settings": {
-                "color_scheme": "background-2",
-                "full_width": false,
-                "padding_top": 36,
-                "padding_bottom": 28
-            }
+        "slide_TK6LpF": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/IMG20251031120807.jpg",
+            "image_overlay_opacity": 60,
+            "heading": "Apple Cider Whiskey Sour",
+            "heading_size": "h1",
+            "subheading": "Cocktail of the Month, available every Saturday in November!",
+            "button_label": "Book a Tasting Today",
+            "link": "shopify://products/tasting",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "accent-1"
+          }
         },
-        "slideshow_zaE4pL": {
-            "type": "slideshow",
-            "blocks": {
-                "slide_zkbHPa": {
-                    "type": "slide",
-                    "settings": {
-                        "image": "shopify:\/\/shop_images\/IMG_1986.jpg",
-                        "heading": "Holiday Recipes",
-                        "heading_size": "h1",
-                        "subheading": "Celebrate the holidays with recipes made with Hiatus spirits!",
-                        "button_label": "Recipes",
-                        "link": "shopify:\/\/pages\/recipes",
-                        "button_style_secondary": false,
-                        "box_align": "middle-center",
-                        "show_text_box": false,
-                        "text_alignment": "center",
-                        "image_overlay_opacity": 50,
-                        "color_scheme": "background-1",
-                        "text_alignment_mobile": "center"
-                    }
-                },
-                "slide_QyELAW": {
-                    "type": "slide",
-                    "disabled": true,
-                    "settings": {
-                        "image": "shopify:\/\/shop_images\/IMG_2254.jpg",
-                        "heading": "Hiatus Craft House Recipes",
-                        "heading_size": "h1",
-                        "subheading": "Featured: Our Blueberry French 75, made with our Blossom Blush Gin and Blueberry Liqueur!",
-                        "button_label": "Check out the recipes here!",
-                        "link": "shopify:\/\/pages\/recipes",
-                        "button_style_secondary": false,
-                        "box_align": "middle-center",
-                        "show_text_box": false,
-                        "text_alignment": "center",
-                        "image_overlay_opacity": 30,
-                        "color_scheme": "background-1",
-                        "text_alignment_mobile": "center"
-                    }
-                }
-            },
-            "block_order": [
-                "slide_zkbHPa",
-                "slide_QyELAW"
-            ],
-            "disabled": true,
-            "name": "HIDDEN Slideshow (for Excess slides)",
-            "settings": {
-                "layout": "grid",
-                "slide_height": "large",
-                "slider_visual": "dots",
-                "auto_rotate": true,
-                "change_slides_speed": 5,
-                "show_text_below": true,
-                "accessibility_info": "Slideshow about our brand"
-            }
+        "slide_MDQjaN": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/IMG_1986.jpg",
+            "image_overlay_opacity": 60,
+            "heading": "Check out our holiday recipes!",
+            "heading_size": "h1",
+            "subheading": "Made with Hiatus Craft House spirits!",
+            "button_label": "Recipes",
+            "link": "shopify://pages/recipes",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "accent-1"
+          }
+        },
+        "slide-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Asset_3_1f18c9d4-f635-4fae-ad2b-0cbb39c0773f.png",
+            "image_overlay_opacity": 0,
+            "heading": "Join our Bottle Club for exclusive access!",
+            "heading_size": "h1",
+            "subheading": "Join by December 31, 2025 to become part of the Founders Circle and receive a custom Lollygaggers jersey and an invitation to the January Founders Party.",
+            "button_label": "Join Now!",
+            "link": "shopify://pages/members",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "bottom-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "accent-1"
+          }
+        },
+        "slide_9DGtDz": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/IMG_3757.jpg",
+            "image_overlay_opacity": 60,
+            "heading": "Schedule a private event for the holiday season!",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "Contact Us Today",
+            "link": "shopify://pages/contact",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "accent-1"
+          }
+        },
+        "slide_cjdkdq": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/IMG_3955.jpg",
+            "image_overlay_opacity": 60,
+            "heading": "Gift a tasting for the holidays!",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "Buy now",
+            "link": "shopify://products/spirit-tasting-gift-card",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "accent-1"
+          }
+        },
+        "slide_PbQA9Y": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/IMG_3963_1.jpg",
+            "image_overlay_opacity": 60,
+            "heading": "SALE: Pumpkin Spice Crème Liqueur",
+            "heading_size": "h1",
+            "subheading": "Experience the rich embrace of the season with our Pumpkin Spice Crème Liqueur. Crafted with the perfect blend of cinnamon, nutmeg and ginger, then kicked up a notch with Kentucky Bourbon Whiskey. It's a velvety indulgence that captures the cozy flavors of fall in every sip.",
+            "button_label": "BUY NOW",
+            "link": "shopify://products/psl",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "accent-1"
+          }
+        },
+        "e43c93ae-2d02-4689-9536-9c3b51643f65": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/IMG_3153_ddbbc237-6894-4898-b9d9-8809ed5415bb.jpg",
+            "image_overlay_opacity": 50,
+            "heading": "Straight Bourbon Whiskey",
+            "heading_size": "h2",
+            "subheading": "Try our first two varieties of grain-to-bottle small-batch straight bourbon whiskey, mashed, fermented, distilled, aged, and bottled at our plant in Camarillo, California.",
+            "button_label": "BUY NOW",
+            "link": "shopify://collections/frontpage",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "accent-1"
+          }
+        },
+        "slide_jq6q7t": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/20241014_115917.jpg",
+            "image_overlay_opacity": 40,
+            "heading": "Visit Our Tasting Room",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "Book a Tasting Today",
+            "link": "shopify://products/tasting",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "accent-1"
+          }
         }
+      },
+      "block_order": [
+        "slide_zKVfqn",
+        "slide_XAJh3a",
+        "slide_TK6LpF",
+        "slide_MDQjaN",
+        "slide-0",
+        "slide_9DGtDz",
+        "slide_cjdkdq",
+        "slide_PbQA9Y",
+        "e43c93ae-2d02-4689-9536-9c3b51643f65",
+        "slide_jq6q7t"
+      ],
+      "settings": {
+        "layout": "grid",
+        "slide_height": "large",
+        "slider_visual": "dots",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
     },
-    "order": [
-        "slideshow",
-        "featured_collection_dJQGf8",
-        "newsletter",
-        "slideshow_zaE4pL"
-    ]
+    "featured_collection_dJQGf8": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "collection": "frontpage",
+        "products_to_show": 4,
+        "title": "Shop Our Spirits",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "columns_desktop": 4,
+        "enable_desktop_slider": false,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Not ready to join the Bottle Club? Subscribe to our Newsletter for the latest news and events!",
+            "heading_size": "h2"
+          }
+        },
+        "email_form": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading",
+        "email_form"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "full_width": false,
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "slideshow_zaE4pL": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_zkbHPa": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/IMG_1986.jpg",
+            "image_overlay_opacity": 50,
+            "heading": "Holiday Recipes",
+            "heading_size": "h1",
+            "subheading": "Celebrate the holidays with recipes made with Hiatus spirits!",
+            "button_label": "Recipes",
+            "link": "shopify://pages/recipes",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "background-1"
+          }
+        },
+        "slide_QyELAW": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/IMG_2254.jpg",
+            "image_overlay_opacity": 30,
+            "heading": "Hiatus Craft House Recipes",
+            "heading_size": "h1",
+            "subheading": "Featured: Our Blueberry French 75, made with our Blossom Blush Gin and Blueberry Liqueur!",
+            "button_label": "Check out the recipes here!",
+            "link": "shopify://pages/recipes",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "background-1"
+          }
+        }
+      },
+      "block_order": [
+        "slide_zkbHPa",
+        "slide_QyELAW"
+      ],
+      "disabled": true,
+      "name": "HIDDEN Slideshow (for Excess slides)",
+      "settings": {
+        "layout": "grid",
+        "slide_height": "large",
+        "slider_visual": "dots",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "featured_collection_dJQGf8",
+    "newsletter",
+    "slideshow_zaE4pL"
+  ]
 }
