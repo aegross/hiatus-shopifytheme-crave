@@ -1,1 +1,379 @@
-{"sections":{"blocks_7B39py":{"type":"_blocks","blocks":{"ai_gen_block_5005125_biqrth":{"type":"ai_gen_block_5005125","settings":{"image":"shopify:\/\/shop_images\/Asset_3_1f18c9d4-f635-4fae-ad2b-0cbb39c0773f.png","image_opacity":100,"overlay_color":"#000000","overlay_opacity":30,"heading":"<p>Lollygaggers Bottle Club<\/p>","subtext":"<p>An <strong>exclusive membership <\/strong>that celebrates the craft and spirit of Hiatus. Enjoy small-batch bourbon, rye, single malt, vodka, gin, agave, rum, crèmes, and liqueurs — each capturing the laid-back charm of Camarillo’s coastal hills and the dedication poured into every bottle. <strong>Experience the heart of our distillery, one sip at a time. <\/strong>Check out more details below!<\/p>","text_alignment":"center","content_max_width":800,"heading_size":48,"heading_color":"#faf9e1","heading_spacing":16,"subtext_size":18,"subtext_color":"#faf9e1","padding_top":100,"padding_bottom":100,"padding_horizontal":20},"blocks":{}}},"block_order":["ai_gen_block_5005125_biqrth"],"name":"Banner with overlay","settings":{}},"multicolumn_AyYccf":{"type":"multicolumn","blocks":{"column_4eMYpt":{"type":"column","settings":{"title":"Free Membership with Subscription","text":"<p>There’s no fee to join the Lollygagger Club -- <strong>membership is free with with a qualifying active subscription.<\/strong><\/p><ul><li>Subscribe to at least one bottle per quarter (four per year) to keep your membership active.<\/li><li>Up to 25% off<strong> ALL<\/strong> bottles, merchandise, and Hiatus events.<\/li><li>One weekly <strong>complimentary tasting <\/strong>for you and a guest.<\/li><\/ul>","link_label":"","link":""}},"column_34b69K":{"type":"column","settings":{"title":"More Member Benefits","text":"<p><strong>Exclusive Access<\/strong> to member-only events, distillery workshops, tours and tasting panels giving you a voice  in product development<\/p><p><strong>First Access<\/strong> to new products including  single-barrel bottlings.<\/p><p><strong>Earn Loyalty Points<\/strong> on all purchases. Get <strong>5 points for every $1 spent<\/strong>, with bonus points for referrals, birthdays, and social shares. Redeem your points for discounts on future purchases.<\/p>","link_label":"","link":""}},"column_rGUKTd":{"type":"column","settings":{"title":"Founding Members","text":"<p><strong>Join by December 31, 2025 <\/strong>to become part of the Founders Circle. Founders receive a <strong>custom Lollygaggers jersey<\/strong> and access to the <strong>Founders Party in early 2025<\/strong>.<\/p>","link_label":"","link":""}}},"block_order":["column_4eMYpt","column_34b69K","column_rGUKTd"],"custom_css":[],"name":"Lollygagger Perks","settings":{"title":"Lollygagger Perks","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":3,"column_alignment":"left","background_style":"primary","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"1","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"main":{"type":"main-product","blocks":{"vendor":{"type":"text","settings":{"text":"{{ product.vendor }}","text_style":"uppercase"}},"title":{"type":"title","settings":{}},"text_yFiWhK":{"type":"text","disabled":true,"settings":{"text":"Add to cart & subscribe to any spirit to activate your membership!  Select your jersey style, size and first or last name.","text_style":"body"}},"description":{"type":"description","settings":{}},"price":{"type":"price","settings":{}},"variant_picker":{"type":"variant_picker","settings":{"picker_type":"button"}},"quantity_selector":{"type":"quantity_selector","settings":{}},"buy_buttons":{"type":"buy_buttons","settings":{"show_dynamic_checkout":true}},"collapsible-row-0":{"type":"collapsible_tab","disabled":true,"settings":{"heading":"Ingredients","icon":"apple","content":"","page":""}},"collapsible-row-1":{"type":"collapsible_tab","disabled":true,"settings":{"heading":"Nutritional info","icon":"heart","content":"","page":""}},"collapsible-row-2":{"type":"collapsible_tab","disabled":true,"settings":{"heading":"Shipping","icon":"truck","content":"","page":""}},"share":{"type":"share","settings":{"share_label":"Share"}}},"block_order":["vendor","title","text_yFiWhK","description","price","variant_picker","quantity_selector","buy_buttons","collapsible-row-0","collapsible-row-1","collapsible-row-2","share"],"settings":{"enable_sticky_info":true,"media_position":"left","gallery_layout":"thumbnail_slider","media_size":"small","mobile_thumbnails":"hide","hide_variants":false,"enable_video_looping":false,"padding_top":36,"padding_bottom":16}},"17619962056844fcf5":{"type":"_blocks","blocks":{"ai_gen_block_0150230_FJMFCY":{"type":"ai_gen_block_0150230","settings":{"collection":"frontpage","products_to_show":4,"heading":"Subscribe to any spirit to become an active member!","description":"Pick out which any our spirits you would like to subscribe to quarterly. Don't worry— you can change your subscription bottle(s) at any time!","heading_alignment":"center","products_per_row":4,"products_per_row_mobile":"2","grid_gap":20,"show_view_all":true,"button_text":"View all spirits","background_color":"#91850f","heading_color":"#faf9e1","text_color":"#3d081b","card_background":"#faf9e1","button_background":"#3d081b","button_hover_background":"#000000","button_text_color":"#faf9e1","heading_font":"jost_n5","heading_size":36,"card_border_radius":12,"card_border_thickness":2,"card_border_color":"#3d081b","card_shadow_opacity":10,"card_shadow_vertical":4,"card_shadow_blur":10,"button_border_radius":20},"blocks":{}}},"block_order":["ai_gen_block_0150230_FJMFCY"],"settings":{}},"collapsible_content_FMkckc":{"type":"collapsible-content","blocks":{"collapsible_row_LhzFKb":{"type":"collapsible_row","settings":{"heading":"How do I join?","icon":"star","row_content":"<p>To activate your membership add the <strong>Club Membership <\/strong>product to your cart and continue shopping to<strong> subscribe to at least one eligible <\/strong><a href=\"https:\/\/hiatuscrafthouse.com\/collections\/frontpage\"><strong>spirit<\/strong><\/a><strong>!<\/strong><\/p>","page":""}},"collapsible_row_Uni9eH":{"type":"collapsible_row","settings":{"heading":"How do subscriptions work?","icon":"star","row_content":"<p>Subscribe to your spirit of choice to unlock your Lollygagger Membership. Members can access their online portal at any time to switch their subscription spirit — allowing you to try something new each quarter or stick with your favorite all year long.<\/p>","page":""}},"collapsible_row_Th6jcy":{"type":"collapsible_row","settings":{"heading":"How much does the bottle club cost?","icon":"star","row_content":"<p>The Bottle Club is <strong>free to join<\/strong> — there are no sign-up or membership fees. Simply make your quarterly (four per year) bottle purchases to keep your membership active and unlock all member perks. Members also enjoy exclusive pricing on all spirits, with discounts of up to 25%.<\/p>","page":""}},"collapsible_row_R9cyrV":{"type":"collapsible_row","settings":{"heading":"How do I get my bottles?","icon":"star","row_content":"<p>Bottles are available for shipping in California or local pickup. Shipping is offered at a flat rate of $25. We encourage Lollygaggers to join us for our quarterly pickup parties — a fun chance to mingle and enjoy light bites. If you can’t make it, additional pickup times can be arranged after your purchase.<\/p>","page":""}},"collapsible_row_axF64W":{"type":"collapsible_row","settings":{"heading":"Can you ship out of state?","icon":"star","row_content":"<p>Unfortunately, we’re not able to ship spirits out of state due to current laws and regulations. However, we always welcome out-of-state visitors to stop by the distillery for a tasting when they’re in town!<\/p>","page":""}},"collapsible_row_Xqwxxd":{"type":"collapsible_row","settings":{"heading":"How much do I benefit?","icon":"star","row_content":"<p>You’ll enjoy plenty of perks as a member! Join before <strong>December 31st<\/strong> to unlock:<\/p><ul><li>A personalized <strong>Lollygaggers jersey!<\/strong><\/li><li>An <strong>invite to our Founders Party.<\/strong><\/li><li>Up to <strong>25% off<\/strong> bottles, merchandise, and events.<\/li><li>One weekly <strong>complimentary tasting <\/strong>for you and a guest.<\/li><li><strong>Exclusive Access<\/strong> to member-only events, distillery workshops, tours and tasting panels giving you a voice  in product development.<\/li><li><strong>First Access<\/strong> to new products including  single-barrel bottlings.<\/li><li><strong>Earn Loyalty Points<\/strong> on all purchases.<\/li><\/ul>","page":""}},"collapsible_row_YAYWny":{"type":"collapsible_row","settings":{"heading":"How do I earn and redeem loyalty points?","icon":"star","row_content":"<p>Lollygaggers earn<strong> 5 points for every $1<\/strong> spent with us. You can also earn extra points through friend referrals, social media engagement, and birthday bonuses. Once you’ve accumulated points, you can redeem them for discounts on future purchases.<\/p>","page":""}},"collapsible_row_NhFGNw":{"type":"collapsible_row","settings":{"heading":"Can I gift a membership?","icon":"star","row_content":"<p>Yes! To gift a membership:<\/p><ol><li>Add the Club Membership to your cart, then choose an item to subscribe to and add it to your cart.<br\/><\/li><li>During checkout, enter the <strong>recipient’s contact information <\/strong>instead of your own.<br\/><\/li><li>Complete the purchase using <strong>your payment details<\/strong>.<br\/><br\/>Once the subscription is created, the recipient will receive a confirmation email and can manage their subscription directly through their own account.<\/li><\/ol>","page":""}},"collapsible_row_Y3egRt":{"type":"collapsible_row","settings":{"heading":"How do I cancel the membership?","icon":"star","row_content":"<p>We’re sad to see you go! Cancellations can be made by emailing us or by managing your subscription directly through your account.<\/p><p>Please note: All member benefits and loyalty points will end at the time of cancellation. We ask members to commit for one year when joining, but we understand things come up.<\/p><p><strong>If you cancel before your fourth bottle a $30 cancellation fee will apply.<\/strong><\/p>","page":""}}},"block_order":["collapsible_row_LhzFKb","collapsible_row_Uni9eH","collapsible_row_Th6jcy","collapsible_row_R9cyrV","collapsible_row_axF64W","collapsible_row_Xqwxxd","collapsible_row_YAYWny","collapsible_row_NhFGNw","collapsible_row_Y3egRt"],"name":"FAQ","settings":{"caption":"","heading":"Frequently Asked Questions","heading_size":"h1","heading_alignment":"center","layout":"none","color_scheme":"background-1","container_color_scheme":"background-2","open_first_collapsible_row":true,"image_ratio":"adapt","desktop_layout":"image_second","padding_top":36,"padding_bottom":36}},"product-recommendations":{"type":"product-recommendations","disabled":true,"settings":{"heading":"Subscribe to any of our spirits to become an active member!","heading_size":"h2","products_to_show":4,"columns_desktop":4,"color_scheme":"background-1","image_ratio":"adapt","show_secondary_image":false,"show_vendor":false,"show_rating":false,"columns_mobile":"2","padding_top":32,"padding_bottom":64}}},"order":["blocks_7B39py","multicolumn_AyYccf","main","17619962056844fcf5","collapsible_content_FMkckc","product-recommendations"]}
+{
+    "sections": {
+        "blocks_7B39py": {
+            "type": "_blocks",
+            "blocks": {
+                "ai_gen_block_5005125_biqrth": {
+                    "type": "ai_gen_block_5005125",
+                    "settings": {
+                        "image": "shopify:\/\/shop_images\/Asset_3_1f18c9d4-f635-4fae-ad2b-0cbb39c0773f.png",
+                        "image_opacity": 100,
+                        "overlay_color": "#000000",
+                        "overlay_opacity": 30,
+                        "heading": "<p>Lollygaggers Bottle Club<\/p>",
+                        "subtext": "<p>An <strong>exclusive membership <\/strong>that celebrates the craft and spirit of Hiatus. Enjoy small-batch bourbon, rye, single malt, vodka, gin, agave, rum, crèmes, and liqueurs — each capturing the laid-back charm of Camarillo’s coastal hills and the dedication poured into every bottle. <strong>Experience the heart of our distillery, one sip at a time. <\/strong>Check out more details below!<\/p>",
+                        "text_alignment": "center",
+                        "content_max_width": 800,
+                        "heading_size": 48,
+                        "heading_color": "#faf9e1",
+                        "heading_spacing": 16,
+                        "subtext_size": 18,
+                        "subtext_color": "#faf9e1",
+                        "padding_top": 100,
+                        "padding_bottom": 100,
+                        "padding_horizontal": 20
+                    },
+                    "blocks": {}
+                }
+            },
+            "block_order": [
+                "ai_gen_block_5005125_biqrth"
+            ],
+            "name": "Banner with overlay",
+            "settings": {}
+        },
+        "multicolumn_AyYccf": {
+            "type": "multicolumn",
+            "blocks": {
+                "column_4eMYpt": {
+                    "type": "column",
+                    "settings": {
+                        "title": "Free Membership with Subscription",
+                        "text": "<p>There’s no fee to join the Lollygagger Club -- <strong>membership is free with with a qualifying active subscription.<\/strong><\/p><ul><li>Subscribe to at least one bottle per quarter (four per year) to keep your membership active.<\/li><li>Up to 25% off<strong> ALL<\/strong> bottles, merchandise, and Hiatus events.<\/li><li>One weekly <strong>complimentary tasting <\/strong>for you and a guest.<\/li><\/ul>",
+                        "link_label": "",
+                        "link": ""
+                    }
+                },
+                "column_34b69K": {
+                    "type": "column",
+                    "settings": {
+                        "title": "More Member Benefits",
+                        "text": "<p><strong>Exclusive Access<\/strong> to member-only events, distillery workshops, tours and tasting panels giving you a voice  in product development<\/p><p><strong>First Access<\/strong> to new products including  single-barrel bottlings.<\/p><p><strong>Earn Loyalty Points<\/strong> on all purchases. Get <strong>5 points for every $1 spent<\/strong>, with bonus points for referrals, birthdays, and social shares. Redeem your points for discounts on future purchases.<\/p>",
+                        "link_label": "",
+                        "link": ""
+                    }
+                },
+                "column_rGUKTd": {
+                    "type": "column",
+                    "settings": {
+                        "title": "Founding Members",
+                        "text": "<p><strong>Join by December 31, 2025 <\/strong>to become part of the Founders Circle. Founders receive a <strong>custom Lollygaggers jersey<\/strong> and access to the <strong>Founders Party in early 2025<\/strong>.<\/p>",
+                        "link_label": "",
+                        "link": ""
+                    }
+                }
+            },
+            "block_order": [
+                "column_4eMYpt",
+                "column_34b69K",
+                "column_rGUKTd"
+            ],
+            "custom_css": [],
+            "name": "Lollygagger Perks",
+            "settings": {
+                "title": "Lollygagger Perks",
+                "heading_size": "h1",
+                "image_width": "full",
+                "image_ratio": "adapt",
+                "columns_desktop": 3,
+                "column_alignment": "left",
+                "background_style": "primary",
+                "button_label": "",
+                "button_link": "",
+                "color_scheme": "background-1",
+                "columns_mobile": "1",
+                "swipe_on_mobile": false,
+                "padding_top": 36,
+                "padding_bottom": 36
+            }
+        },
+        "main": {
+            "type": "main-product",
+            "blocks": {
+                "vendor": {
+                    "type": "text",
+                    "settings": {
+                        "text": "{{ product.vendor }}",
+                        "text_style": "uppercase"
+                    }
+                },
+                "title": {
+                    "type": "title",
+                    "settings": {}
+                },
+                "text_yFiWhK": {
+                    "type": "text",
+                    "disabled": true,
+                    "settings": {
+                        "text": "Add to cart & subscribe to any spirit to activate your membership!  Select your jersey style, size and first or last name.",
+                        "text_style": "body"
+                    }
+                },
+                "description": {
+                    "type": "description",
+                    "settings": {}
+                },
+                "price": {
+                    "type": "price",
+                    "settings": {}
+                },
+                "variant_picker": {
+                    "type": "variant_picker",
+                    "settings": {
+                        "picker_type": "button"
+                    }
+                },
+                "quantity_selector": {
+                    "type": "quantity_selector",
+                    "settings": {}
+                },
+                "buy_buttons": {
+                    "type": "buy_buttons",
+                    "settings": {
+                        "show_dynamic_checkout": true
+                    }
+                },
+                "collapsible-row-0": {
+                    "type": "collapsible_tab",
+                    "disabled": true,
+                    "settings": {
+                        "heading": "Ingredients",
+                        "icon": "apple",
+                        "content": "",
+                        "page": ""
+                    }
+                },
+                "collapsible-row-1": {
+                    "type": "collapsible_tab",
+                    "disabled": true,
+                    "settings": {
+                        "heading": "Nutritional info",
+                        "icon": "heart",
+                        "content": "",
+                        "page": ""
+                    }
+                },
+                "collapsible-row-2": {
+                    "type": "collapsible_tab",
+                    "disabled": true,
+                    "settings": {
+                        "heading": "Shipping",
+                        "icon": "truck",
+                        "content": "",
+                        "page": ""
+                    }
+                },
+                "share": {
+                    "type": "share",
+                    "settings": {
+                        "share_label": "Share"
+                    }
+                }
+            },
+            "block_order": [
+                "vendor",
+                "title",
+                "text_yFiWhK",
+                "description",
+                "price",
+                "variant_picker",
+                "quantity_selector",
+                "buy_buttons",
+                "collapsible-row-0",
+                "collapsible-row-1",
+                "collapsible-row-2",
+                "share"
+            ],
+            "settings": {
+                "enable_sticky_info": true,
+                "media_position": "left",
+                "gallery_layout": "thumbnail_slider",
+                "media_size": "small",
+                "mobile_thumbnails": "hide",
+                "hide_variants": false,
+                "enable_video_looping": false,
+                "padding_top": 36,
+                "padding_bottom": 16
+            }
+        },
+        "17619962056844fcf5": {
+            "type": "_blocks",
+            "blocks": {
+                "ai_gen_block_0150230_FJMFCY": {
+                    "type": "ai_gen_block_0150230",
+                    "settings": {
+                        "collection": "frontpage",
+                        "products_to_show": 4,
+                        "heading": "Subscribe to any spirit to become an active member!",
+                        "description": "Pick out which any our spirits you would like to subscribe to quarterly. Don't worry— you can change your subscription bottle(s) at any time!",
+                        "heading_alignment": "center",
+                        "products_per_row": 4,
+                        "products_per_row_mobile": "2",
+                        "grid_gap": 20,
+                        "show_view_all": true,
+                        "button_text": "View all spirits",
+                        "background_color": "#91850f",
+                        "heading_color": "#faf9e1",
+                        "text_color": "#3d081b",
+                        "card_background": "#faf9e1",
+                        "button_background": "#3d081b",
+                        "button_hover_background": "#000000",
+                        "button_text_color": "#faf9e1",
+                        "heading_font": "jost_n5",
+                        "heading_size": 36,
+                        "card_border_radius": 12,
+                        "card_border_thickness": 2,
+                        "card_border_color": "#3d081b",
+                        "card_shadow_opacity": 10,
+                        "card_shadow_vertical": 4,
+                        "card_shadow_blur": 10,
+                        "button_border_radius": 20
+                    },
+                    "blocks": {}
+                }
+            },
+            "block_order": [
+                "ai_gen_block_0150230_FJMFCY"
+            ],
+            "settings": {}
+        },
+        "collapsible_content_FMkckc": {
+            "type": "collapsible-content",
+            "blocks": {
+                "collapsible_row_LhzFKb": {
+                    "type": "collapsible_row",
+                    "settings": {
+                        "heading": "How do I join?",
+                        "icon": "star",
+                        "row_content": "<p>To activate your membership add the <strong>Club Membership <\/strong>product to your cart and continue shopping to<strong> subscribe to at least one eligible <\/strong><a href=\"https:\/\/hiatuscrafthouse.com\/collections\/frontpage\"><strong>spirit<\/strong><\/a><strong>!<\/strong><\/p>",
+                        "page": ""
+                    }
+                },
+                "collapsible_row_Uni9eH": {
+                    "type": "collapsible_row",
+                    "settings": {
+                        "heading": "How do subscriptions work?",
+                        "icon": "star",
+                        "row_content": "<p>Subscribe to your spirit of choice to unlock your Lollygagger Membership. Members can access their online portal at any time to switch their subscription spirit — allowing you to try something new each quarter or stick with your favorite all year long.<\/p>",
+                        "page": ""
+                    }
+                },
+                "collapsible_row_Th6jcy": {
+                    "type": "collapsible_row",
+                    "settings": {
+                        "heading": "How much does the bottle club cost?",
+                        "icon": "star",
+                        "row_content": "<p>The Bottle Club is <strong>free to join<\/strong> — there are no sign-up or membership fees. Simply make your quarterly (four per year) bottle purchases to keep your membership active and unlock all member perks. Members also enjoy exclusive pricing on all spirits, with discounts of up to 25%.<\/p>",
+                        "page": ""
+                    }
+                },
+                "collapsible_row_R9cyrV": {
+                    "type": "collapsible_row",
+                    "settings": {
+                        "heading": "How do I get my bottles?",
+                        "icon": "star",
+                        "row_content": "<p>Bottles are available for shipping in California or local pickup. Shipping is offered at a flat rate of $25. We encourage Lollygaggers to join us for our quarterly pickup parties — a fun chance to mingle and enjoy light bites. If you can’t make it, additional pickup times can be arranged after your purchase.<\/p>",
+                        "page": ""
+                    }
+                },
+                "collapsible_row_axF64W": {
+                    "type": "collapsible_row",
+                    "settings": {
+                        "heading": "Can you ship out of state?",
+                        "icon": "star",
+                        "row_content": "<p>Unfortunately, we’re not able to ship spirits out of state due to current laws and regulations. However, we always welcome out-of-state visitors to stop by the distillery for a tasting when they’re in town!<\/p>",
+                        "page": ""
+                    }
+                },
+                "collapsible_row_Xqwxxd": {
+                    "type": "collapsible_row",
+                    "settings": {
+                        "heading": "How much do I benefit?",
+                        "icon": "star",
+                        "row_content": "<p>You’ll enjoy plenty of perks as a member! Join before <strong>December 31st<\/strong> to unlock:<\/p><ul><li>A personalized <strong>Lollygaggers jersey!<\/strong><\/li><li>An <strong>invite to our Founders Party.<\/strong><\/li><li>Up to <strong>25% off<\/strong> bottles, merchandise, and events.<\/li><li>One weekly <strong>complimentary tasting <\/strong>for you and a guest.<\/li><li><strong>Exclusive Access<\/strong> to member-only events, distillery workshops, tours and tasting panels giving you a voice  in product development.<\/li><li><strong>First Access<\/strong> to new products including  single-barrel bottlings.<\/li><li><strong>Earn Loyalty Points<\/strong> on all purchases.<\/li><\/ul>",
+                        "page": ""
+                    }
+                },
+                "collapsible_row_YAYWny": {
+                    "type": "collapsible_row",
+                    "settings": {
+                        "heading": "How do I earn and redeem loyalty points?",
+                        "icon": "star",
+                        "row_content": "<p>Lollygaggers earn<strong> 5 points for every $1<\/strong> spent with us. You can also earn extra points through friend referrals, social media engagement, and birthday bonuses. Once you’ve accumulated points, you can redeem them for discounts on future purchases.<\/p>",
+                        "page": ""
+                    }
+                },
+                "collapsible_row_NhFGNw": {
+                    "type": "collapsible_row",
+                    "settings": {
+                        "heading": "Can I gift a membership?",
+                        "icon": "star",
+                        "row_content": "<p>Yes! To gift a membership:<\/p><ol><li>Add the Club Membership to your cart, then choose an item to subscribe to and add it to your cart.<br\/><\/li><li>During checkout, enter the <strong>recipient’s contact information <\/strong>instead of your own.<br\/><\/li><li>Complete the purchase using <strong>your payment details<\/strong>.<br\/><br\/>Once the subscription is created, the recipient will receive a confirmation email and can manage their subscription directly through their own account.<\/li><\/ol>",
+                        "page": ""
+                    }
+                },
+                "collapsible_row_Y3egRt": {
+                    "type": "collapsible_row",
+                    "settings": {
+                        "heading": "How do I cancel the membership?",
+                        "icon": "star",
+                        "row_content": "<p>We’re sad to see you go! Cancellations can be made by emailing us or by managing your subscription directly through your account.<\/p><p>Please note: All member benefits and loyalty points will end at the time of cancellation. We ask members to commit for one year when joining, but we understand things come up.<\/p><p><strong>If you cancel before your fourth bottle a $30 cancellation fee will apply.<\/strong><\/p>",
+                        "page": ""
+                    }
+                }
+            },
+            "block_order": [
+                "collapsible_row_LhzFKb",
+                "collapsible_row_Uni9eH",
+                "collapsible_row_Th6jcy",
+                "collapsible_row_R9cyrV",
+                "collapsible_row_axF64W",
+                "collapsible_row_Xqwxxd",
+                "collapsible_row_YAYWny",
+                "collapsible_row_NhFGNw",
+                "collapsible_row_Y3egRt"
+            ],
+            "name": "FAQ",
+            "settings": {
+                "caption": "",
+                "heading": "Frequently Asked Questions",
+                "heading_size": "h1",
+                "heading_alignment": "center",
+                "layout": "none",
+                "color_scheme": "background-1",
+                "container_color_scheme": "background-2",
+                "open_first_collapsible_row": true,
+                "image_ratio": "adapt",
+                "desktop_layout": "image_second",
+                "padding_top": 36,
+                "padding_bottom": 36
+            }
+        },
+        "product-recommendations": {
+            "type": "product-recommendations",
+            "disabled": true,
+            "settings": {
+                "heading": "Subscribe to any of our spirits to become an active member!",
+                "heading_size": "h2",
+                "products_to_show": 4,
+                "columns_desktop": 4,
+                "color_scheme": "background-1",
+                "image_ratio": "adapt",
+                "show_secondary_image": false,
+                "show_vendor": false,
+                "show_rating": false,
+                "columns_mobile": "2",
+                "padding_top": 32,
+                "padding_bottom": 64
+            }
+        }
+    },
+    "order": [
+        "blocks_7B39py",
+        "multicolumn_AyYccf",
+        "main",
+        "17619962056844fcf5",
+        "collapsible_content_FMkckc",
+        "product-recommendations"
+    ]
+}

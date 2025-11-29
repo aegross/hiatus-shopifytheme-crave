@@ -1,1 +1,57 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{"padding_top":36,"padding_bottom":0}},"rich_text_wThgXx":{"type":"rich-text","blocks":{"heading_YeyQnz":{"type":"heading","settings":{"heading":"<h2>Looking to host an event or private party at Hiatus Craft House?<\/h2>","heading_size":"h2"}},"text_8AWUeF":{"type":"text","settings":{"text":"<p><strong>Event packages are available! <\/strong>Contact us below with event details and ideal dates.<\/p>"}}},"block_order":["heading_YeyQnz","text_8AWUeF"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"accent-1","full_width":true,"padding_top":8,"padding_bottom":36}},"contact-form":{"type":"contact-form","settings":{"heading":"Contact Us","heading_size":"h1","color_scheme":"background-1","padding_top":24,"padding_bottom":52}}},"order":["main","rich_text_wThgXx","contact-form"]}
+{
+    "sections": {
+        "main": {
+            "type": "main-page",
+            "disabled": true,
+            "settings": {
+                "padding_top": 36,
+                "padding_bottom": 0
+            }
+        },
+        "rich_text_wThgXx": {
+            "type": "rich-text",
+            "blocks": {
+                "heading_YeyQnz": {
+                    "type": "heading",
+                    "settings": {
+                        "heading": "<h2>Looking to host an event or private party at Hiatus Craft House?<\/h2>",
+                        "heading_size": "h2"
+                    }
+                },
+                "text_8AWUeF": {
+                    "type": "text",
+                    "settings": {
+                        "text": "<p><strong>Event packages are available! <\/strong>Contact us below with event details and ideal dates.<\/p>"
+                    }
+                }
+            },
+            "block_order": [
+                "heading_YeyQnz",
+                "text_8AWUeF"
+            ],
+            "settings": {
+                "desktop_content_position": "center",
+                "content_alignment": "center",
+                "color_scheme": "accent-1",
+                "full_width": true,
+                "padding_top": 8,
+                "padding_bottom": 36
+            }
+        },
+        "contact-form": {
+            "type": "contact-form",
+            "settings": {
+                "heading": "Contact Us",
+                "heading_size": "h1",
+                "color_scheme": "background-1",
+                "padding_top": 24,
+                "padding_bottom": 52
+            }
+        }
+    },
+    "order": [
+        "main",
+        "rich_text_wThgXx",
+        "contact-form"
+    ]
+}

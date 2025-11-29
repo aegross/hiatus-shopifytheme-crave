@@ -1,1 +1,84 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{"padding_top":36,"padding_bottom":36}},"rich_text_pkjyyG":{"type":"rich-text","blocks":{"heading_kbYBP4":{"type":"heading","settings":{"heading":"<p>Passion for Making, Compulsion to Create<\/p>","heading_size":"h2"}},"text_9By9ic":{"type":"text","settings":{"text":"<p>Hiatus Craft House was founded in 2022 as Banks and Baugher Craft Distillers. Dean Banks and Jeff Baugher made significant, lasting contributions to the start-up distillery before moving on to new adventures in 2024. Dawn and Dave Gross now own and operate the distillery and tasting room with an eye towards their philanthropic endeavors. <\/p><p>Born from a passion for making, a compulsion to create. Baking, cooking, canning, weaving, designing, fabricating, building, gardening, coding, optimizing, engineering, investing, giving, gaming, brailling, and now distilling. A culture of experimentation requires a tolerance for failure. Taking risks and making mistakes has been instrumental to the success of the founders. <\/p><p>After a string of successful startup companies and venture capital investments, Dawn and Dave shifted their focus to philanthropy. Their goal is to <em>pay-it-forward <\/em>by providing young entrepreneurs and those with special needs with positive, transformative experiences to help them achieve their potential. Through programming and giving, their non-profit, <a href=\"https:\/\/newco.foundation\/\" target=\"_blank\" title=\"https:\/\/newco.foundation\/\">NewCo Foundation<\/a> has provided millions of dollars for special needs populations and young entrepreneurs in Ventura County.<\/p><p>All profits from Hiatus Craft House are donated to <a href=\"https:\/\/newco.foundation\/\" target=\"_blank\" title=\"https:\/\/newco.foundation\/\">NewCo Foundation<\/a>. The journey is the reward. Thank you for letting us share our creations with you.<\/p>"}}},"block_order":["heading_kbYBP4","text_9By9ic"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"inverse","full_width":false,"padding_top":40,"padding_bottom":52}},"image_with_text_cwKVhB":{"type":"image-with-text","blocks":{"heading_GxxRHh":{"type":"heading","settings":{"heading":"Passion for Making, Compulsion to Create","heading_size":"h2"}},"text_8dFKBw":{"type":"text","settings":{"text":"<p>Hiatus Craft House was founded in 2022 as Banks and Baugher Craft Distillers. Dean Banks and Jeff Baugher made significant, lasting contributions to the start-up distillery before moving on to new adventures in 2024. Dawn and Dave Gross now own and operate the distillery and tasting room with an eye towards their philanthropic endeavors. <\/p><p>Born from a passion for making, a compulsion to create. Baking, cooking, canning, weaving, designing, fabricating, building, gardening, coding, optimizing, engineering, investing, giving, gaming, brailling, and now distilling. A culture of experimentation requires a tolerance for failure. Taking risks and making mistakes has been instrumental to the success of the founders. <\/p><p>After a string of successful startup companies and venture capital investments, Dawn and Dave shifted their focus to philanthropy. Their goal is to <em>pay-it-forward <\/em>by providing young entrepreneurs and those with special needs with positive, transformative experiences to help them achieve their potential. Through programming and giving, their non-profit, <a href=\"https:\/\/newco.foundation\/\" target=\"_blank\" title=\"https:\/\/newco.foundation\/\">NewCo Foundation<\/a> has provided millions of dollars for special needs populations and young entrepreneurs in Ventura County.<\/p><p>All profits from Hiatus Craft House are donated to <a href=\"https:\/\/newco.foundation\/\" target=\"_blank\" title=\"https:\/\/newco.foundation\/\">NewCo Foundation<\/a>. The journey is the reward. Thank you for letting us share our creations with you.<\/p>","text_style":"body"}}},"block_order":["heading_GxxRHh","text_8dFKBw"],"disabled":true,"settings":{"image":"shopify:\/\/shop_images\/2023_logo_B.png","height":"adapt","desktop_image_width":"small","layout":"text_first","desktop_content_position":"bottom","desktop_content_alignment":"center","content_layout":"overlap","color_scheme":"inverse","mobile_content_alignment":"center","padding_top":36,"padding_bottom":36}}},"order":["main","rich_text_pkjyyG","image_with_text_cwKVhB"]}
+{
+    "sections": {
+        "main": {
+            "type": "main-page",
+            "disabled": true,
+            "settings": {
+                "padding_top": 36,
+                "padding_bottom": 36
+            }
+        },
+        "rich_text_pkjyyG": {
+            "type": "rich-text",
+            "blocks": {
+                "heading_kbYBP4": {
+                    "type": "heading",
+                    "settings": {
+                        "heading": "<p>Passion for Making, Compulsion to Create<\/p>",
+                        "heading_size": "h2"
+                    }
+                },
+                "text_9By9ic": {
+                    "type": "text",
+                    "settings": {
+                        "text": "<p>Hiatus Craft House was founded in 2022 as Banks and Baugher Craft Distillers. Dean Banks and Jeff Baugher made significant, lasting contributions to the start-up distillery before moving on to new adventures in 2024. Dawn and Dave Gross now own and operate the distillery and tasting room with an eye towards their philanthropic endeavors. <\/p><p>Born from a passion for making, a compulsion to create. Baking, cooking, canning, weaving, designing, fabricating, building, gardening, coding, optimizing, engineering, investing, giving, gaming, brailling, and now distilling. A culture of experimentation requires a tolerance for failure. Taking risks and making mistakes has been instrumental to the success of the founders. <\/p><p>After a string of successful startup companies and venture capital investments, Dawn and Dave shifted their focus to philanthropy. Their goal is to <em>pay-it-forward <\/em>by providing young entrepreneurs and those with special needs with positive, transformative experiences to help them achieve their potential. Through programming and giving, their non-profit, <a href=\"https:\/\/newco.foundation\/\" target=\"_blank\" title=\"https:\/\/newco.foundation\/\">NewCo Foundation<\/a> has provided millions of dollars for special needs populations and young entrepreneurs in Ventura County.<\/p><p>All profits from Hiatus Craft House are donated to <a href=\"https:\/\/newco.foundation\/\" target=\"_blank\" title=\"https:\/\/newco.foundation\/\">NewCo Foundation<\/a>. The journey is the reward. Thank you for letting us share our creations with you.<\/p>"
+                    }
+                }
+            },
+            "block_order": [
+                "heading_kbYBP4",
+                "text_9By9ic"
+            ],
+            "settings": {
+                "desktop_content_position": "center",
+                "content_alignment": "center",
+                "color_scheme": "inverse",
+                "full_width": false,
+                "padding_top": 40,
+                "padding_bottom": 52
+            }
+        },
+        "image_with_text_cwKVhB": {
+            "type": "image-with-text",
+            "blocks": {
+                "heading_GxxRHh": {
+                    "type": "heading",
+                    "settings": {
+                        "heading": "Passion for Making, Compulsion to Create",
+                        "heading_size": "h2"
+                    }
+                },
+                "text_8dFKBw": {
+                    "type": "text",
+                    "settings": {
+                        "text": "<p>Hiatus Craft House was founded in 2022 as Banks and Baugher Craft Distillers. Dean Banks and Jeff Baugher made significant, lasting contributions to the start-up distillery before moving on to new adventures in 2024. Dawn and Dave Gross now own and operate the distillery and tasting room with an eye towards their philanthropic endeavors. <\/p><p>Born from a passion for making, a compulsion to create. Baking, cooking, canning, weaving, designing, fabricating, building, gardening, coding, optimizing, engineering, investing, giving, gaming, brailling, and now distilling. A culture of experimentation requires a tolerance for failure. Taking risks and making mistakes has been instrumental to the success of the founders. <\/p><p>After a string of successful startup companies and venture capital investments, Dawn and Dave shifted their focus to philanthropy. Their goal is to <em>pay-it-forward <\/em>by providing young entrepreneurs and those with special needs with positive, transformative experiences to help them achieve their potential. Through programming and giving, their non-profit, <a href=\"https:\/\/newco.foundation\/\" target=\"_blank\" title=\"https:\/\/newco.foundation\/\">NewCo Foundation<\/a> has provided millions of dollars for special needs populations and young entrepreneurs in Ventura County.<\/p><p>All profits from Hiatus Craft House are donated to <a href=\"https:\/\/newco.foundation\/\" target=\"_blank\" title=\"https:\/\/newco.foundation\/\">NewCo Foundation<\/a>. The journey is the reward. Thank you for letting us share our creations with you.<\/p>",
+                        "text_style": "body"
+                    }
+                }
+            },
+            "block_order": [
+                "heading_GxxRHh",
+                "text_8dFKBw"
+            ],
+            "disabled": true,
+            "settings": {
+                "image": "shopify:\/\/shop_images\/2023_logo_B.png",
+                "height": "adapt",
+                "desktop_image_width": "small",
+                "layout": "text_first",
+                "desktop_content_position": "bottom",
+                "desktop_content_alignment": "center",
+                "content_layout": "overlap",
+                "color_scheme": "inverse",
+                "mobile_content_alignment": "center",
+                "padding_top": 36,
+                "padding_bottom": 36
+            }
+        }
+    },
+    "order": [
+        "main",
+        "rich_text_pkjyyG",
+        "image_with_text_cwKVhB"
+    ]
+}
