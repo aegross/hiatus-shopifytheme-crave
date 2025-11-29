@@ -3596,10 +3596,9 @@ details-disclosure > details {
   }
 }
 
+/* adjusting margins (exterior padding) of the "View All" button inside of the featured collection*/
 .collection__view-all .button {
-    padding-top: 50px;
-    padding-right: 30px;
-    padding-bottom: 50px;
-    padding-left: 80px;
     min-width: auto;
+    margin-top: 36px;
+    margin-bottom: 36px;
 }
