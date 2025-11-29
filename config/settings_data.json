@@ -465,19 +465,6 @@
       "cart_type": "notification",
       "show_vendor": false,
       "show_cart_note": true,
-      "color_schemes": {
-        "hiatus-default": {
-          "settings": {
-            "background": "#f2efdd",
-            "background_gradient": "",
-            "text": "#3d081b",
-            "button": "#910f3f",
-            "button_label": "#f2efdd",
-            "secondary_button_label": "#3d081b",
-            "shadow": "#3d081b"
-          }
-        }
-      },
       "sections": {
         "announcement-bar": {
           "type": "announcement-bar",
