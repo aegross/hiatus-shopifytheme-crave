@@ -145,16 +145,16 @@
         "shadow": {
           "label": "Shadow"
         },
-        "background-1": {
+        "background_1": {
           "label": "Background 01 (deprecated)"
         },
-        "background-2": {
+        "background_2": {
           "label": "Background 02 (deprecated)"
         },
-        "accent-1": {
+        "accent_1": {
           "label": "Accent 01 (deprecated)"
         },
-        "accent-2": {
+        "accent_2": {
           "label": "Accent 02 (deprecated)"
         },
         "inverse": {
