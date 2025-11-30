@@ -213,79 +213,101 @@
     "color_schemes": {
       "background-1": {
         "settings": {
-          "background": "#faf9e1",
+          "background": "#f9f9e2",
           "background_gradient": "",
-          "text": "#3d081b",
-          "button": "#910f3f",
-          "button_label": "#faf9e1",
-          "secondary_button_label": "#3d081b",
-          "shadow": "#3d081b"
+          "text": "#0d0d0d",
+          "button": "#a16f29",
+          "button_label": "#f9f9e2",
+          "secondary_button_label": "#a16f29",
+          "shadow": "#0d0d0d"
         }
       },
       "background-2": {
         "settings": {
-          "background": "#faf9e1",
+          "background": "#f9f9e2",
           "background_gradient": "",
           "text": "#0d0d0d",
-          "button": "#14404b",
-          "button_label": "#faf9e1",
-          "secondary_button_label": "#0d0d0d",
+          "button": "#117d87",
+          "button_label": "#f9f9e2",
+          "secondary_button_label": "#14404b",
           "shadow": "#14404b"
         }
       },
       "accent-1": {
         "settings": {
-          "background": "#910f3f",
+          "background": "#117d87",
           "background_gradient": "",
-          "text": "#faf9e1",
-          "button": "#faf9e1",
-          "button_label": "#910f3f",
-          "secondary_button_label": "#faf9e1",
-          "shadow": "#3d081b"
+          "text": "#f9f9e2",
+          "button": "#f9f9e2",
+          "button_label": "#117d87",
+          "secondary_button_label": "#f9f9e2",
+          "shadow": "#0d0d0d"
         }
       },
       "accent-2": {
         "settings": {
-          "background": "#91850f",
+          "background": "#14404b",
           "background_gradient": "",
-          "text": "#faf9e1",
-          "button": "#faf9e1",
-          "button_label": "#91850f",
-          "secondary_button_label": "#faf9e1",
+          "text": "#f9f9e2",
+          "button": "#f9f9e2",
+          "button_label": "#14404b",
+          "secondary_button_label": "#f9f9e2",
           "shadow": "#0d0d0d"
         }
       },
       "inverse": {
         "settings": {
-          "background": "#14404b",
+          "background": "#a16f29",
           "background_gradient": "",
           "text": "#faf9e1",
           "button": "#faf9e1",
-          "button_label": "#14404b",
+          "button_label": "#a16f29",
           "secondary_button_label": "#faf9e1",
           "shadow": "#0d0d0d"
         }
       },
       "scheme-cd9ae288-e68e-4bdc-85e5-2810a41bad0f": {
         "settings": {
-          "background": "#3d081b",
+          "background": "#0d0d0d",
           "background_gradient": "",
-          "text": "#faf9e1",
-          "button": "#faf9e1",
-          "button_label": "#faf9e1",
-          "secondary_button_label": "#faf9e1",
+          "text": "#f9f9e2",
+          "button": "#f9f9e2",
+          "button_label": "#0d0d0d",
+          "secondary_button_label": "#f9f9e2",
           "shadow": "#0d0d0d"
         }
       },
       "scheme-592f01d7-89db-4cc9-8a77-0fbf4d10a513": {
         "settings": {
-          "background": "#910f3f",
+          "background": "#908632",
           "background_gradient": "",
-          "text": "#ffffff",
-          "button": "#ffffff",
-          "button_label": "#3d081b",
-          "secondary_button_label": "#ffffff",
-          "shadow": "#3d081b"
+          "text": "#f9f9e2",
+          "button": "#f9f9e2",
+          "button_label": "#908632",
+          "secondary_button_label": "#f9f9e2",
+          "shadow": "#0d0d0d"
+        }
+      },
+      "scheme-061384e0-a9df-46c7-a0e8-908ac8af7c67": {
+        "settings": {
+          "background": "#fac734",
+          "background_gradient": "",
+          "text": "#0d0d0d",
+          "button": "#a16f29",
+          "button_label": "#f9f9e2",
+          "secondary_button_label": "#a16f29",
+          "shadow": "#a16f29"
+        }
+      },
+      "scheme-45240dc4-d284-4d13-9ea0-3d8c935bc07e": {
+        "settings": {
+          "background": "#f58c87",
+          "background_gradient": "",
+          "text": "#f9f9e2",
+          "button": "#f9f9e2",
+          "button_label": "#f58c87",
+          "secondary_button_label": "#f9f9e2",
+          "shadow": "#0d0d0d"
         }
       }
     }
