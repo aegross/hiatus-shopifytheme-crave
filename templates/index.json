@@ -16,7 +16,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/IMG_2864.jpg",
-            "image_overlay_opacity": 60,
+            "image_overlay_opacity": 40,
             "heading": "Thursday, December 4— Winter Mixology Workshop",
             "heading_size": "h1",
             "subheading": "Join us on Thursday, December 4th, for a Holiday Mixology Workshop with Nick and Alex from Firefly Bartending! Cocktails, recipe cards, and festive bites included. Whether you’re a holiday enthusiast or just looking to expand your cocktail repertoire, this workshop is designed to be fun, interactive, and delicious. No prior experience needed, and all tools are provided!",
@@ -27,14 +27,14 @@
             "box_align": "middle-center",
             "text_alignment": "center",
             "text_alignment_mobile": "center",
-            "color_scheme": "accent-1"
+            "color_scheme": "accent-2"
           }
         },
         "slide_XAJh3a": {
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/IMG_2378.jpg",
-            "image_overlay_opacity": 60,
+            "image_overlay_opacity": 40,
             "heading": "Saturday, December 13— Magic Show and Spirit Tasting",
             "heading_size": "h1",
             "subheading": "Join us on Saturday, December 13th, for an exciting night of mind-blowing magic and illusions from Magic Castle performers Raven and Migz! Our December 12th show sold out immediately— don't miss out a second time!",
@@ -45,14 +45,14 @@
             "box_align": "middle-center",
             "text_alignment": "center",
             "text_alignment_mobile": "center",
-            "color_scheme": "accent-1"
+            "color_scheme": "accent-2"
           }
         },
         "slide_TK6LpF": {
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/IMG20251031120807.jpg",
-            "image_overlay_opacity": 60,
+            "image_overlay_opacity": 50,
             "heading": "Apple Cider Whiskey Sour",
             "heading_size": "h1",
             "subheading": "Cocktail of the Month, available every Saturday in November!",
@@ -63,14 +63,14 @@
             "box_align": "middle-center",
             "text_alignment": "center",
             "text_alignment_mobile": "center",
-            "color_scheme": "accent-1"
+            "color_scheme": "accent-2"
           }
         },
         "slide_MDQjaN": {
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/IMG_1986.jpg",
-            "image_overlay_opacity": 60,
+            "image_overlay_opacity": 30,
             "heading": "Check out our holiday recipes!",
             "heading_size": "h1",
             "subheading": "Made with Hiatus Craft House spirits!",
@@ -81,7 +81,7 @@
             "box_align": "middle-center",
             "text_alignment": "center",
             "text_alignment_mobile": "center",
-            "color_scheme": "accent-1"
+            "color_scheme": "accent-2"
           }
         },
         "slide-0": {
@@ -96,17 +96,17 @@
             "link": "shopify://pages/members",
             "button_style_secondary": false,
             "show_text_box": false,
-            "box_align": "bottom-center",
+            "box_align": "middle-center",
             "text_alignment": "center",
             "text_alignment_mobile": "center",
-            "color_scheme": "accent-1"
+            "color_scheme": "accent-2"
           }
         },
         "slide_9DGtDz": {
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/IMG_3757.jpg",
-            "image_overlay_opacity": 60,
+            "image_overlay_opacity": 50,
             "heading": "Schedule a private event for the holiday season!",
             "heading_size": "h1",
             "subheading": "",
@@ -117,14 +117,14 @@
             "box_align": "middle-center",
             "text_alignment": "center",
             "text_alignment_mobile": "center",
-            "color_scheme": "accent-1"
+            "color_scheme": "accent-2"
           }
         },
         "slide_cjdkdq": {
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/IMG_3955.jpg",
-            "image_overlay_opacity": 60,
+            "image_overlay_opacity": 40,
             "heading": "Gift a tasting for the holidays!",
             "heading_size": "h2",
             "subheading": "",
@@ -135,7 +135,7 @@
             "box_align": "middle-center",
             "text_alignment": "center",
             "text_alignment_mobile": "center",
-            "color_scheme": "accent-1"
+            "color_scheme": "accent-2"
           }
         },
         "slide_PbQA9Y": {
@@ -153,7 +153,7 @@
             "box_align": "middle-center",
             "text_alignment": "center",
             "text_alignment_mobile": "center",
-            "color_scheme": "accent-1"
+            "color_scheme": "accent-2"
           }
         },
         "e43c93ae-2d02-4689-9536-9c3b51643f65": {
@@ -171,7 +171,7 @@
             "box_align": "middle-center",
             "text_alignment": "center",
             "text_alignment_mobile": "center",
-            "color_scheme": "accent-1"
+            "color_scheme": "accent-2"
           }
         },
         "slide_jq6q7t": {
@@ -189,7 +189,7 @@
             "box_align": "middle-center",
             "text_alignment": "center",
             "text_alignment_mobile": "center",
-            "color_scheme": "accent-1"
+            "color_scheme": "accent-2"
           }
         }
       },
