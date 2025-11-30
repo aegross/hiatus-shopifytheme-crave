@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "settings_schema": {
     "global": {
@@ -135,6 +144,21 @@
         },
         "shadow": {
           "label": "Shadow"
+        },
+        "background-1": {
+          "label": "Background 01 (deprecated)"
+        },
+        "background-2": {
+          "label": "Background 02 (deprecated)"
+        },
+        "accent-1": {
+          "label": "Accent 01 (deprecated)"
+        },
+        "accent-2": {
+          "label": "Accent 02 (deprecated)"
+        },
+        "inverse": {
+          "label": "Inverse (deprecated)"
         }
       }
     },
