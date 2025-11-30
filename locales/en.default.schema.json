@@ -145,19 +145,19 @@
         "shadow": {
           "label": "Shadow"
         },
-        "background_1": {
+        "colors_background_1": {
           "label": "Background 01 (deprecated)"
         },
-        "background_2": {
+        "colors_background_2": {
           "label": "Background 02 (deprecated)"
         },
-        "accent_1": {
+        "colors_accent_1": {
           "label": "Accent 01 (deprecated)"
         },
-        "accent_2": {
+        "colors_accent_2": {
           "label": "Accent 02 (deprecated)"
         },
-        "inverse": {
+        "colors_inverse": {
           "label": "Inverse (deprecated)"
         }
       }
