@@ -195,6 +195,9 @@
         "collapsible-row-2",
         "share"
       ],
+      "custom_css": [
+        "{margin-bottom: 36px;}"
+      ],
       "settings": {
         "enable_sticky_info": true,
         "color_scheme": "",
@@ -238,7 +241,7 @@
             "heading_size": 36,
             "card_border_radius": 12,
             "card_border_thickness": 2,
-            "card_border_color": "#3d081b",
+            "card_border_color": "#14404b",
             "card_shadow_opacity": 10,
             "card_shadow_vertical": 4,
             "card_shadow_blur": 10,
@@ -347,6 +350,9 @@
         "collapsible_row_YAYWny",
         "collapsible_row_NhFGNw",
         "collapsible_row_Y3egRt"
+      ],
+      "custom_css": [
+        "{margin-top: 36px;}"
       ],
       "name": "FAQ",
       "settings": {
