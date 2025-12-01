@@ -9,18 +9,9 @@
  */
 {
   "current": {
-    "hau_form_options": "Word of Mouth / From a Friend, Google/Map/Search, Facebook, Instagram, Nextdoor, Other Social Media, Other online, Event, In print",
-    "colors_solid_button_labels": "#faf9e1",
-    "colors_accent_1": "#14404b",
-    "gradient_accent_1": "",
-    "colors_accent_2": "#91850f",
-    "gradient_accent_2": "",
-    "colors_text": "#3d081b",
-    "colors_outline_button_labels": "#3d081b",
-    "colors_background_1": "#faf9e1",
-    "gradient_background_1": "",
-    "colors_background_2": "#FAF9E1",
-    "gradient_background_2": "",
+    "logo": "shopify://shop_images/HCH_Prelim_2_219177ee-b422-4aa7-97d4-6891d00a26d0.png",
+    "logo_width": 180,
+    "favicon": "shopify://shop_images/HiatusCH_letterform_primary_png.png",
     "type_header_font": "madera_n6",
     "heading_scale": 120,
     "type_body_font": "madera_n5",
@@ -29,14 +20,16 @@
     "spacing_sections": 64,
     "spacing_grid_horizontal": 12,
     "spacing_grid_vertical": 12,
+    "animations_reveal_on_scroll": true,
+    "animations_hover_elements": "none",
     "buttons_border_thickness": 4,
     "buttons_border_opacity": 100,
     "buttons_radius": 20,
-    "buttons_shadow_opacity": 100,
+    "buttons_shadow_opacity": 0,
     "buttons_shadow_horizontal_offset": 0,
     "buttons_shadow_vertical_offset": 0,
     "buttons_shadow_blur": 5,
-    "variant_pills_border_thickness": 1,
+    "variant_pills_border_thickness": 2,
     "variant_pills_border_opacity": 55,
     "variant_pills_radius": 40,
     "variant_pills_shadow_opacity": 0,
@@ -46,7 +39,7 @@
     "inputs_border_thickness": 2,
     "inputs_border_opacity": 100,
     "inputs_radius": 12,
-    "inputs_shadow_opacity": 100,
+    "inputs_shadow_opacity": 0,
     "inputs_shadow_horizontal_offset": 0,
     "inputs_shadow_vertical_offset": 2,
     "inputs_shadow_blur": 0,
@@ -57,21 +50,21 @@
     "card_border_thickness": 2,
     "card_border_opacity": 100,
     "card_corner_radius": 12,
-    "card_shadow_opacity": 100,
+    "card_shadow_opacity": 0,
     "card_shadow_horizontal_offset": 0,
     "card_shadow_vertical_offset": 4,
     "card_shadow_blur": 10,
     "collection_card_style": "standard",
-    "collection_card_image_padding": 0,
+    "collection_card_image_padding": 2,
     "collection_card_text_alignment": "left",
     "collection_card_color_scheme": "background-1",
-    "collection_card_border_thickness": 2,
+    "collection_card_border_thickness": 0,
     "collection_card_border_opacity": 100,
     "collection_card_corner_radius": 12,
-    "collection_card_shadow_opacity": 100,
+    "collection_card_shadow_opacity": 0,
     "collection_card_shadow_horizontal_offset": 0,
     "collection_card_shadow_vertical_offset": 4,
-    "collection_card_shadow_blur": 10,
+    "collection_card_shadow_blur": 0,
     "blog_card_style": "card",
     "blog_card_image_padding": 0,
     "blog_card_text_alignment": "left",
@@ -79,206 +72,82 @@
     "blog_card_border_thickness": 2,
     "blog_card_border_opacity": 100,
     "blog_card_corner_radius": 12,
-    "blog_card_shadow_opacity": 100,
+    "blog_card_shadow_opacity": 0,
     "blog_card_shadow_horizontal_offset": 0,
     "blog_card_shadow_vertical_offset": 4,
     "blog_card_shadow_blur": 0,
-    "text_boxes_border_thickness": 2,
+    "text_boxes_border_thickness": 0,
     "text_boxes_border_opacity": 100,
     "text_boxes_radius": 12,
-    "text_boxes_shadow_opacity": 100,
+    "text_boxes_shadow_opacity": 0,
     "text_boxes_shadow_horizontal_offset": 0,
     "text_boxes_shadow_vertical_offset": 6,
     "text_boxes_shadow_blur": 10,
     "media_border_thickness": 2,
     "media_border_opacity": 100,
     "media_radius": 12,
-    "media_shadow_opacity": 100,
+    "media_shadow_opacity": 0,
     "media_shadow_horizontal_offset": 0,
     "media_shadow_vertical_offset": 6,
-    "media_shadow_blur": 10,
+    "media_shadow_blur": 0,
     "popup_border_thickness": 2,
     "popup_border_opacity": 100,
     "popup_corner_radius": 12,
-    "popup_shadow_opacity": 100,
+    "popup_shadow_opacity": 0,
     "popup_shadow_horizontal_offset": 0,
     "popup_shadow_vertical_offset": 2,
     "popup_shadow_blur": 10,
     "drawer_border_thickness": 3,
     "drawer_border_opacity": 10,
-    "drawer_shadow_opacity": 100,
+    "drawer_shadow_opacity": 0,
     "drawer_shadow_horizontal_offset": 6,
     "drawer_shadow_vertical_offset": 6,
-    "drawer_shadow_blur": 10,
+    "drawer_shadow_blur": 0,
     "badge_position": "top right",
     "badge_corner_radius": 40,
     "sale_badge_color_scheme": "accent-2",
     "sold_out_badge_color_scheme": "background-1",
-    "accent_icons": "text",
-    "social_twitter_link": "",
+    "brand_headline": "",
+    "brand_description": "<p></p>",
+    "brand_image": "shopify://shop_images/HCH_Prelim_2_219177ee-b422-4aa7-97d4-6891d00a26d0.png",
+    "brand_image_width": 100,
     "social_facebook_link": "https://www.facebook.com/hiatuscrafthouse",
-    "social_pinterest_link": "",
     "social_instagram_link": "https://www.instagram.com/hiatuscrafthouse",
-    "social_tiktok_link": "",
-    "social_tumblr_link": "",
-    "social_snapchat_link": "",
     "social_youtube_link": "",
+    "social_tiktok_link": "",
+    "social_twitter_link": "",
+    "social_snapchat_link": "",
+    "social_pinterest_link": "",
+    "social_tumblr_link": "",
     "social_vimeo_link": "",
     "predictive_search_enabled": true,
     "predictive_search_show_vendor": false,
     "predictive_search_show_price": true,
-    "favicon": "shopify://shop_images/HiatusCH_letterform_primary_png.png",
     "currency_code_enabled": true,
     "cart_type": "notification",
     "show_vendor": false,
     "show_cart_note": true,
     "cart_drawer_collection": "frontpage",
+    "cart_color_scheme": "background-1",
+    "hau_form_options": "Word of Mouth / From a Friend, Google/Map/Search, Facebook, Instagram, Nextdoor, Other Social Media, Other online, Event, In print",
+    "colors_solid_button_labels": "#f9f9e2",
+    "colors_accent_1": "#14404b",
+    "gradient_accent_1": "",
+    "colors_accent_2": "#a16f29",
+    "gradient_accent_2": "",
+    "colors_text": "#0d0d0d",
+    "colors_outline_button_labels": "#0d0d0d",
+    "colors_background_1": "#f9f9e2",
+    "gradient_background_1": "",
+    "colors_background_2": "#f9f9e2",
+    "gradient_background_2": "",
+    "accent_icons": "text",
     "checkout_header_image": "shopify://shop_images/cover1.jpg",
     "checkout_logo_image": "shopify://shop_images/Picture3.png",
     "sections": {
-      "announcement-bar": {
-        "type": "announcement-bar",
-        "blocks": {
-          "announcement_gYtPXP": {
-            "type": "announcement",
-            "settings": {
-              "text": "Open Saturdays 12-6. Open Sundays 1-5 on  12/7, 12/14, 12/21 and 12/28. Check current hours HERE",
-              "text_alignment": "center",
-              "color_scheme": "accent-1",
-              "link": "https://maps.app.goo.gl/sQkLtfTTigDgq3ke7"
-            }
-          },
-          "announcement_6yMY6c": {
-            "type": "announcement",
-            "settings": {
-              "text": "Calling all Lollygaggers! Join the Bottle Club",
-              "text_alignment": "center",
-              "color_scheme": "background-2",
-              "link": "shopify://products/hiatus-membership"
-            }
-          },
-          "announcement_fVrntG": {
-            "type": "announcement",
-            "settings": {
-              "text": "Host an event or private party",
-              "text_alignment": "center",
-              "color_scheme": "accent-2",
-              "link": "shopify://pages/contact"
-            }
-          },
-          "announcement_3n7Bn9": {
-            "type": "announcement",
-            "settings": {
-              "text": "PSL Blowout Sale!  $12 per bottle or 3 bottles plus a Spirit Tasting for $33!",
-              "text_alignment": "center",
-              "color_scheme": "inverse",
-              "link": "shopify://products/psl"
-            }
-          },
-          "announcement_HVryY3": {
-            "type": "announcement",
-            "disabled": true,
-            "settings": {
-              "text": "Mixology Workshop July 11th!",
-              "text_alignment": "center",
-              "color_scheme": "inverse",
-              "link": "https://hiatuscrafthouse-001.eventbrite.com"
-            }
-          },
-          "announcement_PVAqwK": {
-            "type": "announcement",
-            "disabled": true,
-            "settings": {
-              "text": "Book Your Tasting Today!",
-              "text_alignment": "center",
-              "color_scheme": "accent-2",
-              "link": "shopify://products/tasting"
-            }
-          },
-          "announcement_M8NW6c": {
-            "type": "announcement",
-            "disabled": true,
-            "settings": {
-              "text": "15% OFF Every 3-Item Online Spirit Purchase",
-              "text_alignment": "center",
-              "color_scheme": "accent-1",
-              "link": "shopify://collections/frontpage"
-            }
-          },
-          "announcement-bar-0": {
-            "type": "announcement",
-            "disabled": true,
-            "settings": {
-              "text": "Spirit orders now shipping throughout California",
-              "text_alignment": "center",
-              "color_scheme": "accent-1",
-              "link": "shopify://collections/frontpage"
-            }
-          }
-        },
-        "block_order": [
-          "announcement_gYtPXP",
-          "announcement_6yMY6c",
-          "announcement_fVrntG",
-          "announcement_3n7Bn9",
-          "announcement_HVryY3",
-          "announcement_PVAqwK",
-          "announcement_M8NW6c",
-          "announcement-bar-0"
-        ],
-        "settings": {}
-      },
-      "header": {
-        "type": "header",
-        "settings": {
-          "color_scheme": "background-1",
-          "logo": "shopify://shop_images/HCH_Prelim_2_219177ee-b422-4aa7-97d4-6891d00a26d0.png",
-          "logo_width": 180,
-          "logo_position": "middle-left",
-          "menu": "main-menu",
-          "menu_type_desktop": "dropdown",
-          "show_line_separator": true,
-          "enable_sticky_header": false,
-          "mobile_logo_position": "center",
-          "margin_bottom": 0,
-          "padding_top": 20,
-          "padding_bottom": 20
-        }
-      },
-      "footer": {
-        "type": "footer",
-        "blocks": {
-          "image": {
-            "type": "image",
-            "disabled": true,
-            "settings": {
-              "image": "shopify://shop_images/yelp-logo-3.png",
-              "image_width": 130,
-              "alignment": "center"
-            }
-          }
-        },
-        "block_order": [
-          "image"
-        ],
-        "settings": {
-          "color_scheme": "accent-1",
-          "newsletter_enable": false,
-          "newsletter_heading": "",
-          "show_social": true,
-          "enable_country_selector": false,
-          "enable_language_selector": true,
-          "payment_enable": false,
-          "margin_top": 8,
-          "padding_top": 12,
-          "padding_bottom": 12
-        }
-      },
       "main-password-header": {
         "type": "main-password-header",
         "settings": {
-          "logo": "{{ shop.brand.logo }}",
-          "logo_max_width": 70,
           "color_scheme": "background-1"
         }
       },
@@ -340,36 +209,197 @@
           "enable_cart_validation": true
         }
       }
+    },
+    "color_schemes": {
+      "background-1": {
+        "settings": {
+          "background": "#f9f9e2",
+          "background_gradient": "",
+          "text": "#0d0d0d",
+          "button": "#a16f29",
+          "button_label": "#f9f9e2",
+          "secondary_button_label": "#a16f29",
+          "shadow": "#0d0d0d"
+        }
+      },
+      "background-2": {
+        "settings": {
+          "background": "#f9f9e2",
+          "background_gradient": "",
+          "text": "#0d0d0d",
+          "button": "#117d87",
+          "button_label": "#f9f9e2",
+          "secondary_button_label": "#14404b",
+          "shadow": "#14404b"
+        }
+      },
+      "accent-1": {
+        "settings": {
+          "background": "#117d87",
+          "background_gradient": "",
+          "text": "#f9f9e2",
+          "button": "#f9f9e2",
+          "button_label": "#117d87",
+          "secondary_button_label": "#f9f9e2",
+          "shadow": "#0d0d0d"
+        }
+      },
+      "accent-2": {
+        "settings": {
+          "background": "#14404b",
+          "background_gradient": "",
+          "text": "#f9f9e2",
+          "button": "#f9f9e2",
+          "button_label": "#14404b",
+          "secondary_button_label": "#f9f9e2",
+          "shadow": "#0d0d0d"
+        }
+      },
+      "inverse": {
+        "settings": {
+          "background": "#a16f29",
+          "background_gradient": "",
+          "text": "#faf9e1",
+          "button": "#faf9e1",
+          "button_label": "#a16f29",
+          "secondary_button_label": "#faf9e1",
+          "shadow": "#0d0d0d"
+        }
+      },
+      "scheme-cd9ae288-e68e-4bdc-85e5-2810a41bad0f": {
+        "settings": {
+          "background": "#0d0d0d",
+          "background_gradient": "",
+          "text": "#f9f9e2",
+          "button": "#f9f9e2",
+          "button_label": "#0d0d0d",
+          "secondary_button_label": "#f9f9e2",
+          "shadow": "#0d0d0d"
+        }
+      },
+      "scheme-592f01d7-89db-4cc9-8a77-0fbf4d10a513": {
+        "settings": {
+          "background": "#908632",
+          "background_gradient": "",
+          "text": "#f9f9e2",
+          "button": "#f9f9e2",
+          "button_label": "#908632",
+          "secondary_button_label": "#f9f9e2",
+          "shadow": "#0d0d0d"
+        }
+      },
+      "scheme-061384e0-a9df-46c7-a0e8-908ac8af7c67": {
+        "settings": {
+          "background": "#fac734",
+          "background_gradient": "",
+          "text": "#0d0d0d",
+          "button": "#a16f29",
+          "button_label": "#f9f9e2",
+          "secondary_button_label": "#a16f29",
+          "shadow": "#a16f29"
+        }
+      },
+      "scheme-45240dc4-d284-4d13-9ea0-3d8c935bc07e": {
+        "settings": {
+          "background": "#f58c87",
+          "background_gradient": "",
+          "text": "#f9f9e2",
+          "button": "#f9f9e2",
+          "button_label": "#f58c87",
+          "secondary_button_label": "#f9f9e2",
+          "shadow": "#0d0d0d"
+        }
+      }
     }
   },
   "presets": {
-    "Default": {
-      "colors_solid_button_labels": "#f2efdd",
-      "colors_accent_1": "#910f3f",
+    "HCH-Crave": {
+      "hau_form_options": "Word of Mouth / From a Friend, Google/Map/Search, Facebook, Instagram, Nextdoor, Other Social Media, Other online, Event, In print",
+      "colors_solid_button_labels": "#faf9e1",
+      "colors_accent_1": "#14404b",
       "gradient_accent_1": "",
-      "colors_accent_2": "#910f3f",
+      "colors_accent_2": "#91850f",
       "gradient_accent_2": "",
       "colors_text": "#3d081b",
       "colors_outline_button_labels": "#3d081b",
-      "colors_background_1": "#f2efdd",
+      "colors_background_1": "#faf9e1",
       "gradient_background_1": "",
-      "colors_background_2": "#FAF9E1",
+      "colors_background_2": "#faf9e1",
       "gradient_background_2": "",
-      "type_header_font": "mariposa_sans_n4",
+      "color_schemes": {
+        "background-1": {
+          "settings": {
+            "background": "#f2efdd",
+            "background_gradient": "",
+            "text": "#3d081b",
+            "button": "#910f3f",
+            "button_label": "#f2efdd",
+            "secondary_button_label": "#3d081b",
+            "shadow": "#3d081b"
+          }
+        },
+        "background-2": {
+          "settings": {
+            "background": "#FAF9E1",
+            "background_gradient": "",
+            "text": "#3d081b",
+            "button": "#3d081b",
+            "button_label": "#FAF9E1",
+            "secondary_button_label": "#3d081b",
+            "shadow": "#3d081b"
+          }
+        },
+        "accent-1": {
+          "settings": {
+            "background": "#3d081b",
+            "background_gradient": "",
+            "text": "#f2efdd",
+            "button": "#f2efdd",
+            "button_label": "#3d081b",
+            "secondary_button_label": "#f2efdd",
+            "shadow": "#3d081b"
+          }
+        },
+        "accent-2": {
+          "settings": {
+            "background": "#910f3f",
+            "background_gradient": "",
+            "text": "#f2efdd",
+            "button": "#f2efdd",
+            "button_label": "#910f3f",
+            "secondary_button_label": "#f2efdd",
+            "shadow": "#3d081b"
+          }
+        },
+        "inverse": {
+          "settings": {
+            "background": "#F9E547",
+            "background_gradient": "",
+            "text": "#3D081B",
+            "button": "#3D081B",
+            "button_label": "#F9E547",
+            "secondary_button_label": "#3D081B",
+            "shadow": "#3D081B"
+          }
+        }
+      },
+      "type_header_font": "madera_n6",
+      "type_body_font": "madera_n5",
       "heading_scale": 120,
-      "type_body_font": "archivo_n4",
       "body_scale": 100,
-      "page_width": 1200,
+      "page_width": 1600,
       "spacing_sections": 64,
       "spacing_grid_horizontal": 12,
       "spacing_grid_vertical": 12,
-      "buttons_border_thickness": 2,
+      "animations_reveal_on_scroll": true,
+      "animations_hover_elements": "none",
+      "buttons_border_thickness": 4,
       "buttons_border_opacity": 100,
-      "buttons_radius": 40,
-      "buttons_shadow_opacity": 90,
+      "buttons_radius": 20,
+      "buttons_shadow_opacity": 100,
       "buttons_shadow_horizontal_offset": 0,
-      "buttons_shadow_vertical_offset": 2,
-      "buttons_shadow_blur": 0,
+      "buttons_shadow_vertical_offset": 0,
+      "buttons_shadow_blur": 5,
       "variant_pills_border_thickness": 1,
       "variant_pills_border_opacity": 55,
       "variant_pills_radius": 40,
@@ -384,7 +414,7 @@
       "inputs_shadow_horizontal_offset": 0,
       "inputs_shadow_vertical_offset": 2,
       "inputs_shadow_blur": 0,
-      "card_style": "standard",
+      "card_style": "card",
       "card_image_padding": 0,
       "card_text_alignment": "left",
       "card_color_scheme": "background-1",
@@ -394,7 +424,7 @@
       "card_shadow_opacity": 100,
       "card_shadow_horizontal_offset": 0,
       "card_shadow_vertical_offset": 4,
-      "card_shadow_blur": 0,
+      "card_shadow_blur": 10,
       "collection_card_style": "standard",
       "collection_card_image_padding": 0,
       "collection_card_text_alignment": "left",
@@ -406,7 +436,7 @@
       "collection_card_shadow_horizontal_offset": 0,
       "collection_card_shadow_vertical_offset": 4,
       "collection_card_shadow_blur": 0,
-      "blog_card_style": "standard",
+      "blog_card_style": "card",
       "blog_card_image_padding": 0,
       "blog_card_text_alignment": "left",
       "blog_card_color_scheme": "background-1",
@@ -423,7 +453,7 @@
       "text_boxes_shadow_opacity": 100,
       "text_boxes_shadow_horizontal_offset": 0,
       "text_boxes_shadow_vertical_offset": 6,
-      "text_boxes_shadow_blur": 0,
+      "text_boxes_shadow_blur": 10,
       "media_border_thickness": 2,
       "media_border_opacity": 100,
       "media_radius": 12,
@@ -437,7 +467,7 @@
       "popup_shadow_opacity": 100,
       "popup_shadow_horizontal_offset": 0,
       "popup_shadow_vertical_offset": 2,
-      "popup_shadow_blur": 0,
+      "popup_shadow_blur": 10,
       "drawer_border_thickness": 3,
       "drawer_border_opacity": 10,
       "drawer_shadow_opacity": 100,
@@ -449,10 +479,13 @@
       "sale_badge_color_scheme": "accent-2",
       "sold_out_badge_color_scheme": "background-1",
       "accent_icons": "text",
+      "brand_headline": "",
+      "brand_description": "<p></p>",
+      "brand_image_width": 100,
       "social_twitter_link": "",
-      "social_facebook_link": "",
+      "social_facebook_link": "https://www.facebook.com/hiatuscrafthouse",
       "social_pinterest_link": "",
-      "social_instagram_link": "",
+      "social_instagram_link": "https://www.instagram.com/hiatuscrafthouse",
       "social_tiktok_link": "",
       "social_tumblr_link": "",
       "social_snapchat_link": "",
@@ -461,25 +494,139 @@
       "predictive_search_enabled": true,
       "predictive_search_show_vendor": false,
       "predictive_search_show_price": true,
+      "favicon": "shopify://shop_images/HiatusCH_letterform_primary_png.png",
       "currency_code_enabled": true,
       "cart_type": "notification",
       "show_vendor": false,
       "show_cart_note": true,
+      "cart_drawer_collection": "frontpage",
+      "cart_color_scheme": "background-1",
+      "checkout_header_image": "shopify://shop_images/cover1.jpg",
+      "checkout_logo_image": "shopify://shop_images/Picture3.png",
+      "blocks": {
+        "5149645339031002760": {
+          "type": "shopify://apps/order-limits-minmaxify/blocks/app-embed-block/3acfba32-89f3-4377-ae20-cbb9abc48475",
+          "disabled": false,
+          "settings": {
+            "async": false
+          }
+        },
+        "3066834073402364550": {
+          "type": "shopify://apps/sellup-upsell-add-ons/blocks/global_sellup/001ec440-29ea-4cbf-9265-4963fa825261",
+          "disabled": false,
+          "settings": {}
+        },
+        "3140817623390692025": {
+          "type": "shopify://apps/na-age-verification/blocks/agechecker_y1K8NR3dvv/15fad4c9-4ba9-4c27-8e6c-1f214a81924f",
+          "disabled": false,
+          "settings": {}
+        },
+        "6614979280454233053": {
+          "type": "shopify://apps/preorder-now-pre-order-pq/blocks/app-embed/551fab2c-3af6-4a8f-ba21-736a71cb4540",
+          "disabled": false,
+          "settings": {}
+        },
+        "12855036574018961682": {
+          "type": "shopify://apps/givy/blocks/index/7e8263d6-6c9a-4d94-9b94-612e9cb257e3",
+          "disabled": false,
+          "settings": {}
+        },
+        "10436698916776057164": {
+          "type": "shopify://apps/appstle-subscription/blocks/appstle-subscription-helper/fe257d39-6f88-4f35-ab08-bd437e3aa94e",
+          "disabled": false,
+          "settings": {}
+        },
+        "4644077978495408606": {
+          "type": "shopify://apps/appstle-memberships/blocks/appstle-membership-helper/76528d70-5fbe-48f8-8e19-590d109aa2b7",
+          "disabled": false,
+          "settings": {}
+        },
+        "16237003337219470499": {
+          "type": "shopify://apps/appstle-loyalty/blocks/appstle-loyalty/1886c0f8-77b6-4a85-af11-b43cc17ae1c1",
+          "disabled": false,
+          "settings": {}
+        },
+        "15659862187755629035": {
+          "type": "shopify://apps/bookx/blocks/app-embed/865cd10f-9515-4d8b-8e41-efece9c83f71",
+          "disabled": false,
+          "settings": {
+            "enable_cart_validation": true
+          }
+        }
+      },
       "sections": {
         "announcement-bar": {
           "type": "announcement-bar",
           "blocks": {
-            "announcement-bar-0": {
+            "announcement_gYtPXP": {
               "type": "announcement",
               "settings": {
-                "text": "Welcome to our store",
-                "text_alignment": "center",
-                "color_scheme": "accent-2",
-                "link": ""
+                "text": "Open Saturdays 12-6. Open Sundays 1-5 on  12/7, 12/14, 12/21 and 12/28. Check current hours HERE",
+                "link": "https://maps.app.goo.gl/sQkLtfTTigDgq3ke7"
+              }
+            },
+            "announcement_6yMY6c": {
+              "type": "announcement",
+              "settings": {
+                "text": "Calling all Lollygaggers! Join the Bottle Club",
+                "link": "shopify://products/hiatus-membership"
+              }
+            },
+            "announcement_fVrntG": {
+              "type": "announcement",
+              "settings": {
+                "text": "Host an event or private party",
+                "link": "shopify://pages/contact"
+              }
+            },
+            "announcement_3n7Bn9": {
+              "type": "announcement",
+              "settings": {
+                "text": "PSL Blowout Sale!  $12 per bottle or 3 bottles plus a Spirit Tasting for $33!",
+                "link": "shopify://products/psl"
+              }
+            },
+            "announcement_HVryY3": {
+              "type": "announcement",
+              "disabled": true,
+              "settings": {
+                "text": "Mixology Workshop July 11th!",
+                "link": "https://hiatuscrafthouse-001.eventbrite.com"
+              }
+            },
+            "announcement_PVAqwK": {
+              "type": "announcement",
+              "disabled": true,
+              "settings": {
+                "text": "Book Your Tasting Today!",
+                "link": "shopify://products/tasting"
+              }
+            },
+            "announcement_M8NW6c": {
+              "type": "announcement",
+              "disabled": true,
+              "settings": {
+                "text": "15% OFF Every 3-Item Online Spirit Purchase",
+                "link": "shopify://collections/frontpage"
+              }
+            },
+            "announcement-bar-0": {
+              "type": "announcement",
+              "disabled": true,
+              "settings": {
+                "text": "Spirit orders now shipping throughout California",
+                "link": "shopify://collections/frontpage"
               }
             }
           },
           "block_order": [
+            "announcement_gYtPXP",
+            "announcement_6yMY6c",
+            "announcement_fVrntG",
+            "announcement_3n7Bn9",
+            "announcement_HVryY3",
+            "announcement_PVAqwK",
+            "announcement_M8NW6c",
             "announcement-bar-0"
           ],
           "settings": {}
@@ -487,15 +634,12 @@
         "header": {
           "type": "header",
           "settings": {
-            "color_scheme": "background-1",
-            "logo": "{{ shop.brand.logo }}",
-            "logo_width": 70,
             "logo_position": "middle-left",
+            "mobile_logo_position": "center",
             "menu": "main-menu",
             "menu_type_desktop": "dropdown",
-            "show_line_separator": false,
-            "enable_sticky_header": true,
-            "mobile_logo_position": "center",
+            "show_line_separator": true,
+            "color_scheme": "background-1",
             "margin_bottom": 0,
             "padding_top": 20,
             "padding_bottom": 20
@@ -506,49 +650,33 @@
           "blocks": {
             "image": {
               "type": "image",
+              "disabled": true,
               "settings": {
-                "image_width": 80,
+                "image": "shopify://shop_images/yelp-logo-3.png",
+                "image_width": 130,
                 "alignment": "center"
-              }
-            },
-            "link-list": {
-              "type": "link_list",
-              "settings": {
-                "heading": "Quick links",
-                "menu": "footer"
-              }
-            },
-            "text": {
-              "type": "text",
-              "settings": {
-                "heading": "Heading",
-                "subtext": "<p>Share contact information, store details, and brand content with your customers.</p>"
               }
             }
           },
           "block_order": [
-            "image",
-            "link-list",
-            "text"
+            "image"
           ],
           "settings": {
             "color_scheme": "accent-1",
             "newsletter_enable": false,
-            "newsletter_heading": "Subscribe to our emails",
+            "newsletter_heading": "",
             "show_social": true,
-            "enable_country_selector": true,
+            "enable_country_selector": false,
             "enable_language_selector": true,
-            "payment_enable": true,
-            "margin_top": 0,
-            "padding_top": 64,
-            "padding_bottom": 36
+            "payment_enable": false,
+            "margin_top": 8,
+            "padding_top": 12,
+            "padding_bottom": 12
           }
         },
         "main-password-header": {
           "type": "main-password-header",
           "settings": {
-            "logo": "{{ shop.brand.logo }}",
-            "logo_max_width": 70,
             "color_scheme": "background-1"
           }
         },
@@ -558,7 +686,8 @@
             "color_scheme": "background-1"
           }
         }
-      }
+      },
+      "content_for_index": []
     }
   }
 }

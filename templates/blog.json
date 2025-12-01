@@ -1,1 +1,55 @@
-{"sections":{"main":{"type":"main-blog","settings":{"layout":"collage","show_image":true,"image_height":"medium","show_date":false,"show_author":false,"padding_top":12,"padding_bottom":0}},"newsletter":{"type":"newsletter","blocks":{"heading":{"type":"heading","settings":{"heading":"Subscribe to our emails!","heading_size":"h1"}},"paragraph":{"type":"paragraph","settings":{"text":"<p>Get our newest recipes sent right to your inbox!<\/p>"}},"email_form":{"type":"email_form","settings":{}}},"block_order":["heading","paragraph","email_form"],"settings":{"color_scheme":"background-1","full_width":true,"padding_top":40,"padding_bottom":52}}},"order":["main","newsletter"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-blog",
+      "settings": {
+        "layout": "collage",
+        "show_image": true,
+        "image_height": "medium",
+        "show_date": false,
+        "show_author": false,
+        "padding_top": 12,
+        "padding_bottom": 0
+      }
+    },
+    "newsletter_jWDk3d": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_PBrtWj": {
+          "type": "heading",
+          "settings": {
+            "heading": "Not ready to join the Bottle Club? Subscribe to the Newsletter!",
+            "heading_size": "h2"
+          }
+        },
+        "email_form_gCUEJr": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_PBrtWj",
+        "email_form_gCUEJr"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "newsletter_jWDk3d"
+  ]
+}

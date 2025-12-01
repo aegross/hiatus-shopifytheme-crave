@@ -1,0 +1,122 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "name": "t:sections.header.name",
+  "type": "header",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "announcement_gYtPXP": {
+          "type": "announcement",
+          "settings": {
+            "text": "Open Saturdays 12-6. Open Sundays 1-5 on  12/7, 12/14, 12/21 and 12/28. Check current hours HERE",
+            "link": "https://maps.app.goo.gl/sQkLtfTTigDgq3ke7"
+          }
+        },
+        "announcement_6yMY6c": {
+          "type": "announcement",
+          "settings": {
+            "text": "Calling all Lollygaggers! Join the Bottle Club",
+            "link": "shopify://products/hiatus-membership"
+          }
+        },
+        "announcement_fVrntG": {
+          "type": "announcement",
+          "settings": {
+            "text": "Host an event or private party",
+            "link": "shopify://pages/contact"
+          }
+        },
+        "announcement_3n7Bn9": {
+          "type": "announcement",
+          "settings": {
+            "text": "PSL Blowout Sale!  $12 per bottle or 3 bottles plus a Spirit Tasting for $33!",
+            "link": "shopify://products/psl"
+          }
+        },
+        "announcement_HVryY3": {
+          "type": "announcement",
+          "disabled": true,
+          "settings": {
+            "text": "Mixology Workshop July 11th!",
+            "link": "https://hiatuscrafthouse-001.eventbrite.com"
+          }
+        },
+        "announcement_PVAqwK": {
+          "type": "announcement",
+          "disabled": true,
+          "settings": {
+            "text": "Book Your Tasting Today!",
+            "link": "shopify://products/tasting"
+          }
+        },
+        "announcement_M8NW6c": {
+          "type": "announcement",
+          "disabled": true,
+          "settings": {
+            "text": "15% OFF Every 3-Item Online Spirit Purchase",
+            "link": "shopify://collections/frontpage"
+          }
+        },
+        "announcement-bar-0": {
+          "type": "announcement",
+          "disabled": true,
+          "settings": {
+            "text": "Spirit orders now shipping throughout California",
+            "link": "shopify://collections/frontpage"
+          }
+        }
+      },
+      "block_order": [
+        "announcement_gYtPXP",
+        "announcement_6yMY6c",
+        "announcement_fVrntG",
+        "announcement_3n7Bn9",
+        "announcement_HVryY3",
+        "announcement_PVAqwK",
+        "announcement_M8NW6c",
+        "announcement-bar-0"
+      ],
+      "settings": {
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "color_scheme": "accent-1",
+        "show_line_separator": true,
+        "show_social": false,
+        "enable_country_selector": false,
+        "enable_language_selector": false
+      }
+    },
+    "header": {
+      "type": "header",
+      "settings": {
+        "logo_position": "middle-left",
+        "mobile_logo_position": "center",
+        "menu": "main-menu",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "on-scroll-up",
+        "show_line_separator": true,
+        "color_scheme": "background-1",
+        "menu_color_scheme": "background-1",
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "enable_customer_avatar": true,
+        "margin_bottom": 0,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}
