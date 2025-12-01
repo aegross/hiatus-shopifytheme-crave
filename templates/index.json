@@ -32,6 +32,7 @@
         },
         "slide_XAJh3a": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/IMG_2378.jpg",
             "image_overlay_opacity": 40,
@@ -51,11 +52,11 @@
         "slide_TK6LpF": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/IMG20251031120807.jpg",
+            "image": "shopify://shop_images/dec_cocktail.jpg",
             "image_overlay_opacity": 50,
-            "heading": "Apple Cider Whiskey Sour",
+            "heading": "Bourbon Peppermint Mocha",
             "heading_size": "h1",
-            "subheading": "Cocktail of the Month, available every Saturday in November!",
+            "subheading": "Cocktail of the Month, available every day we're open in December!",
             "button_label": "Book a Tasting Today",
             "link": "shopify://products/tasting",
             "button_style_secondary": false,
