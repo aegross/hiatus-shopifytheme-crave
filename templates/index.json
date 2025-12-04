@@ -32,15 +32,14 @@
         },
         "slide_XAJh3a": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/IMG_2378.jpg",
             "image_overlay_opacity": 40,
             "heading": "Saturday, December 13— Magic Show and Spirit Tasting",
             "heading_size": "h1",
-            "subheading": "Join us on Saturday, December 13th, for an exciting night of mind-blowing magic and illusions from Magic Castle performers Raven and Migz! Our December 12th show sold out immediately— don't miss out a second time!",
-            "button_label": "Get your tickets now!",
-            "link": "https://ticketstripe.com/events/7866108104619767",
+            "subheading": "Join us on Saturday, December 13th, for an exciting night of mind-blowing magic and illusions from Magic Castle performers Raven and Migz!",
+            "button_label": "SOLD OUT!",
+            "link": "",
             "button_style_secondary": false,
             "show_text_box": false,
             "box_align": "middle-center",
