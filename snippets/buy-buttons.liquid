@@ -59,7 +59,7 @@
         {%- if gift_card_recipient_feature_active -%}
           {%- render 'gift-card-recipient-form', product: product, form: form, section: section -%}
         {%- endif -%}
-
+<span class='appstle_membership_stand_alone_selector' data-product-handle='{{ product.handle }}' style="display:none;"></span>
         <div class="product-form__buttons">
           {%- liquid
             assign check_against_inventory = true
