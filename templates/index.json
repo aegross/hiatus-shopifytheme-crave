@@ -12,42 +12,6 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
-        "slide_zKVfqn": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/IMG_2864.jpg",
-            "image_overlay_opacity": 40,
-            "heading": "Thursday, December 4— Winter Mixology Workshop",
-            "heading_size": "h1",
-            "subheading": "Join us on Thursday, December 4th, for a Holiday Mixology Workshop with Nick and Alex from Firefly Bartending! Cocktails, recipe cards, and festive bites included. Whether you’re a holiday enthusiast or just looking to expand your cocktail repertoire, this workshop is designed to be fun, interactive, and delicious. No prior experience needed, and all tools are provided!",
-            "button_label": "SOLD OUT!",
-            "link": "",
-            "button_style_secondary": false,
-            "show_text_box": false,
-            "box_align": "middle-center",
-            "text_alignment": "center",
-            "text_alignment_mobile": "center",
-            "color_scheme": "accent-2"
-          }
-        },
-        "slide_XAJh3a": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/IMG_2378.jpg",
-            "image_overlay_opacity": 40,
-            "heading": "Saturday, December 13— Magic Show and Spirit Tasting",
-            "heading_size": "h1",
-            "subheading": "Join us on Saturday, December 13th, for an exciting night of mind-blowing magic and illusions from Magic Castle performers Raven and Migz!",
-            "button_label": "SOLD OUT!",
-            "link": "",
-            "button_style_secondary": false,
-            "show_text_box": false,
-            "box_align": "middle-center",
-            "text_alignment": "center",
-            "text_alignment_mobile": "center",
-            "color_scheme": "accent-2"
-          }
-        },
         "slide_TK6LpF": {
           "type": "slide",
           "settings": {
@@ -143,7 +107,7 @@
           "settings": {
             "image": "shopify://shop_images/IMG_3963_1.jpg",
             "image_overlay_opacity": 60,
-            "heading": "SALE: Pumpkin Spice Crème Liqueur",
+            "heading": "BLOWOUT SALE: Pumpkin Spice Crème Liqueur",
             "heading_size": "h1",
             "subheading": "Experience the rich embrace of the season with our Pumpkin Spice Crème Liqueur. Crafted with the perfect blend of cinnamon, nutmeg and ginger, then kicked up a notch with Kentucky Bourbon Whiskey. It's a velvety indulgence that captures the cozy flavors of fall in every sip.",
             "button_label": "BUY NOW",
@@ -194,8 +158,6 @@
         }
       },
       "block_order": [
-        "slide_zKVfqn",
-        "slide_XAJh3a",
         "slide_TK6LpF",
         "slide_MDQjaN",
         "slide-0",
