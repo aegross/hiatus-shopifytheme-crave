@@ -9,6 +9,16 @@
  */
 {
   "sections": {
+    "custom_liquid_TqkH8d": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "{%- assign contains_subscription = false -%}\n\n{% # wrap inside of an empty check to prevent unnecessary computation %}\n{% if cart != empty %}\n\n{% # see if there is a membership in the cart %}\n{% assign num_memberships = cart | line_items_for: all_products['hiatus-membership']%}\n\n{% if num_memberships > 0 %}\n{%- assign contains_membership = true -%}\n<p>you have a membership</p>\n{% else}\n{%- assign contains_membership = false -%}\n<p>you don't have a membership</p>\n{% endif %}\n\n{% # see if there are subscriptions in the cart %}\n\n{% endif %}",
+        "color_scheme": "accent-2",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "cab84052-d761-4842-9540-7e5257a30e2a": {
       "type": "rich-text",
       "blocks": {
@@ -108,6 +118,7 @@
     }
   },
   "order": [
+    "custom_liquid_TqkH8d",
     "cab84052-d761-4842-9540-7e5257a30e2a",
     "cart-items",
     "cart-footer",
