@@ -504,7 +504,7 @@
             "heading_size": 36,
             "heading_alignment": "left",
             "heading_color": "#3d081b",
-            "columns_desktop": 3,
+            "columns_desktop": 4,
             "columns_tablet": 2,
             "columns_mobile": "1",
             "enable_title_link": true,
