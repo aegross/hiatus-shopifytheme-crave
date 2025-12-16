@@ -203,7 +203,7 @@
       "settings": {
         "collection": "frontpage",
         "products_to_show": 4,
-        "title": "Shop Our Spirits",
+        "title": "Shop Our <a href=\"/collections/frontpage\" title=\"Spirits\">Spirits</a>",
         "heading_size": "h1",
         "description": "<p><a href=\"/products/hiatus-membership\" target=\"_blank\" title=\"Club Membership\">Bottle Club</a> members are eligible to receive up to 25% off of all bottles!</p>",
         "show_description": false,
