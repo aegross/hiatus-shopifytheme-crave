@@ -55,7 +55,7 @@
             "image_overlay_opacity": 30,
             "heading": "Check out our holiday recipes!",
             "heading_size": "h1",
-            "subheading": "Made with Hiatus Craft House spirits!",
+            "subheading": "Made with Hiatus Craft House spirits!.",
             "button_label": "Recipes",
             "link": "shopify://pages/recipes",
             "button_style_secondary": false,
