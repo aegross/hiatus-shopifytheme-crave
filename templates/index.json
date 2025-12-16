@@ -205,7 +205,7 @@
         "products_to_show": 4,
         "title": "Shop Our Spirits",
         "heading_size": "h1",
-        "description": "",
+        "description": "<p><a href=\"/products/hiatus-membership\" target=\"_blank\" title=\"Club Membership\">Bottle Club </a>members are eligible to receive up to 25% off of all bottles!</p>",
         "show_description": false,
         "description_style": "body",
         "columns_desktop": 4,
