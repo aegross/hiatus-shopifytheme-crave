@@ -30,25 +30,6 @@
             "color_scheme": "accent-2"
           }
         },
-        "slide_MDQjaN": {
-          "type": "slide",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/IMG_1986.jpg",
-            "image_overlay_opacity": 30,
-            "heading": "Check out our holiday recipes!",
-            "heading_size": "h1",
-            "subheading": "Made with Hiatus Craft House spirits!.",
-            "button_label": "Recipes",
-            "link": "shopify://pages/recipes",
-            "button_style_secondary": false,
-            "show_text_box": false,
-            "box_align": "middle-center",
-            "text_alignment": "center",
-            "text_alignment_mobile": "center",
-            "color_scheme": "accent-2"
-          }
-        },
         "slide_9DGtDz": {
           "type": "slide",
           "settings": {
@@ -59,6 +40,24 @@
             "subheading": "",
             "button_label": "Contact Us Today",
             "link": "shopify://pages/contact",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "accent-2"
+          }
+        },
+        "slide_aJwG6J": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/IMG_2559_-_Copy-2.jpg",
+            "image_overlay_opacity": 40,
+            "heading": "Happy Ginuary!",
+            "heading_size": "h1",
+            "subheading": "Celebrate Ginuary with our cocktail recipes—featuring our Blossom Blush Gin.",
+            "button_label": "Recipes",
+            "link": "shopify://pages/recipes",
             "button_style_secondary": false,
             "show_text_box": false,
             "box_align": "middle-center",
@@ -91,7 +90,7 @@
           "settings": {
             "image": "shopify://shop_images/IMG_3955.jpg",
             "image_overlay_opacity": 40,
-            "heading": "Gift a tasting for the holidays!",
+            "heading": "Gift a tasting",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "Buy now",
@@ -159,17 +158,17 @@
             "color_scheme": "accent-2"
           }
         },
-        "slide_aJwG6J": {
+        "slide_MDQjaN": {
           "type": "slide",
           "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/IMG_4368.jpg",
-            "image_overlay_opacity": 40,
-            "heading": "Holiday Ornament Craft Day",
+            "image": "shopify://shop_images/IMG_1986.jpg",
+            "image_overlay_opacity": 30,
+            "heading": "Check out our holiday recipes!",
             "heading_size": "h1",
-            "subheading": "Join us this <strong>Sunday</strong>, <strong>December 21st from 2-4pm</strong>, for our Holiday Ornament Craft Day! Bring your kids, family, and friends to decorate a holiday ornament for <strong>free</strong>. (While supplies last!)",
-            "button_label": "",
-            "link": "",
+            "subheading": "Made with Hiatus Craft House spirits!.",
+            "button_label": "Recipes",
+            "link": "shopify://pages/recipes",
             "button_style_secondary": false,
             "show_text_box": false,
             "box_align": "middle-center",
@@ -181,14 +180,14 @@
       },
       "block_order": [
         "slide-0",
-        "slide_MDQjaN",
         "slide_9DGtDz",
+        "slide_aJwG6J",
         "slide_PbQA9Y",
         "slide_cjdkdq",
         "slide_TK6LpF",
         "e43c93ae-2d02-4689-9536-9c3b51643f65",
         "slide_jq6q7t",
-        "slide_aJwG6J"
+        "slide_MDQjaN"
       ],
       "settings": {
         "layout": "grid",
