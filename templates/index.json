@@ -30,44 +30,9 @@
             "color_scheme": "accent-2"
           }
         },
-        "slide_cjdkdq": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/IMG_3955.jpg",
-            "image_overlay_opacity": 40,
-            "heading": "Gift a tasting for the holidays!",
-            "heading_size": "h2",
-            "subheading": "",
-            "button_label": "Buy now",
-            "link": "shopify://products/spirit-tasting-gift-card",
-            "button_style_secondary": false,
-            "show_text_box": false,
-            "box_align": "middle-center",
-            "text_alignment": "center",
-            "text_alignment_mobile": "center",
-            "color_scheme": "accent-2"
-          }
-        },
-        "slide_TK6LpF": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/dec_cocktail.jpg",
-            "image_overlay_opacity": 50,
-            "heading": "Bourbon Peppermint Mocha",
-            "heading_size": "h1",
-            "subheading": "Cocktail of the Month, available every day we're open in December!",
-            "button_label": "Book a Tasting Today",
-            "link": "shopify://products/tasting",
-            "button_style_secondary": false,
-            "show_text_box": false,
-            "box_align": "middle-center",
-            "text_alignment": "center",
-            "text_alignment_mobile": "center",
-            "color_scheme": "accent-2"
-          }
-        },
         "slide_MDQjaN": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/IMG_1986.jpg",
             "image_overlay_opacity": 30,
@@ -89,7 +54,7 @@
           "settings": {
             "image": "shopify://shop_images/IMG_3757.jpg",
             "image_overlay_opacity": 50,
-            "heading": "Schedule a private event for the holiday season!",
+            "heading": "Schedule a private event!",
             "heading_size": "h1",
             "subheading": "",
             "button_label": "Contact Us Today",
@@ -112,6 +77,44 @@
             "subheading": "Experience the rich embrace of the season with our Pumpkin Spice Crème Liqueur. Crafted with the perfect blend of cinnamon, nutmeg and ginger, then kicked up a notch with Kentucky Bourbon Whiskey. It's a velvety indulgence that captures the cozy flavors of fall in every sip.",
             "button_label": "BUY NOW",
             "link": "shopify://products/psl",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "accent-2"
+          }
+        },
+        "slide_cjdkdq": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/IMG_3955.jpg",
+            "image_overlay_opacity": 40,
+            "heading": "Gift a tasting for the holidays!",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "Buy now",
+            "link": "shopify://products/spirit-tasting-gift-card",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "accent-2"
+          }
+        },
+        "slide_TK6LpF": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/dec_cocktail.jpg",
+            "image_overlay_opacity": 50,
+            "heading": "Bourbon Peppermint Mocha",
+            "heading_size": "h1",
+            "subheading": "Cocktail of the Month, available every day we're open in December!",
+            "button_label": "Book a Tasting Today",
+            "link": "shopify://products/tasting",
             "button_style_secondary": false,
             "show_text_box": false,
             "box_align": "middle-center",
@@ -178,11 +181,11 @@
       },
       "block_order": [
         "slide-0",
-        "slide_cjdkdq",
-        "slide_TK6LpF",
         "slide_MDQjaN",
         "slide_9DGtDz",
         "slide_PbQA9Y",
+        "slide_cjdkdq",
+        "slide_TK6LpF",
         "e43c93ae-2d02-4689-9536-9c3b51643f65",
         "slide_jq6q7t",
         "slide_aJwG6J"
