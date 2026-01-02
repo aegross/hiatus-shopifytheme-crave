@@ -21,13 +21,6 @@
             "link": "https://maps.app.goo.gl/sQkLtfTTigDgq3ke7"
           }
         },
-        "announcement_6yMY6c": {
-          "type": "announcement",
-          "settings": {
-            "text": "Calling all Lollygaggers! Join the Bottle Club",
-            "link": "shopify://products/hiatus-membership"
-          }
-        },
         "announcement_fVrntG": {
           "type": "announcement",
           "settings": {
@@ -38,7 +31,7 @@
         "announcement_3n7Bn9": {
           "type": "announcement",
           "settings": {
-            "text": "PSL Blowout Sale!  $12 per bottle or 3 bottles plus a Spirit Tasting for $33!",
+            "text": "PSL Blowout Sale!  $12 per bottle or 6 bottles for $60!",
             "link": "shopify://products/psl"
           }
         },
@@ -77,7 +70,6 @@
       },
       "block_order": [
         "announcement_gYtPXP",
-        "announcement_6yMY6c",
         "announcement_fVrntG",
         "announcement_3n7Bn9",
         "announcement_HVryY3",
