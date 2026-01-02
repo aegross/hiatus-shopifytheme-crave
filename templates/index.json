@@ -30,24 +30,6 @@
             "color_scheme": "accent-2"
           }
         },
-        "slide_9DGtDz": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/IMG_3757.jpg",
-            "image_overlay_opacity": 50,
-            "heading": "Schedule a private event!",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "Contact Us Today",
-            "link": "shopify://pages/contact",
-            "button_style_secondary": false,
-            "show_text_box": false,
-            "box_align": "middle-center",
-            "text_alignment": "center",
-            "text_alignment_mobile": "center",
-            "color_scheme": "accent-2"
-          }
-        },
         "slide_aJwG6J": {
           "type": "slide",
           "settings": {
@@ -58,6 +40,24 @@
             "subheading": "Celebrate Ginuary with our cocktail recipes—featuring our Blossom Blush Gin.",
             "button_label": "Recipes",
             "link": "shopify://pages/recipes",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "accent-2"
+          }
+        },
+        "slide_9DGtDz": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/IMG_3757.jpg",
+            "image_overlay_opacity": 50,
+            "heading": "Schedule a private event!",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "Contact Us Today",
+            "link": "shopify://pages/contact",
             "button_style_secondary": false,
             "show_text_box": false,
             "box_align": "middle-center",
@@ -86,11 +86,10 @@
         },
         "slide_cjdkdq": {
           "type": "slide",
-          "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/IMG_3955.jpg",
+            "image": "shopify://shop_images/IMG_3936_1.jpg",
             "image_overlay_opacity": 40,
-            "heading": "Gift a tasting",
+            "heading": "Gift a tasting!",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "Buy now",
@@ -109,9 +108,9 @@
           "settings": {
             "image": "shopify://shop_images/dec_cocktail.jpg",
             "image_overlay_opacity": 50,
-            "heading": "Bourbon Peppermint Mocha",
+            "heading": "Blueberry Collins",
             "heading_size": "h1",
-            "subheading": "Cocktail of the Month, available every day we're open in December!",
+            "subheading": "Ginuary Cocktail of the Month, available every Saturday and Sunday",
             "button_label": "Book a Tasting Today",
             "link": "shopify://products/tasting",
             "button_style_secondary": false,
@@ -180,8 +179,8 @@
       },
       "block_order": [
         "slide-0",
-        "slide_9DGtDz",
         "slide_aJwG6J",
+        "slide_9DGtDz",
         "slide_PbQA9Y",
         "slide_cjdkdq",
         "slide_TK6LpF",
