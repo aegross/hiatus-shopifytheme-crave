@@ -21,18 +21,18 @@
             "link": "https://maps.app.goo.gl/sQkLtfTTigDgq3ke7"
           }
         },
-        "announcement_fVrntG": {
-          "type": "announcement",
-          "settings": {
-            "text": "Host an event or private party",
-            "link": "shopify://pages/contact"
-          }
-        },
         "announcement_3n7Bn9": {
           "type": "announcement",
           "settings": {
             "text": "PSL Blowout Sale!  $12 per bottle or 6 bottles for $60!",
             "link": "shopify://products/psl"
+          }
+        },
+        "announcement_fVrntG": {
+          "type": "announcement",
+          "settings": {
+            "text": "Host an event or private party",
+            "link": "shopify://pages/contact"
           }
         },
         "announcement_HVryY3": {
@@ -70,8 +70,8 @@
       },
       "block_order": [
         "announcement_gYtPXP",
-        "announcement_fVrntG",
         "announcement_3n7Bn9",
+        "announcement_fVrntG",
         "announcement_HVryY3",
         "announcement_PVAqwK",
         "announcement_M8NW6c",
