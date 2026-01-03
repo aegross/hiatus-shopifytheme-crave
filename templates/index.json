@@ -48,6 +48,24 @@
             "color_scheme": "accent-2"
           }
         },
+        "slide_TK6LpF": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/IMG20260102152016.jpg",
+            "image_overlay_opacity": 50,
+            "heading": "Blueberry Collins",
+            "heading_size": "h1",
+            "subheading": "Try our Cocktail of the Month in honor of \"Ginuary\", featuring our Blossom Blush Gin and Blueberry Liqueur. Try any Saturday and Sunday in January!",
+            "button_label": "Book a Tasting Today",
+            "link": "shopify://products/tasting",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "accent-2"
+          }
+        },
         "slide_9DGtDz": {
           "type": "slide",
           "settings": {
@@ -94,25 +112,6 @@
             "subheading": "",
             "button_label": "Buy now",
             "link": "shopify://products/spirit-tasting-gift-card",
-            "button_style_secondary": false,
-            "show_text_box": false,
-            "box_align": "middle-center",
-            "text_alignment": "center",
-            "text_alignment_mobile": "center",
-            "color_scheme": "accent-2"
-          }
-        },
-        "slide_TK6LpF": {
-          "type": "slide",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/dec_cocktail.jpg",
-            "image_overlay_opacity": 50,
-            "heading": "Blueberry Collins",
-            "heading_size": "h1",
-            "subheading": "Ginuary Cocktail of the Month, available every Saturday and Sunday",
-            "button_label": "Book a Tasting Today",
-            "link": "shopify://products/tasting",
             "button_style_secondary": false,
             "show_text_box": false,
             "box_align": "middle-center",
@@ -180,10 +179,10 @@
       "block_order": [
         "slide-0",
         "slide_aJwG6J",
+        "slide_TK6LpF",
         "slide_9DGtDz",
         "slide_PbQA9Y",
         "slide_cjdkdq",
-        "slide_TK6LpF",
         "e43c93ae-2d02-4689-9536-9c3b51643f65",
         "slide_jq6q7t",
         "slide_MDQjaN"
