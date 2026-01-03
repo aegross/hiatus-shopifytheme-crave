@@ -61,21 +61,11 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "column_rGUKTd": {
-          "type": "column",
-          "settings": {
-            "title": "Founding Members",
-            "text": "<p><strong>Join by December 31, 2025 </strong>to become part of the Founders Circle. Founders receive a <strong>custom Lollygaggers jersey</strong> and access to the <strong>Founders Party in early 2026</strong>.</p>",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
         "column_4eMYpt",
-        "column_34b69K",
-        "column_rGUKTd"
+        "column_34b69K"
       ],
       "custom_css": [],
       "name": "Lollygagger Perks",
@@ -86,7 +76,7 @@
         "image_ratio": "adapt",
         "button_label": "",
         "button_link": "",
-        "columns_desktop": 3,
+        "columns_desktop": 2,
         "column_alignment": "left",
         "background_style": "primary",
         "color_scheme": "background-1",
