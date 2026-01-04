@@ -87,12 +87,12 @@
         "slide_PbQA9Y": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/IMG_3963_1.jpg",
+            "image": "shopify://shop_images/IMG_2546.jpg",
             "image_overlay_opacity": 60,
             "heading": "BLOWOUT SALE: Pumpkin Spice Crème Liqueur",
             "heading_size": "h1",
             "subheading": "Experience the rich embrace of the season with our Pumpkin Spice Crème Liqueur. Crafted with the perfect blend of cinnamon, nutmeg and ginger, then kicked up a notch with Kentucky Bourbon Whiskey. It's a velvety indulgence that captures the cozy flavors of fall in every sip.",
-            "button_label": "BUY NOW",
+            "button_label": "Buy now!",
             "link": "shopify://products/psl",
             "button_style_secondary": false,
             "show_text_box": false,
