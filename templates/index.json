@@ -30,6 +30,24 @@
             "color_scheme": "accent-2"
           }
         },
+        "slide_MDQjaN": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/IMG_2831.jpg",
+            "image_overlay_opacity": 30,
+            "heading": "Our story",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "About Hiatus Craft House",
+            "link": "shopify://pages/our-story",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "accent-2"
+          }
+        },
         "slide_aJwG6J": {
           "type": "slide",
           "settings": {
@@ -155,37 +173,18 @@
             "text_alignment_mobile": "center",
             "color_scheme": "accent-2"
           }
-        },
-        "slide_MDQjaN": {
-          "type": "slide",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/IMG_1986.jpg",
-            "image_overlay_opacity": 30,
-            "heading": "Check out our holiday recipes!",
-            "heading_size": "h1",
-            "subheading": "Made with Hiatus Craft House spirits!.",
-            "button_label": "Recipes",
-            "link": "shopify://pages/recipes",
-            "button_style_secondary": false,
-            "show_text_box": false,
-            "box_align": "middle-center",
-            "text_alignment": "center",
-            "text_alignment_mobile": "center",
-            "color_scheme": "accent-2"
-          }
         }
       },
       "block_order": [
         "slide-0",
+        "slide_MDQjaN",
         "slide_aJwG6J",
         "slide_TK6LpF",
         "slide_9DGtDz",
         "slide_PbQA9Y",
         "slide_cjdkdq",
         "e43c93ae-2d02-4689-9536-9c3b51643f65",
-        "slide_jq6q7t",
-        "slide_MDQjaN"
+        "slide_jq6q7t"
       ],
       "settings": {
         "layout": "grid",
