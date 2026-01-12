@@ -14,6 +14,7 @@
       "blocks": {
         "slide_HJri7T": {
           "type": "slide",
+          "name": "TEMP",
           "settings": {
             "image": "shopify://shop_images/IMG_3825_2.jpg",
             "image_overlay_opacity": 70,
@@ -30,8 +31,28 @@
             "color_scheme": "accent-2"
           }
         },
+        "slide_jq6q7t": {
+          "type": "slide",
+          "name": "TEMP",
+          "settings": {
+            "image": "shopify://shop_images/IMG_4053.jpg",
+            "image_overlay_opacity": 70,
+            "heading": "Sunday Craft Day: Diamond Art",
+            "heading_size": "h2",
+            "subheading": "Join us this <strong>Sunday, January 18th</strong>, from 1–5pm, for our Sunday Craft Day! Bring your kids, family, and friends to create a diamond art magnet of a cocktail or ice cream treat for free. Adults over the age of 21 may enjoy a six-spirit tasting, or our Cocktail of the Month—Blueberry Collins, for only $10.",
+            "button_label": "Reserve your tasting now!",
+            "link": "shopify://products/tasting",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "accent-2"
+          }
+        },
         "slide-0": {
           "type": "slide",
+          "name": "PERM",
           "settings": {
             "image": "shopify://shop_images/Asset_3_1f18c9d4-f635-4fae-ad2b-0cbb39c0773f.png",
             "image_overlay_opacity": 0,
@@ -50,6 +71,7 @@
         },
         "slide_MDQjaN": {
           "type": "slide",
+          "name": "PERM",
           "settings": {
             "image": "shopify://shop_images/IMG_2831.jpg",
             "image_overlay_opacity": 30,
@@ -68,6 +90,7 @@
         },
         "slide_aJwG6J": {
           "type": "slide",
+          "name": "TEMP",
           "settings": {
             "image": "shopify://shop_images/IMG_2559_-_Copy-2.jpg",
             "image_overlay_opacity": 40,
@@ -86,6 +109,7 @@
         },
         "slide_TK6LpF": {
           "type": "slide",
+          "name": "TEMP",
           "settings": {
             "image": "shopify://shop_images/IMG20260102152016.jpg",
             "image_overlay_opacity": 50,
@@ -104,6 +128,7 @@
         },
         "slide_9DGtDz": {
           "type": "slide",
+          "name": "PERM",
           "settings": {
             "image": "shopify://shop_images/IMG_3757.jpg",
             "image_overlay_opacity": 50,
@@ -120,26 +145,9 @@
             "color_scheme": "accent-2"
           }
         },
-        "slide_PbQA9Y": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/IMG_2546.jpg",
-            "image_overlay_opacity": 60,
-            "heading": "BLOWOUT SALE: Pumpkin Spice Crème Liqueur",
-            "heading_size": "h1",
-            "subheading": "Experience the rich embrace of the season with our Pumpkin Spice Crème Liqueur. Crafted with the perfect blend of cinnamon, nutmeg and ginger, then kicked up a notch with Kentucky Bourbon Whiskey. It's a velvety indulgence that captures the cozy flavors of fall in every sip.",
-            "button_label": "Buy now!",
-            "link": "shopify://products/psl",
-            "button_style_secondary": false,
-            "show_text_box": false,
-            "box_align": "middle-center",
-            "text_alignment": "center",
-            "text_alignment_mobile": "center",
-            "color_scheme": "accent-2"
-          }
-        },
         "slide_cjdkdq": {
           "type": "slide",
+          "name": "PERM",
           "settings": {
             "image": "shopify://shop_images/IMG_3936_1.jpg",
             "image_overlay_opacity": 40,
@@ -158,6 +166,7 @@
         },
         "e43c93ae-2d02-4689-9536-9c3b51643f65": {
           "type": "slide",
+          "name": "PERM",
           "settings": {
             "image": "shopify://shop_images/IMG_3153_ddbbc237-6894-4898-b9d9-8809ed5415bb.jpg",
             "image_overlay_opacity": 50,
@@ -174,16 +183,17 @@
             "color_scheme": "accent-2"
           }
         },
-        "slide_jq6q7t": {
+        "slide_PbQA9Y": {
           "type": "slide",
+          "name": "TEMP",
           "settings": {
-            "image": "shopify://shop_images/20241014_115917.jpg",
-            "image_overlay_opacity": 40,
-            "heading": "Visit Our Tasting Room",
-            "heading_size": "h2",
-            "subheading": "",
-            "button_label": "Book a Tasting Today",
-            "link": "shopify://products/tasting",
+            "image": "shopify://shop_images/IMG_2546.jpg",
+            "image_overlay_opacity": 60,
+            "heading": "BLOWOUT SALE: Pumpkin Spice Crème Liqueur",
+            "heading_size": "h1",
+            "subheading": "Experience the rich embrace of the season with our Pumpkin Spice Crème Liqueur. Crafted with the perfect blend of cinnamon, nutmeg and ginger, then kicked up a notch with Kentucky Bourbon Whiskey. It's a velvety indulgence that captures the cozy flavors of fall in every sip.",
+            "button_label": "Buy now!",
+            "link": "shopify://products/psl",
             "button_style_secondary": false,
             "show_text_box": false,
             "box_align": "middle-center",
@@ -195,15 +205,15 @@
       },
       "block_order": [
         "slide_HJri7T",
+        "slide_jq6q7t",
         "slide-0",
         "slide_MDQjaN",
         "slide_aJwG6J",
         "slide_TK6LpF",
         "slide_9DGtDz",
-        "slide_PbQA9Y",
         "slide_cjdkdq",
         "e43c93ae-2d02-4689-9536-9c3b51643f65",
-        "slide_jq6q7t"
+        "slide_PbQA9Y"
       ],
       "settings": {
         "layout": "grid",
@@ -271,70 +281,11 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
-    },
-    "slideshow_zaE4pL": {
-      "type": "slideshow",
-      "blocks": {
-        "slide_zkbHPa": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/IMG_1986.jpg",
-            "image_overlay_opacity": 50,
-            "heading": "Holiday Recipes",
-            "heading_size": "h1",
-            "subheading": "Celebrate the holidays with recipes made with Hiatus spirits!",
-            "button_label": "Recipes",
-            "link": "shopify://pages/recipes",
-            "button_style_secondary": false,
-            "show_text_box": false,
-            "box_align": "middle-center",
-            "text_alignment": "center",
-            "text_alignment_mobile": "center",
-            "color_scheme": "background-1"
-          }
-        },
-        "slide_QyELAW": {
-          "type": "slide",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/IMG_2254.jpg",
-            "image_overlay_opacity": 30,
-            "heading": "Hiatus Craft House Recipes",
-            "heading_size": "h1",
-            "subheading": "Featured: Our Blueberry French 75, made with our Blossom Blush Gin and Blueberry Liqueur!",
-            "button_label": "Check out the recipes here!",
-            "link": "shopify://pages/recipes",
-            "button_style_secondary": false,
-            "show_text_box": false,
-            "box_align": "middle-center",
-            "text_alignment": "center",
-            "text_alignment_mobile": "center",
-            "color_scheme": "background-1"
-          }
-        }
-      },
-      "block_order": [
-        "slide_zkbHPa",
-        "slide_QyELAW"
-      ],
-      "disabled": true,
-      "name": "HIDDEN Slideshow (for Excess slides)",
-      "settings": {
-        "layout": "grid",
-        "slide_height": "large",
-        "slider_visual": "dots",
-        "auto_rotate": true,
-        "change_slides_speed": 5,
-        "image_behavior": "none",
-        "show_text_below": true,
-        "accessibility_info": "Slideshow about our brand"
-      }
     }
   },
   "order": [
     "slideshow",
     "featured_collection_dJQGf8",
-    "newsletter",
-    "slideshow_zaE4pL"
+    "newsletter"
   ]
 }
