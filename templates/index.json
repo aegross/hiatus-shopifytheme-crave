@@ -12,6 +12,24 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
+        "slide_HJri7T": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/IMG_3825_2.jpg",
+            "image_overlay_opacity": 70,
+            "heading": "Valentine's Mixology Workshop",
+            "heading_size": "h1",
+            "subheading": "Join us <strong>Thursday, February 12th</strong>, from 6:30-8:30PM, for our Valentine's Day Mixology Workshop, featuring Nick from Firefly Bartending! Each ticket includes two Valentine's Day cocktails made by you, recipe cards, and snacks and dessert to enjoy while you mix and sip.",
+            "button_label": "Book Now!",
+            "link": "",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "accent-2"
+          }
+        },
         "slide-0": {
           "type": "slide",
           "settings": {
@@ -176,6 +194,7 @@
         }
       },
       "block_order": [
+        "slide_HJri7T",
         "slide-0",
         "slide_MDQjaN",
         "slide_aJwG6J",
