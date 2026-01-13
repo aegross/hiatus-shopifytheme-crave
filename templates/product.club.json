@@ -271,6 +271,15 @@
             "page": ""
           }
         },
+        "collapsible_row_BiLHpN": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How do I swap my subscribed bottle?",
+            "icon": "star",
+            "row_content": "<p><a href=\"https://hiatuscrafthouse.com/apps/subscriptions\" target=\"_blank\" title=\"Manage subscriptions\">Click here</a> to manage your subscription. Under \"Details\", click \"Swap Product\" to choose your next subscription bottle!</p>",
+            "page": ""
+          }
+        },
         "collapsible_row_Th6jcy": {
           "type": "collapsible_row",
           "settings": {
@@ -312,7 +321,7 @@
           "settings": {
             "heading": "How do I earn and redeem loyalty points?",
             "icon": "star",
-            "row_content": "<p>Lollygaggers earn<strong> 5 points for every $1</strong> spent with us. You can also earn extra points through friend referrals, social media engagement, and birthday bonuses. Once you’ve accumulated points, you can redeem them for discounts on future purchases.</p>",
+            "row_content": "<p>Lollygaggers earn<strong> 5 points for every $1</strong> spent with us. You can also earn extra points through friend referrals, social media engagement, and birthday bonuses. Once you’ve accumulated points, you can redeem them for discounts on future purchases, such as <strong>$5 off</strong> when you reach 500 points.</p>",
             "page": ""
           }
         },
@@ -338,6 +347,7 @@
       "block_order": [
         "collapsible_row_LhzFKb",
         "collapsible_row_Uni9eH",
+        "collapsible_row_BiLHpN",
         "collapsible_row_Th6jcy",
         "collapsible_row_R9cyrV",
         "collapsible_row_axF64W",
