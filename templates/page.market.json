@@ -9,28 +9,124 @@
  */
 {
   "sections": {
+    "4e6e0a5e-7441-43e1-85cb-1b3b9b35015f": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_8FgdD3": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_b6fbTf": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sunday Market",
+            "heading_size": "h1"
+          }
+        },
+        "text_U6KDTe": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Join us at Hiatus Craft House for monthly Sunday Markets. Enjoy a tasting or cocktail and support local businesses. </p><p>Tentative Dates:</p><ul><li>3/1</li><li>4/12</li><li>5/3</li><li>6/7</li><li>7/5</li><li>8/2</li><li>9/6</li><li>10/4</li><li>11/1</li><li>12/6</li></ul><p><strong>Interested in becoming a vendor?</strong> See information below!</p>"
+          }
+        },
+        "text_wCAFVt": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_Rdkq7m": {
+          "type": "heading",
+          "settings": {
+            "heading": "Vendor Information",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_b6fbTf",
+        "text_U6KDTe",
+        "text_wCAFVt",
+        "heading_Rdkq7m"
+      ],
+      "name": "General Info",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_LTBwnR": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_MV76Uw": {
+          "type": "heading",
+          "settings": {
+            "heading": "Vendor Interest Information",
+            "heading_size": "h1"
+          }
+        },
+        "text_WyeYCY": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_MV76Uw",
+        "text_WyeYCY"
+      ],
+      "name": "Vendor Info",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "forms": {
       "type": "apps",
       "blocks": {
         "bf9edc33-5cdb-4c71-9bbb-eae4b688824e": {
           "type": "shopify://apps/forms/blocks/inline/8744a304-fcb1-4347-b211-bb6b4759a76a",
           "settings": {
-            "form_id": "850311"
+            "form_id": "850311",
+            "text_color": "#202020",
+            "button_background_color": "#202020",
+            "button_label_color": "#ffffff",
+            "links_color": "#1878b9",
+            "errors_color": "#e02229",
+            "text_alignment": "center",
+            "form_alignment": "center",
+            "padding_top": 0,
+            "padding_bottom": 24,
+            "padding_right": 0,
+            "padding_left": 0
           }
         }
       },
       "block_order": [
         "bf9edc33-5cdb-4c71-9bbb-eae4b688824e"
       ],
-      "settings": {}
-    },
-    "4e6e0a5e-7441-43e1-85cb-1b3b9b35015f": {
-      "type": "main-page",
-      "settings": {}
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
     "4e6e0a5e-7441-43e1-85cb-1b3b9b35015f",
+    "rich_text_8FgdD3",
+    "rich_text_LTBwnR",
     "forms"
   ]
 }
