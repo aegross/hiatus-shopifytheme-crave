@@ -35,24 +35,47 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "",
+        "color_scheme": "accent-1",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 0
+        "padding_bottom": 52
       }
     },
     "rich_text_LTBwnR": {
       "type": "rich-text",
       "blocks": {
+        "heading_aYjBaW": {
+          "type": "heading",
+          "settings": {
+            "heading": "General Information",
+            "heading_size": "h2"
+          }
+        },
         "text_WyeYCY": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
+            "text": "<p><strong>Overview:</strong> Hiatus Craft House is looking for engaging, talented small businesses to sell at our Sunday Markets, held monthly at our Distillery. </p><p><strong>Date: </strong>March 1</p><p><strong>Location:</strong> Hiatus Craft House</p><p><strong>Event Time:</strong> 1:00PM to 4:50PM </p>"
+          }
+        },
+        "heading_BiXKCh": {
+          "type": "heading",
+          "settings": {
+            "heading": "Event Policies",
+            "heading_size": "h2"
+          }
+        },
+        "text_VpDGCW": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Set-Up Time: 12:00PM</p><p>Break-Down Time: 4:30PM</p>"
           }
         }
       },
       "block_order": [
-        "text_WyeYCY"
+        "heading_aYjBaW",
+        "text_WyeYCY",
+        "heading_BiXKCh",
+        "text_VpDGCW"
       ],
       "name": "Vendor Info",
       "settings": {
@@ -60,7 +83,7 @@
         "content_alignment": "left",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 40,
+        "padding_top": 0,
         "padding_bottom": 52
       }
     },
