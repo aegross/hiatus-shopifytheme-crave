@@ -54,7 +54,7 @@
         "text_WyeYCY": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Overview:</strong> Hiatus Craft House is looking for engaging, talented small businesses to sell at our Sunday Markets, held monthly at our Distillery. </p><p><strong>Date: </strong>March 1</p><p><strong>Location:</strong> Hiatus Craft House</p><p><strong>Event Time:</strong> 1:00PM to 4:50PM </p>"
+            "text": "<p><strong>Overview:</strong> Hiatus Craft House is looking for engaging, talented small businesses to sell at our Sunday Markets, held monthly at our Distillery. </p><p><strong>Date: </strong>March 1, 2026</p><p><strong>Location:</strong> Hiatus Craft House</p><p><strong>Event Time:</strong> 1:00PM to 4:50PM </p>"
           }
         },
         "heading_BiXKCh": {
@@ -67,7 +67,20 @@
         "text_VpDGCW": {
           "type": "text",
           "settings": {
-            "text": "<p>Set-Up Time: 12:00PM</p><p>Break-Down Time: 4:30PM</p>"
+            "text": "<p><strong>Set-Up Time:</strong> 12:00PM (<em>Complete by 12:50PM</em>)</p><p><strong>Break-Down Time: </strong>4:30PM (<em>Complete by 5:00PM</em>)</p>"
+          }
+        },
+        "heading_H8mCrV": {
+          "type": "heading",
+          "settings": {
+            "heading": "Selection Process",
+            "heading_size": "h2"
+          }
+        },
+        "text_DciLWd": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Vendor applications will be reviewed, and applicants will be notified within 72 hours of submission.</p>"
           }
         }
       },
@@ -75,7 +88,9 @@
         "heading_aYjBaW",
         "text_WyeYCY",
         "heading_BiXKCh",
-        "text_VpDGCW"
+        "text_VpDGCW",
+        "heading_H8mCrV",
+        "text_DciLWd"
       ],
       "name": "Vendor Info",
       "settings": {
@@ -94,12 +109,12 @@
           "type": "shopify://apps/forms/blocks/inline/8744a304-fcb1-4347-b211-bb6b4759a76a",
           "settings": {
             "form_id": "850311",
-            "text_color": "#202020",
-            "button_background_color": "#202020",
-            "button_label_color": "#ffffff",
+            "text_color": "#0d0d0d",
+            "button_background_color": "#0d0d0d",
+            "button_label_color": "#f9f9e2",
             "links_color": "#1878b9",
             "errors_color": "#e02229",
-            "text_alignment": "center",
+            "text_alignment": "left",
             "form_alignment": "center",
             "padding_top": 0,
             "padding_bottom": 24,
