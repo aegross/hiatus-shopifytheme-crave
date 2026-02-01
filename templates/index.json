@@ -14,7 +14,7 @@
       "blocks": {
         "slide_HJri7T": {
           "type": "slide",
-          "name": "TEMP",
+          "name": "TEMP, 2/12",
           "settings": {
             "image": "shopify://shop_images/IMG_3825_2.jpg",
             "image_overlay_opacity": 70,
@@ -31,9 +31,28 @@
             "color_scheme": "accent-2"
           }
         },
+        "slide_aJwG6J": {
+          "type": "slide",
+          "name": "TEMP, 2/8",
+          "settings": {
+            "image": "shopify://shop_images/20241014_115917_6eee3aad-4185-4479-ac30-381124a83233.jpg",
+            "image_overlay_opacity": 70,
+            "heading": "Closed Sunday, February 8",
+            "heading_size": "h1",
+            "subheading": "We will be closed on Sunday, February 8. Be sure to stop by on Saturday, February 7, to get your Super Bowl spirits! Check out our recipes below for game day ideas.",
+            "button_label": "Recipes",
+            "link": "shopify://pages/recipes",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "accent-2"
+          }
+        },
         "slide_9wUfBV": {
           "type": "slide",
-          "name": "TEMP",
+          "name": "TEMP, 2/14",
           "settings": {
             "image": "shopify://shop_images/IMG_3944.jpg",
             "image_overlay_opacity": 70,
@@ -88,34 +107,15 @@
             "color_scheme": "accent-2"
           }
         },
-        "slide_aJwG6J": {
-          "type": "slide",
-          "name": "TEMP",
-          "settings": {
-            "image": "shopify://shop_images/IMG_2559_-_Copy-2.jpg",
-            "image_overlay_opacity": 40,
-            "heading": "Happy Ginuary!",
-            "heading_size": "h1",
-            "subheading": "Celebrate Ginuary with our cocktail recipes—featuring our Blossom Blush Gin.",
-            "button_label": "Recipes",
-            "link": "shopify://pages/recipes",
-            "button_style_secondary": false,
-            "show_text_box": false,
-            "box_align": "middle-center",
-            "text_alignment": "center",
-            "text_alignment_mobile": "center",
-            "color_scheme": "accent-2"
-          }
-        },
         "slide_TK6LpF": {
           "type": "slide",
-          "name": "TEMP",
+          "name": "TEMP, 2/28",
           "settings": {
-            "image": "shopify://shop_images/IMG20260102152016.jpg",
+            "image": "shopify://shop_images/Screenshot_2026-01-28_at_7.23.47_PM.png",
             "image_overlay_opacity": 50,
-            "heading": "Blueberry Collins",
+            "heading": "Chocolate Strawberry Martini",
             "heading_size": "h1",
-            "subheading": "Try our Cocktail of the Month in honor of \"Ginuary\", featuring our Blossom Blush Gin and Blueberry Liqueur. Stop by any Saturday and Sunday in January!",
+            "subheading": "Try our<strong> Cocktail of the Month</strong>—Chocolate Strawberry Martini, featuring our <a href=\"/products/lemongrass-honey-vodka\" target=\"_blank\" title=\"Lemongrass & Honey Vodka\">Lemongrass and Honey Vodka</a>. Stop by Saturdays and Sundays in February!",
             "button_label": "Book a Tasting Today",
             "link": "shopify://products/tasting",
             "button_style_secondary": false,
@@ -191,7 +191,7 @@
             "image_overlay_opacity": 60,
             "heading": "BLOWOUT SALE: Pumpkin Spice Crème Liqueur",
             "heading_size": "h1",
-            "subheading": "Experience the rich embrace of the season with our Pumpkin Spice Crème Liqueur. Crafted with the perfect blend of cinnamon, nutmeg and ginger, then kicked up a notch with Kentucky Bourbon Whiskey. It's a velvety indulgence that captures the cozy flavors of fall in every sip.",
+            "subheading": "Experience our Pumpkin Spice Crème Liqueur. Crafted with the perfect blend of cinnamon, nutmeg and ginger, then kicked up a notch with Kentucky Bourbon Whiskey. It's a velvety indulgence that captures cozy flavors in every sip.",
             "button_label": "Buy now!",
             "link": "shopify://products/psl",
             "button_style_secondary": false,
@@ -205,10 +205,10 @@
       },
       "block_order": [
         "slide_HJri7T",
+        "slide_aJwG6J",
         "slide_9wUfBV",
         "slide-0",
         "slide_MDQjaN",
-        "slide_aJwG6J",
         "slide_TK6LpF",
         "slide_9DGtDz",
         "slide_cjdkdq",
