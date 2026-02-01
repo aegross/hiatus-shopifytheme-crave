@@ -34,13 +34,12 @@
         "slide_9wUfBV": {
           "type": "slide",
           "name": "TEMP",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/IMG_3944.jpg",
             "image_overlay_opacity": 70,
             "heading": "Valentine's Day Specials",
             "heading_size": "h1",
-            "subheading": "Stop by on Saturday, February 14th, for our Valentine's Day Specials: two for one tastings and custom coasters",
+            "subheading": "Stop by on Saturday, February 14th, 12-6pm, for our Valentine's Day Specials: two for one tastings and custom coasters (2 for $5)!",
             "button_label": "Book now!",
             "link": "shopify://products/tasting",
             "button_style_secondary": false,
