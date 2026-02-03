@@ -541,9 +541,6 @@
       "delivery_options": {
         "ship": "Ship (Additional Fee)",
         "pick_up": "Pick up (Free)"
-      },
-      "shipping": {
-        "shipping_method_notice": "blah blah testing"
       }
     }
   }
