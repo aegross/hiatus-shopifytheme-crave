@@ -540,7 +540,7 @@
     "checkout": {
       "delivery_options": {
         "ship": "Ship (Additional Fee)",
-        "pick_up": "Pick up (Free)"
+        "pick_up": "Tasting Room Pick up (Free)"
       },
       "shipping": {
         "shipping_method_notice": "If you want to pick up your order at the Tasting Room, make sure to select the \"Pick Up\" delivery method above."
