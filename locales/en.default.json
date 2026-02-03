@@ -542,9 +542,6 @@
         "ship": "Ship (Additional Fee)",
         "pick_up": "Pick up (Free)"
       }
-    },
-    "sentence": {
-      "last_word_connector": ", and."
     }
   }
 }
