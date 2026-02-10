@@ -15,6 +15,7 @@
         "slide_HJri7T": {
           "type": "slide",
           "name": "TEMP, 2/12",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/IMG_3825_2.jpg",
             "image_overlay_opacity": 70,
@@ -34,6 +35,7 @@
         "slide_aJwG6J": {
           "type": "slide",
           "name": "TEMP, 2/8",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/20241014_115917_6eee3aad-4185-4479-ac30-381124a83233.jpg",
             "image_overlay_opacity": 70,
@@ -50,23 +52,23 @@
             "color_scheme": "accent-2"
           }
         },
-        "slide_9wUfBV": {
+        "slide_TK6LpF": {
           "type": "slide",
-          "name": "TEMP, 2/14",
+          "name": "TEMP, 2/28",
           "settings": {
-            "image": "shopify://shop_images/IMG_3944.jpg",
-            "image_overlay_opacity": 70,
-            "heading": "Valentine's Day Specials",
+            "image": "shopify://shop_images/IMG_4410.jpg",
+            "image_overlay_opacity": 50,
+            "heading": "Chocolate Strawberry Martini",
             "heading_size": "h1",
-            "subheading": "Stop by on Saturday, February 14th, 12-6pm, for our Valentine's Day Specials: two for one tastings and custom coasters (2 for $5)!",
-            "button_label": "Book now!",
+            "subheading": "Try our<strong> Cocktail of the Month</strong>—Chocolate Strawberry Martini, featuring our <a href=\"/products/lemongrass-honey-vodka\" target=\"_blank\" title=\"Lemongrass & Honey Vodka\">Lemongrass and Honey Vodka</a>. Stop by Saturdays and Sundays in February!",
+            "button_label": "Book a Tasting Today",
             "link": "shopify://products/tasting",
             "button_style_secondary": false,
             "show_text_box": false,
             "box_align": "middle-center",
             "text_alignment": "center",
             "text_alignment_mobile": "center",
-            "color_scheme": "accent-1"
+            "color_scheme": "accent-2"
           }
         },
         "slide-0": {
@@ -107,23 +109,23 @@
             "color_scheme": "accent-2"
           }
         },
-        "slide_TK6LpF": {
+        "slide_9wUfBV": {
           "type": "slide",
-          "name": "TEMP, 2/28",
+          "name": "TEMP, 2/14",
           "settings": {
-            "image": "shopify://shop_images/IMG_4410.jpg",
-            "image_overlay_opacity": 50,
-            "heading": "Chocolate Strawberry Martini",
+            "image": "shopify://shop_images/IMG_3944.jpg",
+            "image_overlay_opacity": 70,
+            "heading": "Valentine's Day Specials",
             "heading_size": "h1",
-            "subheading": "Try our<strong> Cocktail of the Month</strong>—Chocolate Strawberry Martini, featuring our <a href=\"/products/lemongrass-honey-vodka\" target=\"_blank\" title=\"Lemongrass & Honey Vodka\">Lemongrass and Honey Vodka</a>. Stop by Saturdays and Sundays in February!",
-            "button_label": "Book a Tasting Today",
+            "subheading": "Stop by on Saturday, February 14th, 12-6pm, for our Valentine's Day Specials: two for one tastings and custom coasters (2 for $5)!",
+            "button_label": "Book now!",
             "link": "shopify://products/tasting",
             "button_style_secondary": false,
             "show_text_box": false,
             "box_align": "middle-center",
             "text_alignment": "center",
             "text_alignment_mobile": "center",
-            "color_scheme": "accent-2"
+            "color_scheme": "accent-1"
           }
         },
         "slide_9DGtDz": {
@@ -206,10 +208,10 @@
       "block_order": [
         "slide_HJri7T",
         "slide_aJwG6J",
-        "slide_9wUfBV",
+        "slide_TK6LpF",
         "slide-0",
         "slide_MDQjaN",
-        "slide_TK6LpF",
+        "slide_9wUfBV",
         "slide_9DGtDz",
         "slide_cjdkdq",
         "e43c93ae-2d02-4689-9536-9c3b51643f65",
