@@ -17,45 +17,13 @@
         "padding_bottom": 36
       }
     },
-    "blocks_Hz76TT": {
-      "type": "_blocks",
-      "blocks": {
-        "ai_gen_block_5005125_tHxcWB": {
-          "type": "ai_gen_block_5005125",
-          "settings": {
-            "image": "shopify://shop_images/Artboard_5.png",
-            "image_opacity": 100,
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "heading": "<p></p><p></p><p></p><p>.</p>",
-            "subtext": "<p></p><p></p><p></p><p></p><p></p><p></p><p>.</p><p></p><p>.</p>",
-            "text_alignment": "center",
-            "content_max_width": 800,
-            "heading_size": 48,
-            "heading_color": "#117d87",
-            "heading_spacing": 16,
-            "subtext_size": 18,
-            "subtext_color": "#117d87",
-            "padding_top": 100,
-            "padding_bottom": 100,
-            "padding_horizontal": 20
-          },
-          "blocks": {}
-        }
-      },
-      "block_order": [
-        "ai_gen_block_5005125_tHxcWB"
-      ],
-      "name": "Banner with overlay",
-      "settings": {}
-    },
     "rich_text_33UmED": {
       "type": "rich-text",
       "blocks": {
         "heading_c4W3cn": {
           "type": "heading",
           "settings": {
-            "heading": "Vendor Application",
+            "heading": "Makers Market Vendor Application",
             "heading_size": "h1"
           }
         }
@@ -67,7 +35,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "accent-2",
+        "color_scheme": "accent-1",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 40
@@ -128,9 +96,9 @@
             "form_id": "850311",
             "text_color": "#0d0d0d",
             "button_background_color": "#0d0d0d",
-            "button_label_color": "#FFFFFF",
-            "links_color": "#1878B9",
-            "errors_color": "#E02229",
+            "button_label_color": "#ffffff",
+            "links_color": "#1878b9",
+            "errors_color": "#e02229",
             "text_alignment": "center",
             "form_alignment": "center",
             "padding_top": 0,
@@ -150,7 +118,6 @@
   },
   "order": [
     "4e6e0a5e-7441-43e1-85cb-1b3b9b35015f",
-    "blocks_Hz76TT",
     "rich_text_33UmED",
     "rich_text_LTBwnR",
     "1770773935418e8bec"
