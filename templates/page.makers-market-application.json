@@ -49,6 +49,30 @@
       "name": "Banner with overlay",
       "settings": {}
     },
+    "rich_text_33UmED": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_c4W3cn": {
+          "type": "heading",
+          "settings": {
+            "heading": "Vendor Application",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_c4W3cn"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
     "rich_text_LTBwnR": {
       "type": "rich-text",
       "blocks": {
@@ -91,7 +115,7 @@
         "content_alignment": "left",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 28,
+        "padding_top": 0,
         "padding_bottom": 0
       }
     },
@@ -127,6 +151,7 @@
   "order": [
     "4e6e0a5e-7441-43e1-85cb-1b3b9b35015f",
     "blocks_Hz76TT",
+    "rich_text_33UmED",
     "rich_text_LTBwnR",
     "1770773935418e8bec"
   ]
