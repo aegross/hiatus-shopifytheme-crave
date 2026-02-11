@@ -14,6 +14,13 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "announcement_aDiwFk": {
+          "type": "announcement",
+          "settings": {
+            "text": "Now Accepting Vendor Applications!",
+            "link": "shopify://pages/market-vendor-application"
+          }
+        },
         "announcement_gYtPXP": {
           "type": "announcement",
           "settings": {
@@ -69,6 +76,7 @@
         }
       },
       "block_order": [
+        "announcement_aDiwFk",
         "announcement_gYtPXP",
         "announcement_3n7Bn9",
         "announcement_fVrntG",
