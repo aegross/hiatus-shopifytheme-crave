@@ -55,6 +55,7 @@
         "slide_9wUfBV": {
           "type": "slide",
           "name": "TEMP, 2/14",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/IMG_3944.jpg",
             "image_overlay_opacity": 70,
