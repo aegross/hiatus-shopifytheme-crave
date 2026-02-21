@@ -12,26 +12,6 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
-        "slide_HJri7T": {
-          "type": "slide",
-          "name": "TEMP",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/IMG_3825_2.jpg",
-            "image_overlay_opacity": 70,
-            "heading": "Workshops at Hiatus Craft House",
-            "heading_size": "h1",
-            "subheading": "Stay tuned for upcoming workshops at Hiatus Craft House. Sign up for our newsletter below or follow us <a href=\"https://www.instagram.com/hiatuscrafthouse/?hl=en\" target=\"_blank\" title=\"https://www.instagram.com/hiatuscrafthouse/?hl=en\">@hiatuscrafthouse</a> to get the latest news!",
-            "button_label": "Follow us!",
-            "link": "https://www.instagram.com/hiatuscrafthouse/?hl=en",
-            "button_style_secondary": false,
-            "show_text_box": false,
-            "box_align": "middle-center",
-            "text_alignment": "center",
-            "text_alignment_mobile": "center",
-            "color_scheme": "accent-2"
-          }
-        },
         "slide_aJwG6J": {
           "type": "slide",
           "name": "TEMP, 2/8",
@@ -147,6 +127,25 @@
             "color_scheme": "accent-2"
           }
         },
+        "slide_HJri7T": {
+          "type": "slide",
+          "name": "TEMP",
+          "settings": {
+            "image": "shopify://shop_images/IMG_3825_2.jpg",
+            "image_overlay_opacity": 70,
+            "heading": "Workshops at Hiatus Craft House",
+            "heading_size": "h1",
+            "subheading": "Stay tuned for upcoming workshops at Hiatus Craft House. Sign up for our newsletter below or follow us <a href=\"https://www.instagram.com/hiatuscrafthouse/?hl=en\" target=\"_blank\" title=\"https://www.instagram.com/hiatuscrafthouse/?hl=en\">@hiatuscrafthouse</a> to get the latest news!",
+            "button_label": "Follow us!",
+            "link": "https://www.instagram.com/hiatuscrafthouse/?hl=en",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "accent-2"
+          }
+        },
         "slide_cjdkdq": {
           "type": "slide",
           "name": "PERM",
@@ -206,13 +205,13 @@
         }
       },
       "block_order": [
-        "slide_HJri7T",
         "slide_aJwG6J",
         "slide_TK6LpF",
         "slide-0",
         "slide_MDQjaN",
         "slide_9wUfBV",
         "slide_9DGtDz",
+        "slide_HJri7T",
         "slide_cjdkdq",
         "e43c93ae-2d02-4689-9536-9c3b51643f65",
         "slide_PbQA9Y"
