@@ -14,16 +14,16 @@
       "blocks": {
         "slide_HJri7T": {
           "type": "slide",
-          "name": "TEMP, 2/12",
+          "name": "TEMP",
           "disabled": true,
           "settings": {
             "image": "shopify://shop_images/IMG_3825_2.jpg",
             "image_overlay_opacity": 70,
-            "heading": "Valentine's Mixology Workshop",
+            "heading": "Workshops at Hiatus Craft House",
             "heading_size": "h1",
-            "subheading": "Join us <strong>Thursday, February 12th</strong>, from 6:30-8:30PM, for our Valentine's Day Mixology Workshop, featuring Alex from Firefly Bartending! Each ticket includes two Valentine's Day cocktails made by you, recipe cards, and snacks and dessert to enjoy while you mix and sip.",
-            "button_label": "Book Now!",
-            "link": "https://www.eventbrite.com/e/valentines-mixology-workshop-hiatus-craft-house-tickets-1980305377693?aff=oddtdtcreator",
+            "subheading": "Stay tuned for upcoming workshops at Hiatus Craft House. Sign up for our newsletter below or follow us <a href=\"https://www.instagram.com/hiatuscrafthouse/?hl=en\" target=\"_blank\" title=\"https://www.instagram.com/hiatuscrafthouse/?hl=en\">@hiatuscrafthouse</a> to get the latest news!",
+            "button_label": "Follow us!",
+            "link": "https://www.instagram.com/hiatuscrafthouse/?hl=en",
             "button_style_secondary": false,
             "show_text_box": false,
             "box_align": "middle-center",
