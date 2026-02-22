@@ -9,9 +9,43 @@
  */
 {
   "sections": {
+    "rich_text_RbWnHT": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_VGM43D": {
+          "type": "heading",
+          "settings": {
+            "heading": "In-House & Festival Events",
+            "heading_size": "h0"
+          }
+        },
+        "text_HmMfkY": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>(actual text tbd)</strong> See what we're up to and add our events to your own calendar!</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_VGM43D",
+        "text_HmMfkY"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "main": {
       "type": "main-page",
-      "custom_css": [],
+      "custom_css": [
+        ".main-page-title {display: none !important;}",
+        "{margin-top: 24px;}"
+      ],
       "settings": {
         "padding_top": 0,
         "padding_bottom": 0
@@ -19,6 +53,7 @@
     }
   },
   "order": [
+    "rich_text_RbWnHT",
     "main"
   ]
 }
