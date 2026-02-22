@@ -35,7 +35,9 @@
         "share",
         "content"
       ],
-      "custom_css": [],
+      "custom_css": [
+        ".article-template__back {display: none;}"
+      ],
       "settings": {}
     },
     "newsletter_whbeke": {
