@@ -15,14 +15,14 @@
         "heading_VGM43D": {
           "type": "heading",
           "settings": {
-            "heading": "In-House & Festival Events",
+            "heading": "Where to Taste",
             "heading_size": "h0"
           }
         },
         "text_HmMfkY": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>(actual text tbd)</strong> See what we're up to and add our events to your own calendar!</p>"
+            "text": "<p><strong>(actual text tbd)</strong> ...</p>"
           }
         }
       },
