@@ -44,7 +44,7 @@
       "type": "main-page",
       "custom_css": [
         ".main-page-title {display: none !important;}",
-        " {margin-top: 24px;}"
+        "{margin-top: 24px;}"
       ],
       "settings": {
         "padding_top": 0,
