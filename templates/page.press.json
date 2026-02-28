@@ -15,7 +15,7 @@
         "heading_VGM43D": {
           "type": "heading",
           "settings": {
-            "heading": "Events",
+            "heading": "Press",
             "heading_size": "h0"
           }
         }
@@ -39,63 +39,39 @@
         "row_YyUeff": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/IMG_4033.jpg",
-            "caption": "In-House event",
-            "heading": "Cocktails & Comedy",
-            "text": "<p>🗓️ April 4th | 6:00 to 8:30pm</p><p>📍 <em>Hiatus Craft House</em></p><p>Join Funny Girl Events for their first Cocktails & Comedy event in Camarillo here at Hiatus Craft House!</p>",
-            "button_label": "Tickets",
-            "button_link": "https://www.eventbrite.com/e/camarillo-comedy-club-hiatus-craft-house-tickets-1983287818253?aff=oddtdtcreator"
+            "image": "shopify://shop_images/ediblevc.jpg",
+            "caption": "Edible Ventura County | Jennifer Richardson",
+            "heading": "Distilling for GOOD: Hiatus Craft House",
+            "text": "<p><em>Dave Gross describes himself and his wife, Dawn, as “serial entrepreneurs,” a phrase that has become so common in certain Silicon Valley–adjacent circles that it’s easy to miss its implications of restlessness, of perpetual creation. But the Grosses bring something different to the trope...</em></p>",
+            "button_label": "Read More",
+            "button_link": "https://edibleventuracounty.ediblecommunities.com/drink/distilling-for-good-hiatus-craft-house/"
           }
         },
         "row_fFf4JB": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/CLU.jpg",
-            "caption": "Off-Site Event",
-            "heading": "CLU Wine & Beer Walk",
-            "text": "<p>🗓️ April 25th | 4:30 to 8:00pm</p><p>📍 <em>CLU William Rolland Stadium Plaza</em></p><p>Hiatus Craft House will be supporting Cal Lutheran University Athletics in their annual Wine & Beer Walk. </p>",
-            "button_label": "Tickets",
-            "button_link": "https://www.callutheran.edu/special-events/wine-beer-walk/"
-          }
-        },
-        "row_hUqUYV": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/conejofwf2025-76_5f234e6d-111e-43f5-a6bf-d80ec9dd05b3.jpg",
-            "caption": "Off-Site Event",
-            "heading": "Big Brothers Big Sisters Ventura County Golf",
-            "text": "<p>🗓️ May 4th | 4:30 to 8:00pm</p><p>📍<em> Somis Saticoy Club</em></p><p>Hiatus Craft House will be supporting Big Brothers Big Sisters of Ventura County at their golf fundraiser in Somis.</p>",
-            "button_label": "Tickets",
-            "button_link": "https://bbsvc.org/golf"
-          }
-        },
-        "row_R6paFP": {
-          "type": "row",
-          "disabled": true,
-          "settings": {
-            "caption": "In-House Event",
-            "heading": "Spring Mixology Workshop",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "button_label": "Tickets",
-            "button_link": ""
+            "image": "shopify://shop_images/IMG_3911.jpg",
+            "caption": "Ventura County Star | Tony Biasotti",
+            "heading": "5 Ventura County distilleries offer perfect Christmas gifts, sips",
+            "text": "<p><em>Ventura County is beer country. The county's breweries sell their goods all over the western United States and routinely win some of</em><a href=\"https://www.vcstar.com/story/news/2023/05/29/raise-your-pint-glass-to-these-local-world-beer-cup-brewery-winners/70254146007/\" target=\"_blank\"><em>the beer industry’s</em></a><a href=\"https://www.vcstar.com/story/news/2025/05/13/world-beer-cup-winners-include-ventura-brewery/83501732007/\" target=\"_blank\"><em>top awards</em></a><em>. There are also some well-regarded wineries, clustered in the Ojai Valley and scattered throughout the rest of the county...</em></p>",
+            "button_label": "Read More",
+            "button_link": "https://www.vcstar.com/story/news/local/2025/12/14/liquor-distillery-ventura-county-christmas-gifts/87629541007/"
           }
         }
       },
       "block_order": [
         "row_YyUeff",
-        "row_fFf4JB",
-        "row_hUqUYV",
-        "row_R6paFP"
+        "row_fFf4JB"
       ],
       "custom_css": [
         "{margin-top: 24px;}"
       ],
       "name": "t:sections.multirow.presets.name",
       "settings": {
-        "image_height": "medium",
+        "image_height": "small",
         "desktop_image_width": "medium",
         "image_layout": "alternate-left",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "text_style": "body",
         "button_style": "primary",
         "desktop_content_position": "middle",
@@ -107,35 +83,9 @@
         "padding_bottom": 36
       }
     },
-    "rich_text_pcaJrm": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_Ay9Bip": {
-          "type": "heading",
-          "settings": {
-            "heading": "Event Calendar",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_Ay9Bip"
-      ],
-      "custom_css": [
-        "{margin-top: 24px;}"
-      ],
-      "name": "t:sections.rich-text.presets.name",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "accent-1",
-        "full_width": true,
-        "padding_top": 24,
-        "padding_bottom": 24
-      }
-    },
     "main": {
       "type": "main-page",
+      "disabled": true,
       "custom_css": [
         ".main-page-title {display: none !important;}",
         " {margin-top: 24px;}"
@@ -149,7 +99,6 @@
   "order": [
     "rich_text_RbWnHT",
     "multirow_X4jtxF",
-    "rich_text_pcaJrm",
     "main"
   ]
 }
