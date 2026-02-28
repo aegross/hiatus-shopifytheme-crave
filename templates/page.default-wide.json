@@ -1,15 +1,59 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
-    "sections": {
-        "main": {
-            "type": "main-page",
-            "custom_css": [],
-            "settings": {
-                "padding_top": 0,
-                "padding_bottom": 0
-            }
+  "sections": {
+    "rich_text_jYrmzq": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_cXJhU8": {
+          "type": "heading",
+          "settings": {
+            "heading": "What's in the Barrels?",
+            "heading_size": "h1"
+          }
+        },
+        "text_EdUqHr": {
+          "type": "text",
+          "settings": {
+            "text": "<p>(insert text here)</p>"
+          }
         }
+      },
+      "block_order": [
+        "heading_cXJhU8",
+        "text_EdUqHr"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     },
-    "order": [
-        "main"
-    ]
+    "main": {
+      "type": "main-page",
+      "custom_css": [
+        ".main-page-title {display: none !important;}",
+        "{margin-top: 24px;}"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "rich_text_jYrmzq",
+    "main"
+  ]
 }
