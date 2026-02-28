@@ -44,8 +44,8 @@
       "type": "main-page",
       "custom_css": [
         ".main-page-title {display: none !important;}",
-        "table {border-collapse: collapse; border: 2px solid #a16f29; margin-left: auto; margin-right: auto;}",
-        "td, th {border: 2px solid #a16f29;}",
+        "table {border-collapse: collapse; border: 2px solid #a16f29;}",
+        "td,th {border: 2px solid #a16f29;}",
         "tr:nth-child(even) {background-color: #ffd291;}",
         "th {text-align: center; background-color: #d69942; color: #4d2f07;}",
         "td {text-align: left;}"
