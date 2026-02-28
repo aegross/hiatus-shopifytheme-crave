@@ -54,7 +54,7 @@
         "text_WyeYCY": {
           "type": "text",
           "settings": {
-            "text": "<p>We offer two unique spaces to rent out for the event of your dreams! All private rentals will include a complimentary spirit tasting flight for each attendee at the event. This is optional, but it adds a layer of fun and experience to any event. Both spaces can be utilized when needed to accommodate attendee headcount.</p>"
+            "text": "<p>We offer two unique spaces to rent out for the event of your dreams! All private rentals will include a complimentary spirit tasting flight for each attendee at the event. This is optional, but it adds a layer of fun and experience to any event. Both spaces can be utilized when needed to accommodate attendee headcount.</p><p>Venue rentals start at <strong>$10 per person</strong> for the first 2 hours. All bookings include complimentary tastings for attendees, plus setup and cleanup time. You can reserve the space for events up to 8 hours and for as many as 120 guests.</p>"
           }
         }
       },
@@ -116,6 +116,48 @@
         "section_color_scheme": "background-1",
         "row_color_scheme": "background-1",
         "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_pBjy8w": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_wYKUMp": {
+          "type": "heading",
+          "settings": {
+            "heading": "Plan Your Event Today!",
+            "heading_size": "h1"
+          }
+        },
+        "text_Ldhi7L": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Fill out the contact form below or contact <a href=\"mailto:abby@hiatuscrafthouse.com\" target=\"_blank\" title=\"mailto:abby@hiatuscrafthouse.com\">abby@hiatuscrafthouse.com</a>! Feel free to include details of your event, such as ideal dates, party size, </p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_wYKUMp",
+        "text_Ldhi7L"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "contact_form_caWJC7": {
+      "type": "contact-form",
+      "name": "t:sections.contact-form.presets.name",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "color_scheme": "",
+        "padding_top": 0,
         "padding_bottom": 36
       }
     }
@@ -124,6 +166,8 @@
     "4e6e0a5e-7441-43e1-85cb-1b3b9b35015f",
     "rich_text_33UmED",
     "rich_text_LTBwnR",
-    "multirow_QyHyrj"
+    "multirow_QyHyrj",
+    "rich_text_pBjy8w",
+    "contact_form_caWJC7"
   ]
 }
