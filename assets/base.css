@@ -3601,3 +3601,8 @@ details-disclosure > details {
     min-width: auto;
     margin-top: 24px !important;
 }
+
+/* table centering */
+table.tg {
+    margin: auto;
+}
