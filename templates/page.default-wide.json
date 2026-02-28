@@ -43,7 +43,8 @@
     "main": {
       "type": "main-page",
       "custom_css": [
-        ".main-page-title {display: none !important;}"
+        ".main-page-title {display: none !important;}",
+        ".page-width {max-width: 1200px; margin: 0 auto;}"
       ],
       "settings": {
         "padding_top": 0,
