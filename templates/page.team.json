@@ -50,17 +50,25 @@
             "heading": "Our Team",
             "heading_size": "h1"
           }
+        },
+        "text_rg6i94": {
+          "type": "text",
+          "settings": {
+            "text": "Abby, Karina, Angela, Audrey, Dave & Dawn (Owners), Frank, and Sandra",
+            "text_style": "subtitle"
+          }
         }
       },
       "block_order": [
-        "heading_NRxmyA"
+        "heading_NRxmyA",
+        "text_rg6i94"
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/IMG_4073.jpg",
-        "image_overlay_opacity": 40,
+        "image": "shopify://shop_images/015A8687.jpg",
+        "image_overlay_opacity": 50,
         "image_height": "medium",
-        "image_behavior": "zoom-in",
+        "image_behavior": "none",
         "desktop_content_position": "middle-center",
         "desktop_content_alignment": "center",
         "show_text_box": false,
