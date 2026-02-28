@@ -3604,5 +3604,5 @@ details-disclosure > details {
 
 /* table centering */
 table.tg {
-    margin: auto;
+    margin: auto !important;
 }
