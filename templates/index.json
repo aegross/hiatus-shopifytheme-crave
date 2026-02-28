@@ -117,7 +117,7 @@
             "heading_size": "h1",
             "subheading": "",
             "button_label": "Contact Us Today",
-            "link": "shopify://pages/contact",
+            "link": "shopify://pages/venue-rental",
             "button_style_secondary": false,
             "show_text_box": false,
             "box_align": "middle-center",
