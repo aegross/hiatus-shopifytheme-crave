@@ -1,0 +1,125 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "4e6e0a5e-7441-43e1-85cb-1b3b9b35015f": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_33UmED": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_c4W3cn": {
+          "type": "heading",
+          "settings": {
+            "heading": "Makers Market Vendor Application",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_c4W3cn"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "rich_text_LTBwnR": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_cmL68T": {
+          "type": "heading",
+          "settings": {
+            "heading": "General Information",
+            "heading_size": "h2"
+          }
+        },
+        "text_WyeYCY": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Overview:</strong> Hiatus Craft House is looking for engaging, talented small businesses to sell at our intimate indoor Makers Market, held monthly at our Distillery. For more information about Hiatus Craft House, please visit <a href=\"https://hiatuscrafthouse.com/pages/our-story\"><span style=\"text-decoration:underline\">Our Story</span></a> page.</p><p><strong>When: </strong>First or second Sunday of each month, beginning as early as March 1st.</p><p><strong>Location:</strong> Hiatus Craft House (4045 Via Pescador Suite D, Camarillo, CA 93012)</p><p><strong>Event Time:</strong> 1:00PM to 4:30PM</p>"
+          }
+        },
+        "heading_cDpP6R": {
+          "type": "heading",
+          "settings": {
+            "heading": "Event Policies",
+            "heading_size": "h2"
+          }
+        },
+        "text_dQTPyJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p><span style=\"text-decoration:underline\"><strong>Vendor Details</strong></span></p><ul><li>All vendors may provide a <a href=\"https://www.ca.gov/departments/287/services/26/\"><span style=\"text-decoration:underline\"><strong>California Retail Sales Permit</strong></span></a>, if applicable.</li><li>All food and drink vendors <strong>must</strong> provide a <a href=\"https://eco.vcrma.org/area/plancheck/#/home\"><span style=\"text-decoration:underline\"><strong>Ventura County Health Permit number</strong></span></a><em>.</em></li><li>All payments and transactions must be handled directly by the vendor.</li><li>Vendors are expected to remain for the duration of the event.</li><li>Vendors must keep a clean, organized space and must remove all items at the end of the event.</li><li>Vendors are responsible for having their own business liability insurance. Hiatus Craft House is not responsible for any lost, stolen, or damaged items, in addition to injuries that may occur at the given booth.</li><li>Vendors must return a signed contract and pay a refundable <strong>$50 deposit</strong>. Each deposit will be refunded upon the completion of the market, or may be rolled over to pay for a future deposit.</li></ul><p><span style=\"text-decoration:underline\"><strong>Booth Details</strong></span></p><ul><li>Vendors will be provided an indoor booth size of <strong>8' by 6'</strong>, and must provide their own set-up equipment, including a table, two chairs, table covers, and a power strip, if needed.</li><li>Space assignments will be given 24 hours prior to the event. Hiatus Craft House reserves the right to relocate vendors.</li><li>If your booth requires electricity or any additional accommodations, please note in the application below, and we will try our best to accommodate.</li><li>Canopies and tents are not permitted for this event.</li><li>Every booth will be indoor, and the market will occur rain or shine. In the event of extreme weather that requires cancellation, the market may be rescheduled.</li><li><span style=\"text-decoration:underline\">Set-Up Time:</span> 12:00PM (<em>Complete by 12:50PM</em>)</li><li><span style=\"text-decoration:underline\">Break-Down Time:</span><strong> </strong>4:30PM (<em>Complete by 5:00PM</em>)</li></ul><p></p><p><span style=\"text-decoration:underline\"><strong>Event Promotion</strong></span></p><p>Vendors may be featured on our social media pages to promote markets, using vendor-provided photos. Additional photos and videos may be taken during the event for further marketing purposes. We encourage all vendors to promote their participation in this market, including through word-of-mouth and on social media.</p><p><span style=\"text-decoration:underline\"><strong>Selection Process</strong></span></p><p>Vendor applications will be reviewed, and approved applicants will be notified within one week of submission. Participation in past markets does not guarantee a spot for future markets, as we rotate vendors and have limited space.</p><p></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_cmL68T",
+        "text_WyeYCY",
+        "heading_cDpP6R",
+        "text_dQTPyJ"
+      ],
+      "name": "Vendor Info",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "1770773935418e8bec": {
+      "type": "apps",
+      "blocks": {
+        "forms_inline_LTq7dX": {
+          "type": "shopify://apps/forms/blocks/inline/8744a304-fcb1-4347-b211-bb6b4759a76a",
+          "settings": {
+            "form_id": "850311",
+            "text_color": "#0d0d0d",
+            "button_background_color": "#0d0d0d",
+            "button_label_color": "#ffffff",
+            "links_color": "#1878b9",
+            "errors_color": "#e02229",
+            "text_alignment": "center",
+            "form_alignment": "center",
+            "padding_top": 0,
+            "padding_bottom": 24,
+            "padding_right": 0,
+            "padding_left": 0
+          }
+        }
+      },
+      "block_order": [
+        "forms_inline_LTq7dX"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "4e6e0a5e-7441-43e1-85cb-1b3b9b35015f",
+    "rich_text_33UmED",
+    "rich_text_LTBwnR",
+    "1770773935418e8bec"
+  ]
+}
