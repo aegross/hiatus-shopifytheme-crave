@@ -18,17 +18,10 @@
             "heading": "Events",
             "heading_size": "h0"
           }
-        },
-        "text_HmMfkY": {
-          "type": "text",
-          "settings": {
-            "text": "<p>See what we're up to and add our events to your own calendar!</p>"
-          }
         }
       },
       "block_order": [
-        "heading_VGM43D",
-        "text_HmMfkY"
+        "heading_VGM43D"
       ],
       "name": "t:sections.rich-text.presets.name",
       "settings": {
