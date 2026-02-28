@@ -19,16 +19,16 @@
             "heading_size": "h0"
           }
         },
-        "text_HmMfkY": {
+        "text_V4LtAF": {
           "type": "text",
           "settings": {
-            "text": "<p>Use the map below to see where to find Hiatus Craft House products!</p>"
+            "text": "<p>We have a tasting room, but we're only open during the weekends. If you'd like to try our spirits on any day of the week, pay a visit to one of our partners!</p>"
           }
         }
       },
       "block_order": [
         "heading_VGM43D",
-        "text_HmMfkY"
+        "text_V4LtAF"
       ],
       "name": "t:sections.rich-text.presets.name",
       "settings": {
@@ -36,6 +36,40 @@
         "content_alignment": "center",
         "color_scheme": "accent-2",
         "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_xVDh79": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_aAFxT4": {
+          "type": "heading",
+          "settings": {
+            "heading": "(work in progress)",
+            "heading_size": "h2"
+          }
+        },
+        "text_AmzFjF": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Use the map below to see where Hiatus Craft House spirits are served or carried.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_aAFxT4",
+        "text_AmzFjF"
+      ],
+      "custom_css": [
+        "{margin-top: 24px;}"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": false,
         "padding_top": 40,
         "padding_bottom": 52
       }
@@ -114,6 +148,7 @@
   },
   "order": [
     "rich_text_RbWnHT",
+    "rich_text_xVDh79",
     "main",
     "multicolumn_GTGcrC"
   ]
