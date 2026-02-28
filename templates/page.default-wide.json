@@ -44,7 +44,8 @@
       "type": "main-page",
       "custom_css": [
         ".main-page-title {display: none !important;}",
-        ".page-width {max-width: 1200px; margin: 0 auto;}"
+        ".page-width {max-width: 1200px; margin: 0 auto;}",
+        "table,td,th {border: 1px solid #a16f29;}"
       ],
       "settings": {
         "padding_top": 0,
