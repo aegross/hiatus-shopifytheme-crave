@@ -39,15 +39,15 @@
           "type": "announcement",
           "settings": {
             "text": "Host an event or private party",
-            "link": "shopify://pages/contact"
+            "link": "shopify://pages/venue-rental"
           }
         },
         "announcement_HVryY3": {
           "type": "announcement",
           "disabled": true,
           "settings": {
-            "text": "Mixology Workshop July 11th!",
-            "link": "https://hiatuscrafthouse-001.eventbrite.com"
+            "text": "Check out our upcoming events!",
+            "link": "shopify://pages/in-house-festival-events"
           }
         },
         "announcement_PVAqwK": {
