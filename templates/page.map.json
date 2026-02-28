@@ -22,7 +22,7 @@
         "text_HmMfkY": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>(actual text tbd)</strong> ...</p>"
+            "text": "<p>Use the map below to see where to find Hiatus Craft House products!</p>"
           }
         }
       },
@@ -44,16 +44,77 @@
       "type": "main-page",
       "custom_css": [
         ".main-page-title {display: none !important;}",
-        "{margin-top: 24px;}"
+        " {margin-top: 24px;}"
       ],
       "settings": {
         "padding_top": 0,
         "padding_bottom": 0
       }
+    },
+    "multicolumn_GTGcrC": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_UqPCQA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/home_250dp_A16F29.svg",
+            "title": "Distillery & Tasting Room",
+            "text": "<p>Stop by Hiatus Craft House to pick up orders, do a tasting, or try one of our cocktails!</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_k7gnLz": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/local_bar_250dp_A16F29.svg",
+            "title": "Bars & Restaurants",
+            "text": "<p>Visit a local bar or restaurant to try our spirits in one of their signature cocktails!</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_D3RVCF": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/shopping_bag_250dp_A16F29.svg",
+            "title": "Stores",
+            "text": "<p><em>(Coming Soon!)</em></p><p>Visit these local stores to purchase one of our bottles.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_UqPCQA",
+        "column_k7gnLz",
+        "column_D3RVCF"
+      ],
+      "custom_css": [
+        "{margin-top: 24px;}"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "rich_text_RbWnHT",
-    "main"
+    "main",
+    "multicolumn_GTGcrC"
   ]
 }
