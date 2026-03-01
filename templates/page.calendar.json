@@ -47,6 +47,17 @@
             "button_link": "https://www.eventbrite.com/e/camarillo-comedy-club-hiatus-craft-house-tickets-1983287818253?aff=oddtdtcreator"
           }
         },
+        "row_BVDEcj": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/20241014_115917_6eee3aad-4185-4479-ac30-381124a83233.jpg",
+            "caption": "In-House Event",
+            "heading": "Makers Market",
+            "text": "<p>🗓️ April 12th | 1:00PM to 4:30PM</p><p>📍 <em>Hiatus Craft House</em></p><p>Join us for our first Makers Market, featuring local vendors! Interesting in vending? Click the link below to apply!</p>",
+            "button_label": "Vendor Application",
+            "button_link": "shopify://pages/market-vendor-application"
+          }
+        },
         "row_fFf4JB": {
           "type": "row",
           "settings": {
@@ -83,6 +94,7 @@
       },
       "block_order": [
         "row_YyUeff",
+        "row_BVDEcj",
         "row_fFf4JB",
         "row_hUqUYV",
         "row_R6paFP"
