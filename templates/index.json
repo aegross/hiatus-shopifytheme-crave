@@ -14,14 +14,14 @@
       "blocks": {
         "slide_TK6LpF": {
           "type": "slide",
-          "name": "TEMP, 2/28",
+          "name": "TEMP, 3/31",
           "disabled": true,
           "settings": {
             "image": "shopify://shop_images/IMG_4410.jpg",
             "image_overlay_opacity": 50,
-            "heading": "Chocolate Strawberry Martini",
+            "heading": "Scotsman Abroad",
             "heading_size": "h1",
-            "subheading": "Try our<strong> Cocktail of the Month</strong>—Chocolate Strawberry Martini, featuring our <a href=\"/products/lemongrass-honey-vodka\" target=\"_blank\" title=\"Lemongrass & Honey Vodka\">Lemongrass and Honey Vodka</a>. Stop by Saturdays and Sundays in February!",
+            "subheading": "Try our<strong> Cocktail of the Month</strong>—Scotsman Abroad, featuring our <a href=\"/products/pinot-noir-reposado\" target=\"_blank\" title=\"Pinot Noir Reposado\">Pinot Noir Reposado</a> and <a href=\"/products/straight-american-single-malt-whiskey\" target=\"_blank\" title=\"Straight American Single Malt Whiskey\">American Single Malt Whiskey</a>. Stop by Saturdays and Sundays in March!",
             "button_label": "Book a Tasting Today",
             "link": "shopify://products/tasting",
             "button_style_secondary": false,
