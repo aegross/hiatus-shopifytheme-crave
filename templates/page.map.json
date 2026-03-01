@@ -40,41 +40,6 @@
         "padding_bottom": 52
       }
     },
-    "rich_text_xVDh79": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_aAFxT4": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Working With Other Businesses",
-            "heading_size": "h2"
-          }
-        },
-        "text_AmzFjF": {
-          "type": "text",
-          "settings": {
-            "text": "<h4>In order to make our products more widely available to customers, we've begun working with local bars, restaurants, and liquor stores.</h4><h4><em>Interact with the map below to see where Hiatus Craft House spirits are served or carried.</em></h4>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_aAFxT4",
-        "text_AmzFjF"
-      ],
-      "custom_css": [
-        "{margin-top: 24px; margin-bottom: 24px;}"
-      ],
-      "name": "t:sections.rich-text.presets.name",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "accent-1",
-        "full_width": false,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "multicolumn_a9TQeg": {
       "type": "multicolumn",
       "blocks": {
@@ -133,6 +98,41 @@
         "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "rich_text_xVDh79": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_aAFxT4": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Working With Other Businesses",
+            "heading_size": "h2"
+          }
+        },
+        "text_AmzFjF": {
+          "type": "text",
+          "settings": {
+            "text": "<h4>In order to make our products more widely available to customers, we've begun working with local bars, restaurants, and liquor stores.</h4><h4><em>Interact with the map below to see where Hiatus Craft House spirits are served or carried!</em></h4>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_aAFxT4",
+        "text_AmzFjF"
+      ],
+      "custom_css": [
+        "{margin-top: 24px; margin-bottom: 24px;}"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": false,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "main": {
@@ -209,8 +209,8 @@
   },
   "order": [
     "rich_text_RbWnHT",
-    "rich_text_xVDh79",
     "multicolumn_a9TQeg",
+    "rich_text_xVDh79",
     "main",
     "multicolumn_GTGcrC"
   ]
