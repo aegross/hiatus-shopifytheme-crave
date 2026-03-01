@@ -46,6 +46,7 @@
         "ai_gen_block_b99a160_JfEyyn": {
           "type": "ai_gen_block_b99a160",
           "name": "Seasonal Recipes",
+          "disabled": true,
           "settings": {
             "heading": "Featured February Recipes",
             "heading_link": "shopify://collections/frontpage",
