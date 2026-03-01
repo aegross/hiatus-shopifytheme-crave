@@ -15,6 +15,7 @@
         "slide_TK6LpF": {
           "type": "slide",
           "name": "TEMP, 2/28",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/IMG_4410.jpg",
             "image_overlay_opacity": 50,
