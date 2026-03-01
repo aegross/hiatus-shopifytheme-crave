@@ -16,13 +16,13 @@
           "type": "heading",
           "settings": {
             "heading": "Where to Experience",
-            "heading_size": "h0"
+            "heading_size": "h1"
           }
         },
         "text_V4LtAF": {
           "type": "text",
           "settings": {
-            "text": "<p>We have a tasting room, but we're only open during the weekends. If you'd like to try our spirits on any day of the week, pay a visit to one of our partners!</p>"
+            "text": "<p>Tastings, cocktails, and bottle sales are available in our Camarillo tasting room most Saturday and Sunday afternoons. We have also begun regional distribution to restaurants, bars and stores. We encourage you to experience our spirits at the establishments below. Interact with the map to see where Hiatus Craft House spirits are served and carried!</p>"
           }
         }
       },
@@ -36,103 +36,8 @@
         "content_alignment": "center",
         "color_scheme": "accent-2",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "multicolumn_a9TQeg": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_jkyawk": {
-          "type": "column",
-          "name": "Basil & Mint",
-          "settings": {
-            "title": "The Amendment - Basil & Mint Vietnamese Cafe",
-            "text": "<p><strong>Restaurant & Bar</strong></p><p><em>350 N Lantana St, Camarillo, CA 93010</em></p>",
-            "link_label": "Website",
-            "link": "https://phobasilmint.com/"
-          }
-        },
-        "column_bRe7Me": {
-          "type": "column",
-          "name": "The Local",
-          "settings": {
-            "title": "The Local",
-            "text": "<p><strong>Bar</strong></p><p><em>795 Camarillo Springs Rd, Camarillo, CA 93012</em></p>",
-            "link_label": "Website",
-            "link": "https://www.thelocalcamarillo.com/"
-          }
-        },
-        "column_7T4tDR": {
-          "type": "column",
-          "name": "Twisted Oak",
-          "settings": {
-            "title": "Twisted Oak Tavern",
-            "text": "<p><strong>Restaurant & Bar</strong></p><p><em>2433 Ventura Blvd, Camarillo, CA 93010</em></p>",
-            "link_label": "Website",
-            "link": "https://www.twistedoaktavern.pub/"
-          }
-        }
-      },
-      "block_order": [
-        "column_jkyawk",
-        "column_bRe7Me",
-        "column_7T4tDR"
-      ],
-      "custom_css": [
-        "{margin-top: 24px;}"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "Alongside the distillery, we're available at:",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "button_label": "",
-        "button_link": "",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "rich_text_xVDh79": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_aAFxT4": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Working With Other Businesses",
-            "heading_size": "h2"
-          }
-        },
-        "text_AmzFjF": {
-          "type": "text",
-          "settings": {
-            "text": "<h4>In order to make our products more widely available to customers, we've begun working with local bars, restaurants, and liquor stores.</h4><h4><em>Interact with the map below to see where Hiatus Craft House spirits are served or carried!</em></h4>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_aAFxT4",
-        "text_AmzFjF"
-      ],
-      "custom_css": [
-        "{margin-top: 24px; margin-bottom: 24px;}"
-      ],
-      "name": "t:sections.rich-text.presets.name",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "accent-1",
-        "full_width": false,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 20,
+        "padding_bottom": 24
       }
     },
     "main": {
@@ -163,7 +68,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/local_bar_250dp_A16F29.svg",
-            "title": "Bars & Restaurants",
+            "title": "Restaurants & Bars",
             "text": "<p>Visit a local bar or restaurant to try our spirits in one of their signature cocktails!</p>",
             "link_label": "",
             "link": ""
@@ -205,13 +110,173 @@
         "padding_top": 24,
         "padding_bottom": 24
       }
+    },
+    "multicolumn_a9TQeg": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_jkyawk": {
+          "type": "column",
+          "name": "Basil & Mint",
+          "settings": {
+            "title": "The Amendment - Basil & Mint Vietnamese Cafe",
+            "text": "<p><em>350 N Lantana St, Camarillo, CA 93010</em></p>",
+            "link_label": "Website",
+            "link": "https://phobasilmint.com/"
+          }
+        },
+        "column_bRe7Me": {
+          "type": "column",
+          "name": "The Local",
+          "settings": {
+            "title": "The Local",
+            "text": "<p><em>795 Camarillo Springs Rd, Camarillo, CA 93012</em></p>",
+            "link_label": "Website",
+            "link": "https://www.thelocalcamarillo.com/"
+          }
+        },
+        "column_7T4tDR": {
+          "type": "column",
+          "name": "Twisted Oak",
+          "settings": {
+            "title": "Twisted Oak Tavern",
+            "text": "<p><em>2433 Ventura Blvd, Camarillo, CA 93010</em></p>",
+            "link_label": "Website",
+            "link": "https://www.twistedoaktavern.pub/"
+          }
+        }
+      },
+      "block_order": [
+        "column_jkyawk",
+        "column_bRe7Me",
+        "column_7T4tDR"
+      ],
+      "custom_css": [
+        "{margin-top: 24px;}"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Restaurants & Bars",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_6EPV6V": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_3ydMN7": {
+          "type": "column",
+          "name": "Basil & Mint",
+          "disabled": true,
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Website",
+            "link": "https://phobasilmint.com/"
+          }
+        },
+        "column_TrwWre": {
+          "type": "column",
+          "name": "The Local",
+          "disabled": true,
+          "settings": {
+            "title": "The Local",
+            "text": "<p><em>795 Camarillo Springs Rd, Camarillo, CA 93012</em></p>",
+            "link_label": "Website",
+            "link": "https://www.thelocalcamarillo.com/"
+          }
+        },
+        "column_xNU6h8": {
+          "type": "column",
+          "name": "Twisted Oak",
+          "disabled": true,
+          "settings": {
+            "title": "Twisted Oak Tavern",
+            "text": "<p><em>2433 Ventura Blvd, Camarillo, CA 93010</em></p>",
+            "link_label": "Website",
+            "link": "https://www.twistedoaktavern.pub/"
+          }
+        }
+      },
+      "block_order": [
+        "column_3ydMN7",
+        "column_TrwWre",
+        "column_xNU6h8"
+      ],
+      "custom_css": [
+        "{margin-top: 24px;}"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Stores - Coming Soon",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_xVDh79": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_aAFxT4": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Working With Other Businesses",
+            "heading_size": "h2"
+          }
+        },
+        "text_AmzFjF": {
+          "type": "text",
+          "settings": {
+            "text": "<h4>In order to make our products more widely available to customers, we've begun working with local bars, restaurants, and liquor stores.</h4><h4><em>Interact with the map below to see where Hiatus Craft House spirits are served or carried!</em></h4>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_aAFxT4",
+        "text_AmzFjF"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "{margin-top: 24px; margin-bottom: 24px;}"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "rich_text_RbWnHT",
-    "multicolumn_a9TQeg",
-    "rich_text_xVDh79",
     "main",
-    "multicolumn_GTGcrC"
+    "multicolumn_GTGcrC",
+    "multicolumn_a9TQeg",
+    "multicolumn_6EPV6V",
+    "rich_text_xVDh79"
   ]
 }
