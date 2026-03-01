@@ -47,7 +47,7 @@
           "type": "column",
           "name": "Basil & Mint",
           "settings": {
-            "title": "Basil & Mint Vietnamese Cafe",
+            "title": "The Amendment - Basil & Mint Vietnamese Cafe",
             "text": "<p><strong>Restaurant & Bar</strong></p><p><em>350 N Lantana St, Camarillo, CA 93010</em></p>",
             "link_label": "Website",
             "link": "https://phobasilmint.com/"
@@ -57,7 +57,7 @@
           "type": "column",
           "name": "The Local",
           "settings": {
-            "title": "The Local Camarillo",
+            "title": "The Local",
             "text": "<p><strong>Bar</strong></p><p><em>795 Camarillo Springs Rd, Camarillo, CA 93012</em></p>",
             "link_label": "Website",
             "link": "https://www.thelocalcamarillo.com/"
