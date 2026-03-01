@@ -54,7 +54,7 @@
         "text_AmzFjF": {
           "type": "text",
           "settings": {
-            "text": "<h4>In order to make our products more widely available to customers, we've begun working with local bars, restaurants, and liquor stores.</h4><h4><em>Use the map below to see where Hiatus Craft House spirits are served or carried.</em></h4>"
+            "text": "<h4>In order to make our products more widely available to customers, we've begun working with local bars, restaurants, and liquor stores.</h4><h4><em>Interact with the map below to see where Hiatus Craft House spirits are served or carried.</em></h4>"
           }
         }
       },
@@ -63,7 +63,7 @@
         "text_AmzFjF"
       ],
       "custom_css": [
-        "{margin-top: 24px;}"
+        "{margin-top: 24px; margin-bottom: 24px;}"
       ],
       "name": "t:sections.rich-text.presets.name",
       "settings": {
@@ -73,6 +73,66 @@
         "full_width": false,
         "padding_top": 40,
         "padding_bottom": 52
+      }
+    },
+    "multicolumn_a9TQeg": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_jkyawk": {
+          "type": "column",
+          "name": "Basil & Mint",
+          "settings": {
+            "title": "Basil & Mint Vietnamese Cafe",
+            "text": "<p><strong>Restaurant & Bar</strong></p><p><em>350 N Lantana St, Camarillo, CA 93010</em></p>",
+            "link_label": "Website",
+            "link": "https://phobasilmint.com/"
+          }
+        },
+        "column_bRe7Me": {
+          "type": "column",
+          "name": "The Local",
+          "settings": {
+            "title": "The Local Camarillo",
+            "text": "<p><strong>Bar</strong></p><p><em>795 Camarillo Springs Rd, Camarillo, CA 93012</em></p>",
+            "link_label": "Website",
+            "link": "https://www.thelocalcamarillo.com/"
+          }
+        },
+        "column_7T4tDR": {
+          "type": "column",
+          "name": "Twisted Oak",
+          "settings": {
+            "title": "Twisted Oak Tavern",
+            "text": "<p><strong>Restaurant & Bar</strong></p><p><em>2433 Ventura Blvd, Camarillo, CA 93010</em></p>",
+            "link_label": "Website",
+            "link": "https://www.twistedoaktavern.pub/"
+          }
+        }
+      },
+      "block_order": [
+        "column_jkyawk",
+        "column_bRe7Me",
+        "column_7T4tDR"
+      ],
+      "custom_css": [
+        "{margin-top: 24px;}"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Alongside the distillery, we're available at:",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "main": {
@@ -150,6 +210,7 @@
   "order": [
     "rich_text_RbWnHT",
     "rich_text_xVDh79",
+    "multicolumn_a9TQeg",
     "main",
     "multicolumn_GTGcrC"
   ]
