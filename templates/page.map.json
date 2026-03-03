@@ -16,7 +16,7 @@
           "type": "heading",
           "settings": {
             "heading": "Where to Experience",
-            "heading_size": "h1"
+            "heading_size": "h0"
           }
         },
         "text_V4LtAF": {
@@ -36,14 +36,15 @@
         "content_alignment": "center",
         "color_scheme": "accent-2",
         "full_width": true,
-        "padding_top": 20,
-        "padding_bottom": 24
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "main": {
       "type": "main-page",
       "custom_css": [
         ".main-page-title {display: none !important;}",
+        ".page-width {max-width: 800px; margin: 0 auto;}",
         " {margin-top: 24px;}"
       ],
       "settings": {
