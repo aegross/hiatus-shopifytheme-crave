@@ -46,7 +46,8 @@
         ".main-page-title {display: none !important;}",
         ".page-width {max-width: 1200px; margin: 0 auto;}",
         "table,td,th {border: 1px solid #a16f29;}",
-        "td, th {padding: 8px;}"
+        "td,th {padding: 8px;}",
+        "{margin-top: 36px;}"
       ],
       "settings": {
         "padding_top": 0,
