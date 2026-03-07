@@ -14,13 +14,6 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement_aDiwFk": {
-          "type": "announcement",
-          "settings": {
-            "text": "Now Accepting Vendor Applications!",
-            "link": "shopify://pages/market-vendor-application"
-          }
-        },
         "announcement_gYtPXP": {
           "type": "announcement",
           "settings": {
@@ -40,6 +33,13 @@
           "settings": {
             "text": "Host an event or private party",
             "link": "shopify://pages/venue-rental"
+          }
+        },
+        "announcement_aDiwFk": {
+          "type": "announcement",
+          "settings": {
+            "text": "Now Accepting Makers Market Vendor Applications!",
+            "link": "shopify://pages/market-vendor-application"
           }
         },
         "announcement_HVryY3": {
@@ -76,10 +76,10 @@
         }
       },
       "block_order": [
-        "announcement_aDiwFk",
         "announcement_gYtPXP",
         "announcement_3n7Bn9",
         "announcement_fVrntG",
+        "announcement_aDiwFk",
         "announcement_HVryY3",
         "announcement_PVAqwK",
         "announcement_M8NW6c",
