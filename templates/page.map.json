@@ -144,12 +144,34 @@
             "link_label": "Website",
             "link": "https://www.twistedoaktavern.pub/"
           }
+        },
+        "column_dnjhcK": {
+          "type": "column",
+          "name": "The Shore",
+          "settings": {
+            "title": "The Shore",
+            "text": "<p><em>1031 Harbor Blvd, Oxnard, CA 93035</em></p>",
+            "link_label": "Website",
+            "link": ""
+          }
+        },
+        "column_3gR3Ye": {
+          "type": "column",
+          "name": "Sam's",
+          "settings": {
+            "title": "Sam's Place",
+            "text": "<p><em>308 E Ojai Ave, Ojai, CA 93023</em></p>",
+            "link_label": "Website",
+            "link": "https://www.samsplaceojai.com"
+          }
         }
       },
       "block_order": [
         "column_jkyawk",
         "column_bRe7Me",
-        "column_7T4tDR"
+        "column_7T4tDR",
+        "column_dnjhcK",
+        "column_3gR3Ye"
       ],
       "custom_css": [
         "{margin-top: 24px;}"
