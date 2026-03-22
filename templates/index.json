@@ -12,17 +12,17 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
-        "slide_TK6LpF": {
+        "slide_aJwG6J": {
           "type": "slide",
-          "name": "TEMP, 3/31",
+          "name": "TEMP, 4/4",
           "settings": {
-            "image": "shopify://shop_images/IMG_4492.jpg",
-            "image_overlay_opacity": 50,
-            "heading": "Scotsman Abroad",
+            "image": "shopify://shop_images/IMG_3762.jpg",
+            "image_overlay_opacity": 70,
+            "heading": "Cocktails & Comedy on April 4th",
             "heading_size": "h1",
-            "subheading": "Try our<strong> Cocktail of the Month</strong>—Scotsman Abroad, featuring our <a href=\"/products/pinot-noir-reposado\" target=\"_blank\" title=\"Pinot Noir Reposado\">Pinot Noir Reposado</a> and <a href=\"/products/straight-american-single-malt-whiskey\" target=\"_blank\" title=\"Straight American Single Malt Whiskey\">American Single Malt Whiskey</a>. Stop by Saturdays and Sundays in March!",
-            "button_label": "Book a Tasting Today",
-            "link": "shopify://products/tasting",
+            "subheading": "Join us on Saturday, April 4th from 6pm to 8:30pm for a night of cocktails and comedy, hosted by Funny Girl Events!",
+            "button_label": "Tickets",
+            "link": "https://www.eventbrite.com/e/camarillo-comedy-club-hiatus-craft-house-tickets-1983287818253?aff=oddtdtcreator",
             "button_style_secondary": false,
             "show_text_box": false,
             "box_align": "middle-center",
@@ -50,17 +50,17 @@
             "color_scheme": "accent-2"
           }
         },
-        "slide_aJwG6J": {
+        "slide_TK6LpF": {
           "type": "slide",
-          "name": "TEMP, 4/4",
+          "name": "TEMP, 3/31",
           "settings": {
-            "image": "shopify://shop_images/IMG_3762.jpg",
-            "image_overlay_opacity": 70,
-            "heading": "Cocktails & Comedy on April 4th",
+            "image": "shopify://shop_images/IMG_4492.jpg",
+            "image_overlay_opacity": 50,
+            "heading": "Scotsman Abroad",
             "heading_size": "h1",
-            "subheading": "Join us on Saturday, April 4th from 6pm to 8:30pm for a night of cocktails and comedy, hosted by Funny Girl Events!",
-            "button_label": "Tickets",
-            "link": "https://www.eventbrite.com/e/camarillo-comedy-club-hiatus-craft-house-tickets-1983287818253?aff=oddtdtcreator",
+            "subheading": "Try our<strong> Cocktail of the Month</strong>—Scotsman Abroad, featuring our <a href=\"/products/pinot-noir-reposado\" target=\"_blank\" title=\"Pinot Noir Reposado\">Pinot Noir Reposado</a> and <a href=\"/products/straight-american-single-malt-whiskey\" target=\"_blank\" title=\"Straight American Single Malt Whiskey\">American Single Malt Whiskey</a>. Stop by Saturdays and Sundays in March!",
+            "button_label": "Book a Tasting Today",
+            "link": "shopify://products/tasting",
             "button_style_secondary": false,
             "show_text_box": false,
             "box_align": "middle-center",
@@ -204,9 +204,9 @@
         }
       },
       "block_order": [
-        "slide_TK6LpF",
-        "slide-0",
         "slide_aJwG6J",
+        "slide-0",
+        "slide_TK6LpF",
         "slide_MDQjaN",
         "slide_9wUfBV",
         "slide_9DGtDz",
