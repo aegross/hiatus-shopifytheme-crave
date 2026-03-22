@@ -49,6 +49,7 @@
         },
         "row_BVDEcj": {
           "type": "row",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/20241014_115917_6eee3aad-4185-4479-ac30-381124a83233.jpg",
             "caption": "In-House Event",
