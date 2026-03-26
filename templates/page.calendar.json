@@ -38,6 +38,7 @@
       "blocks": {
         "row_YyUeff": {
           "type": "row",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/IMG_4033.jpg",
             "caption": "In-House event",
