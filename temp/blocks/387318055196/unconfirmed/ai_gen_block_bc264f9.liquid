@@ -1,6 +1,815 @@
+{% doc %}
+  @prompt
+    make a searchable recipes page, make each recipe link to a blog, make the categories editable, allow me to add more categories if needed, allow me to add multiple categories to each blog, and add unlimited recipes, make it searchable by blog tags
+{% enddoc %}
+{% assign ai_gen_id = block.id | replace: '_', '' | downcase %}
+
+{% style %}
+  .ai-recipes-page-{{ ai_gen_id }} {
+    display: block;
+    width: {{ block.settings.desktop_width_percent }}%;
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 40px 20px;
+  }
+
+  .ai-recipes-header-{{ ai_gen_id }} {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+
+  .ai-recipes-title-{{ ai_gen_id }} {
+    font-size: {{ block.settings.title_size }}px;
+    color: {{ block.settings.title_color }};
+    margin: 0 0 16px;
+  }
+
+  .ai-recipes-description-{{ ai_gen_id }} {
+    font-size: {{ block.settings.description_size }}px;
+    color: {{ block.settings.text_color }};
+    max-width: 700px;
+    margin: 0 auto;
+  }
+
+  .ai-recipes-controls-{{ ai_gen_id }} {
+    display: flex;
+    gap: 16px;
+    margin-bottom: 40px;
+    flex-wrap: wrap;
+  }
+
+  .ai-recipes-search-wrapper-{{ ai_gen_id }} {
+    flex: 1;
+    min-width: 250px;
+  }
+
+  .ai-recipes-search-{{ ai_gen_id }} {
+    width: 100%;
+    padding: 12px 16px;
+    border: 2px solid {{ block.settings.input_border_color }};
+    border-radius: {{ block.settings.input_border_radius }}px;
+    font-size: 16px;
+    background-color: {{ block.settings.input_bg_color }};
+    color: {{ block.settings.text_color }};
+  }
+
+  .ai-recipes-search-{{ ai_gen_id }}::placeholder {
+    color: {{ block.settings.text_color }};
+    opacity: 0.6;
+  }
+
+  .ai-recipes-filter-wrapper-{{ ai_gen_id }} {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+
+  .ai-recipes-filter-{{ ai_gen_id }} {
+    padding: 10px 20px;
+    border: 2px solid {{ block.settings.filter_border_color }};
+    border-radius: {{ block.settings.filter_border_radius }}px;
+    background-color: {{ block.settings.filter_bg_color }};
+    color: {{ block.settings.filter_text_color }};
+    cursor: pointer;
+    font-size: 14px;
+    transition: all 0.3s ease;
+  }
+
+  .ai-recipes-filter-{{ ai_gen_id }}:hover {
+    background-color: {{ block.settings.filter_hover_bg_color }};
+    color: {{ block.settings.filter_hover_text_color }};
+    border-color: {{ block.settings.filter_hover_border_color }};
+  }
+
+  .ai-recipes-filter-{{ ai_gen_id }}.active {
+    background-color: {{ block.settings.filter_active_bg_color }};
+    color: {{ block.settings.filter_active_text_color }};
+    border-color: {{ block.settings.filter_active_border_color }};
+  }
+
+  .ai-recipes-grid-{{ ai_gen_id }} {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 24px;
+    margin-bottom: 40px;
+  }
+
+  .ai-recipes-card-{{ ai_gen_id }} {
+    background-color: {{ block.settings.card_bg_color }};
+    border: 2px solid {{ block.settings.card_border_color }};
+    border-radius: {{ block.settings.card_border_radius }}px;
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    text-decoration: none;
+    display: block;
+  }
+
+  .ai-recipes-card-{{ ai_gen_id }}:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+  }
+
+  .ai-recipes-card-{{ ai_gen_id }}.hidden {
+    display: none;
+  }
+
+  .ai-recipes-card-image-{{ ai_gen_id }} {
+    width: 100%;
+    height: 250px;
+    overflow: hidden;
+  }
+
+  .ai-recipes-card-image-{{ ai_gen_id }} img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .ai-recipes-card-placeholder-{{ ai_gen_id }} {
+    width: 100%;
+    height: 100%;
+    background-color: #f4f4f4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .ai-recipes-card-placeholder-{{ ai_gen_id }} svg {
+    width: 80px;
+    height: 80px;
+    opacity: 0.3;
+  }
+
+  .ai-recipes-card-content-{{ ai_gen_id }} {
+    padding: 20px;
+  }
+
+  .ai-recipes-card-categories-{{ ai_gen_id }} {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    margin-bottom: 12px;
+  }
+
+  .ai-recipes-card-category-{{ ai_gen_id }} {
+    display: inline-block;
+    padding: 4px 12px;
+    background-color: {{ block.settings.category_bg_color }};
+    color: {{ block.settings.category_text_color }};
+    border-radius: 20px;
+    font-size: 12px;
+    text-transform: uppercase;
+    font-weight: 600;
+  }
+
+  .ai-recipes-card-title-{{ ai_gen_id }} {
+    font-size: 20px;
+    color: {{ block.settings.card_title_color }};
+    margin: 0 0 12px;
+    font-weight: 600;
+  }
+
+  .ai-recipes-card-excerpt-{{ ai_gen_id }} {
+    font-size: 14px;
+    color: {{ block.settings.text_color }};
+    margin: 0 0 16px;
+    line-height: 1.5;
+  }
+
+  .ai-recipes-card-meta-{{ ai_gen_id }} {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 12px;
+    color: {{ block.settings.text_color }};
+    opacity: 0.7;
+  }
+
+  .ai-recipes-no-results-{{ ai_gen_id }} {
+    text-align: center;
+    padding: 60px 20px;
+    color: {{ block.settings.text_color }};
+    font-size: 18px;
+    display: none;
+  }
+
+  .ai-recipes-no-results-{{ ai_gen_id }}.visible {
+    display: block;
+  }
+
+  .ai-recipes-empty-state-{{ ai_gen_id }} {
+    text-align: center;
+    padding: 60px 20px;
+    color: {{ block.settings.text_color }};
+    font-size: 18px;
+  }
+
+  .ai-recipes-empty-state-{{ ai_gen_id }} p {
+    margin: 0 0 12px;
+  }
+
+  @media screen and (max-width: 768px) {
+    .ai-recipes-controls-{{ ai_gen_id }} {
+      flex-direction: column;
+    }
+
+    .ai-recipes-grid-{{ ai_gen_id }} {
+      grid-template-columns: 1fr;
+    }
+  }
+{% endstyle %}
+
+<recipes-search-{{ ai_gen_id }} class="ai-recipes-page-{{ ai_gen_id }}" {{ block.shopify_attributes }}>
+  <div class="ai-recipes-header-{{ ai_gen_id }}">
+    {% if block.settings.title != blank %}
+      <h1 class="ai-recipes-title-{{ ai_gen_id }}">{{ block.settings.title }}</h1>
+    {% endif %}
+    {% if block.settings.description != blank %}
+      <div class="ai-recipes-description-{{ ai_gen_id }}">{{ block.settings.description }}</div>
+    {% endif %}
+  </div>
+
+  {% if block.settings.recipes_blog != blank %}
+    <div class="ai-recipes-controls-{{ ai_gen_id }}">
+      <div class="ai-recipes-search-wrapper-{{ ai_gen_id }}">
+        <input
+          type="text"
+          class="ai-recipes-search-{{ ai_gen_id }}"
+          placeholder="{{ block.settings.search_placeholder }}"
+          aria-label="Search recipes"
+        >
+      </div>
+      <div class="ai-recipes-filter-wrapper-{{ ai_gen_id }}">
+        <button class="ai-recipes-filter-{{ ai_gen_id }} active" data-filter="all">
+          All Recipes
+        </button>
+        {% if block.settings.category_1_name != blank %}
+          <button class="ai-recipes-filter-{{ ai_gen_id }}" data-filter="category_1">
+            {{ block.settings.category_1_name }}
+          </button>
+        {% endif %}
+        {% if block.settings.category_2_name != blank %}
+          <button class="ai-recipes-filter-{{ ai_gen_id }}" data-filter="category_2">
+            {{ block.settings.category_2_name }}
+          </button>
+        {% endif %}
+        {% if block.settings.category_3_name != blank %}
+          <button class="ai-recipes-filter-{{ ai_gen_id }}" data-filter="category_3">
+            {{ block.settings.category_3_name }}
+          </button>
+        {% endif %}
+        {% if block.settings.category_4_name != blank %}
+          <button class="ai-recipes-filter-{{ ai_gen_id }}" data-filter="category_4">
+            {{ block.settings.category_4_name }}
+          </button>
+        {% endif %}
+        {% if block.settings.category_5_name != blank %}
+          <button class="ai-recipes-filter-{{ ai_gen_id }}" data-filter="category_5">
+            {{ block.settings.category_5_name }}
+          </button>
+        {% endif %}
+        {% if block.settings.category_6_name != blank %}
+          <button class="ai-recipes-filter-{{ ai_gen_id }}" data-filter="category_6">
+            {{ block.settings.category_6_name }}
+          </button>
+        {% endif %}
+        {% if block.settings.category_7_name != blank %}
+          <button class="ai-recipes-filter-{{ ai_gen_id }}" data-filter="category_7">
+            {{ block.settings.category_7_name }}
+          </button>
+        {% endif %}
+        {% if block.settings.category_8_name != blank %}
+          <button class="ai-recipes-filter-{{ ai_gen_id }}" data-filter="category_8">
+            {{ block.settings.category_8_name }}
+          </button>
+        {% endif %}
+      </div>
+    </div>
+
+    <div class="ai-recipes-grid-{{ ai_gen_id }}">
+      {% for article in block.settings.recipes_blog.articles %}
+        {% liquid
+          assign article_categories = ''
+          assign category_names = ''
+          assign all_tags = ''
+          
+          for tag in article.tags
+            assign all_tags = all_tags | append: tag | downcase | append: ','
+          endfor
+          
+          if article.tags contains block.settings.category_1_tag
+            assign article_categories = article_categories | append: 'category_1,'
+            assign category_names = category_names | append: block.settings.category_1_name | append: ','
+          endif
+          
+          if article.tags contains block.settings.category_2_tag
+            assign article_categories = article_categories | append: 'category_2,'
+            assign category_names = category_names | append: block.settings.category_2_name | append: ','
+          endif
+          
+          if article.tags contains block.settings.category_3_tag
+            assign article_categories = article_categories | append: 'category_3,'
+            assign category_names = category_names | append: block.settings.category_3_name | append: ','
+          endif
+          
+          if article.tags contains block.settings.category_4_tag
+            assign article_categories = article_categories | append: 'category_4,'
+            assign category_names = category_names | append: block.settings.category_4_name | append: ','
+          endif
+          
+          if article.tags contains block.settings.category_5_tag
+            assign article_categories = article_categories | append: 'category_5,'
+            assign category_names = category_names | append: block.settings.category_5_name | append: ','
+          endif
+          
+          if article.tags contains block.settings.category_6_tag
+            assign article_categories = article_categories | append: 'category_6,'
+            assign category_names = category_names | append: block.settings.category_6_name | append: ','
+          endif
+          
+          if article.tags contains block.settings.category_7_tag
+            assign article_categories = article_categories | append: 'category_7,'
+            assign category_names = category_names | append: block.settings.category_7_name | append: ','
+          endif
+          
+          if article.tags contains block.settings.category_8_tag
+            assign article_categories = article_categories | append: 'category_8,'
+            assign category_names = category_names | append: block.settings.category_8_name | append: ','
+          endif
+          
+          assign category_array = category_names | split: ','
+        %}
+
+        <a
+          href="{{ article.url }}"
+          class="ai-recipes-card-{{ ai_gen_id }}"
+          data-categories="{{ article_categories }}"
+          data-title="{{ article.title | downcase }}"
+          data-excerpt="{{ article.excerpt_or_content | strip_html | truncate: 200 | downcase }}"
+          data-tags="{{ all_tags }}"
+        >
+          <div class="ai-recipes-card-image-{{ ai_gen_id }}">
+            {% if article.image %}
+              <img
+                src="{{ article.image | image_url: width: 600 }}"
+                alt="{{ article.image.alt | default: article.title | escape }}"
+                loading="lazy"
+                width="600"
+                height="400"
+              >
+            {% else %}
+              <div class="ai-recipes-card-placeholder-{{ ai_gen_id }}">
+                {{ 'image' | placeholder_svg_tag }}
+              </div>
+            {% endif %}
+          </div>
+          <div class="ai-recipes-card-content-{{ ai_gen_id }}">
+            {% if category_array.size > 0 %}
+              <div class="ai-recipes-card-categories-{{ ai_gen_id }}">
+                {% for category_name in category_array %}
+                  {% if category_name != blank %}
+                    <span class="ai-recipes-card-category-{{ ai_gen_id }}">{{ category_name }}</span>
+                  {% endif %}
+                {% endfor %}
+              </div>
+            {% endif %}
+            <h3 class="ai-recipes-card-title-{{ ai_gen_id }}">{{ article.title }}</h3>
+            <p class="ai-recipes-card-excerpt-{{ ai_gen_id }}">
+              {{ article.excerpt_or_content | strip_html | truncate: 120 }}
+            </p>
+            <div class="ai-recipes-card-meta-{{ ai_gen_id }}">
+              {% if article.author != blank %}
+                <span>By {{ article.author }}</span>
+              {% endif %}
+              {% if article.published_at %}
+                <span>•</span>
+                <span>{{ article.published_at | date: '%B %d, %Y' }}</span>
+              {% endif %}
+            </div>
+          </div>
+        </a>
+      {% endfor %}
+    </div>
+
+    <div class="ai-recipes-no-results-{{ ai_gen_id }}">
+      {{ block.settings.no_results_text }}
+    </div>
+  {% else %}
+    <div class="ai-recipes-empty-state-{{ ai_gen_id }}">
+      <p><strong>Next, select a blog to display recipes</strong></p>
+      <p>Choose a blog from the settings to get started</p>
+    </div>
+  {% endif %}
+</recipes-search-{{ ai_gen_id }}>
+
+<script>
+  (function() {
+    class RecipesSearch{{ ai_gen_id }} extends HTMLElement {
+      constructor() {
+        super();
+        this.searchInput = this.querySelector('.ai-recipes-search-{{ ai_gen_id }}');
+        this.filterButtons = this.querySelectorAll('.ai-recipes-filter-{{ ai_gen_id }}');
+        this.recipeCards = this.querySelectorAll('.ai-recipes-card-{{ ai_gen_id }}');
+        this.noResults = this.querySelector('.ai-recipes-no-results-{{ ai_gen_id }}');
+        this.currentFilter = 'all';
+      }
+
+      connectedCallback() {
+        if (!this.searchInput || !this.noResults) return;
+
+        this.searchInput.addEventListener('input', () => this.filterRecipes());
+        
+        this.filterButtons.forEach(button => {
+          button.addEventListener('click', (e) => {
+            this.filterButtons.forEach(btn => btn.classList.remove('active'));
+            e.target.classList.add('active');
+            this.currentFilter = e.target.dataset.filter;
+            this.filterRecipes();
+          });
+        });
+      }
+
+      filterRecipes() {
+        const searchTerm = this.searchInput.value.toLowerCase();
+        let visibleCount = 0;
+
+        this.recipeCards.forEach(card => {
+          const categories = card.dataset.categories || '';
+          const title = card.dataset.title;
+          const excerpt = card.dataset.excerpt;
+          const tags = card.dataset.tags || '';
+
+          const matchesFilter = this.currentFilter === 'all' || 
+                               categories.includes(this.currentFilter);
+          const matchesSearch = searchTerm === '' || 
+                               title.includes(searchTerm) || 
+                               excerpt.includes(searchTerm) ||
+                               tags.includes(searchTerm);
+
+          if (matchesFilter && matchesSearch) {
+            card.classList.remove('hidden');
+            visibleCount++;
+          } else {
+            card.classList.add('hidden');
+          }
+        });
+
+        if (visibleCount === 0) {
+          this.noResults.classList.add('visible');
+        } else {
+          this.noResults.classList.remove('visible');
+        }
+      }
+    }
+
+    customElements.define('recipes-search-{{ ai_gen_id }}', RecipesSearch{{ ai_gen_id }});
+  })();
+</script>
+
 {% schema %}
- {
-   "name": "AI_Block",
-   "tag": "shopify-ai-generated-block"
- }
+{
+  "name": "Searchable recipes",
+  "settings": [
+    {
+      "type": "header",
+      "content": "Header"
+    },
+    {
+      "type": "text",
+      "id": "title",
+      "label": "Title",
+      "default": "Our Recipes"
+    },
+    {
+      "type": "textarea",
+      "id": "description",
+      "label": "Description",
+      "default": "Explore our collection of delicious recipes"
+    },
+    {
+      "type": "range",
+      "id": "title_size",
+      "label": "Title size",
+      "min": 24,
+      "max": 60,
+      "step": 2,
+      "unit": "px",
+      "default": 40
+    },
+    {
+      "type": "range",
+      "id": "description_size",
+      "label": "Description size",
+      "min": 14,
+      "max": 24,
+      "step": 1,
+      "unit": "px",
+      "default": 16
+    },
+    {
+      "type": "header",
+      "content": "Recipes source"
+    },
+    {
+      "type": "paragraph",
+      "content": "Select a blog to display all its articles as recipes. Add tags to your blog articles to assign them to categories."
+    },
+    {
+      "type": "blog",
+      "id": "recipes_blog",
+      "label": "Recipes blog"
+    },
+    {
+      "type": "header",
+      "content": "Search"
+    },
+    {
+      "type": "paragraph",
+      "content": "Search works on recipe titles, descriptions, and all blog tags."
+    },
+    {
+      "type": "text",
+      "id": "search_placeholder",
+      "label": "Search placeholder",
+      "default": "Search recipes..."
+    },
+    {
+      "type": "text",
+      "id": "no_results_text",
+      "label": "No results text",
+      "default": "No recipes found. Try adjusting your search or filters."
+    },
+    {
+      "type": "header",
+      "content": "Categories"
+    },
+    {
+      "type": "paragraph",
+      "content": "Create custom categories and assign blog article tags to them. Articles can have multiple categories. Leave name blank to hide a category."
+    },
+    {
+      "type": "text",
+      "id": "category_1_name",
+      "label": "Category 1 name",
+      "default": "Breakfast"
+    },
+    {
+      "type": "text",
+      "id": "category_1_tag",
+      "label": "Category 1 tag",
+      "info": "Blog articles with this tag will show in this category",
+      "default": "breakfast"
+    },
+    {
+      "type": "text",
+      "id": "category_2_name",
+      "label": "Category 2 name",
+      "default": "Lunch"
+    },
+    {
+      "type": "text",
+      "id": "category_2_tag",
+      "label": "Category 2 tag",
+      "info": "Blog articles with this tag will show in this category",
+      "default": "lunch"
+    },
+    {
+      "type": "text",
+      "id": "category_3_name",
+      "label": "Category 3 name",
+      "default": "Dinner"
+    },
+    {
+      "type": "text",
+      "id": "category_3_tag",
+      "label": "Category 3 tag",
+      "info": "Blog articles with this tag will show in this category",
+      "default": "dinner"
+    },
+    {
+      "type": "text",
+      "id": "category_4_name",
+      "label": "Category 4 name",
+      "default": "Dessert"
+    },
+    {
+      "type": "text",
+      "id": "category_4_tag",
+      "label": "Category 4 tag",
+      "info": "Blog articles with this tag will show in this category",
+      "default": "dessert"
+    },
+    {
+      "type": "text",
+      "id": "category_5_name",
+      "label": "Category 5 name",
+      "default": "Drinks"
+    },
+    {
+      "type": "text",
+      "id": "category_5_tag",
+      "label": "Category 5 tag",
+      "info": "Blog articles with this tag will show in this category",
+      "default": "drinks"
+    },
+    {
+      "type": "text",
+      "id": "category_6_name",
+      "label": "Category 6 name"
+    },
+    {
+      "type": "text",
+      "id": "category_6_tag",
+      "label": "Category 6 tag",
+      "info": "Blog articles with this tag will show in this category"
+    },
+    {
+      "type": "text",
+      "id": "category_7_name",
+      "label": "Category 7 name"
+    },
+    {
+      "type": "text",
+      "id": "category_7_tag",
+      "label": "Category 7 tag",
+      "info": "Blog articles with this tag will show in this category"
+    },
+    {
+      "type": "text",
+      "id": "category_8_name",
+      "label": "Category 8 name"
+    },
+    {
+      "type": "text",
+      "id": "category_8_tag",
+      "label": "Category 8 tag",
+      "info": "Blog articles with this tag will show in this category"
+    },
+    {
+      "type": "header",
+      "content": "Layout"
+    },
+    {
+      "type": "range",
+      "id": "desktop_width_percent",
+      "label": "Desktop width",
+      "min": 50,
+      "max": 100,
+      "step": 5,
+      "unit": "%",
+      "default": 100
+    },
+    {
+      "type": "header",
+      "content": "Colors"
+    },
+    {
+      "type": "color",
+      "id": "title_color",
+      "label": "Title",
+      "default": "#0d0d0d"
+    },
+    {
+      "type": "color",
+      "id": "text_color",
+      "label": "Text",
+      "default": "#0d0d0d"
+    },
+    {
+      "type": "color",
+      "id": "input_bg_color",
+      "label": "Search background",
+      "default": "#ffffff"
+    },
+    {
+      "type": "color",
+      "id": "input_border_color",
+      "label": "Search border",
+      "default": "#0d0d0d"
+    },
+    {
+      "type": "color",
+      "id": "filter_bg_color",
+      "label": "Filter background",
+      "default": "#f9f9e2"
+    },
+    {
+      "type": "color",
+      "id": "filter_text_color",
+      "label": "Filter text",
+      "default": "#0d0d0d"
+    },
+    {
+      "type": "color",
+      "id": "filter_border_color",
+      "label": "Filter border",
+      "default": "#0d0d0d"
+    },
+    {
+      "type": "color",
+      "id": "filter_hover_bg_color",
+      "label": "Filter hover background",
+      "default": "#a16f29"
+    },
+    {
+      "type": "color",
+      "id": "filter_hover_text_color",
+      "label": "Filter hover text",
+      "default": "#f9f9e2"
+    },
+    {
+      "type": "color",
+      "id": "filter_hover_border_color",
+      "label": "Filter hover border",
+      "default": "#a16f29"
+    },
+    {
+      "type": "color",
+      "id": "filter_active_bg_color",
+      "label": "Filter active background",
+      "default": "#14404b"
+    },
+    {
+      "type": "color",
+      "id": "filter_active_text_color",
+      "label": "Filter active text",
+      "default": "#f9f9e2"
+    },
+    {
+      "type": "color",
+      "id": "filter_active_border_color",
+      "label": "Filter active border",
+      "default": "#14404b"
+    },
+    {
+      "type": "color",
+      "id": "card_bg_color",
+      "label": "Card background",
+      "default": "#ffffff"
+    },
+    {
+      "type": "color",
+      "id": "card_border_color",
+      "label": "Card border",
+      "default": "#0d0d0d"
+    },
+    {
+      "type": "color",
+      "id": "card_title_color",
+      "label": "Card title",
+      "default": "#0d0d0d"
+    },
+    {
+      "type": "color",
+      "id": "category_bg_color",
+      "label": "Category background",
+      "default": "#a16f29"
+    },
+    {
+      "type": "color",
+      "id": "category_text_color",
+      "label": "Category text",
+      "default": "#f9f9e2"
+    },
+    {
+      "type": "header",
+      "content": "Style"
+    },
+    {
+      "type": "range",
+      "id": "input_border_radius",
+      "label": "Search border radius",
+      "min": 0,
+      "max": 40,
+      "step": 2,
+      "unit": "px",
+      "default": 12
+    },
+    {
+      "type": "range",
+      "id": "filter_border_radius",
+      "label": "Filter border radius",
+      "min": 0,
+      "max": 40,
+      "step": 2,
+      "unit": "px",
+      "default": 20
+    },
+    {
+      "type": "range",
+      "id": "card_border_radius",
+      "label": "Card border radius",
+      "min": 0,
+      "max": 40,
+      "step": 2,
+      "unit": "px",
+      "default": 12
+    }
+  ],
+  "presets": [
+    {
+      "name": "Searchable recipes"
+    }
+  ]
+}
 {% endschema %}
