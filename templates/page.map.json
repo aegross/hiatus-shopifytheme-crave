@@ -208,9 +208,39 @@
     "multicolumn_6EPV6V": {
       "type": "multicolumn",
       "blocks": {
+        "column_gVEDVh": {
+          "type": "column",
+          "name": "Grocery Bag",
+          "settings": {
+            "title": "The Grocery Bag Liquor",
+            "text": "<p>22722 Roscoe Blvd, West Hills, CA 91304</p>",
+            "link_label": "Social Media",
+            "link": "https://www.instagram.com/grocerybagliquor/"
+          }
+        },
+        "column_rpggra": {
+          "type": "column",
+          "name": "Old Town Liquor",
+          "settings": {
+            "title": "Old Town Liquor",
+            "text": "<p><em>2304 San Diego Ave A, San Diego, CA 92110</em></p>",
+            "link_label": "Website",
+            "link": "https://www.oldtowntequila.com"
+          }
+        },
+        "column_xjdgPi": {
+          "type": "column",
+          "name": "Happy Place",
+          "settings": {
+            "title": "Happy Place Craft Beer Wine & Spirits",
+            "text": "<p><em>1500 Los Angeles Ave, Ventura, CA 93004</em></p>",
+            "link_label": "Website",
+            "link": "https://wedeliverliquor.com/"
+          }
+        },
         "column_TrwWre": {
           "type": "column",
-          "name": "The Local",
+          "name": "Plaza Liquor Mart",
           "settings": {
             "title": "Plaza Liquor Mart",
             "text": "<p><em>481 W Channel Islands Blvd, Port Hueneme, CA 93041</em></p>",
@@ -220,7 +250,7 @@
         },
         "column_xNU6h8": {
           "type": "column",
-          "name": "Twisted Oak",
+          "name": "Harbor Mart ",
           "settings": {
             "title": "Harbor Mart (Portside Ventura)",
             "text": "<p><em>947 Schooner Dr #106, Ventura, CA 93001</em></p>",
@@ -230,6 +260,9 @@
         }
       },
       "block_order": [
+        "column_gVEDVh",
+        "column_rpggra",
+        "column_xjdgPi",
         "column_TrwWre",
         "column_xNU6h8"
       ],
