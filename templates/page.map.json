@@ -80,7 +80,7 @@
           "settings": {
             "image": "shopify://shop_images/shopping_bag_250dp_A16F29.svg",
             "title": "Stores",
-            "text": "<p><em>(Coming Soon!)</em></p><p>Visit these local stores to purchase one of our bottles.</p>",
+            "text": "<p>Visit these local stores to purchase one of our bottles.</p>",
             "link_label": "",
             "link": ""
           }
@@ -187,7 +187,7 @@
       "custom_css": [
         "{margin-top: 24px;}"
       ],
-      "name": "t:sections.multicolumn.presets.name",
+      "name": "Restaurants & Bars",
       "settings": {
         "title": "Restaurants & Bars",
         "heading_size": "h2",
@@ -208,42 +208,28 @@
     "multicolumn_6EPV6V": {
       "type": "multicolumn",
       "blocks": {
-        "column_3ydMN7": {
-          "type": "column",
-          "name": "Basil & Mint",
-          "disabled": true,
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "Website",
-            "link": "https://phobasilmint.com/"
-          }
-        },
         "column_TrwWre": {
           "type": "column",
           "name": "The Local",
-          "disabled": true,
           "settings": {
-            "title": "The Local",
-            "text": "<p><em>795 Camarillo Springs Rd, Camarillo, CA 93012</em></p>",
-            "link_label": "Website",
-            "link": "https://www.thelocalcamarillo.com/"
+            "title": "Plaza Liquor Mart",
+            "text": "<p><em>481 W Channel Islands Blvd, Port Hueneme, CA 93041</em></p>",
+            "link_label": "Social Media",
+            "link": "https://www.instagram.com/plaza_market_and_liquor/"
           }
         },
         "column_xNU6h8": {
           "type": "column",
           "name": "Twisted Oak",
-          "disabled": true,
           "settings": {
-            "title": "Twisted Oak Tavern",
-            "text": "<p><em>2433 Ventura Blvd, Camarillo, CA 93010</em></p>",
+            "title": "Harbor Mart (Portside Ventura)",
+            "text": "<p><em>947 Schooner Dr #106, Ventura, CA 93001</em></p>",
             "link_label": "Website",
-            "link": "https://www.twistedoaktavern.pub/"
+            "link": "https://harbormart.net/"
           }
         }
       },
       "block_order": [
-        "column_3ydMN7",
         "column_TrwWre",
         "column_xNU6h8"
       ],
@@ -252,7 +238,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Stores - Coming Soon",
+        "title": "Stores",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
