@@ -208,24 +208,14 @@
     "multicolumn_6EPV6V": {
       "type": "multicolumn",
       "blocks": {
-        "column_gVEDVh": {
+        "column_xNU6h8": {
           "type": "column",
-          "name": "Grocery Bag",
+          "name": "Harbor Mart ",
           "settings": {
-            "title": "The Grocery Bag Liquor",
-            "text": "<p>22722 Roscoe Blvd, West Hills, CA 91304</p>",
-            "link_label": "Social Media",
-            "link": "https://www.instagram.com/grocerybagliquor/"
-          }
-        },
-        "column_rpggra": {
-          "type": "column",
-          "name": "Old Town Liquor",
-          "settings": {
-            "title": "Old Town Liquor",
-            "text": "<p><em>2304 San Diego Ave A, San Diego, CA 92110</em></p>",
+            "title": "Harbor Mart (Portside Ventura)",
+            "text": "<p><em>947 Schooner Dr #106, Ventura, CA 93001</em></p>",
             "link_label": "Website",
-            "link": "https://www.oldtowntequila.com"
+            "link": "https://harbormart.net/"
           }
         },
         "column_xjdgPi": {
@@ -248,23 +238,33 @@
             "link": "https://www.instagram.com/plaza_market_and_liquor/"
           }
         },
-        "column_xNU6h8": {
+        "column_gVEDVh": {
           "type": "column",
-          "name": "Harbor Mart ",
+          "name": "Grocery Bag",
           "settings": {
-            "title": "Harbor Mart (Portside Ventura)",
-            "text": "<p><em>947 Schooner Dr #106, Ventura, CA 93001</em></p>",
+            "title": "The Grocery Bag Liquor",
+            "text": "<p>22722 Roscoe Blvd, West Hills, CA 91304</p>",
+            "link_label": "Social Media",
+            "link": "https://www.instagram.com/grocerybagliquor/"
+          }
+        },
+        "column_rpggra": {
+          "type": "column",
+          "name": "Old Town Liquor",
+          "settings": {
+            "title": "Old Town Liquor",
+            "text": "<p><em>2304 San Diego Ave A, San Diego, CA 92110</em></p>",
             "link_label": "Website",
-            "link": "https://harbormart.net/"
+            "link": "https://www.oldtowntequila.com"
           }
         }
       },
       "block_order": [
-        "column_gVEDVh",
-        "column_rpggra",
+        "column_xNU6h8",
         "column_xjdgPi",
         "column_TrwWre",
-        "column_xNU6h8"
+        "column_gVEDVh",
+        "column_rpggra"
       ],
       "custom_css": [
         "{margin-top: 24px;}"
