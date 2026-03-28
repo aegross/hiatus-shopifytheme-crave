@@ -155,6 +155,16 @@
             "link": ""
           }
         },
+        "column_NT9iWE": {
+          "type": "column",
+          "name": "Larsen's Grill",
+          "settings": {
+            "title": "Larsen's Grill (Oxnard)",
+            "text": "<p><em>590 Town Center Dr, Oxnard, CA 93036</em></p>",
+            "link_label": "Website",
+            "link": "https://www.larsensrestaurants.com"
+          }
+        },
         "column_VGcrm3": {
           "type": "column",
           "name": "Q Club",
@@ -181,6 +191,7 @@
         "column_bRe7Me",
         "column_7T4tDR",
         "column_dnjhcK",
+        "column_NT9iWE",
         "column_VGcrm3",
         "column_3gR3Ye"
       ],
