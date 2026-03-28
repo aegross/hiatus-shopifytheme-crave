@@ -254,7 +254,7 @@
           "name": "Grocery Bag",
           "settings": {
             "title": "The Grocery Bag Liquor",
-            "text": "<p>22722 Roscoe Blvd, West Hills, CA 91304</p>",
+            "text": "<p><em>22722 Roscoe Blvd, West Hills, CA 91304</em></p>",
             "link_label": "Social Media",
             "link": "https://www.instagram.com/grocerybagliquor/"
           }
