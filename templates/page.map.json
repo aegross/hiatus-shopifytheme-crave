@@ -273,7 +273,7 @@
           "type": "column",
           "name": "Old Town Liquor",
           "settings": {
-            "title": "Old Town Liquor",
+            "title": "Old Town Liquor (San Diego)",
             "text": "<p><em>2304 San Diego Ave A, San Diego, CA 92110</em></p>",
             "link_label": "Website",
             "link": "https://www.oldtowntequila.com"
