@@ -14,6 +14,13 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "announcement_gTt78h": {
+          "type": "announcement",
+          "settings": {
+            "text": "Closed on Sunday, April 5.",
+            "link": ""
+          }
+        },
         "announcement_gYtPXP": {
           "type": "announcement",
           "settings": {
@@ -76,6 +83,7 @@
         }
       },
       "block_order": [
+        "announcement_gTt78h",
         "announcement_gYtPXP",
         "announcement_3n7Bn9",
         "announcement_fVrntG",
