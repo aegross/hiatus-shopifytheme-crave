@@ -219,9 +219,19 @@
     "multicolumn_6EPV6V": {
       "type": "multicolumn",
       "blocks": {
+        "column_eziEeg": {
+          "type": "column",
+          "name": "Harbor Mart (Oxnard)",
+          "settings": {
+            "title": "Harbor Mart (Hollywood Beach)",
+            "text": "<p><em>2810 Harbor Blvd #B3, Oxnard, CA 93035</em></p>",
+            "link_label": "Website",
+            "link": "https://oxnard.harbormart.net/"
+          }
+        },
         "column_xNU6h8": {
           "type": "column",
-          "name": "Harbor Mart ",
+          "name": "Harbor Mart (Ventura)",
           "settings": {
             "title": "Harbor Mart (Portside Ventura)",
             "text": "<p><em>947 Schooner Dr #106, Ventura, CA 93001</em></p>",
@@ -271,6 +281,7 @@
         }
       },
       "block_order": [
+        "column_eziEeg",
         "column_xNU6h8",
         "column_xjdgPi",
         "column_TrwWre",
