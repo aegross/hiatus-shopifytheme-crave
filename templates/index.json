@@ -18,9 +18,9 @@
           "settings": {
             "image": "shopify://shop_images/IMG_3911.jpg",
             "image_overlay_opacity": 70,
-            "heading": "Closed on 4/5",
+            "heading": "Closed on Sunday, April 5",
             "heading_size": "h1",
-            "subheading": "Be sure to pick up your bottles on Saturday, April 4!",
+            "subheading": "Be sure to stop by for some bottles on Saturday, April 4!",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
