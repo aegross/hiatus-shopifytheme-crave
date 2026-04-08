@@ -12,25 +12,6 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
-        "slide_aJwG6J": {
-          "type": "slide",
-          "name": "TEMP, 4/4",
-          "settings": {
-            "image": "shopify://shop_images/IMG_3911.jpg",
-            "image_overlay_opacity": 70,
-            "heading": "Closed on Sunday, April 5",
-            "heading_size": "h1",
-            "subheading": "Be sure to stop by for some bottles on Saturday, April 4!",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "show_text_box": false,
-            "box_align": "middle-center",
-            "text_alignment": "center",
-            "text_alignment_mobile": "center",
-            "color_scheme": "accent-2"
-          }
-        },
         "slide-0": {
           "type": "slide",
           "name": "PERM",
@@ -48,63 +29,6 @@
             "text_alignment": "center",
             "text_alignment_mobile": "center",
             "color_scheme": "accent-2"
-          }
-        },
-        "slide_TK6LpF": {
-          "type": "slide",
-          "name": "TEMP, 3/31",
-          "settings": {
-            "image": "shopify://shop_images/IMG_4492.jpg",
-            "image_overlay_opacity": 50,
-            "heading": "Scotsman Abroad",
-            "heading_size": "h1",
-            "subheading": "Try our<strong> Cocktail of the Month</strong>—Scotsman Abroad, featuring our <a href=\"/products/pinot-noir-reposado\" target=\"_blank\" title=\"Pinot Noir Reposado\">Pinot Noir Reposado</a> and <a href=\"/products/straight-american-single-malt-whiskey\" target=\"_blank\" title=\"Straight American Single Malt Whiskey\">American Single Malt Whiskey</a>. Stop by Saturdays and Sundays in March!",
-            "button_label": "Book a Tasting Today",
-            "link": "shopify://products/tasting",
-            "button_style_secondary": false,
-            "show_text_box": false,
-            "box_align": "middle-center",
-            "text_alignment": "center",
-            "text_alignment_mobile": "center",
-            "color_scheme": "accent-2"
-          }
-        },
-        "slide_MDQjaN": {
-          "type": "slide",
-          "name": "PERM",
-          "settings": {
-            "image": "shopify://shop_images/IMG_2831.jpg",
-            "image_overlay_opacity": 30,
-            "heading": "Our story",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "About Hiatus Craft House",
-            "link": "shopify://pages/our-story",
-            "button_style_secondary": false,
-            "show_text_box": false,
-            "box_align": "middle-center",
-            "text_alignment": "center",
-            "text_alignment_mobile": "center",
-            "color_scheme": "accent-2"
-          }
-        },
-        "slide_9wUfBV": {
-          "type": "slide",
-          "name": "TEMP",
-          "settings": {
-            "image": "shopify://shop_images/20241014_115917_6eee3aad-4185-4479-ac30-381124a83233.jpg",
-            "image_overlay_opacity": 70,
-            "heading": "Accepting New Vendors",
-            "heading_size": "h1",
-            "subheading": "Apply to become a vendor for our upcoming Makers Market, held at our distillery. Click the button below for more information!",
-            "button_label": "Apply today!",
-            "link": "shopify://pages/market-vendor-application",
-            "button_style_secondary": false,
-            "show_text_box": false,
-            "box_align": "middle-center",
-            "text_alignment": "center",
-            "text_alignment_mobile": "center",
-            "color_scheme": "accent-1"
           }
         },
         "slide_9DGtDz": {
@@ -164,25 +88,6 @@
             "color_scheme": "accent-2"
           }
         },
-        "e43c93ae-2d02-4689-9536-9c3b51643f65": {
-          "type": "slide",
-          "name": "PERM",
-          "settings": {
-            "image": "shopify://shop_images/IMG_3153_ddbbc237-6894-4898-b9d9-8809ed5415bb.jpg",
-            "image_overlay_opacity": 50,
-            "heading": "Straight Bourbon Whiskey",
-            "heading_size": "h2",
-            "subheading": "Try our first two varieties of grain-to-bottle small-batch straight bourbon whiskey, mashed, fermented, distilled, aged, and bottled at our plant in Camarillo, California.",
-            "button_label": "Buy now",
-            "link": "shopify://collections/frontpage",
-            "button_style_secondary": false,
-            "show_text_box": false,
-            "box_align": "middle-center",
-            "text_alignment": "center",
-            "text_alignment_mobile": "center",
-            "color_scheme": "accent-2"
-          }
-        },
         "slide_PbQA9Y": {
           "type": "slide",
           "name": "TEMP",
@@ -201,19 +106,119 @@
             "text_alignment_mobile": "center",
             "color_scheme": "accent-2"
           }
+        },
+        "slide_MDQjaN": {
+          "type": "slide",
+          "name": "PERM",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/IMG_2831.jpg",
+            "image_overlay_opacity": 30,
+            "heading": "Our story",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "About Hiatus Craft House",
+            "link": "shopify://pages/our-story",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "accent-2"
+          }
+        },
+        "e43c93ae-2d02-4689-9536-9c3b51643f65": {
+          "type": "slide",
+          "name": "PERM",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/IMG_3153_ddbbc237-6894-4898-b9d9-8809ed5415bb.jpg",
+            "image_overlay_opacity": 50,
+            "heading": "Straight Bourbon Whiskey",
+            "heading_size": "h2",
+            "subheading": "Try our first two varieties of grain-to-bottle small-batch straight bourbon whiskey, mashed, fermented, distilled, aged, and bottled at our plant in Camarillo, California.",
+            "button_label": "Buy now",
+            "link": "shopify://collections/frontpage",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "accent-2"
+          }
+        },
+        "slide_9wUfBV": {
+          "type": "slide",
+          "name": "TEMP",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/20241014_115917_6eee3aad-4185-4479-ac30-381124a83233.jpg",
+            "image_overlay_opacity": 70,
+            "heading": "Accepting New Vendors",
+            "heading_size": "h1",
+            "subheading": "Apply to become a vendor for our upcoming Makers Market, held at our distillery. Click the button below for more information!",
+            "button_label": "Apply today!",
+            "link": "shopify://pages/market-vendor-application",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "accent-1"
+          }
+        },
+        "slide_TK6LpF": {
+          "type": "slide",
+          "name": "TEMP, 3/31",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/IMG_4492.jpg",
+            "image_overlay_opacity": 50,
+            "heading": "Scotsman Abroad",
+            "heading_size": "h1",
+            "subheading": "Try our<strong> Cocktail of the Month</strong>—Scotsman Abroad, featuring our <a href=\"/products/pinot-noir-reposado\" target=\"_blank\" title=\"Pinot Noir Reposado\">Pinot Noir Reposado</a> and <a href=\"/products/straight-american-single-malt-whiskey\" target=\"_blank\" title=\"Straight American Single Malt Whiskey\">American Single Malt Whiskey</a>. Stop by Saturdays and Sundays in March!",
+            "button_label": "Book a Tasting Today",
+            "link": "shopify://products/tasting",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "accent-2"
+          }
+        },
+        "slide_aJwG6J": {
+          "type": "slide",
+          "name": "TEMP, 4/4",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/IMG_3911.jpg",
+            "image_overlay_opacity": 70,
+            "heading": "Closed on Sunday, April 5",
+            "heading_size": "h1",
+            "subheading": "Be sure to stop by for some bottles on Saturday, April 4!",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "accent-2"
+          }
         }
       },
       "block_order": [
-        "slide_aJwG6J",
         "slide-0",
-        "slide_TK6LpF",
-        "slide_MDQjaN",
-        "slide_9wUfBV",
         "slide_9DGtDz",
         "slide_HJri7T",
         "slide_cjdkdq",
+        "slide_PbQA9Y",
+        "slide_MDQjaN",
         "e43c93ae-2d02-4689-9536-9c3b51643f65",
-        "slide_PbQA9Y"
+        "slide_9wUfBV",
+        "slide_TK6LpF",
+        "slide_aJwG6J"
       ],
       "settings": {
         "layout": "grid",
