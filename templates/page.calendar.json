@@ -60,6 +60,17 @@
             "button_link": "shopify://pages/market-vendor-application"
           }
         },
+        "row_wwwTBq": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/IMG_4033.jpg",
+            "caption": "Off-site event",
+            "heading": "Boys & Girls Club Gala & Auction ",
+            "text": "<p>🗓️ April 11th | 5:00 to 9:00pm</p><p>📍 Padre Serra Center</p><p>Hiatus Craft House will be supporting the Boys & Girls Club of Camarillo in their annual Gala & Auction.</p>",
+            "button_label": "Tickets",
+            "button_link": "https://bgccam26.afrogs.org/#/index"
+          }
+        },
         "row_fFf4JB": {
           "type": "row",
           "settings": {
@@ -97,6 +108,7 @@
       "block_order": [
         "row_YyUeff",
         "row_BVDEcj",
+        "row_wwwTBq",
         "row_fFf4JB",
         "row_hUqUYV",
         "row_R6paFP"
