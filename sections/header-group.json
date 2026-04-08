@@ -16,6 +16,7 @@
       "blocks": {
         "announcement_gTt78h": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Closed on Sunday, April 5.",
             "link": ""
@@ -24,7 +25,7 @@
         "announcement_gYtPXP": {
           "type": "announcement",
           "settings": {
-            "text": "Now open Saturday 12-6 & Sunday 1-5",
+            "text": "Open Saturdays 12-6 & Sundays 1-5",
             "link": "https://maps.app.goo.gl/sQkLtfTTigDgq3ke7"
           }
         },
@@ -44,6 +45,7 @@
         },
         "announcement_aDiwFk": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Now Accepting Makers Market Vendor Applications!",
             "link": "shopify://pages/market-vendor-application"
