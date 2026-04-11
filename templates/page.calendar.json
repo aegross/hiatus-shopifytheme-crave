@@ -80,6 +80,17 @@
             "button_link": "https://www.eventbrite.com/e/2026-conejo-food-and-wine-festival-tickets-1982407341724?keep_tld=true"
           }
         },
+        "row_AwkHxK": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/IMG_3911.jpg",
+            "caption": "Off-Site Event",
+            "heading": "Taste of Camarillo",
+            "text": "<p>🗓️ July 26th | 12:00 to 4:30pm</p><p>📍 <em>Camarillo Ranch House</em></p><p>Catch Hiatus Craft House at Taste of Camarillo!</p>",
+            "button_label": "Tickets",
+            "button_link": "https://atasteofcamarillo.festivalsetup.com/tickets"
+          }
+        },
         "row_BVDEcj": {
           "type": "row",
           "disabled": true,
@@ -121,6 +132,7 @@
         "row_3KprYp",
         "row_hUqUYV",
         "row_wwwTBq",
+        "row_AwkHxK",
         "row_BVDEcj",
         "row_YyUeff",
         "row_R6paFP"
