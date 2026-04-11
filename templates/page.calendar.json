@@ -61,7 +61,7 @@
         "row_hUqUYV": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/conejofwf2025-76_5f234e6d-111e-43f5-a6bf-d80ec9dd05b3.jpg",
+            "image": "shopify://shop_images/IMG_4033.jpg",
             "caption": "Off-Site Event",
             "heading": "Big Brothers Big Sisters Ventura County Golf",
             "text": "<p>🗓️ May 4th | 4:30 to 8:00pm</p><p>📍<em> Somis Saticoy Club</em></p><p>Hiatus Craft House will be supporting Big Brothers Big Sisters of Ventura County at their golf fundraiser in Somis.</p>",
@@ -71,14 +71,13 @@
         },
         "row_wwwTBq": {
           "type": "row",
-          "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/IMG_4033.jpg",
+            "image": "shopify://shop_images/conejofwf2025-76_5f234e6d-111e-43f5-a6bf-d80ec9dd05b3.jpg",
             "caption": "Off-site event",
-            "heading": "Boys & Girls Club Gala & Auction ",
-            "text": "<p>🗓️ April 11th | 5:00 to 9:00pm</p><p>📍 <em>Padre Serra Center</em></p><p>Hiatus Craft House will be supporting the Boys & Girls Club of Camarillo in their annual Gala & Auction.</p>",
+            "heading": "Conejo Food and Wine Festival",
+            "text": "<p>🗓️ June 28th | 1:30 to 5:30pm</p><p>📍 <em>St. Paschal Baylon School Grounds</em></p><p>Catch Hiatus Craft House at the 2026 Conejo Valley Food and Wine Festival!</p>",
             "button_label": "Tickets",
-            "button_link": "https://bgccam26.afrogs.org/#/index"
+            "button_link": "https://www.eventbrite.com/e/2026-conejo-food-and-wine-festival-tickets-1982407341724?keep_tld=true"
           }
         },
         "row_BVDEcj": {
