@@ -95,6 +95,7 @@
         "announcement_M8NW6c",
         "announcement-bar-0"
       ],
+      "disabled": true,
       "settings": {
         "auto_rotate": true,
         "change_slides_speed": 5,

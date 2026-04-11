@@ -36,37 +36,13 @@
     "multirow_X4jtxF": {
       "type": "multirow",
       "blocks": {
-        "row_YyUeff": {
-          "type": "row",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/IMG_4033.jpg",
-            "caption": "In-House event",
-            "heading": "Cocktails & Comedy",
-            "text": "<p>🗓️ April 4th | 6:00 to 8:30pm</p><p>📍 <em>Hiatus Craft House</em></p><p>Join Funny Girl Events for their first Cocktails & Comedy event in Camarillo here at Hiatus Craft House!</p>",
-            "button_label": "Tickets",
-            "button_link": "https://www.eventbrite.com/e/camarillo-comedy-club-hiatus-craft-house-tickets-1983287818253?aff=oddtdtcreator"
-          }
-        },
-        "row_BVDEcj": {
-          "type": "row",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/20241014_115917_6eee3aad-4185-4479-ac30-381124a83233.jpg",
-            "caption": "In-House Event",
-            "heading": "Makers Market",
-            "text": "<p>🗓️ April 12th | 1:00PM to 4:30PM</p><p>📍 <em>Hiatus Craft House</em></p><p>Join us for our first Makers Market, featuring local vendors! Interesting in vending? Click the link below to apply!</p>",
-            "button_label": "Vendor Application",
-            "button_link": "shopify://pages/market-vendor-application"
-          }
-        },
         "row_wwwTBq": {
           "type": "row",
           "settings": {
             "image": "shopify://shop_images/IMG_4033.jpg",
             "caption": "Off-site event",
             "heading": "Boys & Girls Club Gala & Auction ",
-            "text": "<p>🗓️ April 11th | 5:00 to 9:00pm</p><p>📍 Padre Serra Center</p><p>Hiatus Craft House will be supporting the Boys & Girls Club of Camarillo in their annual Gala & Auction.</p>",
+            "text": "<p>🗓️ April 11th | 5:00 to 9:00pm</p><p>📍 <em>Padre Serra Center</em></p><p>Hiatus Craft House will be supporting the Boys & Girls Club of Camarillo in their annual Gala & Auction.</p>",
             "button_label": "Tickets",
             "button_link": "https://bgccam26.afrogs.org/#/index"
           }
@@ -82,6 +58,17 @@
             "button_link": "https://www.callutheran.edu/special-events/wine-beer-walk/"
           }
         },
+        "row_3KprYp": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/IMG_4578.jpg",
+            "caption": "In-House Event",
+            "heading": "Charcuterie Workshop",
+            "text": "<p>🗓️ May 3rd | 12:30 to 2:00pm</p><p>📍 <em>Hiatus Craft House</em></p><p>Learn the basics of meat and cheese styling, and create an arrangement on your one-of-a-kind custom-made charcuterie board. <br/></p>",
+            "button_label": "Tickets",
+            "button_link": "https://www.eventbrite.com/e/charcuterie-workshop-tickets-1986924755430?aff=oddtdtcreator"
+          }
+        },
         "row_hUqUYV": {
           "type": "row",
           "settings": {
@@ -91,6 +78,30 @@
             "text": "<p>🗓️ May 4th | 4:30 to 8:00pm</p><p>📍<em> Somis Saticoy Club</em></p><p>Hiatus Craft House will be supporting Big Brothers Big Sisters of Ventura County at their golf fundraiser in Somis.</p>",
             "button_label": "Tickets",
             "button_link": "https://bbsvc.org/golf"
+          }
+        },
+        "row_BVDEcj": {
+          "type": "row",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/20241014_115917_6eee3aad-4185-4479-ac30-381124a83233.jpg",
+            "caption": "In-House Event",
+            "heading": "Makers Market",
+            "text": "<p>🗓️ April 12th | 1:00PM to 4:30PM</p><p>📍 <em>Hiatus Craft House</em></p><p>Join us for our first Makers Market, featuring local vendors! Interesting in vending? Click the link below to apply!</p>",
+            "button_label": "Vendor Application",
+            "button_link": "shopify://pages/market-vendor-application"
+          }
+        },
+        "row_YyUeff": {
+          "type": "row",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/IMG_4033.jpg",
+            "caption": "In-House event",
+            "heading": "Cocktails & Comedy",
+            "text": "<p>🗓️ April 4th | 6:00 to 8:30pm</p><p>📍 <em>Hiatus Craft House</em></p><p>Join Funny Girl Events for their first Cocktails & Comedy event in Camarillo here at Hiatus Craft House!</p>",
+            "button_label": "Tickets",
+            "button_link": "https://www.eventbrite.com/e/camarillo-comedy-club-hiatus-craft-house-tickets-1983287818253?aff=oddtdtcreator"
           }
         },
         "row_R6paFP": {
@@ -106,11 +117,12 @@
         }
       },
       "block_order": [
-        "row_YyUeff",
-        "row_BVDEcj",
         "row_wwwTBq",
         "row_fFf4JB",
+        "row_3KprYp",
         "row_hUqUYV",
+        "row_BVDEcj",
+        "row_YyUeff",
         "row_R6paFP"
       ],
       "custom_css": [
