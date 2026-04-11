@@ -12,6 +12,25 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
+        "e43c93ae-2d02-4689-9536-9c3b51643f65": {
+          "type": "slide",
+          "name": "TEMP, 5/3",
+          "settings": {
+            "image": "shopify://shop_images/IMG_4599.jpg",
+            "image_overlay_opacity": 50,
+            "heading": "Charcuterie Workshop",
+            "heading_size": "h1",
+            "subheading": "Join us for our Charcuterie Workshop on <strong>Sunday, May 3rd</strong>, from 12:30-2:30pm! Learn the basics of meat and cheese styling, and create an arrangement on your one-of-a-kind <strong>custom-made charcuterie board</strong>. ",
+            "button_label": "Tickets",
+            "link": "https://www.eventbrite.com/e/charcuterie-workshop-tickets-1986924755430?aff=oddtdtcreator",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "accent-2"
+          }
+        },
         "slide-0": {
           "type": "slide",
           "name": "PERM",
@@ -42,25 +61,6 @@
             "subheading": "",
             "button_label": "Contact Us Today",
             "link": "shopify://pages/venue-rental",
-            "button_style_secondary": false,
-            "show_text_box": false,
-            "box_align": "middle-center",
-            "text_alignment": "center",
-            "text_alignment_mobile": "center",
-            "color_scheme": "accent-2"
-          }
-        },
-        "slide_HJri7T": {
-          "type": "slide",
-          "name": "TEMP",
-          "settings": {
-            "image": "shopify://shop_images/IMG_3825_2.jpg",
-            "image_overlay_opacity": 70,
-            "heading": "Workshops at Hiatus Craft House",
-            "heading_size": "h1",
-            "subheading": "Stay tuned for upcoming workshops at Hiatus Craft House. Sign up for our newsletter below or follow us <a href=\"https://www.instagram.com/hiatuscrafthouse/?hl=en\" target=\"_blank\" title=\"https://www.instagram.com/hiatuscrafthouse/?hl=en\">@hiatuscrafthouse</a> to get the latest news!",
-            "button_label": "Follow us!",
-            "link": "https://www.instagram.com/hiatuscrafthouse/?hl=en",
             "button_style_secondary": false,
             "show_text_box": false,
             "box_align": "middle-center",
@@ -107,6 +107,26 @@
             "color_scheme": "accent-2"
           }
         },
+        "slide_HJri7T": {
+          "type": "slide",
+          "name": "TEMP",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/IMG_3825_2.jpg",
+            "image_overlay_opacity": 70,
+            "heading": "Workshops at Hiatus Craft House",
+            "heading_size": "h1",
+            "subheading": "Stay tuned for upcoming workshops at Hiatus Craft House. Sign up for our newsletter below or follow us <a href=\"https://www.instagram.com/hiatuscrafthouse/?hl=en\" target=\"_blank\" title=\"https://www.instagram.com/hiatuscrafthouse/?hl=en\">@hiatuscrafthouse</a> to get the latest news!",
+            "button_label": "Follow us!",
+            "link": "https://www.instagram.com/hiatuscrafthouse/?hl=en",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "accent-2"
+          }
+        },
         "slide_MDQjaN": {
           "type": "slide",
           "name": "PERM",
@@ -119,26 +139,6 @@
             "subheading": "",
             "button_label": "About Hiatus Craft House",
             "link": "shopify://pages/our-story",
-            "button_style_secondary": false,
-            "show_text_box": false,
-            "box_align": "middle-center",
-            "text_alignment": "center",
-            "text_alignment_mobile": "center",
-            "color_scheme": "accent-2"
-          }
-        },
-        "e43c93ae-2d02-4689-9536-9c3b51643f65": {
-          "type": "slide",
-          "name": "PERM",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/IMG_3153_ddbbc237-6894-4898-b9d9-8809ed5415bb.jpg",
-            "image_overlay_opacity": 50,
-            "heading": "Straight Bourbon Whiskey",
-            "heading_size": "h2",
-            "subheading": "Try our first two varieties of grain-to-bottle small-batch straight bourbon whiskey, mashed, fermented, distilled, aged, and bottled at our plant in Camarillo, California.",
-            "button_label": "Buy now",
-            "link": "shopify://collections/frontpage",
             "button_style_secondary": false,
             "show_text_box": false,
             "box_align": "middle-center",
@@ -209,13 +209,13 @@
         }
       },
       "block_order": [
+        "e43c93ae-2d02-4689-9536-9c3b51643f65",
         "slide-0",
         "slide_9DGtDz",
-        "slide_HJri7T",
         "slide_cjdkdq",
         "slide_PbQA9Y",
+        "slide_HJri7T",
         "slide_MDQjaN",
-        "e43c93ae-2d02-4689-9536-9c3b51643f65",
         "slide_9wUfBV",
         "slide_TK6LpF",
         "slide_aJwG6J"
