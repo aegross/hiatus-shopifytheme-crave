@@ -145,6 +145,16 @@
             "link": "https://www.twistedoaktavern.pub/"
           }
         },
+        "column_DEXBfF": {
+          "type": "column",
+          "name": "Adolfo Grill",
+          "settings": {
+            "title": "Adolfo Grill",
+            "text": "<p><em>67 E Daily Dr, Camarillo, CA 93010</em></p>",
+            "link_label": "Website",
+            "link": "https://adolfogrill.com"
+          }
+        },
         "column_dnjhcK": {
           "type": "column",
           "name": "The Shore",
@@ -199,6 +209,7 @@
         "column_jkyawk",
         "column_bRe7Me",
         "column_7T4tDR",
+        "column_DEXBfF",
         "column_dnjhcK",
         "column_NT9iWE",
         "column_VGcrm3",
