@@ -38,6 +38,7 @@
       "blocks": {
         "row_fFf4JB": {
           "type": "row",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/CLU.jpg",
             "caption": "Off-Site Event",
