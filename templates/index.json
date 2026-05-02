@@ -15,6 +15,7 @@
         "e43c93ae-2d02-4689-9536-9c3b51643f65": {
           "type": "slide",
           "name": "TEMP, 5/3",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/IMG_4599.jpg",
             "image_overlay_opacity": 50,
