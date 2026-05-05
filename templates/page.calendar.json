@@ -62,6 +62,7 @@
         },
         "row_hUqUYV": {
           "type": "row",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/IMG_4033.jpg",
             "caption": "Off-Site Event",
