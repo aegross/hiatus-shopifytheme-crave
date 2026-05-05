@@ -187,11 +187,22 @@
         },
         "column_G4cKhB": {
           "type": "column",
+          "name": "Rocks & Drams",
           "settings": {
             "title": "Rocks & Drams",
             "text": "<p><em>14 S California St, Ventura, CA 93001</em></p>",
             "link_label": "Website",
             "link": "https://rocksanddrams.com"
+          }
+        },
+        "column_eXKzHC": {
+          "type": "column",
+          "name": "Boatyard Pub",
+          "settings": {
+            "title": "Boatyard Pub",
+            "text": "<p><em>1583 Spinnaker Dr Suite 109, Ventura, CA 93001</em></p>",
+            "link_label": "Website",
+            "link": ""
           }
         },
         "column_3gR3Ye": {
@@ -214,6 +225,7 @@
         "column_NT9iWE",
         "column_VGcrm3",
         "column_G4cKhB",
+        "column_eXKzHC",
         "column_3gR3Ye"
       ],
       "custom_css": [
