@@ -32,6 +32,25 @@
             "color_scheme": "accent-2"
           }
         },
+        "slide_MDQjaN": {
+          "type": "slide",
+          "name": "TEMP",
+          "settings": {
+            "image": "shopify://shop_images/IMG_4715.jpg",
+            "image_overlay_opacity": 60,
+            "heading": "Mother's Day Special",
+            "heading_size": "h1",
+            "subheading": "Visit us this Mother's Day for <strong>buy one get one free</strong> tastings! Unable to make it? Click the link below to <a href=\"/products/spirit-tasting-gift-card\" target=\"_blank\" title=\"Gift a Spirit Tasting\">gift a tasting</a>!",
+            "button_label": "Gift a Tasting!",
+            "link": "shopify://products/spirit-tasting-gift-card",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "accent-2"
+          }
+        },
         "slide-0": {
           "type": "slide",
           "name": "PERM",
@@ -75,12 +94,31 @@
           "name": "PERM",
           "settings": {
             "image": "shopify://shop_images/IMG_3936_1.jpg",
-            "image_overlay_opacity": 40,
+            "image_overlay_opacity": 60,
             "heading": "Gift a tasting!",
             "heading_size": "h1",
             "subheading": "Give the gift of a Hiatus Craft House tasting. Explore our craft spirits, discover new favorites, and enjoy a relaxed, memorable experience in Camarillo.",
             "button_label": "Buy now",
             "link": "shopify://products/spirit-tasting-gift-card",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "accent-2"
+          }
+        },
+        "slide_HJri7T": {
+          "type": "slide",
+          "name": "TEMP",
+          "settings": {
+            "image": "shopify://shop_images/IMG_3825_2.jpg",
+            "image_overlay_opacity": 70,
+            "heading": "Workshops at Hiatus Craft House",
+            "heading_size": "h1",
+            "subheading": "Stay tuned for upcoming workshops at Hiatus Craft House. Sign up for our newsletter below or follow us <a href=\"https://www.instagram.com/hiatuscrafthouse/?hl=en\" target=\"_blank\" title=\"https://www.instagram.com/hiatuscrafthouse/?hl=en\">@hiatuscrafthouse</a> to get the latest news!",
+            "button_label": "Follow us!",
+            "link": "https://www.instagram.com/hiatuscrafthouse/?hl=en",
             "button_style_secondary": false,
             "show_text_box": false,
             "box_align": "middle-center",
@@ -100,46 +138,6 @@
             "subheading": "<strong>$12 for one, or $60 for six bottles</strong> | Crafted with the perfect blend of cinnamon, nutmeg, and ginger, then kicked up a notch with Kentucky Bourbon Whiskey, it's a velvety indulgence that captures cozy flavors in every sip.",
             "button_label": "Buy now!",
             "link": "shopify://products/psl",
-            "button_style_secondary": false,
-            "show_text_box": false,
-            "box_align": "middle-center",
-            "text_alignment": "center",
-            "text_alignment_mobile": "center",
-            "color_scheme": "accent-2"
-          }
-        },
-        "slide_HJri7T": {
-          "type": "slide",
-          "name": "TEMP",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/IMG_3825_2.jpg",
-            "image_overlay_opacity": 70,
-            "heading": "Workshops at Hiatus Craft House",
-            "heading_size": "h1",
-            "subheading": "Stay tuned for upcoming workshops at Hiatus Craft House. Sign up for our newsletter below or follow us <a href=\"https://www.instagram.com/hiatuscrafthouse/?hl=en\" target=\"_blank\" title=\"https://www.instagram.com/hiatuscrafthouse/?hl=en\">@hiatuscrafthouse</a> to get the latest news!",
-            "button_label": "Follow us!",
-            "link": "https://www.instagram.com/hiatuscrafthouse/?hl=en",
-            "button_style_secondary": false,
-            "show_text_box": false,
-            "box_align": "middle-center",
-            "text_alignment": "center",
-            "text_alignment_mobile": "center",
-            "color_scheme": "accent-2"
-          }
-        },
-        "slide_MDQjaN": {
-          "type": "slide",
-          "name": "PERM",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/IMG_2831.jpg",
-            "image_overlay_opacity": 30,
-            "heading": "Our story",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "About Hiatus Craft House",
-            "link": "shopify://pages/our-story",
             "button_style_secondary": false,
             "show_text_box": false,
             "box_align": "middle-center",
@@ -211,12 +209,12 @@
       },
       "block_order": [
         "e43c93ae-2d02-4689-9536-9c3b51643f65",
+        "slide_MDQjaN",
         "slide-0",
         "slide_9DGtDz",
         "slide_cjdkdq",
-        "slide_PbQA9Y",
         "slide_HJri7T",
-        "slide_MDQjaN",
+        "slide_PbQA9Y",
         "slide_9wUfBV",
         "slide_TK6LpF",
         "slide_aJwG6J"
