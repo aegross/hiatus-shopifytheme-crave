@@ -35,6 +35,7 @@
         "slide_MDQjaN": {
           "type": "slide",
           "name": "TEMP",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/IMG_4715.jpg",
             "image_overlay_opacity": 60,
