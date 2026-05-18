@@ -56,7 +56,7 @@
         "text_DGcwiT": {
           "type": "text",
           "settings": {
-            "text": "Join our Barrel Club for a uniquely curated craft experience guided by our head distiller. Age your own 5-gallon barrel of bourbon in our Camarillo-based distillery. Decide the proof, taste as it ages, and enjoy all the perks from our Lollygaggers Bottle Club (no  bottle purchases necessary). Decide when to bottle and participate in the bottling experience with your own personalized labeling. One barrel yields around thirty 750ml bottles. Take home the empty barrel or refill for a discounted price.",
+            "text": "Join our Barrel Club for a curated craft experience guided by our owners. Age your own 5-gallon barrel of bourbon in our Camarillo-based distillery. Decide the strength of the spirit, taste as it ages, and enjoy exclusive perks. Decide when to bottle and participate in the bottling experience with your own bespoke labeling.",
             "text_style": "body"
           }
         }
@@ -89,7 +89,7 @@
           "type": "column",
           "settings": {
             "title": "Customize Your Experience",
-            "text": "<p>Lorem ipsum.</p>",
+            "text": "<p>Enjoy a consultation and tour with our owners where you get to choose the strength of your spirit, decide your barrel plaque engravings, and learn about our distilling process.</p>",
             "link_label": "",
             "link": ""
           }
@@ -97,8 +97,8 @@
         "column_gGJwRw": {
           "type": "column",
           "settings": {
-            "title": "Taste as it Ages",
-            "text": "<p>Lorem ipsum.</p>",
+            "title": "Taste as Your Spirit Ages",
+            "text": "<p>Schedule guided tasting sessions sampled straight from the barrel for you and up to ?? guests during any business day. Enjoy Barrel Club perks as you wait for your spirit to age.</p>",
             "link_label": "",
             "link": ""
           }
@@ -106,8 +106,8 @@
         "column_aayk4G": {
           "type": "column",
           "settings": {
-            "title": "Bespoke Bottling",
-            "text": "<p>Lorem ispum.</p>",
+            "title": "Participate in Bespoke Bottling",
+            "text": "<p>Decide when to  Take home the empty barrel or refill for a discounted price.</p>",
             "link_label": "",
             "link": ""
           }
@@ -120,7 +120,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Our Process",
+        "title": "The Process",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -142,17 +142,8 @@
         "column_tNin4r": {
           "type": "column",
           "settings": {
-            "title": "Lollygaggers Bottle Club",
-            "text": "<p>Automatically enjoy the perks of our Lollygaggers Bottle Club with </p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_bkRWMD": {
-          "type": "column",
-          "settings": {
-            "title": "Member Exclusives",
-            "text": "<p>Lorem ipsum.</p>",
+            "title": "Barrel Club",
+            "text": "<ul><li>Access to sampling your barrel during any business day.</li><li>Personalized barrel plaque and bottle labeling.</li><li>Availability to approximately thirty 750ml bottles of your own spirit.</li></ul>",
             "link_label": "",
             "link": ""
           }
@@ -160,8 +151,8 @@
         "column_ztLaHm": {
           "type": "column",
           "settings": {
-            "title": "Founding Members",
-            "text": "<p>Lorem ipsum.</p>",
+            "title": "Lollygaggers Bottle Club",
+            "text": "<p>Automatically enjoy perks from our <a href=\"https://hiatuscrafthouse.com/products/hiatus-membership\" target=\"_blank\" title=\"Lollygaggers Bottle Club\">Lollygaggers Bottle Club</a> including:</p><ul><li>Up to 25% off all bottles, merchandise, and Hiatus Craft House events.</li><li>One weekly complimentary tasting for you and one guest.</li><li>Exclusive access to member-only events</li><li>Premiere access to new products.</li><li>Loyalty points on all purchases to redeem for future discounts.</li></ul>",
             "link_label": "",
             "link": ""
           }
@@ -169,18 +160,17 @@
       },
       "block_order": [
         "column_tNin4r",
-        "column_bkRWMD",
         "column_ztLaHm"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Barrel Club Perks",
+        "title": "The Perks",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
         "button_label": "",
         "button_link": "",
-        "columns_desktop": 3,
+        "columns_desktop": 2,
         "column_alignment": "center",
         "background_style": "primary",
         "color_scheme": "background-1",
