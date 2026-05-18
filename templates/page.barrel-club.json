@@ -15,7 +15,7 @@
         "ai_gen_block_5005125_pdFmA3": {
           "type": "ai_gen_block_5005125",
           "settings": {
-            "image": "shopify://shop_images/Asset_3_1f18c9d4-f635-4fae-ad2b-0cbb39c0773f.png",
+            "image": "shopify://shop_images/015A8669_0c52e7f6-1261-4f1b-ba1d-5605a8b38cf1.jpg",
             "image_opacity": 100,
             "overlay_color": "#000000",
             "overlay_opacity": 70,
@@ -56,7 +56,7 @@
         "text_DGcwiT": {
           "type": "text",
           "settings": {
-            "text": "Click \"View full details\" below to add this membership to your cart, and subscribe to at least one bottle of any of our spirits to become an active member!",
+            "text": "Join our Barrel Club for a uniquely curated craft experience guided by our head distiller. Age your own 5-gallon barrel of bourbon in our Camarillo-based distillery. Decide the proof, taste as it ages, and enjoy all the perks from our Lollygaggers Bottle Club (no  bottle purchases necessary). Decide when to bottle and participate in the bottling experience with your own personalized labeling. One barrel yields around thirty 750ml bottles. Take home the empty barrel or refill for a discounted price.",
             "text_style": "body"
           }
         }
@@ -82,14 +82,68 @@
         "padding_bottom": 36
       }
     },
+    "multicolumn_mcyxJ4": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_cQqmdj": {
+          "type": "column",
+          "settings": {
+            "title": "Customize Your Experience",
+            "text": "<p>Lorem ipsum.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_gGJwRw": {
+          "type": "column",
+          "settings": {
+            "title": "Taste as it Ages",
+            "text": "<p>Lorem ipsum.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_aayk4G": {
+          "type": "column",
+          "settings": {
+            "title": "Bespoke Bottling",
+            "text": "<p>Lorem ispum.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_cQqmdj",
+        "column_gGJwRw",
+        "column_aayk4G"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Our Process",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "multicolumn_rzG48x": {
       "type": "multicolumn",
       "blocks": {
         "column_tNin4r": {
           "type": "column",
           "settings": {
-            "title": "Free to Join",
-            "text": "<p>There’s no initiation fee to join the Lollygagger Club. Members simply purchase at least one bottle per quarter (four per year) to keep their membership active and enjoy up to 25% off all bottles, merchandise, and Hiatus events. Members enjoy unlimited free tastings in our spirit room - plus one guest each visit.</p>",
+            "title": "Lollygaggers Bottle Club",
+            "text": "<p>Automatically enjoy the perks of our Lollygaggers Bottle Club with </p>",
             "link_label": "",
             "link": ""
           }
@@ -98,7 +152,7 @@
           "type": "column",
           "settings": {
             "title": "Member Exclusives",
-            "text": "<p>Enjoy exclusive access to member-only events, including quarterly pickup parties, club launch celebrations, distillery tours, and more. Members also get first access to all Hiatus events and products — plus earn rewards with every purchase. Get 5 points for every $1 spent, with bonus points for referrals, birthdays, and social shares. Redeem your points for discounts off future purchases.</p>",
+            "text": "<p>Lorem ipsum.</p>",
             "link_label": "",
             "link": ""
           }
@@ -107,7 +161,7 @@
           "type": "column",
           "settings": {
             "title": "Founding Members",
-            "text": "<p><strong>Join by December 31</strong>, 2025 to become part of the Founders Circle. Founders receive a custom Lollygaggers jersey, access to the January Founders Party.</p>",
+            "text": "<p>Lorem ipsum.</p>",
             "link_label": "",
             "link": ""
           }
@@ -120,7 +174,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Lollygagger Perks",
+        "title": "Barrel Club Perks",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -260,6 +314,7 @@
   "order": [
     "1761993170f4660586",
     "featured_product_JaL3Qj",
+    "multicolumn_mcyxJ4",
     "multicolumn_rzG48x",
     "collapsible_content_e6fCEx",
     "main"
