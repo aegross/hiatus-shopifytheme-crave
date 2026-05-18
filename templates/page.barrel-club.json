@@ -98,7 +98,7 @@
           "type": "column",
           "settings": {
             "title": "Taste as Your Spirit Ages",
-            "text": "<p>Schedule guided tasting sessions sampled straight from the barrel for you and up to ?? guests. Enjoy Barrel Club perks as you wait for your spirit to age.</p>",
+            "text": "<p>Schedule guided tasting sessions for you and up to ?? guests. Sample straight from the barrel to track its development. Enjoy Barrel Club perks as you wait for your spirit to age.</p>",
             "link_label": "",
             "link": ""
           }
@@ -143,7 +143,7 @@
           "type": "column",
           "settings": {
             "title": "Barrel Club",
-            "text": "<ul><li>Access to sampling your barrel during any business day.</li><li>Personalized barrel plaque and bottle labeling.</li><li>Availability to approximately thirty 750ml bottles of your own spirit.</li></ul>",
+            "text": "<ul><li>Access to sampling your barrel during any business day.</li><li>Personalized barrel plaque and bottle labeling.</li><li>Availability to approximately thirty 750ml bottles of your own spirit.</li><li>Automatically enjoy perks from our <a href=\"https://hiatuscrafthouse.com/products/hiatus-membership\" target=\"_blank\" title=\"Lollygaggers Bottle Club\">Lollygaggers Bottle Club</a>.</li></ul>",
             "link_label": "",
             "link": ""
           }
@@ -152,7 +152,7 @@
           "type": "column",
           "settings": {
             "title": "Lollygaggers Bottle Club",
-            "text": "<p>Automatically enjoy perks from our <a href=\"https://hiatuscrafthouse.com/products/hiatus-membership\" target=\"_blank\" title=\"Lollygaggers Bottle Club\">Lollygaggers Bottle Club</a> including:</p><ul><li>Up to 25% off all bottles, merchandise, and Hiatus Craft House events.</li><li>One weekly complimentary tasting for you and one guest.</li><li>Exclusive access to member-only events</li><li>Premiere access to new products.</li><li>Loyalty points on all purchases to redeem for future discounts.</li></ul>",
+            "text": "<ul><li>Up to 25% off all bottles, merchandise, and Hiatus Craft House events.</li><li>One weekly complimentary tasting for you and one guest.</li><li>Exclusive access to member-only events</li><li>Premiere access to new products.</li><li>Loyalty points on all purchases to redeem for future discounts.</li></ul>",
             "link_label": "",
             "link": ""
           }
