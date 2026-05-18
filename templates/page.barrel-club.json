@@ -188,23 +188,23 @@
           "settings": {
             "heading": "How do I join?",
             "icon": "star",
-            "row_content": "",
+            "row_content": "<p>Add the Barrel Club product to your cart and purchase. We will contact you to schedule a consultation and tour at our distillery.</p>",
             "page": ""
           }
         },
         "collapsible_row_7eVJPQ": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "How many bottles does one barrel yield?",
+            "heading": "How many bottles does one barrel produce?",
             "icon": "star",
-            "row_content": "",
+            "row_content": "<p>One barrel produces approximately thirty 750ml bottles.</p>",
             "page": ""
           }
         },
         "collapsible_row_FVpjtQ": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Can I purchase a barrel for my business?",
+            "heading": "Can I gift a Barrel Club membership?",
             "icon": "star",
             "row_content": "",
             "page": ""
@@ -213,7 +213,7 @@
         "collapsible_row_hBeEe7": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Can I gift a Barrel Club membership?",
+            "heading": "Can I purchase a barrel for my business?",
             "icon": "star",
             "row_content": "",
             "page": ""
