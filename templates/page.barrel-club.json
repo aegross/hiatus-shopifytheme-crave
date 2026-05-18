@@ -192,10 +192,19 @@
             "page": ""
           }
         },
-        "collapsible_row_FVpjtQ": {
+        "collapsible_row_7eVJPQ": {
           "type": "collapsible_row",
           "settings": {
             "heading": "How many bottles does one barrel yield?",
+            "icon": "star",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_FVpjtQ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I purchase a barrel for my business?",
             "icon": "star",
             "row_content": "",
             "page": ""
@@ -213,6 +222,7 @@
       },
       "block_order": [
         "collapsible_row_JinagU",
+        "collapsible_row_7eVJPQ",
         "collapsible_row_FVpjtQ",
         "collapsible_row_hBeEe7"
       ],
