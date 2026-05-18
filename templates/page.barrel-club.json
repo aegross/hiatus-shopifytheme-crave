@@ -98,7 +98,7 @@
           "type": "column",
           "settings": {
             "title": "Taste as Your Spirit Ages",
-            "text": "<p>Schedule guided tasting sessions sampled straight from the barrel for you and up to ?? guests during any business day. Enjoy Barrel Club perks as you wait for your spirit to age.</p>",
+            "text": "<p>Schedule guided tasting sessions sampled straight from the barrel for you and up to ?? guests. Enjoy Barrel Club perks as you wait for your spirit to age.</p>",
             "link_label": "",
             "link": ""
           }
@@ -107,7 +107,7 @@
           "type": "column",
           "settings": {
             "title": "Participate in Bespoke Bottling",
-            "text": "<p>Decide when to  Take home the empty barrel or refill for a discounted price.</p>",
+            "text": "<p>Decide when to bottle your spirit and participate in the bottling experience with your own personalized label. Take home the empty barrel or refill for a discounted price.</p>",
             "link_label": "",
             "link": ""
           }
