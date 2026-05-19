@@ -9,8 +9,8 @@
  */
 {
   "current": {
-    "logo": "shopify://shop_images/HCH_Prelim_2_219177ee-b422-4aa7-97d4-6891d00a26d0.png",
-    "logo_width": 180,
+    "logo": "shopify://shop_images/with_ca_and_acsa_4e669724-3f56-4bab-b99b-e59360433d0f.png",
+    "logo_width": 300,
     "favicon": "shopify://shop_images/HiatusCH_letterform_primary_png.png",
     "type_header_font": "madera_n6",
     "heading_scale": 120,
@@ -163,9 +163,7 @@
       "5149645339031002760": {
         "type": "shopify://apps/order-limits-minmaxify/blocks/app-embed-block/3acfba32-89f3-4377-ae20-cbb9abc48475",
         "disabled": false,
-        "settings": {
-          "async": false
-        }
+        "settings": {}
       },
       "3066834073402364550": {
         "type": "shopify://apps/sellup-upsell-add-ons/blocks/global_sellup/001ec440-29ea-4cbf-9265-4963fa825261",
