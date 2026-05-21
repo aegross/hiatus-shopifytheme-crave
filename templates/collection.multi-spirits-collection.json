@@ -11,6 +11,7 @@
   "sections": {
     "main-collection-banner": {
       "type": "main-collection-banner",
+      "custom_css": [],
       "settings": {
         "show_collection_description": true,
         "show_collection_image": false,
@@ -72,6 +73,7 @@
     },
     "main-product-grid": {
       "type": "main-collection-product-grid",
+      "disabled": true,
       "settings": {
         "products_per_page": 20,
         "columns_desktop": 4,
@@ -87,6 +89,131 @@
         "filter_type": "horizontal",
         "enable_sorting": true,
         "padding_top": 0,
+        "padding_bottom": 24
+      }
+    },
+    "featured_collection_zdDBri": {
+      "type": "featured-collection",
+      "custom_css": [
+        "{margin-bottom: -36px;}"
+      ],
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "collection": "straight-whiskeys",
+        "products_to_show": 8,
+        "title": "Straight Whiskeys",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "columns_desktop": 4,
+        "enable_desktop_slider": false,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "color_scheme": "inverse",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    },
+    "featured_collection_Ptfir4": {
+      "type": "featured-collection",
+      "custom_css": [
+        "{margin-bottom: -36px;}"
+      ],
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "collection": "agaves",
+        "products_to_show": 8,
+        "title": "Agaves",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "columns_desktop": 4,
+        "enable_desktop_slider": false,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "color_scheme": "scheme-592f01d7-89db-4cc9-8a77-0fbf4d10a513",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    },
+    "featured_collection_mXKtFG": {
+      "type": "featured-collection",
+      "custom_css": [
+        "{margin-bottom: -36px;}"
+      ],
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "collection": "rums",
+        "products_to_show": 8,
+        "title": "Rums",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "columns_desktop": 4,
+        "enable_desktop_slider": false,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "color_scheme": "accent-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    },
+    "featured_collection_nFRdhC": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "collection": "vodka-gin-specialties",
+        "products_to_show": 12,
+        "title": "Vodka, Gin & Specialties",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "columns_desktop": 4,
+        "enable_desktop_slider": false,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "color_scheme": "scheme-45240dc4-d284-4d13-9ea0-3d8c935bc07e",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 24,
         "padding_bottom": 24
       }
     },
@@ -155,6 +282,10 @@
     "main-collection-banner",
     "3f0ce8e5-775e-43b0-85b1-99e928f0d824",
     "main-product-grid",
+    "featured_collection_zdDBri",
+    "featured_collection_Ptfir4",
+    "featured_collection_mXKtFG",
+    "featured_collection_nFRdhC",
     "newsletter",
     "collection-list"
   ]
