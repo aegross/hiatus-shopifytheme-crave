@@ -40,6 +40,84 @@
       ],
       "settings": {}
     },
+    "featured_product_hNy9jV": {
+      "type": "featured-product",
+      "blocks": {
+        "text_3EdWcE": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_87VVyT": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_xbk7TM": {
+          "type": "price",
+          "settings": {}
+        },
+        "text_btJFhw": {
+          "type": "text",
+          "settings": {
+            "text": "Join our Barrel Club for a curated craft experience guided by our owners. Age your own 5-gallon barrel of bourbon in our Camarillo-based distillery. Decide the strength of the spirit, taste as it ages, and enjoy exclusive perks. Decide when to bottle and participate in the bottling experience with your own bespoke labeling.",
+            "text_style": "body"
+          }
+        },
+        "variant_picker_xQmM7c": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_bTAGhA": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_YYaF7d": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_mLc8yy": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_3EdWcE",
+        "title_87VVyT",
+        "price_xbk7TM",
+        "text_btJFhw",
+        "variant_picker_xQmM7c",
+        "quantity_selector_bTAGhA",
+        "buy_buttons_YYaF7d",
+        "share_mLc8yy"
+      ],
+      "name": "t:sections.featured-product.presets.name",
+      "settings": {
+        "product": "barrel-club-1",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "multicolumn_mcyxJ4": {
       "type": "multicolumn",
       "blocks": {
@@ -136,76 +214,6 @@
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 0
-      }
-    },
-    "featured_product_hNy9jV": {
-      "type": "featured-product",
-      "blocks": {
-        "text_3EdWcE": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "title_87VVyT": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "price_xbk7TM": {
-          "type": "price",
-          "settings": {}
-        },
-        "variant_picker_xQmM7c": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button",
-            "swatch_shape": "circle"
-          }
-        },
-        "quantity_selector_bTAGhA": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
-        "buy_buttons_YYaF7d": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true
-          }
-        },
-        "share_mLc8yy": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "text_3EdWcE",
-        "title_87VVyT",
-        "price_xbk7TM",
-        "variant_picker_xQmM7c",
-        "quantity_selector_bTAGhA",
-        "buy_buttons_YYaF7d",
-        "share_mLc8yy"
-      ],
-      "name": "t:sections.featured-product.presets.name",
-      "settings": {
-        "product": "barrel-club-1",
-        "color_scheme": "",
-        "secondary_background": false,
-        "media_size": "medium",
-        "constrain_to_viewport": true,
-        "media_fit": "contain",
-        "media_position": "left",
-        "image_zoom": "lightbox",
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "collapsible_content_e6fCEx": {
