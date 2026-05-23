@@ -207,7 +207,7 @@
         "button_label": "",
         "button_link": "",
         "columns_desktop": 2,
-        "column_alignment": "center",
+        "column_alignment": "left",
         "background_style": "primary",
         "color_scheme": "background-1",
         "columns_mobile": "1",

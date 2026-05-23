@@ -41,51 +41,6 @@
       "name": "Banner with overlay",
       "settings": {}
     },
-    "multicolumn_AyYccf": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_4eMYpt": {
-          "type": "column",
-          "settings": {
-            "title": "Free Membership with Subscription",
-            "text": "<p>There’s no fee to join the Lollygagger Club -- <strong>membership is free with with a qualifying active subscription.</strong></p><ul><li>Subscribe to at least one bottle per quarter (four per year) to keep your membership active.</li><li>Up to 25% off<strong> ALL</strong> bottles, merchandise, and Hiatus events.</li><li>One weekly <strong>complimentary tasting </strong>for you and a guest during regular business hours.</li></ul>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_34b69K": {
-          "type": "column",
-          "settings": {
-            "title": "More Member Benefits",
-            "text": "<p><strong>Exclusive Access</strong> to member-only events, distillery workshops, tours and tasting panels giving you a voice  in product development</p><p><strong>First Access</strong> to new products including  single-barrel bottlings.</p><p><strong>Earn Loyalty Points</strong> on all purchases. Get <strong>5 points for every $1 spent</strong>, with bonus points for referrals, birthdays, and social shares. Redeem your points for discounts on future purchases.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_4eMYpt",
-        "column_34b69K"
-      ],
-      "custom_css": [],
-      "name": "Lollygagger Perks",
-      "settings": {
-        "title": "Lollygagger Perks",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "button_label": "",
-        "button_link": "",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -207,6 +162,51 @@
         "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 16
+      }
+    },
+    "multicolumn_AyYccf": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_4eMYpt": {
+          "type": "column",
+          "settings": {
+            "title": "Free Membership with Subscription",
+            "text": "<p>There’s no fee to join the Lollygagger Club -- <strong>membership is free with with a qualifying active subscription.</strong></p><ul><li>Subscribe to at least one bottle per quarter (four per year) to keep your membership active.</li><li>Up to 25% off<strong> ALL</strong> bottles, merchandise, and Hiatus events.</li><li>One weekly <strong>complimentary tasting </strong>for you and a guest during regular business hours.</li></ul>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_34b69K": {
+          "type": "column",
+          "settings": {
+            "title": "More Member Benefits",
+            "text": "<p><strong>Exclusive Access</strong> to member-only events, distillery workshops, tours and tasting panels giving you a voice  in product development</p><p><strong>First Access</strong> to new products including  single-barrel bottlings.</p><p><strong>Earn Loyalty Points</strong> on all purchases. Get <strong>5 points for every $1 spent</strong>, with bonus points for referrals, birthdays, and social shares. Redeem your points for discounts on future purchases.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_4eMYpt",
+        "column_34b69K"
+      ],
+      "custom_css": [],
+      "name": "Lollygagger Perks",
+      "settings": {
+        "title": "Lollygagger Perks",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "17619962056844fcf5": {
@@ -396,8 +396,8 @@
   },
   "order": [
     "blocks_7B39py",
-    "multicolumn_AyYccf",
     "main",
+    "multicolumn_AyYccf",
     "17619962056844fcf5",
     "collapsible_content_FMkckc",
     "product-recommendations"
