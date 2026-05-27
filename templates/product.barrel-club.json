@@ -329,72 +329,18 @@
         "collapsible_row_BiLHpN": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "How do I swap my subscribed bottle?",
+            "heading": "Can I gift a Barrel Club membership?",
             "icon": "star",
-            "row_content": "<p><a href=\"https://hiatuscrafthouse.com/apps/subscriptions\" target=\"_blank\" title=\"Manage subscriptions\">Click here</a> to manage your subscription. Under \"Details\", click \"Swap Product\" to choose your next subscription bottle!</p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_Th6jcy": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "How much does the bottle club cost?",
-            "icon": "star",
-            "row_content": "<p>The Bottle Club is <strong>free to join</strong> — there are no sign-up or membership fees. Simply make your quarterly (four per year) bottle purchases to keep your membership active and unlock all member perks. Members also enjoy exclusive pricing on all spirits, with discounts of up to 25%.</p>",
+            "row_content": "",
             "page": ""
           }
         },
         "collapsible_row_R9cyrV": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "How do I get my bottles?",
+            "heading": "Can I purchase a barrel for my business?",
             "icon": "star",
-            "row_content": "<p>Bottles are available for shipping in California or local pickup. Shipping is offered at a flat rate of $25. We encourage Lollygaggers to join us for our quarterly pickup parties — a fun chance to mingle and enjoy light bites. If you can’t make it, additional pickup times can be arranged after your purchase.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_axF64W": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Can you ship out of state?",
-            "icon": "star",
-            "row_content": "<p>Unfortunately, we’re not able to ship spirits out of state due to current laws and regulations. However, we always welcome out-of-state visitors to stop by the distillery for a tasting when they’re in town!</p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_Xqwxxd": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "How much do I benefit?",
-            "icon": "star",
-            "row_content": "<p>You’ll enjoy plenty of perks as a member! Join before <strong>December 31st</strong> to unlock:</p><ul><li>A personalized <strong>Lollygaggers jersey!</strong></li><li>An <strong>invite to our Founders Party.</strong></li><li>Up to <strong>25% off</strong> bottles, merchandise, and events.</li><li>One weekly <strong>complimentary tasting </strong>for you and a guest.</li><li><strong>Exclusive Access</strong> to member-only events, distillery workshops, tours and tasting panels giving you a voice  in product development.</li><li><strong>First Access</strong> to new products including  single-barrel bottlings.</li><li><strong>Earn Loyalty Points</strong> on all purchases.</li></ul>",
-            "page": ""
-          }
-        },
-        "collapsible_row_YAYWny": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "How do I earn and redeem loyalty points?",
-            "icon": "star",
-            "row_content": "<p>Lollygaggers earn<strong> 5 points for every $1</strong> spent with us. You can also earn extra points through friend referrals, social media engagement, and birthday bonuses. Once you’ve accumulated points, you can redeem them for discounts on future purchases, such as <strong>$5 off</strong> when you reach 500 points.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_NhFGNw": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Can I gift a membership?",
-            "icon": "star",
-            "row_content": "<p>Yes! To gift a membership:</p><ol><li>Add the Club Membership to your cart, then choose an item to subscribe to and add it to your cart.<br/></li><li>During checkout, enter the <strong>recipient’s contact information </strong>instead of your own.<br/></li><li>Complete the purchase using <strong>your payment details</strong>.<br/><br/>Once the subscription is created, the recipient will receive a confirmation email and can manage their subscription directly through their own account.</li></ol>",
-            "page": ""
-          }
-        },
-        "collapsible_row_Y3egRt": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "How do I cancel the membership?",
-            "icon": "star",
-            "row_content": "<p>We’re sad to see you go! Cancellations can be made by emailing us or by managing your subscription directly through your account.</p><p>Please note: All member benefits and loyalty points will end at the time of cancellation. We ask members to commit for one year when joining, but we understand things come up.</p><p><strong>If you cancel before your fourth bottle a $30 cancellation fee will apply.</strong></p>",
+            "row_content": "",
             "page": ""
           }
         }
@@ -403,13 +349,7 @@
         "collapsible_row_LhzFKb",
         "collapsible_row_Uni9eH",
         "collapsible_row_BiLHpN",
-        "collapsible_row_Th6jcy",
-        "collapsible_row_R9cyrV",
-        "collapsible_row_axF64W",
-        "collapsible_row_Xqwxxd",
-        "collapsible_row_YAYWny",
-        "collapsible_row_NhFGNw",
-        "collapsible_row_Y3egRt"
+        "collapsible_row_R9cyrV"
       ],
       "custom_css": [
         "{margin-top: 36px;}"
