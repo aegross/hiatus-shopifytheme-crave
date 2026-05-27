@@ -329,9 +329,9 @@
         "collapsible_row_BiLHpN": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "How do I swap my subscribed bottle?",
+            "heading": "Can I gift a Barrel Club membership?",
             "icon": "star",
-            "row_content": "<p><a href=\"https://hiatuscrafthouse.com/apps/subscriptions\" target=\"_blank\" title=\"Manage subscriptions\">Click here</a> to manage your subscription. Under \"Details\", click \"Swap Product\" to choose your next subscription bottle!</p>",
+            "row_content": "",
             "page": ""
           }
         },
