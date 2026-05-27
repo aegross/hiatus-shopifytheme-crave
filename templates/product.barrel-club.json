@@ -15,12 +15,12 @@
         "ai_gen_block_5005125_biqrth": {
           "type": "ai_gen_block_5005125",
           "settings": {
-            "image": "shopify://shop_images/Asset_3_1f18c9d4-f635-4fae-ad2b-0cbb39c0773f.png",
+            "image": "shopify://shop_images/IMG_4741.jpg",
             "image_opacity": 100,
             "overlay_color": "#000000",
             "overlay_opacity": 30,
-            "heading": "<p>Lollygaggers Bottle Club</p>",
-            "subtext": "<p>An <strong>exclusive membership </strong>that celebrates the craft and spirit of Hiatus. Enjoy small-batch bourbon, rye, single malt, vodka, gin, agave, rum, crèmes, and liqueurs — each capturing the laid-back charm of Camarillo’s coastal hills and the dedication poured into every bottle. <strong>Experience the heart of our distillery, one sip at a time. </strong>Check out more details below!</p>",
+            "heading": "<p>Lollygaggers Barrel Club</p>",
+            "subtext": "<p>TBD</p>",
             "text_alignment": "center",
             "content_max_width": 800,
             "heading_size": 48,
@@ -162,6 +162,60 @@
         "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 16
+      }
+    },
+    "multicolumn_cWtHPK": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_zP9Y3e": {
+          "type": "column",
+          "settings": {
+            "title": "Customize Your Experience",
+            "text": "<p>Enjoy a consultation and tour with our owners where you get to choose the strength of your spirit, decide your barrel plaque engravings, and learn about our distilling process.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_dGWXHA": {
+          "type": "column",
+          "settings": {
+            "title": "Taste as Your Spirit Ages",
+            "text": "<p>Schedule guided tasting sessions for you and up to ?? guests. Sample straight from the barrel to track its development. Enjoy Barrel Club perks as you wait for your spirit to age.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_6CX3KK": {
+          "type": "column",
+          "settings": {
+            "title": "Participate in Bottling",
+            "text": "<p>Decide when to bottle your spirit and participate in the bottling experience with your own personalized label. Take home the empty barrel or refill for a discounted price.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_zP9Y3e",
+        "column_dGWXHA",
+        "column_6CX3KK"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "The Process",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "Button label",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "multicolumn_AyYccf": {
@@ -397,6 +451,7 @@
   "order": [
     "blocks_7B39py",
     "main",
+    "multicolumn_cWtHPK",
     "multicolumn_AyYccf",
     "17619962056844fcf5",
     "collapsible_content_FMkckc",
