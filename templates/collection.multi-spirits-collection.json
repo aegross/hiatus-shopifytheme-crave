@@ -11,11 +11,81 @@
   "sections": {
     "main-collection-banner": {
       "type": "main-collection-banner",
-      "custom_css": [],
+      "custom_css": [
+        ".collection-hero__title {font-size: 60px;}",
+        " {margin-bottom: -24px;}"
+      ],
       "settings": {
         "show_collection_description": true,
         "show_collection_image": false,
         "color_scheme": "accent-2"
+      }
+    },
+    "multicolumn_yVxaPR": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_GJnXrV": {
+          "type": "column",
+          "settings": {
+            "title": "Whiskeys",
+            "text": "",
+            "link_label": "jump to section",
+            "link": "#straight-whiskeys"
+          }
+        },
+        "column_y8E8DY": {
+          "type": "column",
+          "settings": {
+            "title": "Agaves",
+            "text": "",
+            "link_label": "jump to section",
+            "link": "#agaves"
+          }
+        },
+        "column_DTbcBJ": {
+          "type": "column",
+          "settings": {
+            "title": "Rums",
+            "text": "",
+            "link_label": "jump to section",
+            "link": "#rums"
+          }
+        },
+        "column_jBixqx": {
+          "type": "column",
+          "settings": {
+            "title": "Other",
+            "text": "",
+            "link_label": "jump to section",
+            "link": "#vodka-gins-specialties"
+          }
+        }
+      },
+      "block_order": [
+        "column_GJnXrV",
+        "column_y8E8DY",
+        "column_DTbcBJ",
+        "column_jBixqx"
+      ],
+      "custom_css": [
+        "{margin-bottom: -48px;}"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 12,
+        "padding_bottom": 12
       }
     },
     "main-product-grid": {
@@ -39,26 +109,39 @@
         "padding_bottom": 24
       }
     },
+    "custom_liquid_a483Ax": {
+      "type": "custom-liquid",
+      "custom_css": [
+        "{margin-bottom: -48px;}"
+      ],
+      "name": "Whiskey Landing",
+      "settings": {
+        "custom_liquid": "<a id=\"straight-whiskeys\" style=\"visibility:hidden; width:0px\">Straight Whiskeys</a>",
+        "color_scheme": "scheme-f6fe83da-87e4-4255-b82c-0ab712ac5194",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "featured_collection_zdDBri": {
       "type": "featured-collection",
       "custom_css": [
         "{margin-bottom: -36px;}"
       ],
-      "name": "t:sections.featured-collection.presets.name",
+      "name": "Whiskey Collection",
       "settings": {
         "collection": "straight-whiskeys",
         "products_to_show": 8,
         "title": "Straight Whiskeys",
-        "heading_size": "h2",
+        "heading_size": "h1",
         "description": "",
-        "show_description": false,
+        "show_description": true,
         "description_style": "body",
         "columns_desktop": 4,
         "enable_desktop_slider": false,
         "full_width": false,
         "show_view_all": true,
         "view_all_style": "solid",
-        "color_scheme": "inverse",
+        "color_scheme": "scheme-f6fe83da-87e4-4255-b82c-0ab712ac5194",
         "image_ratio": "square",
         "image_shape": "default",
         "show_secondary_image": true,
@@ -67,8 +150,21 @@
         "quick_add": "none",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 24,
-        "padding_bottom": 24
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "custom_liquid_mYWPLX": {
+      "type": "custom-liquid",
+      "custom_css": [
+        "{margin-bottom: -48px;}"
+      ],
+      "name": "Agave Landing",
+      "settings": {
+        "custom_liquid": "<a id=\"agaves\" style=\"visibility:hidden; width:0px\">Agaves</a>",
+        "color_scheme": "scheme-bf95fee1-ed60-472d-920d-076afdfdc9d8",
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "featured_collection_Ptfir4": {
@@ -76,21 +172,21 @@
       "custom_css": [
         "{margin-bottom: -36px;}"
       ],
-      "name": "t:sections.featured-collection.presets.name",
+      "name": "Agave Collection",
       "settings": {
         "collection": "agaves",
         "products_to_show": 8,
         "title": "Agaves",
-        "heading_size": "h2",
+        "heading_size": "h1",
         "description": "",
-        "show_description": false,
+        "show_description": true,
         "description_style": "body",
         "columns_desktop": 4,
         "enable_desktop_slider": false,
         "full_width": false,
         "show_view_all": true,
         "view_all_style": "solid",
-        "color_scheme": "scheme-592f01d7-89db-4cc9-8a77-0fbf4d10a513",
+        "color_scheme": "scheme-bf95fee1-ed60-472d-920d-076afdfdc9d8",
         "image_ratio": "square",
         "image_shape": "default",
         "show_secondary_image": true,
@@ -99,8 +195,21 @@
         "quick_add": "none",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 24,
-        "padding_bottom": 24
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "custom_liquid_i6kCnW": {
+      "type": "custom-liquid",
+      "custom_css": [
+        "{margin-bottom: -48px;}"
+      ],
+      "name": "Rum Landing",
+      "settings": {
+        "custom_liquid": "<a id=\"rums\" style=\"visibility:hidden; width:0px\">Rums</a>",
+        "color_scheme": "scheme-8000d7dd-04e6-4b1e-8559-f6797720b98f",
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "featured_collection_mXKtFG": {
@@ -108,21 +217,21 @@
       "custom_css": [
         "{margin-bottom: -36px;}"
       ],
-      "name": "t:sections.featured-collection.presets.name",
+      "name": "Rum Collection",
       "settings": {
         "collection": "rums",
         "products_to_show": 8,
         "title": "Rums",
-        "heading_size": "h2",
+        "heading_size": "h1",
         "description": "",
-        "show_description": false,
+        "show_description": true,
         "description_style": "body",
         "columns_desktop": 4,
         "enable_desktop_slider": false,
         "full_width": false,
         "show_view_all": true,
         "view_all_style": "solid",
-        "color_scheme": "accent-1",
+        "color_scheme": "scheme-8000d7dd-04e6-4b1e-8559-f6797720b98f",
         "image_ratio": "square",
         "image_shape": "default",
         "show_secondary_image": true,
@@ -131,27 +240,41 @@
         "quick_add": "none",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 24,
-        "padding_bottom": 24
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "custom_liquid_8D8dnD": {
+      "type": "custom-liquid",
+      "custom_css": [
+        "{margin-bottom: -48px;}"
+      ],
+      "name": "Other Landing",
+      "settings": {
+        "custom_liquid": "<a id=\"vodka-gins-specialties\" style=\"visibility:hidden; width:0px\">Vodka, Gin, & Specialties</a>",
+        "color_scheme": "scheme-79c947d9-e791-4133-90fa-311ff4a8bb25",
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "featured_collection_nFRdhC": {
       "type": "featured-collection",
-      "name": "t:sections.featured-collection.presets.name",
+      "custom_css": [],
+      "name": "Other Collection",
       "settings": {
         "collection": "vodka-gin-specialties",
         "products_to_show": 12,
-        "title": "Vodka, Gin & Specialties",
-        "heading_size": "h2",
+        "title": "Vodka, Gin, & Specialties",
+        "heading_size": "h1",
         "description": "",
-        "show_description": false,
+        "show_description": true,
         "description_style": "body",
         "columns_desktop": 4,
         "enable_desktop_slider": false,
         "full_width": false,
         "show_view_all": true,
         "view_all_style": "solid",
-        "color_scheme": "scheme-45240dc4-d284-4d13-9ea0-3d8c935bc07e",
+        "color_scheme": "scheme-79c947d9-e791-4133-90fa-311ff4a8bb25",
         "image_ratio": "square",
         "image_shape": "default",
         "show_secondary_image": true,
@@ -160,8 +283,8 @@
         "quick_add": "none",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 24,
-        "padding_bottom": 24
+        "padding_top": 12,
+        "padding_bottom": 12
       }
     },
     "newsletter": {
@@ -193,10 +316,15 @@
   },
   "order": [
     "main-collection-banner",
+    "multicolumn_yVxaPR",
     "main-product-grid",
+    "custom_liquid_a483Ax",
     "featured_collection_zdDBri",
+    "custom_liquid_mYWPLX",
     "featured_collection_Ptfir4",
+    "custom_liquid_i6kCnW",
     "featured_collection_mXKtFG",
+    "custom_liquid_8D8dnD",
     "featured_collection_nFRdhC",
     "newsletter"
   ]
