@@ -233,8 +233,8 @@
         "column_34b69K": {
           "type": "column",
           "settings": {
-            "title": "More Member Benefits",
-            "text": "<p><strong>Exclusive Access</strong> to member-only events, distillery workshops, tours and tasting panels giving you a voice  in product development</p><p><strong>First Access</strong> to new products including  single-barrel bottlings.</p><p><strong>Earn Loyalty Points</strong> on all purchases. Get <strong>5 points for every $1 spent</strong>, with bonus points for referrals, birthdays, and social shares. Redeem your points for discounts on future purchases.</p>",
+            "title": "Lollygaggers",
+            "text": "<ul><li>Up to 25% off all bottles, merchandise, and Hiatus Craft House events.</li><li>One weekly complimentary tasting for you and one guest.</li><li>Exclusive access to member-only events</li><li>Premiere access to new products.</li><li>Loyalty points on all purchases to redeem for future discounts.</li></ul>",
             "link_label": "",
             "link": ""
           }
