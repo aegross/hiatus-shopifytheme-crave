@@ -302,6 +302,7 @@
       "block_order": [
         "ai_gen_block_0150230_FJMFCY"
       ],
+      "disabled": true,
       "settings": {}
     },
     "collapsible_content_FMkckc": {
@@ -312,16 +313,16 @@
           "settings": {
             "heading": "How do I join?",
             "icon": "star",
-            "row_content": "<p>To activate your membership add the <strong>Club Membership </strong>product to your cart and continue shopping to<strong> subscribe to at least one eligible </strong><a href=\"https://hiatuscrafthouse.com/collections/frontpage\"><strong>spirit</strong></a><strong>!</strong></p>",
+            "row_content": "<p>Add the Barrel Club product to your cart and purchase. We will contact you to schedule a consultation and tour at our distillery.</p>",
             "page": ""
           }
         },
         "collapsible_row_Uni9eH": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "How do subscriptions work?",
+            "heading": "How many bottles does one barrel produce?",
             "icon": "star",
-            "row_content": "<p>Subscribe to your spirit of choice to unlock your Lollygagger Membership. Members can access their online portal at any time to switch their subscription spirit — allowing you to try something new each quarter or stick with your favorite all year long.</p>",
+            "row_content": "<p>One barrel produces approximately thirty 750ml bottles.</p>",
             "page": ""
           }
         },
