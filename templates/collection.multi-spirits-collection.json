@@ -21,6 +21,49 @@
         "color_scheme": "accent-2"
       }
     },
+    "rich_text_pfQQeA": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_zh7qBH": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "text_hFwijt": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "button_RthMDR": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "Blah",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_zh7qBH",
+        "text_hFwijt",
+        "button_RthMDR"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "multicolumn_yVxaPR": {
       "type": "multicolumn",
       "blocks": {
@@ -316,6 +359,7 @@
   },
   "order": [
     "main-collection-banner",
+    "rich_text_pfQQeA",
     "multicolumn_yVxaPR",
     "main-product-grid",
     "custom_liquid_a483Ax",
