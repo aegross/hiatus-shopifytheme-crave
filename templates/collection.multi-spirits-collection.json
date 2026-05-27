@@ -27,7 +27,7 @@
         "column_GJnXrV": {
           "type": "column",
           "settings": {
-            "title": "Whiskeys",
+            "title": "Straight Whiskeys",
             "text": "",
             "link_label": "jump to section",
             "link": "#straight-whiskeys"
@@ -54,7 +54,7 @@
         "column_jBixqx": {
           "type": "column",
           "settings": {
-            "title": "Other",
+            "title": "Vodka, Gin, & Specialties",
             "text": "",
             "link_label": "jump to section",
             "link": "#vodka-gins-specialties"
