@@ -320,9 +320,9 @@
         "collapsible_row_Uni9eH": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "How do subscriptions work?",
+            "heading": "How many bottles does one barrel produce?",
             "icon": "star",
-            "row_content": "<p>Subscribe to your spirit of choice to unlock your Lollygagger Membership. Members can access their online portal at any time to switch their subscription spirit — allowing you to try something new each quarter or stick with your favorite all year long.</p>",
+            "row_content": "<p>One barrel produces approximately thirty 750ml bottles.</p>",
             "page": ""
           }
         },
