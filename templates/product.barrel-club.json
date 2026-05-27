@@ -224,8 +224,8 @@
         "column_4eMYpt": {
           "type": "column",
           "settings": {
-            "title": "Free Membership with Subscription",
-            "text": "<p>There’s no fee to join the Lollygagger Club -- <strong>membership is free with with a qualifying active subscription.</strong></p><ul><li>Subscribe to at least one bottle per quarter (four per year) to keep your membership active.</li><li>Up to 25% off<strong> ALL</strong> bottles, merchandise, and Hiatus events.</li><li>One weekly <strong>complimentary tasting </strong>for you and a guest during regular business hours.</li></ul>",
+            "title": "Barrel Club",
+            "text": "<ul><li>Access to sampling your barrel during any business day.</li><li>Personalized barrel plaque and bottle labeling.</li><li>Availability to approximately thirty 750ml bottles of your own spirit.</li><li>Automatically enjoy perks from our <a href=\"https://hiatuscrafthouse.com/products/hiatus-membership\" target=\"_blank\" title=\"Lollygaggers Bottle Club\">Lollygaggers Bottle Club</a>.</li></ul>",
             "link_label": "",
             "link": ""
           }
@@ -233,8 +233,8 @@
         "column_34b69K": {
           "type": "column",
           "settings": {
-            "title": "More Member Benefits",
-            "text": "<p><strong>Exclusive Access</strong> to member-only events, distillery workshops, tours and tasting panels giving you a voice  in product development</p><p><strong>First Access</strong> to new products including  single-barrel bottlings.</p><p><strong>Earn Loyalty Points</strong> on all purchases. Get <strong>5 points for every $1 spent</strong>, with bonus points for referrals, birthdays, and social shares. Redeem your points for discounts on future purchases.</p>",
+            "title": "Lollygaggers",
+            "text": "<ul><li>Up to 25% off all bottles, merchandise, and Hiatus Craft House events.</li><li>One weekly complimentary tasting for you and one guest.</li><li>Exclusive access to member-only events</li><li>Premiere access to new products.</li><li>Loyalty points on all purchases to redeem for future discounts.</li></ul>",
             "link_label": "",
             "link": ""
           }
@@ -247,7 +247,7 @@
       "custom_css": [],
       "name": "Lollygagger Perks",
       "settings": {
-        "title": "Lollygagger Perks",
+        "title": "Perks",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
