@@ -13,7 +13,7 @@
       "type": "main-collection-banner",
       "custom_css": [
         ".collection-hero__title {font-size: 60px;}",
-        " {margin-bottom: -24px;}"
+        " {margin-bottom: -60px;}"
       ],
       "settings": {
         "show_collection_description": true,
@@ -126,7 +126,7 @@
     "featured_collection_zdDBri": {
       "type": "featured-collection",
       "custom_css": [
-        "{margin-bottom: -36px;}"
+        "{margin-bottom: -60px;}"
       ],
       "name": "Whiskey Collection",
       "settings": {
@@ -171,7 +171,7 @@
     "featured_collection_Ptfir4": {
       "type": "featured-collection",
       "custom_css": [
-        "{margin-bottom: -36px;}"
+        "{margin-bottom: -60px;}"
       ],
       "name": "Agave Collection",
       "settings": {
@@ -216,7 +216,7 @@
     "featured_collection_mXKtFG": {
       "type": "featured-collection",
       "custom_css": [
-        "{margin-bottom: -36px;}"
+        "{margin-bottom: -60px;}"
       ],
       "name": "Rum Collection",
       "settings": {
