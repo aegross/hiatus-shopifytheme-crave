@@ -338,9 +338,9 @@
         "collapsible_row_Th6jcy": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "How much does the bottle club cost?",
+            "heading": "Can I purchase a barrel for my business?",
             "icon": "star",
-            "row_content": "<p>The Bottle Club is <strong>free to join</strong> — there are no sign-up or membership fees. Simply make your quarterly (four per year) bottle purchases to keep your membership active and unlock all member perks. Members also enjoy exclusive pricing on all spirits, with discounts of up to 25%.</p>",
+            "row_content": "",
             "page": ""
           }
         }
