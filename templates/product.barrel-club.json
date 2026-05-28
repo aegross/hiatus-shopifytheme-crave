@@ -15,8 +15,8 @@
         "ai_gen_block_5005125_biqrth": {
           "type": "ai_gen_block_5005125",
           "settings": {
-            "image": "shopify://shop_images/IMG_4741.jpg",
-            "image_opacity": 100,
+            "image": "shopify://shop_images/IMG_4203.jpg",
+            "image_opacity": 35,
             "overlay_color": "#000000",
             "overlay_opacity": 30,
             "heading": "<p>Lollygaggers Barrel Club</p>",
