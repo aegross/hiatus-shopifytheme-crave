@@ -19,7 +19,7 @@
             "image_opacity": 100,
             "overlay_color": "#000000",
             "overlay_opacity": 30,
-            "heading": "<p>Lollygaggers Bottle Club</p>",
+            "heading": "<p>Lollygaggers Barrel Club</p>",
             "subtext": "",
             "text_alignment": "center",
             "content_max_width": 800,
@@ -180,7 +180,7 @@
           "type": "column",
           "settings": {
             "title": "Taste as Your Spirit Ages",
-            "text": "<p>Schedule guided tasting sessions for you and up to ?? guests. Sample straight from the barrel to track its development. Enjoy Barrel Club perks as you wait for your spirit to age.</p>",
+            "text": "<p>Schedule guided tasting sessions for you and up to 10 guests. Sample straight from the barrel to track its development. Enjoy Barrel Club perks as you wait for your spirit to age.</p>",
             "link_label": "",
             "link": ""
           }
@@ -189,7 +189,7 @@
           "type": "column",
           "settings": {
             "title": "Participate in Bottling",
-            "text": "<p>Decide when to bottle your spirit and participate in the bottling experience with your own personalized label. Take home the empty barrel or refill for a discounted price.</p>",
+            "text": "<p>Decide when to bottle your spirit and participate in the bottling experience with your own personalized label. Members can refill the barrel for a discounted price.</p>",
             "link_label": "",
             "link": ""
           }
@@ -317,6 +317,42 @@
             "page": ""
           }
         },
+        "collapsible_row_Tt9U6B": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "When will my barrel be ready?",
+            "icon": "star",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_hPGBJ4": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do I actually own the barrel?",
+            "icon": "star",
+            "row_content": "<p>No, you own the content within the barrel. Membership symbolizes participation in the aging process and club experience rather than legal ownership of a barrel. The barrel must stay at Hiatus Craft House, but owners are welcome to come and taste during business hours or upon appointment. </p><p></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_kLY6Nx": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Are payment plans available?",
+            "icon": "star",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_th93H7": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I share the barrel ownership?",
+            "icon": "star",
+            "row_content": "",
+            "page": ""
+          }
+        },
         "collapsible_row_Uni9eH": {
           "type": "collapsible_row",
           "settings": {
@@ -331,7 +367,7 @@
           "settings": {
             "heading": "Can I gift a Barrel Club membership?",
             "icon": "star",
-            "row_content": "",
+            "row_content": "<p>Yes, purchase the barrel online and contact abby@hiatuscrafthouse.com to reassign ownership. </p>",
             "page": ""
           }
         },
@@ -340,13 +376,17 @@
           "settings": {
             "heading": "Can I purchase a barrel for my business?",
             "icon": "star",
-            "row_content": "",
+            "row_content": "<p>Purchase the barrel online and contact abby@hiatuscrafthouse.com to assign names that are able to access the barrel for tasting and bottling. </p>",
             "page": ""
           }
         }
       },
       "block_order": [
         "collapsible_row_LhzFKb",
+        "collapsible_row_Tt9U6B",
+        "collapsible_row_hPGBJ4",
+        "collapsible_row_kLY6Nx",
+        "collapsible_row_th93H7",
         "collapsible_row_Uni9eH",
         "collapsible_row_BiLHpN",
         "collapsible_row_Th6jcy"
