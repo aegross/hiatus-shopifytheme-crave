@@ -78,10 +78,6 @@
             "swatch_shape": "circle"
           }
         },
-        "appstle_memberships_appstle_membership_product_page_widget_bKcNme": {
-          "type": "shopify://apps/appstle-memberships/blocks/appstle-membership-product-page-widget/76528d70-5fbe-48f8-8e19-590d109aa2b7",
-          "settings": {}
-        },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {}
@@ -137,7 +133,6 @@
         "description",
         "price",
         "variant_picker",
-        "appstle_memberships_appstle_membership_product_page_widget_bKcNme",
         "quantity_selector",
         "buy_buttons",
         "collapsible-row-0",
@@ -326,12 +321,21 @@
             "page": ""
           }
         },
+        "collapsible_row_9KDbwL": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is cask strength?",
+            "icon": "star",
+            "row_content": "<p>Cask strength (also known as barrel proof or barrel strength) means that a spirit is bottled directly from the aging barrel without any added water to dilute its alcohol content. While standard whiskeys are typically diluted with water down to a commercial standard of 40% to 45% alcohol by volume (ABV), cask strength spirits are left unadulterated. This results in a much higher alcohol level, usually ranging between 50% and 65% ABV (100 to 130 proof), though older or uniquely matured barrels can occasionally fall slightly higher or lower. Most Hiatus spirits are proofed to 46% ABV (92 Proof). Bottling at cask strength results in fewer bottles per barrel. A 5-gallon barrel aged for 2 years is expected to produce approximately 25 bottles at cask strength and 35 bottles at 92 proof.</p>",
+            "page": ""
+          }
+        },
         "collapsible_row_hPGBJ4": {
           "type": "collapsible_row",
           "settings": {
             "heading": "Do I actually own the barrel?",
             "icon": "star",
-            "row_content": "<p>No, you own the content within the barrel. Membership symbolizes participation in the aging process and club experience rather than legal ownership of a barrel. The barrel must stay at Hiatus Craft House, but owners are welcome to come and taste during business hours or upon appointment. </p><p></p>",
+            "row_content": "<p>No, you own the content within the barrel. Membership symbolizes participation in the aging process and club experience rather than legal ownership of a barrel. The barrel must stay at Hiatus Craft House, but barrel owners are welcome to come and taste during business hours or upon appointment. </p><p></p>",
             "page": ""
           }
         },
@@ -340,7 +344,16 @@
           "settings": {
             "heading": "Are payment plans available?",
             "icon": "star",
-            "row_content": "",
+            "row_content": "<p>Yes, contact abby@hiatuscrafthouse.com to set up a personal payment plan schedule.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_XW8b6D": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": " What is Angel’s share?",
+            "icon": "star",
+            "row_content": "<p>The portion of whiskey that evaporates through wooden barrels into the air during the aging process. In addition to tastings during the aging process, angel’s share reduces the volume in all aged spirit barrels. The longer it ages the more angel’s share there will be. This is a tradeoff in all spirit aging and contributes to why long-aged spirits (a 30-year scotch for example) are significantly more expensive due to less yield per barrel at the time of harvest.</p>",
             "page": ""
           }
         },
@@ -349,7 +362,7 @@
           "settings": {
             "heading": "Can I share the barrel ownership?",
             "icon": "star",
-            "row_content": "",
+            "row_content": "<p>Yes! Barrel ownership may be shared with up to 10 people. Your group must be established prior to purchase, and all listed members will receive club perks and benefits. To set up a shared barrel and receive an itemized invoice for your group, please contact <a href=\"mailto:abby@hiatuscrafthouse.com\">abby@hiatuscrafthouse.com</a>.</p>",
             "page": ""
           }
         },
@@ -384,8 +397,10 @@
       "block_order": [
         "collapsible_row_LhzFKb",
         "collapsible_row_Tt9U6B",
+        "collapsible_row_9KDbwL",
         "collapsible_row_hPGBJ4",
         "collapsible_row_kLY6Nx",
+        "collapsible_row_XW8b6D",
         "collapsible_row_th93H7",
         "collapsible_row_Uni9eH",
         "collapsible_row_BiLHpN",
