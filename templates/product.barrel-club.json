@@ -150,7 +150,7 @@
       ],
       "settings": {
         "enable_sticky_info": true,
-        "color_scheme": "",
+        "color_scheme": "accent-1",
         "media_size": "small",
         "constrain_to_viewport": true,
         "media_fit": "contain",
@@ -320,9 +320,9 @@
         "collapsible_row_Tt9U6B": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "When will my barrel be ready?",
+            "heading": "How long will the product age in the barrel?",
             "icon": "star",
-            "row_content": "",
+            "row_content": "<p>Aging of whiskeys (bourbon, rye and single malt) in a standard size oak barrel (53 gallons) typically takes a minimum of 2 years and is often much longer (e.g. 7-year bourbon, 12-year rye). The use of smaller barrels accelerates the aging process due to the higher ratio of internal surface area to volume – more wood contact per amount of spirit. Equivalent aging is roughly proportional to the cube root of the ratio of barrel volumes. A 5-gallon barrel ages whiskey approximately 2.2 times faster than a 53-gallon barrel, achieving a “2-year” whiskey in 11 months, a “4-year” whiskey in 1 year and 10 months. Aging in a 5-gallon barrel for 5 years will produce a “11-year” whiskey, and so on. You can taste your whiskey as it ages and decide when you want to bottle it. We recommend a first tasting one year after barreling.</p>",
             "page": ""
           }
         },
@@ -402,7 +402,7 @@
         "heading_alignment": "center",
         "layout": "none",
         "container_color_scheme": "background-1",
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "open_first_collapsible_row": true,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
