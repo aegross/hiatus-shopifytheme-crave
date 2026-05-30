@@ -38,14 +38,13 @@
       "blocks": {
         "row_fFf4JB": {
           "type": "row",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/CLU.jpg",
             "caption": "Off-Site Event",
-            "heading": "CLU Wine & Beer Walk",
-            "text": "<p>🗓️ April 25th | 4:30 to 8:00pm</p><p>📍 <em>CLU William Rolland Stadium Plaza</em></p><p>Hiatus Craft House will be supporting Cal Lutheran University Athletics in their annual Wine & Beer Walk. </p>",
+            "heading": "Casa Pacifica Wine, Food & Brew Festival",
+            "text": "<p>🗓️ June 7th | 1:00 to 5:00pm</p><p>📍 <em>California State Univeristy Channel Islands</em></p><p>Catch Hiatus Craft House at the 33rd Annual Casa Pacifica Angels Wine, Food & Brew Festival!</p>",
             "button_label": "Tickets",
-            "button_link": "https://www.callutheran.edu/special-events/wine-beer-walk/"
+            "button_link": "https://winefoodandbrewfestival.com/"
           }
         },
         "row_3KprYp": {
