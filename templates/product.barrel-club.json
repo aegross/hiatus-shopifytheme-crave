@@ -344,7 +344,7 @@
           "settings": {
             "heading": "Are payment plans available?",
             "icon": "star",
-            "row_content": "<p>Yes, contact abby@hiatuscrafthouse.com to set up a personal payment plan schedule.</p>",
+            "row_content": "<p>Yes, contact <a href=\"mailto:abby@hiatuscrafthouse.com\" title=\"mailto:abby@hiatuscrafthouse.com\">abby@hiatuscrafthouse.com </a>to set up a personal payment plan schedule.</p>",
             "page": ""
           }
         },
@@ -380,7 +380,7 @@
           "settings": {
             "heading": "Can I gift a Barrel Club membership?",
             "icon": "star",
-            "row_content": "<p>Yes, purchase the barrel online and contact abby@hiatuscrafthouse.com to reassign ownership. </p>",
+            "row_content": "<p>Yes, purchase the barrel online and contact <a href=\"mailto:abby@hiatuscrafthouse.com\" title=\"mailto:abby@hiatuscrafthouse.com\">abby@hiatuscrafthouse.com</a> to reassign ownership. </p>",
             "page": ""
           }
         },
@@ -389,7 +389,7 @@
           "settings": {
             "heading": "Can I purchase a barrel for my business?",
             "icon": "star",
-            "row_content": "<p>Purchase the barrel online and contact abby@hiatuscrafthouse.com to assign up to 10 names that are able to access the barrel for tasting and the bottling experience. </p>",
+            "row_content": "<p>Purchase the barrel online and contact <a href=\"mailto:abby@hiatuscrafthouse.com\" title=\"mailto:abby@hiatuscrafthouse.com\">abby@hiatuscrafthouse.com</a> to assign up to 10 names that are able to access the barrel for tasting and the bottling experience. </p>",
             "page": ""
           }
         }

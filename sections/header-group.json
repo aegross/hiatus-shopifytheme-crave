@@ -107,6 +107,7 @@
     },
     "header": {
       "type": "header",
+      "disabled": true,
       "settings": {
         "logo_position": "middle-left",
         "mobile_logo_position": "center",
