@@ -32,6 +32,9 @@
         "heading_qJdgjW",
         "text_JWithG"
       ],
+      "custom_css": [
+        ".banner__text {color: rgba(250, 249, 225, 1);}"
+      ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "image": "shopify://shop_images/IMG_4203.jpg",
