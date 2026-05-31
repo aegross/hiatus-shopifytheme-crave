@@ -152,7 +152,7 @@
         "share"
       ],
       "custom_css": [
-        "{margin-bottom: 36px;}"
+        "{margin-bottom: -24px;}"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -196,7 +196,9 @@
         "column_4eMYpt",
         "column_34b69K"
       ],
-      "custom_css": [],
+      "custom_css": [
+        "{margin-bottom: 36px;}"
+      ],
       "name": "Lollygagger Perks",
       "settings": {
         "title": "Lollygagger Perks",
