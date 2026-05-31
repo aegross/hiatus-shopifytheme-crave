@@ -9,37 +9,43 @@
  */
 {
   "sections": {
-    "blocks_7B39py": {
-      "type": "_blocks",
+    "image_banner_yXncn3": {
+      "type": "image-banner",
       "blocks": {
-        "ai_gen_block_5005125_biqrth": {
-          "type": "ai_gen_block_5005125",
+        "heading_qJdgjW": {
+          "type": "heading",
           "settings": {
-            "image": "shopify://shop_images/IMG_4203.jpg",
-            "image_opacity": 100,
-            "overlay_color": "#000000",
-            "overlay_opacity": 100,
-            "heading": "<p>Lollygaggers Barrel Club</p>",
-            "subtext": "",
-            "text_alignment": "center",
-            "content_max_width": 800,
-            "heading_size": 48,
-            "heading_color": "#f9f9e2",
-            "heading_spacing": 16,
-            "subtext_size": 18,
-            "subtext_color": "#faf9e1",
-            "padding_top": 100,
-            "padding_bottom": 100,
-            "padding_horizontal": 20
-          },
-          "blocks": {}
+            "heading": "Lollygaggers Barrel Club",
+            "heading_size": "h0"
+          }
+        },
+        "text_JWithG": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "(insert barrel club description here)",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
-        "ai_gen_block_5005125_biqrth"
+        "heading_qJdgjW",
+        "text_JWithG"
       ],
-      "name": "Banner with overlay",
-      "settings": {}
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/IMG_4203.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "small",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": false,
+        "color_scheme": "inverse",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": false
+      }
     },
     "main": {
       "type": "main-product",
@@ -141,11 +147,11 @@
         "share"
       ],
       "custom_css": [
-        "{margin-bottom: 36px;}"
+        "{margin-bottom: -36px;}"
       ],
       "settings": {
         "enable_sticky_info": true,
-        "color_scheme": "accent-1",
+        "color_scheme": "background-2",
         "media_size": "small",
         "constrain_to_viewport": true,
         "media_fit": "contain",
@@ -195,6 +201,9 @@
         "column_iEXgr7",
         "column_VhaCqD"
       ],
+      "custom_css": [
+        "{margin-bottom: -36px;}"
+      ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "The Process",
@@ -206,7 +215,7 @@
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
-        "color_scheme": "",
+        "color_scheme": "accent-2",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
@@ -445,7 +454,7 @@
     }
   },
   "order": [
-    "blocks_7B39py",
+    "image_banner_yXncn3",
     "main",
     "multicolumn_7pEn8z",
     "multicolumn_AyYccf",

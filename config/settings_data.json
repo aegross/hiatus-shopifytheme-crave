@@ -224,7 +224,7 @@
         "settings": {
           "background": "#f9f9e2",
           "background_gradient": "",
-          "text": "#117d87",
+          "text": "#0d0d0d",
           "button": "#117d87",
           "button_label": "#f9f9e2",
           "secondary_button_label": "#14404b",
