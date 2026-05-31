@@ -32,26 +32,6 @@
             "color_scheme": "accent-2"
           }
         },
-        "slide_MDQjaN": {
-          "type": "slide",
-          "name": "TEMP",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/IMG_4715.jpg",
-            "image_overlay_opacity": 60,
-            "heading": "Mother's Day Special",
-            "heading_size": "h1",
-            "subheading": "Visit us this Mother's Day for <strong>buy one get one free</strong> tastings! Unable to make it? Click the link below to <a href=\"/products/spirit-tasting-gift-card\" target=\"_blank\" title=\"Gift a Spirit Tasting\">gift a tasting</a>!",
-            "button_label": "Gift a Tasting",
-            "link": "shopify://products/spirit-tasting-gift-card",
-            "button_style_secondary": false,
-            "show_text_box": false,
-            "box_align": "middle-center",
-            "text_alignment": "center",
-            "text_alignment_mobile": "center",
-            "color_scheme": "accent-2"
-          }
-        },
         "slide-0": {
           "type": "slide",
           "name": "PERM",
@@ -167,26 +147,6 @@
             "color_scheme": "accent-1"
           }
         },
-        "slide_TK6LpF": {
-          "type": "slide",
-          "name": "TEMP, 3/31",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/IMG_4492.jpg",
-            "image_overlay_opacity": 50,
-            "heading": "Scotsman Abroad",
-            "heading_size": "h1",
-            "subheading": "Try our<strong> Cocktail of the Month</strong>—Scotsman Abroad, featuring our <a href=\"/products/pinot-noir-reposado\" target=\"_blank\" title=\"Pinot Noir Reposado\">Pinot Noir Reposado</a> and <a href=\"/products/straight-american-single-malt-whiskey\" target=\"_blank\" title=\"Straight American Single Malt Whiskey\">American Single Malt Whiskey</a>. Stop by Saturdays and Sundays in March!",
-            "button_label": "Book a Tasting Today",
-            "link": "shopify://products/tasting",
-            "button_style_secondary": false,
-            "show_text_box": false,
-            "box_align": "middle-center",
-            "text_alignment": "center",
-            "text_alignment_mobile": "center",
-            "color_scheme": "accent-2"
-          }
-        },
         "slide_aJwG6J": {
           "type": "slide",
           "name": "TEMP, 4/4",
@@ -210,22 +170,23 @@
       },
       "block_order": [
         "e43c93ae-2d02-4689-9536-9c3b51643f65",
-        "slide_MDQjaN",
         "slide-0",
         "slide_9DGtDz",
         "slide_cjdkdq",
         "slide_HJri7T",
         "slide_PbQA9Y",
         "slide_9wUfBV",
-        "slide_TK6LpF",
         "slide_aJwG6J"
+      ],
+      "custom_css": [
+        ".banner__text {color: rgba(250, 249, 225, 1);}"
       ],
       "settings": {
         "layout": "grid",
         "slide_height": "large",
         "slider_visual": "dots",
         "auto_rotate": true,
-        "change_slides_speed": 5,
+        "change_slides_speed": 9,
         "image_behavior": "none",
         "show_text_below": true,
         "accessibility_info": "Hiatus Craft House Slideshow"
