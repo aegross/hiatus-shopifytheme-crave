@@ -24,7 +24,7 @@
           "disabled": true,
           "settings": {
             "text": "(insert barrel club description here)",
-            "text_style": "body"
+            "text_style": "subtitle"
           }
         }
       },
@@ -151,7 +151,7 @@
       ],
       "settings": {
         "enable_sticky_info": true,
-        "color_scheme": "background-2",
+        "color_scheme": "background-1",
         "media_size": "small",
         "constrain_to_viewport": true,
         "media_fit": "contain",
@@ -163,6 +163,53 @@
         "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 16
+      }
+    },
+    "multicolumn_AyYccf": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_4eMYpt": {
+          "type": "column",
+          "settings": {
+            "title": "Barrel Club",
+            "text": "<ul><li>Access to sampling your barrel during any business day.</li><li>Personalized barrel plaque and bottle labeling.</li><li>Availability to approximately thirty 750ml bottles of your own spirit.</li><li>Automatically enjoy perks from our <a href=\"https://hiatuscrafthouse.com/products/hiatus-membership\" target=\"_blank\" title=\"Lollygaggers Bottle Club\">Lollygaggers Bottle Club</a>.</li></ul>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_34b69K": {
+          "type": "column",
+          "settings": {
+            "title": "Lollygaggers",
+            "text": "<ul><li>Up to 25% off all bottles, merchandise, and Hiatus events.</li><li>One weekly complimentary tasting for you and one guest.</li><li>Exclusive access to member-only events</li><li>Premiere access to new products.</li><li>Loyalty points on all purchases to redeem for future discounts.</li></ul>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_4eMYpt",
+        "column_34b69K"
+      ],
+      "custom_css": [
+        "{margin-bottom: -36px;}"
+      ],
+      "name": "Lollygagger Perks",
+      "settings": {
+        "title": "The Perks",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "multicolumn_7pEn8z": {
@@ -201,9 +248,7 @@
         "column_iEXgr7",
         "column_VhaCqD"
       ],
-      "custom_css": [
-        "{margin-bottom: -36px;}"
-      ],
+      "custom_css": [],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "The Process",
@@ -215,52 +260,7 @@
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
-        "color_scheme": "accent-2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "multicolumn_AyYccf": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_4eMYpt": {
-          "type": "column",
-          "settings": {
-            "title": "Barrel Club",
-            "text": "<ul><li>Access to sampling your barrel during any business day.</li><li>Personalized barrel plaque and bottle labeling.</li><li>Availability to approximately thirty 750ml bottles of your own spirit.</li><li>Automatically enjoy perks from our <a href=\"https://hiatuscrafthouse.com/products/hiatus-membership\" target=\"_blank\" title=\"Lollygaggers Bottle Club\">Lollygaggers Bottle Club</a>.</li></ul>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_34b69K": {
-          "type": "column",
-          "settings": {
-            "title": "Lollygaggers",
-            "text": "<ul><li>Up to 25% off all bottles, merchandise, and Hiatus events.</li><li>One weekly complimentary tasting for you and one guest.</li><li>Exclusive access to member-only events</li><li>Premiere access to new products.</li><li>Loyalty points on all purchases to redeem for future discounts.</li></ul>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_4eMYpt",
-        "column_34b69K"
-      ],
-      "custom_css": [],
-      "name": "Lollygagger Perks",
-      "settings": {
-        "title": "The Perks",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "button_label": "",
-        "button_link": "",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
@@ -456,8 +456,8 @@
   "order": [
     "image_banner_yXncn3",
     "main",
-    "multicolumn_7pEn8z",
     "multicolumn_AyYccf",
+    "multicolumn_7pEn8z",
     "17619962056844fcf5",
     "collapsible_content_FMkckc",
     "product-recommendations"
