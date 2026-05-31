@@ -31,7 +31,9 @@
         "heading_eKDwiD",
         "text_gLGyxk"
       ],
-      "custom_css": [],
+      "custom_css": [
+        ".banner__text {color: rgba(250, 249, 225, 1);}"
+      ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "image": "shopify://shop_images/Asset_3_1f18c9d4-f635-4fae-ad2b-0cbb39c0773f.png",
