@@ -324,6 +324,24 @@
             "page": ""
           }
         },
+        "collapsible_row_Uni9eH": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How many bottles does one barrel produce?",
+            "icon": "star",
+            "row_content": "<p>One barrel produces approximately thirty 750ml bottles.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_hPGBJ4": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do I actually own the barrel?",
+            "icon": "star",
+            "row_content": "<p>No, you own the content within the barrel. Membership symbolizes participation in the aging process and club experience rather than legal ownership of a barrel. The barrel must stay at Hiatus Craft House, but barrel owners are welcome to come and taste during business hours or upon appointment. </p><p></p>",
+            "page": ""
+          }
+        },
         "collapsible_row_Tt9U6B": {
           "type": "collapsible_row",
           "settings": {
@@ -342,12 +360,12 @@
             "page": ""
           }
         },
-        "collapsible_row_hPGBJ4": {
+        "collapsible_row_XW8b6D": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Do I actually own the barrel?",
+            "heading": "What is Angel’s share?",
             "icon": "star",
-            "row_content": "<p>No, you own the content within the barrel. Membership symbolizes participation in the aging process and club experience rather than legal ownership of a barrel. The barrel must stay at Hiatus Craft House, but barrel owners are welcome to come and taste during business hours or upon appointment. </p><p></p>",
+            "row_content": "<p>The portion of whiskey that evaporates through wooden barrels into the air during the aging process. In addition to tastings during the aging process, angel’s share reduces the volume in all aged spirit barrels. The longer it ages the more angel’s share there will be. This is a tradeoff in all spirit aging and contributes to why long-aged spirits (a 30-year scotch for example) are significantly more expensive due to less yield per barrel at the time of harvest.</p>",
             "page": ""
           }
         },
@@ -360,30 +378,12 @@
             "page": ""
           }
         },
-        "collapsible_row_XW8b6D": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": " What is Angel’s share?",
-            "icon": "star",
-            "row_content": "<p>The portion of whiskey that evaporates through wooden barrels into the air during the aging process. In addition to tastings during the aging process, angel’s share reduces the volume in all aged spirit barrels. The longer it ages the more angel’s share there will be. This is a tradeoff in all spirit aging and contributes to why long-aged spirits (a 30-year scotch for example) are significantly more expensive due to less yield per barrel at the time of harvest.</p>",
-            "page": ""
-          }
-        },
         "collapsible_row_th93H7": {
           "type": "collapsible_row",
           "settings": {
             "heading": "Can I share the barrel ownership?",
             "icon": "star",
             "row_content": "<p>Yes! Barrel ownership may be shared with up to 10 people. Your group must be established prior to purchase, and all listed members will receive club perks and benefits. To set up a shared barrel and receive an itemized invoice for your group, please contact <a href=\"mailto:abby@hiatuscrafthouse.com\">abby@hiatuscrafthouse.com</a>.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_Uni9eH": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "How many bottles does one barrel produce?",
-            "icon": "star",
-            "row_content": "<p>One barrel produces approximately thirty 750ml bottles.</p>",
             "page": ""
           }
         },
@@ -408,13 +408,13 @@
       },
       "block_order": [
         "collapsible_row_LhzFKb",
+        "collapsible_row_Uni9eH",
+        "collapsible_row_hPGBJ4",
         "collapsible_row_Tt9U6B",
         "collapsible_row_9KDbwL",
-        "collapsible_row_hPGBJ4",
-        "collapsible_row_kLY6Nx",
         "collapsible_row_XW8b6D",
+        "collapsible_row_kLY6Nx",
         "collapsible_row_th93H7",
-        "collapsible_row_Uni9eH",
         "collapsible_row_BiLHpN",
         "collapsible_row_Th6jcy"
       ],
