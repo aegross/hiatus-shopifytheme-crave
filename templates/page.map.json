@@ -318,7 +318,7 @@
           "name": "TW Northridge",
           "settings": {
             "title": "Total Wine & More",
-            "text": "<p>19336 Nordhoff St, Northridge, CA 91324</p>",
+            "text": "<p><em>19336 Nordhoff St, Northridge, CA 91324</em></p>",
             "link_label": "Website",
             "link": "https://www.totalwine.com/store-info/california-northridge/1102"
           }
