@@ -255,6 +255,7 @@
         "column_eziEeg": {
           "type": "column",
           "name": "Harbor Mart (Oxnard)",
+          "disabled": true,
           "settings": {
             "title": "Harbor Mart (Hollywood Beach)",
             "text": "<p><em>2810 Harbor Blvd #B3, Oxnard, CA 93035</em></p>",
@@ -292,6 +293,36 @@
             "link": "https://www.instagram.com/plaza_market_and_liquor/"
           }
         },
+        "column_hBqhCK": {
+          "type": "column",
+          "name": "TW Thousand Oaks",
+          "settings": {
+            "title": "Total Wine & More",
+            "text": "<p><em>394 N. Moorpark Road, Thousand Oaks, CA 91360</em></p>",
+            "link_label": "Website",
+            "link": "https://www.totalwine.com/store-info/california-thousand-oaks/1107"
+          }
+        },
+        "column_RMCWTP": {
+          "type": "column",
+          "name": "TW Woodland Hills",
+          "settings": {
+            "title": "Total Wine & More",
+            "text": "<p><em>6232 Topanga Canyon Blvd, Ste 1380<br/>Woodland Hills, CA 91367</em></p>",
+            "link_label": "Website",
+            "link": "https://www.totalwine.com/store-info/california-woodland-hills/1116"
+          }
+        },
+        "column_QUij8c": {
+          "type": "column",
+          "name": "TW Northridge",
+          "settings": {
+            "title": "Total Wine & More",
+            "text": "<p>19336 Nordhoff St, Northridge, CA 91324</p>",
+            "link_label": "Website",
+            "link": "https://www.totalwine.com/store-info/california-northridge/1102"
+          }
+        },
         "column_gVEDVh": {
           "type": "column",
           "name": "Grocery Bag",
@@ -318,6 +349,9 @@
         "column_xNU6h8",
         "column_xjdgPi",
         "column_TrwWre",
+        "column_hBqhCK",
+        "column_RMCWTP",
+        "column_QUij8c",
         "column_gVEDVh",
         "column_rpggra"
       ],
