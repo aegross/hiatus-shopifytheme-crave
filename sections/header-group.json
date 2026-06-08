@@ -16,9 +16,8 @@
       "blocks": {
         "announcement_gTt78h": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
-            "text": "Closed on Sunday, April 5.",
+            "text": "Closed Fourth of July Weekend (July 4 & 5)",
             "link": ""
           }
         },
