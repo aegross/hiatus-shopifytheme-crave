@@ -1,0 +1,468 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner_yXncn3": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_qJdgjW": {
+          "type": "heading",
+          "settings": {
+            "heading": "Lollygaggers Barrel Club",
+            "heading_size": "h0"
+          }
+        },
+        "text_JWithG": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "(insert barrel club description here)",
+            "text_style": "subtitle"
+          }
+        }
+      },
+      "block_order": [
+        "heading_qJdgjW",
+        "text_JWithG"
+      ],
+      "custom_css": [
+        ".banner__text {color: rgba(250, 249, 225, 1);}"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/IMG_4203.jpg",
+        "image_overlay_opacity": 50,
+        "image_height": "small",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": false,
+        "color_scheme": "inverse",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": false
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "text_yFiWhK": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Add to cart & subscribe to any spirit to activate your membership!  Select your jersey style, size and first or last name.",
+            "text_style": "body"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "collapsible-row-0": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Ingredients",
+            "icon": "apple",
+            "content": "",
+            "page": ""
+          }
+        },
+        "collapsible-row-1": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Nutritional info",
+            "icon": "heart",
+            "content": "",
+            "page": ""
+          }
+        },
+        "collapsible-row-2": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Shipping",
+            "icon": "truck",
+            "content": "",
+            "page": ""
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "text_yFiWhK",
+        "description",
+        "price",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "collapsible-row-0",
+        "collapsible-row-1",
+        "collapsible-row-2",
+        "share"
+      ],
+      "custom_css": [
+        "{margin-bottom: -36px;}"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "color_scheme": "background-1",
+        "media_size": "small",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "gallery_layout": "thumbnail_slider",
+        "mobile_thumbnails": "hide",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 16
+      }
+    },
+    "multicolumn_AyYccf": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_4eMYpt": {
+          "type": "column",
+          "settings": {
+            "title": "Barrel Club",
+            "text": "<ul><li>Access to sampling your barrel during any business day.</li><li>Personalized barrel plaque and bottle labeling.</li><li>Availability to approximately thirty 750ml bottles of your own spirit.</li><li>Automatically enjoy perks from our <a href=\"https://hiatuscrafthouse.com/products/hiatus-membership\" target=\"_blank\" title=\"Lollygaggers Bottle Club\">Lollygaggers Bottle Club</a>.</li></ul>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_34b69K": {
+          "type": "column",
+          "settings": {
+            "title": "Lollygaggers",
+            "text": "<ul><li>Up to 25% off all bottles, merchandise, and Hiatus events.</li><li>One weekly complimentary tasting for you and one guest.</li><li>Exclusive access to member-only events</li><li>Premiere access to new products.</li><li>Loyalty points on all purchases to redeem for future discounts.</li></ul>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_4eMYpt",
+        "column_34b69K"
+      ],
+      "custom_css": [
+        "{margin-bottom: -36px;}"
+      ],
+      "name": "Lollygagger Perks",
+      "settings": {
+        "title": "The Perks",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_7pEn8z": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_mDqe79": {
+          "type": "column",
+          "settings": {
+            "title": "Customize Your Experience",
+            "text": "<p>Enjoy a consultation and tour with our owners where you get to choose the strength of your spirit, decide your barrel plaque engravings, and learn about our distilling process.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_iEXgr7": {
+          "type": "column",
+          "settings": {
+            "title": "Taste as Your Spirit Ages",
+            "text": "<p>Schedule guided tasting sessions for you and up to 10 guests. Sample straight from the barrel to track its development. Enjoy Barrel Club perks as you wait for your spirit to age.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_VhaCqD": {
+          "type": "column",
+          "settings": {
+            "title": "Participate in Bottling",
+            "text": "<p>Decide when to bottle your spirit and participate in the bottling experience with your own personalized label. Members can refill the barrel for a discounted price.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_mDqe79",
+        "column_iEXgr7",
+        "column_VhaCqD"
+      ],
+      "custom_css": [],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "The Process",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "accent-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "17619962056844fcf5": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_0150230_FJMFCY": {
+          "type": "ai_gen_block_0150230",
+          "disabled": true,
+          "settings": {
+            "collection": "frontpage",
+            "products_to_show": 4,
+            "heading": "Subscribe to any spirit to become an active member!",
+            "description": "Pick out which any our spirits you would like to subscribe to quarterly. Don't worry— you can change your subscription bottle(s) at any time!",
+            "heading_alignment": "center",
+            "products_per_row": 4,
+            "products_per_row_mobile": "2",
+            "grid_gap": 20,
+            "show_view_all": true,
+            "button_text": "View all spirits",
+            "background_color": "#117d87",
+            "heading_color": "#f9f9e2",
+            "text_color": "#f9f9e2",
+            "card_background": "#14404b",
+            "button_background": "#14404b",
+            "button_hover_background": "#0d0d0d",
+            "button_text_color": "#f9f9e2",
+            "heading_font": "jost_n5",
+            "heading_size": 36,
+            "card_border_radius": 12,
+            "card_border_thickness": 2,
+            "card_border_color": "#14404b",
+            "card_shadow_opacity": 10,
+            "card_shadow_vertical": 4,
+            "card_shadow_blur": 10,
+            "button_border_radius": 20
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_0150230_FJMFCY"
+      ],
+      "settings": {}
+    },
+    "collapsible_content_FMkckc": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_LhzFKb": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How do I join?",
+            "icon": "star",
+            "row_content": "<p>Add the Barrel Club product to your cart and purchase. We will contact you to schedule a consultation and tour at our distillery.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_Uni9eH": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How many bottles does one barrel produce?",
+            "icon": "star",
+            "row_content": "<p>One barrel produces approximately thirty 750ml bottles.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_hPGBJ4": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do I actually own the barrel?",
+            "icon": "star",
+            "row_content": "<p>Yes! You own the barrel. However, the barrel must remain at the distillery while it contains product and throughout the bottling process. Once all whiskey from the barrel has been bottled or consumed, you may take your empty barrel home as a keepsake or choose to refill it for $1,250 and continue the aging journey.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_Tt9U6B": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How long will the product age in the barrel?",
+            "icon": "star",
+            "row_content": "<p>Aging of whiskeys (bourbon, rye and single malt) in a standard size oak barrel (53 gallons) typically takes a minimum of 2 years and is often much longer (e.g. 7-year bourbon, 12-year rye). The use of smaller barrels accelerates the aging process due to the higher ratio of internal surface area to volume – more wood contact per amount of spirit. Equivalent aging is roughly proportional to the cube root of the ratio of barrel volumes. A 5-gallon barrel ages whiskey approximately 2.2 times faster than a 53-gallon barrel, achieving a “2-year” whiskey in 11 months, a “4-year” whiskey in 1 year and 10 months. Aging in a 5-gallon barrel for 5 years will produce a “11-year” whiskey, and so on. You can taste your whiskey as it ages and decide when you want to bottle it. We recommend a first tasting one year after barreling.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_9KDbwL": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is cask strength?",
+            "icon": "star",
+            "row_content": "<p>Cask strength (also known as barrel proof or barrel strength) means that a spirit is bottled directly from the aging barrel without any added water to dilute its alcohol content. While standard whiskeys are typically diluted with water down to a commercial standard of 40% to 45% alcohol by volume (ABV), cask strength spirits are left unadulterated. This results in a much higher alcohol level, usually ranging between 50% and 65% ABV (100 to 130 proof), though older or uniquely matured barrels can occasionally fall slightly higher or lower. Most Hiatus spirits are proofed to 46% ABV (92 Proof). Bottling at cask strength results in fewer bottles per barrel. A 5-gallon barrel aged for 2 years is expected to produce approximately 25 bottles at cask strength and 35 bottles at 92 proof.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_XW8b6D": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is Angel’s share?",
+            "icon": "star",
+            "row_content": "<p>The portion of whiskey that evaporates through wooden barrels into the air during the aging process. In addition to tastings during the aging process, angel’s share reduces the volume in all aged spirit barrels. The longer it ages the more angel’s share there will be. This is a tradeoff in all spirit aging and contributes to why long-aged spirits (a 30-year scotch for example) are significantly more expensive due to less yield per barrel at the time of harvest.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_kLY6Nx": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Are payment plans available?",
+            "icon": "star",
+            "row_content": "<p>Yes, contact <a href=\"mailto:abby@hiatuscrafthouse.com\" title=\"mailto:abby@hiatuscrafthouse.com\">abby@hiatuscrafthouse.com </a>to set up a personal payment plan schedule.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_th93H7": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I share the barrel ownership?",
+            "icon": "star",
+            "row_content": "<p>Yes! Barrel ownership may be shared with up to 10 people. Your group must be established prior to purchase, and all listed members will receive club perks and benefits. To set up a shared barrel and receive an itemized invoice for your group, please contact <a href=\"mailto:abby@hiatuscrafthouse.com\">abby@hiatuscrafthouse.com</a>.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_BiLHpN": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I gift a Barrel Club membership?",
+            "icon": "star",
+            "row_content": "<p>Yes, purchase the barrel online and contact <a href=\"mailto:abby@hiatuscrafthouse.com\" title=\"mailto:abby@hiatuscrafthouse.com\">abby@hiatuscrafthouse.com</a> to reassign ownership. </p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_Th6jcy": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I purchase a barrel for my business?",
+            "icon": "star",
+            "row_content": "<p>Purchase the barrel online and contact <a href=\"mailto:abby@hiatuscrafthouse.com\" title=\"mailto:abby@hiatuscrafthouse.com\">abby@hiatuscrafthouse.com</a> to assign up to 10 names that are able to access the barrel for tasting and the bottling experience. </p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_LhzFKb",
+        "collapsible_row_Uni9eH",
+        "collapsible_row_hPGBJ4",
+        "collapsible_row_Tt9U6B",
+        "collapsible_row_9KDbwL",
+        "collapsible_row_XW8b6D",
+        "collapsible_row_kLY6Nx",
+        "collapsible_row_th93H7",
+        "collapsible_row_BiLHpN",
+        "collapsible_row_Th6jcy"
+      ],
+      "custom_css": [
+        "{margin-top: 36px;}"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "caption": "",
+        "heading": "Frequently Asked Questions",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "container_color_scheme": "background-1",
+        "color_scheme": "background-2",
+        "open_first_collapsible_row": true,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "heading": "Subscribe to any of our spirits to become an active member!",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 32,
+        "padding_bottom": 64
+      }
+    }
+  },
+  "order": [
+    "image_banner_yXncn3",
+    "main",
+    "multicolumn_AyYccf",
+    "multicolumn_7pEn8z",
+    "17619962056844fcf5",
+    "collapsible_content_FMkckc",
+    "product-recommendations"
+  ]
+}
