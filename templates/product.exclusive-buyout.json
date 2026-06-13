@@ -64,14 +64,6 @@
           "type": "title",
           "settings": {}
         },
-        "text_yFiWhK": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Add to cart & subscribe to any spirit to activate your membership!  Select your jersey style, size and first or last name.",
-            "text_style": "body"
-          }
-        },
         "description": {
           "type": "description",
           "settings": {}
@@ -87,45 +79,11 @@
             "swatch_shape": "circle"
           }
         },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": true
-          }
-        },
-        "collapsible-row-0": {
-          "type": "collapsible_tab",
-          "disabled": true,
-          "settings": {
-            "heading": "Ingredients",
-            "icon": "apple",
-            "content": "",
-            "page": ""
-          }
-        },
-        "collapsible-row-1": {
-          "type": "collapsible_tab",
-          "disabled": true,
-          "settings": {
-            "heading": "Nutritional info",
-            "icon": "heart",
-            "content": "",
-            "page": ""
-          }
-        },
-        "collapsible-row-2": {
-          "type": "collapsible_tab",
-          "disabled": true,
-          "settings": {
-            "heading": "Shipping",
-            "icon": "truck",
-            "content": "",
-            "page": ""
           }
         },
         "share": {
@@ -138,15 +96,10 @@
       "block_order": [
         "vendor",
         "title",
-        "text_yFiWhK",
         "description",
         "price",
         "variant_picker",
-        "quantity_selector",
         "buy_buttons",
-        "collapsible-row-0",
-        "collapsible-row-1",
-        "collapsible-row-2",
         "share"
       ],
       "custom_css": [
@@ -167,150 +120,6 @@
         "padding_top": 36,
         "padding_bottom": 16
       }
-    },
-    "multicolumn_AyYccf": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_4eMYpt": {
-          "type": "column",
-          "settings": {
-            "title": "Barrel Club",
-            "text": "<ul><li>Access to sampling your barrel during any business day.</li><li>Personalized barrel plaque and bottle labeling.</li><li>Availability to approximately thirty 750ml bottles of your own spirit.</li><li>Automatically enjoy perks from our <a href=\"https://hiatuscrafthouse.com/products/hiatus-membership\" target=\"_blank\" title=\"Lollygaggers Bottle Club\">Lollygaggers Bottle Club</a>.</li></ul>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_34b69K": {
-          "type": "column",
-          "settings": {
-            "title": "Lollygaggers",
-            "text": "<ul><li>Up to 25% off all bottles, merchandise, and Hiatus events.</li><li>One weekly complimentary tasting for you and one guest.</li><li>Exclusive access to member-only events</li><li>Premiere access to new products.</li><li>Loyalty points on all purchases to redeem for future discounts.</li></ul>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_4eMYpt",
-        "column_34b69K"
-      ],
-      "custom_css": [
-        "{margin-bottom: -36px;}"
-      ],
-      "name": "Lollygagger Perks",
-      "settings": {
-        "title": "The Perks",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "button_label": "",
-        "button_link": "",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "multicolumn_7pEn8z": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_mDqe79": {
-          "type": "column",
-          "settings": {
-            "title": "Customize Your Experience",
-            "text": "<p>Enjoy a consultation and tour with our owners where you get to choose the strength of your spirit, decide your barrel plaque engravings, and learn about our distilling process.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_iEXgr7": {
-          "type": "column",
-          "settings": {
-            "title": "Taste as Your Spirit Ages",
-            "text": "<p>Schedule guided tasting sessions for you and up to 10 guests. Sample straight from the barrel to track its development. Enjoy Barrel Club perks as you wait for your spirit to age.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_VhaCqD": {
-          "type": "column",
-          "settings": {
-            "title": "Participate in Bottling",
-            "text": "<p>Decide when to bottle your spirit and participate in the bottling experience with your own personalized label. Members can refill the barrel for a discounted price.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_mDqe79",
-        "column_iEXgr7",
-        "column_VhaCqD"
-      ],
-      "custom_css": [],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "The Process",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "button_label": "",
-        "button_link": "",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "color_scheme": "accent-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "17619962056844fcf5": {
-      "type": "_blocks",
-      "blocks": {
-        "ai_gen_block_0150230_FJMFCY": {
-          "type": "ai_gen_block_0150230",
-          "disabled": true,
-          "settings": {
-            "collection": "frontpage",
-            "products_to_show": 4,
-            "heading": "Subscribe to any spirit to become an active member!",
-            "description": "Pick out which any our spirits you would like to subscribe to quarterly. Don't worry— you can change your subscription bottle(s) at any time!",
-            "heading_alignment": "center",
-            "products_per_row": 4,
-            "products_per_row_mobile": "2",
-            "grid_gap": 20,
-            "show_view_all": true,
-            "button_text": "View all spirits",
-            "background_color": "#117d87",
-            "heading_color": "#f9f9e2",
-            "text_color": "#f9f9e2",
-            "card_background": "#14404b",
-            "button_background": "#14404b",
-            "button_hover_background": "#0d0d0d",
-            "button_text_color": "#f9f9e2",
-            "heading_font": "jost_n5",
-            "heading_size": 36,
-            "card_border_radius": 12,
-            "card_border_thickness": 2,
-            "card_border_color": "#14404b",
-            "card_shadow_opacity": 10,
-            "card_shadow_vertical": 4,
-            "card_shadow_blur": 10,
-            "button_border_radius": 20
-          },
-          "blocks": {}
-        }
-      },
-      "block_order": [
-        "ai_gen_block_0150230_FJMFCY"
-      ],
-      "settings": {}
     },
     "collapsible_content_FMkckc": {
       "type": "collapsible-content",
@@ -459,9 +268,6 @@
   "order": [
     "image_banner_yXncn3",
     "main",
-    "multicolumn_AyYccf",
-    "multicolumn_7pEn8z",
-    "17619962056844fcf5",
     "collapsible_content_FMkckc",
     "product-recommendations"
   ]
