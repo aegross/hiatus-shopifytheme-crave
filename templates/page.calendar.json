@@ -50,14 +50,13 @@
         },
         "row_3KprYp": {
           "type": "row",
-          "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/IMG_4578.jpg",
+            "image": "shopify://shop_images/IMG_2886.jpg",
             "caption": "In-House Event",
-            "heading": "Charcuterie Workshop",
-            "text": "<p>🗓️ May 3rd | 12:30 to 2:30pm</p><p>📍 <em>Hiatus Craft House</em></p><p>Learn the basics of meat and cheese styling, and create an arrangement on your one-of-a-kind custom-made charcuterie board. <br/></p>",
+            "heading": "Mixology Workshop",
+            "text": "<p>🗓️ July 23rd | 6:30 to 8:30pm</p><p>📍 <em>Hiatus Craft House</em></p><p>Join us for our Summer Mixology Workshop with Alex from Firefly Bartending! Craft cocktails, recipe cards, and bites included.</p>",
             "button_label": "Tickets",
-            "button_link": "https://www.eventbrite.com/e/charcuterie-workshop-tickets-1986924755430?aff=oddtdtcreator"
+            "button_link": "https://www.eventbrite.com/e/summer-mixology-workshop-hiatus-craft-house-tickets-1992256258098"
           }
         },
         "row_hUqUYV": {
