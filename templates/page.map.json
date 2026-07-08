@@ -205,6 +205,16 @@
             "link": ""
           }
         },
+        "column_RT34UQ": {
+          "type": "column",
+          "name": "Winchesters",
+          "settings": {
+            "title": "Winchesters Grill & Saloon",
+            "text": "<p><em>632 E Main St, Ventura, CA 93001</em></p>",
+            "link_label": "Website",
+            "link": "https://www.winchestersgrill.com/"
+          }
+        },
         "column_3gR3Ye": {
           "type": "column",
           "name": "Sam's",
@@ -226,6 +236,7 @@
         "column_VGcrm3",
         "column_G4cKhB",
         "column_eXKzHC",
+        "column_RT34UQ",
         "column_3gR3Ye"
       ],
       "custom_css": [
