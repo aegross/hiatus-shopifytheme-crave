@@ -12,26 +12,6 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
-        "e43c93ae-2d02-4689-9536-9c3b51643f65": {
-          "type": "slide",
-          "name": "TEMP, 5/3",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/IMG_4599.jpg",
-            "image_overlay_opacity": 50,
-            "heading": "Charcuterie Workshop",
-            "heading_size": "h1",
-            "subheading": "Join us for our Charcuterie Workshop on <strong>Sunday, May 3rd</strong>, from 12:30-2:30pm! Learn the basics of meat and cheese styling, and create an arrangement on your one-of-a-kind <strong>custom-made charcuterie board</strong>. ",
-            "button_label": "Tickets",
-            "link": "https://www.eventbrite.com/e/charcuterie-workshop-tickets-1986924755430?aff=oddtdtcreator",
-            "button_style_secondary": false,
-            "show_text_box": false,
-            "box_align": "middle-center",
-            "text_alignment": "center",
-            "text_alignment_mobile": "center",
-            "color_scheme": "accent-2"
-          }
-        },
         "slide-0": {
           "type": "slide",
           "name": "PERM",
@@ -127,6 +107,26 @@
             "color_scheme": "accent-2"
           }
         },
+        "e43c93ae-2d02-4689-9536-9c3b51643f65": {
+          "type": "slide",
+          "name": "TEMP, 5/3",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/IMG_4599.jpg",
+            "image_overlay_opacity": 50,
+            "heading": "Charcuterie Workshop",
+            "heading_size": "h1",
+            "subheading": "Join us for our Charcuterie Workshop on <strong>Sunday, May 3rd</strong>, from 12:30-2:30pm! Learn the basics of meat and cheese styling, and create an arrangement on your one-of-a-kind <strong>custom-made charcuterie board</strong>. ",
+            "button_label": "Tickets",
+            "link": "https://www.eventbrite.com/e/charcuterie-workshop-tickets-1986924755430?aff=oddtdtcreator",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "accent-2"
+          }
+        },
         "slide_9wUfBV": {
           "type": "slide",
           "name": "TEMP",
@@ -169,12 +169,12 @@
         }
       },
       "block_order": [
-        "e43c93ae-2d02-4689-9536-9c3b51643f65",
         "slide-0",
         "slide_9DGtDz",
         "slide_cjdkdq",
         "slide_HJri7T",
         "slide_PbQA9Y",
+        "e43c93ae-2d02-4689-9536-9c3b51643f65",
         "slide_9wUfBV",
         "slide_aJwG6J"
       ],

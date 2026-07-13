@@ -61,14 +61,24 @@
         },
         "row_hUqUYV": {
           "type": "row",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/IMG_4033.jpg",
             "caption": "Off-Site Event",
-            "heading": "Big Brothers Big Sisters Ventura County Golf",
-            "text": "<p>🗓️ May 4th | 4:30 to 8:00pm</p><p>📍<em> Somis Saticoy Club</em></p><p>Hiatus Craft House will be supporting Big Brothers Big Sisters of Ventura County at their golf fundraiser in Somis.</p>",
-            "button_label": "Tickets",
-            "button_link": "https://bbsvc.org/golf"
+            "heading": "Patron Tasting",
+            "text": "<p>🗓️ July 14th | 5:00pm</p><p>📍<em> Patron Mexican Bar & Grill, Westlake</em></p><p>Join Hiatus Craft House at Patron Mexican Bar & Grill for a special Taco Tuesday tasting of our agave spirits! Be sure to order a Hiatus Berry Infusion—a Patron Westlake exclusive cocktail!</p>",
+            "button_label": "Website",
+            "button_link": "https://patronmex.com/locations/westlake-village/"
+          }
+        },
+        "row_hA3gfy": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/IMG_3654.jpg",
+            "caption": "Off-Site Event",
+            "heading": "Happy Place Tasting",
+            "text": "<p>🗓️ July 16th | 4:00pm</p><p>📍 <em>Happy Place Craft Beer, Wine & Spirits</em></p><p>Join Hiatus Craft House at Happy Place Craft Beer, Wine & Spirits for a special tasting of our spirits! Be sure to pick up some bottles with their Local Thursday discount!</p>",
+            "button_label": "Website",
+            "button_link": "https://wedeliverliquor.com/"
           }
         },
         "row_wwwTBq": {
@@ -134,6 +144,7 @@
         "row_fFf4JB",
         "row_3KprYp",
         "row_hUqUYV",
+        "row_hA3gfy",
         "row_wwwTBq",
         "row_AwkHxK",
         "row_BVDEcj",
