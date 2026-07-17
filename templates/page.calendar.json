@@ -61,17 +61,19 @@
         },
         "row_hUqUYV": {
           "type": "row",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/IMG_4033.jpg",
             "caption": "Off-Site Event",
             "heading": "Patron Tasting",
-            "text": "<p>🗓️ July 14th | 5:00pm</p><p>📍<em> Patron Mexican Bar & Grill (Westlake)</em></p><p>Join Hiatus Craft House at Patron Mexican Bar & Grill for a special Taco Tuesday tasting of our agave spirits! Be sure to order a Hiatus Berry Infusion—a Patron Westlake exclusive cocktail!</p>",
+            "text": "<p>🗓️ July 14th | 5:00pm</p><p>📍<em> Patron Mexican Bar & Grill, Westlake</em></p><p>Join Hiatus Craft House at Patron Mexican Bar & Grill for a special Taco Tuesday tasting of our agave spirits! Be sure to order a Hiatus Berry Infusion—a Patron Westlake exclusive cocktail!</p>",
             "button_label": "Website",
             "button_link": "https://patronmex.com/locations/westlake-village/"
           }
         },
         "row_hA3gfy": {
           "type": "row",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/IMG_3654.jpg",
             "caption": "Off-Site Event",
