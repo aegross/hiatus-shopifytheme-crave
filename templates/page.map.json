@@ -115,6 +115,16 @@
     "multicolumn_a9TQeg": {
       "type": "multicolumn",
       "blocks": {
+        "column_bRe7Me": {
+          "type": "column",
+          "name": "The Local",
+          "settings": {
+            "title": "The Local",
+            "text": "<p><em>795 Camarillo Springs Rd, Camarillo, CA 93012</em></p>",
+            "link_label": "Website",
+            "link": "https://www.thelocalcamarillo.com/"
+          }
+        },
         "column_6FMJhw": {
           "type": "column",
           "name": "Take 5",
@@ -127,31 +137,12 @@
         },
         "column_8et7j6": {
           "type": "column",
+          "name": "Patron TO",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_jkyawk": {
-          "type": "column",
-          "name": "Basil & Mint",
-          "settings": {
-            "title": "The Amendment / Basil & Mint Vietnamese Cafe",
-            "text": "<p><em>350 N Lantana St, Camarillo, CA 93010</em></p>",
+            "title": "Patron Mexican Bar & Grill (Camarillo)",
+            "text": "<p><em>5227 Mission Oaks Blvd, Camarillo, CA 93012</em></p>",
             "link_label": "Website",
-            "link": "https://theamendmentcamarillo.com/"
-          }
-        },
-        "column_bRe7Me": {
-          "type": "column",
-          "name": "The Local",
-          "settings": {
-            "title": "The Local",
-            "text": "<p><em>795 Camarillo Springs Rd, Camarillo, CA 93012</em></p>",
-            "link_label": "Website",
-            "link": "https://www.thelocalcamarillo.com/"
+            "link": "https://camarillo.patronmex.com/"
           }
         },
         "column_7T4tDR": {
@@ -172,6 +163,16 @@
             "text": "<p><em>67 E Daily Dr, Camarillo, CA 93010</em></p>",
             "link_label": "Website",
             "link": "https://adolfogrill.com"
+          }
+        },
+        "column_jkyawk": {
+          "type": "column",
+          "name": "Basil & Mint",
+          "settings": {
+            "title": "The Amendment / Basil & Mint Vietnamese Cafe",
+            "text": "<p><em>350 N Lantana St, Camarillo, CA 93010</em></p>",
+            "link_label": "Website",
+            "link": "https://theamendmentcamarillo.com/"
           }
         },
         "column_tbVW7k": {
@@ -256,12 +257,12 @@
         }
       },
       "block_order": [
+        "column_bRe7Me",
         "column_6FMJhw",
         "column_8et7j6",
-        "column_jkyawk",
-        "column_bRe7Me",
         "column_7T4tDR",
         "column_DEXBfF",
+        "column_jkyawk",
         "column_tbVW7k",
         "column_dnjhcK",
         "column_NT9iWE",
