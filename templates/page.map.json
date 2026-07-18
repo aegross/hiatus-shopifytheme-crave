@@ -137,7 +137,7 @@
         },
         "column_8et7j6": {
           "type": "column",
-          "name": "Patron TO",
+          "name": "Patron Camarillo",
           "settings": {
             "title": "Patron Mexican Bar & Grill (Camarillo)",
             "text": "<p><em>5227 Mission Oaks Blvd, Camarillo, CA 93012</em></p>",
@@ -254,6 +254,16 @@
             "link_label": "Website",
             "link": "https://www.samsplaceojai.com"
           }
+        },
+        "column_eVtq8G": {
+          "type": "column",
+          "name": "Patron (TO)",
+          "settings": {
+            "title": "Patron Mexican Bar & Grill (Thousand Oaks)",
+            "text": "<p><em>3709 E Thousand Oaks Blvd, Thousand Oaks, CA 91362</em></p>",
+            "link_label": "Website",
+            "link": "https://patronmexicanbarandgrillca.com/"
+          }
         }
       },
       "block_order": [
@@ -270,7 +280,8 @@
         "column_G4cKhB",
         "column_eXKzHC",
         "column_RT34UQ",
-        "column_3gR3Ye"
+        "column_3gR3Ye",
+        "column_eVtq8G"
       ],
       "custom_css": [
         "{margin-top: 24px;}"
@@ -296,6 +307,15 @@
     "multicolumn_6EPV6V": {
       "type": "multicolumn",
       "blocks": {
+        "column_7b4pde": {
+          "type": "column",
+          "settings": {
+            "title": "Establos Meat Market (Camarillo)",
+            "text": "<p><em>2633 Ventura Blvd, Camarillo, CA 93010</em></p>",
+            "link_label": "Social Media",
+            "link": "https://www.instagram.com/establosmeatmarket/"
+          }
+        },
         "column_eziEeg": {
           "type": "column",
           "name": "Harbor Mart (Oxnard)",
@@ -389,6 +409,7 @@
         }
       },
       "block_order": [
+        "column_7b4pde",
         "column_eziEeg",
         "column_xNU6h8",
         "column_xjdgPi",
@@ -402,7 +423,7 @@
       "custom_css": [
         "{margin-top: 24px;}"
       ],
-      "name": "t:sections.multicolumn.presets.name",
+      "name": "Stores",
       "settings": {
         "title": "Stores",
         "heading_size": "h2",
