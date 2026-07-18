@@ -115,6 +115,16 @@
     "multicolumn_a9TQeg": {
       "type": "multicolumn",
       "blocks": {
+        "column_6FMJhw": {
+          "type": "column",
+          "name": "Take 5",
+          "settings": {
+            "title": "Take Five Cocktails",
+            "text": "<p><em>2244 Pickwick Dr, Camarillo, CA 93010</em></p>",
+            "link_label": "Social Media",
+            "link": "https://www.instagram.com/takefivecocktails/"
+          }
+        },
         "column_jkyawk": {
           "type": "column",
           "name": "Basil & Mint",
@@ -153,6 +163,16 @@
             "text": "<p><em>67 E Daily Dr, Camarillo, CA 93010</em></p>",
             "link_label": "Website",
             "link": "https://adolfogrill.com"
+          }
+        },
+        "column_tbVW7k": {
+          "type": "column",
+          "name": "Genmai Sushi",
+          "settings": {
+            "title": "Genmai Sushi",
+            "text": "<p><em>3623 W 5th St, Oxnard, CA 93030</em></p>",
+            "link_label": "",
+            "link": ""
           }
         },
         "column_dnjhcK": {
@@ -227,10 +247,12 @@
         }
       },
       "block_order": [
+        "column_6FMJhw",
         "column_jkyawk",
         "column_bRe7Me",
         "column_7T4tDR",
         "column_DEXBfF",
+        "column_tbVW7k",
         "column_dnjhcK",
         "column_NT9iWE",
         "column_VGcrm3",
