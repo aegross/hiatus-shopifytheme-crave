@@ -115,6 +115,16 @@
     "multicolumn_a9TQeg": {
       "type": "multicolumn",
       "blocks": {
+        "column_CkkqHA": {
+          "type": "column",
+          "name": "Ventiki",
+          "settings": {
+            "title": "VenTiki Tiki Lounge and Lanai",
+            "text": "<p><em>701 E Main St, Ventura, CA 93001</em></p>",
+            "link_label": "Website",
+            "link": "https://www.ventikiloungeandlanai.com"
+          }
+        },
         "column_CjrDp4": {
           "type": "column",
           "name": "Cafe Zack",
@@ -277,6 +287,7 @@
         }
       },
       "block_order": [
+        "column_CkkqHA",
         "column_CjrDp4",
         "column_bRe7Me",
         "column_6FMJhw",
