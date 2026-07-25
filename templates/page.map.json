@@ -339,6 +339,16 @@
             "link": "https://oxnard.harbormart.net/"
           }
         },
+        "column_YmwGkx": {
+          "type": "column",
+          "name": "El Maguey Liquor",
+          "settings": {
+            "title": "El Maguey Liquor",
+            "text": "<p><em>3610 Saviers Rd, Oxnard, CA 93033</em></p>",
+            "link_label": "Social Media",
+            "link": "https://www.facebook.com/p/El-Maguey-Liquor-100057664111443/"
+          }
+        },
         "column_GEAFUD": {
           "type": "column",
           "name": "Pat Holden",
@@ -433,6 +443,7 @@
       "block_order": [
         "column_7b4pde",
         "column_eziEeg",
+        "column_YmwGkx",
         "column_GEAFUD",
         "column_xNU6h8",
         "column_xjdgPi",
