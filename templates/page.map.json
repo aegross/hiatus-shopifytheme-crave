@@ -115,6 +115,16 @@
     "multicolumn_a9TQeg": {
       "type": "multicolumn",
       "blocks": {
+        "column_CjrDp4": {
+          "type": "column",
+          "name": "Cafe Zack",
+          "settings": {
+            "title": "Cafe Zack",
+            "text": "<p><em>1095 E Thompson Blvd, Ventura, CA 93001</em></p>",
+            "link_label": "Cafe Zack",
+            "link": "https://cafezack.com"
+          }
+        },
         "column_bRe7Me": {
           "type": "column",
           "name": "The Local",
@@ -267,6 +277,7 @@
         }
       },
       "block_order": [
+        "column_CjrDp4",
         "column_bRe7Me",
         "column_6FMJhw",
         "column_8et7j6",
