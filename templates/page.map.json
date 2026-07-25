@@ -309,8 +309,9 @@
       "blocks": {
         "column_7b4pde": {
           "type": "column",
+          "name": "Establos",
           "settings": {
-            "title": "Establos Meat Market (Camarillo)",
+            "title": "Establos Meat Market",
             "text": "<p><em>2633 Ventura Blvd, Camarillo, CA 93010</em></p>",
             "link_label": "Social Media",
             "link": "https://www.instagram.com/establosmeatmarket/"
@@ -325,6 +326,16 @@
             "text": "<p><em>2810 Harbor Blvd #B3, Oxnard, CA 93035</em></p>",
             "link_label": "Website",
             "link": "https://oxnard.harbormart.net/"
+          }
+        },
+        "column_GEAFUD": {
+          "type": "column",
+          "name": "Pat Holden",
+          "settings": {
+            "title": "Pat Holden's Liquor & Gift Shop",
+            "text": "<p><em>860 S A St, Oxnard, CA 93030</em></p>",
+            "link_label": "Social Media",
+            "link": "https://www.instagram.com/patholdensliquor/?hl=en"
           }
         },
         "column_xNU6h8": {
@@ -411,6 +422,7 @@
       "block_order": [
         "column_7b4pde",
         "column_eziEeg",
+        "column_GEAFUD",
         "column_xNU6h8",
         "column_xjdgPi",
         "column_TrwWre",
