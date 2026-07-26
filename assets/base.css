@@ -3607,11 +3607,6 @@ table.tg {
     margin: auto !important;
 }
 
-/* removing grey borders between sections */
-.shopify-section{
-  border-color: rgba(0,0,0,0) !important;
-}
-
 /* Adobe Font Integration */
 /* Assign Adobe Allumi to the global body font variable */
 :root {
@@ -3635,4 +3630,9 @@ h1, h2, h3, h4, h5, h6,
 .h0, .h1, .h2, .h3, .h4, .h5,
 .title, .card__heading, .collection-hero__title {
   font-family: var(--font-heading-family) !important;
+}
+
+/* removing grey borders between sections */
+.shopify-section {
+  border-color: rgba(0,0,0,0) !important;
 }
