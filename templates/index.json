@@ -188,9 +188,7 @@
         "heading_JUFWK7",
         "text_WgbXDT"
       ],
-      "custom_css": [
-        "{margin-top: 0px;}"
-      ],
+      "custom_css": [],
       "name": "About Text",
       "settings": {
         "desktop_content_position": "center",
