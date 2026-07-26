@@ -1,6 +1,385 @@
+{% doc %}
+  @prompt
+    Create a responsive "Partner Logos" section that displays a horizontal row of clickable logos. Each logo should be uploaded individually through the Theme Editor using image blocks, with an optional URL field so each logo links to an external website. All logos should appear at the same visual height while maintaining their original aspect ratios (using object-fit: contain). The section should center the logos, have generous spacing between them, and wrap to additional rows on smaller screens. Include customizable settings for section background color, top and bottom padding, logo height, spacing between logos, and whether links open in a new tab. Add a slider that determines how many logos are shown.
+{% enddoc %}
+{% assign ai_gen_id = block.id | replace: '_', '' | downcase %}
+
+{% style %}
+  .ai-partner-logos-{{ ai_gen_id }} {
+    display: block;
+    width: 100%;
+    background-color: {{ block.settings.background_color }};
+    padding-top: {{ block.settings.padding_top }}px;
+    padding-bottom: {{ block.settings.padding_bottom }}px;
+  }
+
+  .ai-partner-logos-container-{{ ai_gen_id }} {
+    max-width: {{ block.settings.container_width }}px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+
+  .ai-partner-logos-grid-{{ ai_gen_id }} {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: {{ block.settings.logo_spacing }}px;
+  }
+
+  .ai-partner-logo-item-{{ ai_gen_id }} {
+    flex: 0 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .ai-partner-logo-link-{{ ai_gen_id }} {
+    display: block;
+    height: {{ block.settings.logo_height }}px;
+    transition: opacity 0.3s ease;
+  }
+
+  .ai-partner-logo-link-{{ ai_gen_id }}:hover {
+    opacity: 0.7;
+  }
+
+  .ai-partner-logo-image-{{ ai_gen_id }} {
+    height: 100%;
+    width: auto;
+    max-width: 200px;
+    object-fit: contain;
+  }
+
+  .ai-partner-logo-placeholder-{{ ai_gen_id }} {
+    height: {{ block.settings.logo_height }}px;
+    width: 150px;
+    background-color: #f4f4f4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+  }
+
+  .ai-partner-logo-placeholder-{{ ai_gen_id }} svg {
+    width: 60%;
+    height: 60%;
+    opacity: 0.3;
+  }
+
+  @media screen and (max-width: 749px) {
+    .ai-partner-logos-grid-{{ ai_gen_id }} {
+      gap: {{ block.settings.logo_spacing | times: 0.7 }}px;
+    }
+
+    .ai-partner-logo-link-{{ ai_gen_id }} {
+      height: {{ block.settings.logo_height | times: 0.7 }}px;
+    }
+
+    .ai-partner-logo-placeholder-{{ ai_gen_id }} {
+      height: {{ block.settings.logo_height | times: 0.7 }}px;
+      width: 120px;
+    }
+  }
+{% endstyle %}
+
+<partner-logos-{{ ai_gen_id }} class="ai-partner-logos-{{ ai_gen_id }}" {{ block.shopify_attributes }}>
+  <div class="ai-partner-logos-container-{{ ai_gen_id }}">
+    <div class="ai-partner-logos-grid-{{ ai_gen_id }}">
+      {% for i in (1..10) %}
+        {% if i <= block.settings.logos_to_show %}
+          {% liquid
+            assign logo_image_key = 'logo_image_' | append: i
+            assign logo_url_key = 'logo_url_' | append: i
+            assign logo_image = block.settings[logo_image_key]
+            assign logo_url = block.settings[logo_url_key]
+          %}
+
+          <div class="ai-partner-logo-item-{{ ai_gen_id }}">
+            {% if logo_image %}
+              {% if logo_url != blank %}
+                <a
+                  href="{{ logo_url }}"
+                  class="ai-partner-logo-link-{{ ai_gen_id }}"
+                  {% if block.settings.open_in_new_tab %}target="_blank" rel="noopener noreferrer"{% endif %}
+                >
+                  <img
+                    src="{{ logo_image | image_url: width: 400 }}"
+                    alt="{{ logo_image.alt | escape }}"
+                    class="ai-partner-logo-image-{{ ai_gen_id }}"
+                    loading="lazy"
+                    width="{{ logo_image.width }}"
+                    height="{{ logo_image.height }}"
+                  >
+                </a>
+              {% else %}
+                <div class="ai-partner-logo-link-{{ ai_gen_id }}">
+                  <img
+                    src="{{ logo_image | image_url: width: 400 }}"
+                    alt="{{ logo_image.alt | escape }}"
+                    class="ai-partner-logo-image-{{ ai_gen_id }}"
+                    loading="lazy"
+                    width="{{ logo_image.width }}"
+                    height="{{ logo_image.height }}"
+                  >
+                </div>
+              {% endif %}
+            {% else %}
+              <div class="ai-partner-logo-placeholder-{{ ai_gen_id }}">
+                {{ 'image' | placeholder_svg_tag }}
+              </div>
+            {% endif %}
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</partner-logos-{{ ai_gen_id }}>
+
+<script>
+  (function() {
+    class PartnerLogos{{ ai_gen_id }} extends HTMLElement {
+      constructor() {
+        super();
+      }
+
+      connectedCallback() {
+      }
+    }
+
+    customElements.define('partner-logos-{{ ai_gen_id }}', PartnerLogos{{ ai_gen_id }});
+  })();
+</script>
+
 {% schema %}
- {
-   "name": "AI_Block",
-   "tag": "shopify-ai-generated-block"
- }
+{
+  "name": "Partner logos",
+  "tag": null,
+  "settings": [
+    {
+      "type": "header",
+      "content": "Layout"
+    },
+    {
+      "type": "range",
+      "id": "container_width",
+      "min": 600,
+      "max": 1600,
+      "step": 100,
+      "unit": "px",
+      "label": "Container width",
+      "default": 1200
+    },
+    {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "Top padding",
+      "default": 60
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "Bottom padding",
+      "default": 60
+    },
+    {
+      "type": "color",
+      "id": "background_color",
+      "label": "Background color",
+      "default": "#f9f9e2"
+    },
+    {
+      "type": "header",
+      "content": "Logo style"
+    },
+    {
+      "type": "range",
+      "id": "logo_height",
+      "min": 30,
+      "max": 150,
+      "step": 10,
+      "unit": "px",
+      "label": "Logo height",
+      "default": 60
+    },
+    {
+      "type": "range",
+      "id": "logo_spacing",
+      "min": 10,
+      "max": 80,
+      "step": 5,
+      "unit": "px",
+      "label": "Spacing between logos",
+      "default": 40
+    },
+    {
+      "type": "range",
+      "id": "logos_to_show",
+      "min": 1,
+      "max": 10,
+      "step": 1,
+      "label": "Number of logos to show",
+      "default": 6
+    },
+    {
+      "type": "checkbox",
+      "id": "open_in_new_tab",
+      "label": "Open links in new tab",
+      "default": true
+    },
+    {
+      "type": "header",
+      "content": "Logo 1"
+    },
+    {
+      "type": "image_picker",
+      "id": "logo_image_1",
+      "label": "Image"
+    },
+    {
+      "type": "url",
+      "id": "logo_url_1",
+      "label": "Link"
+    },
+    {
+      "type": "header",
+      "content": "Logo 2"
+    },
+    {
+      "type": "image_picker",
+      "id": "logo_image_2",
+      "label": "Image"
+    },
+    {
+      "type": "url",
+      "id": "logo_url_2",
+      "label": "Link"
+    },
+    {
+      "type": "header",
+      "content": "Logo 3"
+    },
+    {
+      "type": "image_picker",
+      "id": "logo_image_3",
+      "label": "Image"
+    },
+    {
+      "type": "url",
+      "id": "logo_url_3",
+      "label": "Link"
+    },
+    {
+      "type": "header",
+      "content": "Logo 4"
+    },
+    {
+      "type": "image_picker",
+      "id": "logo_image_4",
+      "label": "Image"
+    },
+    {
+      "type": "url",
+      "id": "logo_url_4",
+      "label": "Link"
+    },
+    {
+      "type": "header",
+      "content": "Logo 5"
+    },
+    {
+      "type": "image_picker",
+      "id": "logo_image_5",
+      "label": "Image"
+    },
+    {
+      "type": "url",
+      "id": "logo_url_5",
+      "label": "Link"
+    },
+    {
+      "type": "header",
+      "content": "Logo 6"
+    },
+    {
+      "type": "image_picker",
+      "id": "logo_image_6",
+      "label": "Image"
+    },
+    {
+      "type": "url",
+      "id": "logo_url_6",
+      "label": "Link"
+    },
+    {
+      "type": "header",
+      "content": "Logo 7"
+    },
+    {
+      "type": "image_picker",
+      "id": "logo_image_7",
+      "label": "Image"
+    },
+    {
+      "type": "url",
+      "id": "logo_url_7",
+      "label": "Link"
+    },
+    {
+      "type": "header",
+      "content": "Logo 8"
+    },
+    {
+      "type": "image_picker",
+      "id": "logo_image_8",
+      "label": "Image"
+    },
+    {
+      "type": "url",
+      "id": "logo_url_8",
+      "label": "Link"
+    },
+    {
+      "type": "header",
+      "content": "Logo 9"
+    },
+    {
+      "type": "image_picker",
+      "id": "logo_image_9",
+      "label": "Image"
+    },
+    {
+      "type": "url",
+      "id": "logo_url_9",
+      "label": "Link"
+    },
+    {
+      "type": "header",
+      "content": "Logo 10"
+    },
+    {
+      "type": "image_picker",
+      "id": "logo_image_10",
+      "label": "Image"
+    },
+    {
+      "type": "url",
+      "id": "logo_url_10",
+      "label": "Link"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Partner logos"
+    }
+  ]
+}
 {% endschema %}
