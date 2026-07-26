@@ -35,7 +35,7 @@
           "type": "slide",
           "name": "PERM",
           "settings": {
-            "image": "shopify://shop_images/Asset_3_1f18c9d4-f635-4fae-ad2b-0cbb39c0773f.png",
+            "image": "shopify://shop_images/IMG_3948.jpg",
             "image_overlay_opacity": 0,
             "heading": "Join our Bottle Club for exclusive access!",
             "heading_size": "h1",
@@ -133,7 +133,7 @@
             "image": "shopify://shop_images/IMG_1668-2.jpg",
             "image_overlay_opacity": 30,
             "heading": "BLOWOUT SALE: Pumpkin Spice Crème Liqueur",
-            "heading_size": "h0",
+            "heading_size": "h1",
             "subheading": "$12 per bottle, or 6 bottles for $60.",
             "button_label": "Shop",
             "link": "shopify://products/psl",
