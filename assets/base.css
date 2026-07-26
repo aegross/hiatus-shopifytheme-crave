@@ -3611,6 +3611,7 @@ table.tg {
 /* Assign Adobe Allumi to the global body font variable */
 :root {
   --font-body-family: "allumi-std", sans-serif !important;
+  --font-body-weight: 200; 
 }
 
 /* Force Crave components, paragraphs, and inputs to respect the new body font */
