@@ -3617,6 +3617,7 @@ table.tg {
 /* Force Crave components, paragraphs, and inputs to respect the new body font */
 body, p, span, a, li, input, textarea, select, button, .button {
   font-family: var(--font-body-family) !important;
+  font-weight: var(--font-body-weight) !important;
 }
 
 /* Assign Adobe Allumi to the global heading font variable */
