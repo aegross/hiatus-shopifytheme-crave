@@ -286,6 +286,25 @@
         "padding_bottom": 36
       }
     },
+    "blocks_bmXyV3": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_65755e0_pi9HHg": {
+          "type": "ai_gen_block_65755e0",
+          "settings": {
+            "banner_image": "shopify://shop_images/topography-thin-01.png",
+            "banner_link": "",
+            "border_radius": 12
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_65755e0_pi9HHg"
+      ],
+      "name": "Image banner",
+      "settings": {}
+    },
     "featured_collection_dJQGf8": {
       "type": "featured-collection",
       "disabled": true,
@@ -431,6 +450,25 @@
         "padding_bottom": 36
       }
     },
+    "blocks_RTUh86": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_65755e0_BdrDAN": {
+          "type": "ai_gen_block_65755e0",
+          "settings": {
+            "banner_image": "shopify://shop_images/topography-thin-01.png",
+            "banner_link": "",
+            "border_radius": 12
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_65755e0_BdrDAN"
+      ],
+      "name": "Image banner",
+      "settings": {}
+    },
     "1785102543eed3347b": {
       "type": "apps",
       "blocks": {
@@ -454,9 +492,11 @@
     "rich_text_FGdaiK",
     "178510252768d5eb75",
     "collection_list_aycxr9",
+    "blocks_bmXyV3",
     "featured_collection_dJQGf8",
     "image_with_text_DCGyFF",
     "collapsible_content_anNR6t",
+    "blocks_RTUh86",
     "1785102543eed3347b"
   ]
 }
