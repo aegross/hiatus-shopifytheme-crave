@@ -742,6 +742,8 @@
     }
   },
   "platform_customizations": {
-    "custom_css": []
+    "custom_css": [
+      "/* readable banners on mobile (make sure overlay opacity is high)*/@media screen and (max-width: 768px) {.banner:after,.banner__media:after {opacity: 0.5 !important;} .banner__text {color: rgba(250, 249, 225, 1); }}"
+    ]
   }
 }

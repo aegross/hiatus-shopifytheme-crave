@@ -155,9 +155,7 @@
         "slide_HJri7T",
         "slide_PbQA9Y"
       ],
-      "custom_css": [
-        "@media screen and (max-width: 768px) {.banner__text {color: rgba(250, 249, 225, 1); }}"
-      ],
+      "custom_css": [],
       "settings": {
         "layout": "full_bleed",
         "slide_height": "medium",
