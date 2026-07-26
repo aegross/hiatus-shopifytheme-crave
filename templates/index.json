@@ -12,6 +12,25 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
+        "slide_zN8EHF": {
+          "type": "slide",
+          "name": "COTM",
+          "settings": {
+            "image": "shopify://shop_images/IMG_4814_f4991153-1ea7-4912-bfe8-34f0871be94f.jpg",
+            "image_overlay_opacity": 20,
+            "heading": "July Cocktail of the Month",
+            "heading_size": "h1",
+            "subheading": "A classic or strawberry daiquiri featuring our latest spirit, Silver Rum.",
+            "button_label": "Shop",
+            "link": "shopify://products/silver-rum",
+            "button_style_secondary": false,
+            "show_text_box": true,
+            "box_align": "bottom-left",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "accent-2"
+          }
+        },
         "slide-0": {
           "type": "slide",
           "name": "PERM",
@@ -24,8 +43,8 @@
             "button_label": "Join Now!",
             "link": "shopify://pages/members",
             "button_style_secondary": false,
-            "show_text_box": false,
-            "box_align": "middle-center",
+            "show_text_box": true,
+            "box_align": "bottom-left",
             "text_alignment": "center",
             "text_alignment_mobile": "center",
             "color_scheme": "accent-2"
@@ -36,15 +55,34 @@
           "name": "PERM",
           "settings": {
             "image": "shopify://shop_images/IMG_4469.jpg",
-            "image_overlay_opacity": 50,
+            "image_overlay_opacity": 30,
             "heading": "Schedule a private event!",
             "heading_size": "h1",
             "subheading": "",
-            "button_label": "Contact Us Today",
+            "button_label": "Contact Us",
             "link": "shopify://pages/venue-rental",
             "button_style_secondary": false,
-            "show_text_box": false,
-            "box_align": "middle-center",
+            "show_text_box": true,
+            "box_align": "bottom-left",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "accent-2"
+          }
+        },
+        "slide_PKNtV4": {
+          "type": "slide",
+          "name": "PERM?",
+          "settings": {
+            "image": "shopify://shop_images/20241014_115917_40befcb0-5d92-4514-8e7d-f3ea972c54b2.jpg",
+            "image_overlay_opacity": 20,
+            "heading": "Exclusive Buyout",
+            "heading_size": "h1",
+            "subheading": "Book an Exclusive Buyout of our Tasting Room, available Wednesday, Thursday, and Friday from 5:00-7:30PM.",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "show_text_box": true,
+            "box_align": "bottom-left",
             "text_alignment": "center",
             "text_alignment_mobile": "center",
             "color_scheme": "accent-2"
@@ -55,15 +93,15 @@
           "name": "PERM",
           "settings": {
             "image": "shopify://shop_images/IMG_3936_1.jpg",
-            "image_overlay_opacity": 60,
+            "image_overlay_opacity": 30,
             "heading": "Gift a tasting!",
             "heading_size": "h1",
             "subheading": "Give the gift of a Hiatus Craft House tasting. Explore our craft spirits, discover new favorites, and enjoy a relaxed, memorable experience in Camarillo.",
-            "button_label": "Buy now",
+            "button_label": "Buy Now",
             "link": "shopify://products/spirit-tasting-gift-card",
             "button_style_secondary": false,
-            "show_text_box": false,
-            "box_align": "middle-center",
+            "show_text_box": true,
+            "box_align": "bottom-right",
             "text_alignment": "center",
             "text_alignment_mobile": "center",
             "color_scheme": "accent-2"
@@ -74,15 +112,15 @@
           "name": "TEMP",
           "settings": {
             "image": "shopify://shop_images/IMG_3825_2.jpg",
-            "image_overlay_opacity": 70,
+            "image_overlay_opacity": 30,
             "heading": "Workshops at Hiatus Craft House",
             "heading_size": "h1",
             "subheading": "Stay tuned for upcoming workshops at Hiatus Craft House. Sign up for our newsletter below or follow us <a href=\"https://www.instagram.com/hiatuscrafthouse/?hl=en\" target=\"_blank\" title=\"https://www.instagram.com/hiatuscrafthouse/?hl=en\">@hiatuscrafthouse</a> to get the latest news!",
             "button_label": "Follow us!",
             "link": "https://www.instagram.com/hiatuscrafthouse/?hl=en",
             "button_style_secondary": false,
-            "show_text_box": false,
-            "box_align": "middle-center",
+            "show_text_box": true,
+            "box_align": "bottom-right",
             "text_alignment": "center",
             "text_alignment_mobile": "center",
             "color_scheme": "accent-2"
@@ -92,76 +130,16 @@
           "type": "slide",
           "name": "TEMP",
           "settings": {
-            "image": "shopify://shop_images/IMG_2546.jpg",
-            "image_overlay_opacity": 60,
+            "image": "shopify://shop_images/IMG_1668-2.jpg",
+            "image_overlay_opacity": 30,
             "heading": "BLOWOUT SALE: Pumpkin Spice Crème Liqueur",
-            "heading_size": "h1",
-            "subheading": "<strong>$12 for one, or $60 for six bottles</strong> | Crafted with the perfect blend of cinnamon, nutmeg, and ginger, then kicked up a notch with Kentucky Bourbon Whiskey, it's a velvety indulgence that captures cozy flavors in every sip.",
-            "button_label": "Buy now!",
+            "heading_size": "h0",
+            "subheading": "$12 per bottle, or 6 bottles for $60.",
+            "button_label": "Shop",
             "link": "shopify://products/psl",
             "button_style_secondary": false,
-            "show_text_box": false,
-            "box_align": "middle-center",
-            "text_alignment": "center",
-            "text_alignment_mobile": "center",
-            "color_scheme": "accent-2"
-          }
-        },
-        "e43c93ae-2d02-4689-9536-9c3b51643f65": {
-          "type": "slide",
-          "name": "TEMP, 5/3",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/IMG_4599.jpg",
-            "image_overlay_opacity": 50,
-            "heading": "Charcuterie Workshop",
-            "heading_size": "h1",
-            "subheading": "Join us for our Charcuterie Workshop on <strong>Sunday, May 3rd</strong>, from 12:30-2:30pm! Learn the basics of meat and cheese styling, and create an arrangement on your one-of-a-kind <strong>custom-made charcuterie board</strong>. ",
-            "button_label": "Tickets",
-            "link": "https://www.eventbrite.com/e/charcuterie-workshop-tickets-1986924755430?aff=oddtdtcreator",
-            "button_style_secondary": false,
-            "show_text_box": false,
-            "box_align": "middle-center",
-            "text_alignment": "center",
-            "text_alignment_mobile": "center",
-            "color_scheme": "accent-2"
-          }
-        },
-        "slide_9wUfBV": {
-          "type": "slide",
-          "name": "TEMP",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/20241014_115917_6eee3aad-4185-4479-ac30-381124a83233.jpg",
-            "image_overlay_opacity": 70,
-            "heading": "Accepting New Vendors",
-            "heading_size": "h1",
-            "subheading": "Apply to become a vendor for our upcoming Makers Market, held at our distillery. Click the button below for more information!",
-            "button_label": "Apply today!",
-            "link": "shopify://pages/market-vendor-application",
-            "button_style_secondary": false,
-            "show_text_box": false,
-            "box_align": "middle-center",
-            "text_alignment": "center",
-            "text_alignment_mobile": "center",
-            "color_scheme": "accent-1"
-          }
-        },
-        "slide_aJwG6J": {
-          "type": "slide",
-          "name": "TEMP, 4/4",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/IMG_3911.jpg",
-            "image_overlay_opacity": 70,
-            "heading": "Closed on Sunday, April 5",
-            "heading_size": "h1",
-            "subheading": "Be sure to stop by for some bottles on Saturday, April 4!",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "show_text_box": false,
-            "box_align": "middle-center",
+            "show_text_box": true,
+            "box_align": "bottom-left",
             "text_alignment": "center",
             "text_alignment_mobile": "center",
             "color_scheme": "accent-2"
@@ -169,26 +147,25 @@
         }
       },
       "block_order": [
+        "slide_zN8EHF",
         "slide-0",
         "slide_9DGtDz",
+        "slide_PKNtV4",
         "slide_cjdkdq",
         "slide_HJri7T",
-        "slide_PbQA9Y",
-        "e43c93ae-2d02-4689-9536-9c3b51643f65",
-        "slide_9wUfBV",
-        "slide_aJwG6J"
+        "slide_PbQA9Y"
       ],
       "custom_css": [
-        ".banner__text {color: rgba(250, 249, 225, 1);}"
+        "@media screen and (max-width: 768px) {.banner__text {color: rgba(250, 249, 225, 1); }}"
       ],
       "settings": {
-        "layout": "grid",
-        "slide_height": "large",
+        "layout": "full_bleed",
+        "slide_height": "medium",
         "slider_visual": "dots",
         "auto_rotate": true,
-        "change_slides_speed": 9,
+        "change_slides_speed": 7,
         "image_behavior": "none",
-        "show_text_below": true,
+        "show_text_below": false,
         "accessibility_info": "Hiatus Craft House Slideshow"
       }
     },
