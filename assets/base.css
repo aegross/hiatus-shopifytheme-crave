@@ -3606,3 +3606,26 @@ details-disclosure > details {
 table.tg {
     margin: auto !important;
 }
+
+/* Adobe Font Integration */
+/* Assign Adobe Allumi to the global body font variable */
+:root {
+  --font-body-family: "allumi-std", sans-serif !important;
+}
+
+/* Force Crave components, paragraphs, and inputs to respect the new body font */
+body, p, span, a, li, input, textarea, select, button, .button {
+  font-family: var(--font-body-family) !important;
+}
+
+/* Assign Adobe Allumi to the global heading font variable */
+:root {
+  --font-heading-family: "allumi-std", sans-serif !important;
+}
+
+/* Force Crave headings, titles, and section banners to use the new font */
+h1, h2, h3, h4, h5, h6, 
+.h0, .h1, .h2, .h3, .h4, .h5,
+.title, .card__heading, .collection-hero__title {
+  font-family: var(--font-heading-family) !important;
+}
