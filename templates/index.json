@@ -167,9 +167,132 @@
         "accessibility_info": "Hiatus Craft House Slideshow"
       }
     },
+    "rich_text_FGdaiK": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_JUFWK7": {
+          "type": "heading",
+          "settings": {
+            "heading": "Craft Distillery located in Camarillo, California",
+            "heading_size": "h1"
+          }
+        },
+        "text_WgbXDT": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hiatus Craft House was born from a passion for making and a compulsion to create. We pride ourselves in our culture of experimentation and love for our local Ventura County community. All of our spirits were made in our distillery and bottled by hand.<br/><br/>All profits from Hiatus Craft House are donated to the <a href=\"https://newco.foundation/\" target=\"_blank\" title=\"https://newco.foundation/\">NewCo Foundation</a>.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_JUFWK7",
+        "text_WgbXDT"
+      ],
+      "custom_css": [
+        "{margin-top: 0px;}"
+      ],
+      "name": "About Text",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 16
+      }
+    },
+    "178510252768d5eb75": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_4454a93_qUBD6V": {
+          "type": "ai_gen_block_4454a93",
+          "settings": {
+            "container_width": 1200,
+            "padding_top": 12,
+            "padding_bottom": 12,
+            "background_color": "#f9f9e2",
+            "logo_height": 120,
+            "logo_spacing": 60,
+            "logos_to_show": 2,
+            "open_in_new_tab": true,
+            "logo_image_1": "shopify://shop_images/Made_In_California_Logo.png",
+            "logo_url_1": "https://madeincalifornia.ca.gov",
+            "logo_image_2": "shopify://shop_images/Certified_Craft_Logo.png",
+            "logo_url_2": "https://americancraftspirits.org",
+            "logo_url_3": "",
+            "logo_url_4": "",
+            "logo_url_5": "",
+            "logo_url_6": "",
+            "logo_url_7": "",
+            "logo_url_8": "",
+            "logo_url_9": "",
+            "logo_url_10": ""
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_4454a93_qUBD6V"
+      ],
+      "name": "Clickable Logos",
+      "settings": {}
+    },
+    "collection_list_aycxr9": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_Gh7ifH": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "straight-whiskeys"
+          }
+        },
+        "featured_collection_g9hik9": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "agaves"
+          }
+        },
+        "featured_collection_tacRCX": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "rums"
+          }
+        },
+        "featured_collection_WU4UDg": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "vodka-gin-specialties"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_Gh7ifH",
+        "featured_collection_g9hik9",
+        "featured_collection_tacRCX",
+        "featured_collection_WU4UDg"
+      ],
+      "custom_css": [],
+      "name": "Spirit Collection List",
+      "settings": {
+        "title": "Shop our Spirits",
+        "heading_size": "h1",
+        "image_ratio": "portrait",
+        "columns_desktop": 4,
+        "color_scheme": "background-2",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "featured_collection_dJQGf8": {
       "type": "featured-collection",
-      "name": "t:sections.featured-collection.presets.name",
+      "disabled": true,
+      "custom_css": [
+        "{margin-top: 0px;}"
+      ],
+      "name": "(OLD) Featured Spirits Collection",
       "settings": {
         "collection": "frontpage",
         "products_to_show": 4,
@@ -196,37 +319,144 @@
         "padding_bottom": 24
       }
     },
-    "newsletter": {
-      "type": "newsletter",
+    "image_with_text_DCGyFF": {
+      "type": "image-with-text",
       "blocks": {
-        "heading": {
+        "heading_UbaUCq": {
           "type": "heading",
           "settings": {
-            "heading": "Not ready to join the Bottle Club? Subscribe to our Newsletter for the latest news and events!",
-            "heading_size": "h2"
+            "heading": "Become a Lollygagger!",
+            "heading_size": "h1"
           }
         },
-        "email_form": {
-          "type": "email_form",
-          "settings": {}
+        "text_XbDWL6": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Get up to 25% off discounts, weekly complimentary tastings, access to special events, and more.</p>",
+            "text_style": "subtitle"
+          }
+        },
+        "button_6YqqxR": {
+          "type": "button",
+          "settings": {
+            "button_label": "Learn More",
+            "button_link": "shopify://products/hiatus-membership",
+            "button_style_secondary": false
+          }
         }
       },
       "block_order": [
-        "heading",
-        "email_form"
+        "heading_UbaUCq",
+        "text_XbDWL6",
+        "button_6YqqxR"
       ],
       "custom_css": [],
+      "name": "Lollygagger Promo",
       "settings": {
-        "color_scheme": "inverse",
-        "full_width": false,
+        "image": "shopify://shop_images/Asset_4_c6e31398-184c-460a-90d9-5c127cc09fb6.png",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "padding_top": 36,
-        "padding_bottom": 28
+        "padding_bottom": 36
+      }
+    },
+    "collapsible_content_anNR6t": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_QHHVxq": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Spirit Tasting",
+            "icon": "check_mark",
+            "row_content": "<p><strong>Tasting Room Hours:</strong><br/>Saturdays 12:00 - 6:00pm<br/>Sundays 1:00 - 5:00pm<br/><br/>Book a spirit tasting during which you can either enjoy a <strong>flight</strong> and select up to six mini-shots from our spirits collection (¼ oz each) or a <strong>cocktail</strong> featuring our spirits. Maximum of 1½ ounces of spirits per person, per day.<br/><br/>We do not serve food but you are welcome to bring your own!<br/><br/><strong>→</strong> <a href=\"/collections/tastings\" target=\"_blank\" title=\"Tastings\"><strong>Spirit Tasting</strong></a></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_fQanAW": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Exclusive Buyout",
+            "icon": "check_mark",
+            "row_content": "<p>Book an Exclusive Buyout of our Tasting Room, available Wednesday, Thursday, and Friday from 5:00-7:30PM.</p><p><strong>Each booking includes:</strong></p><ul><li>Exclusive access to our Tasting Room for up to 20 guests for 2.5 hours.</li><li>Discounts on spirit bottles and merchandise.</li><li>Bar service with cocktails and spirit flights at $10 each.</li><li>Option of a standard cash bar or host tab.</li><li>Beer and wine upon request; prices vary per serving.<br/></li></ul><p>→ <a href=\"https://hiatuscrafthouse.com/products/private-happy-hour\" target=\"_blank\" title=\"https://hiatuscrafthouse.com/products/private-happy-hour\"><strong>Exclusive Buyout</strong></a></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_DhNXQH": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Venue Rental",
+            "icon": "check_mark",
+            "row_content": "<p>Host your event at Hiatus Craft House!<br/><br/>We offer two unique spaces to rent out for your event. Both spaces can be utilized to accommodate your event's needs. Venue rentals start at $10 per person, and can be reserved for up to 8 hours and for as many as 120 guests.<br/><br/>→ <a href=\"https://hiatuscrafthouse.com/pages/venue-rental\" target=\"_blank\" title=\"Venue Rental\"><strong>Venue Rental</strong></a></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_Ka8pJd": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Events Calendar",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": "events"
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_QHHVxq",
+        "collapsible_row_fQanAW",
+        "collapsible_row_DhNXQH",
+        "collapsible_row_Ka8pJd"
+      ],
+      "name": "Tasting Room Info",
+      "settings": {
+        "caption": "",
+        "heading": "Visit our Tasting Room",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "container_color_scheme": "background-1",
+        "color_scheme": "background-1",
+        "open_first_collapsible_row": false,
+        "image": "shopify://shop_images/IMG_4459.jpg",
+        "image_ratio": "adapt",
+        "desktop_layout": "image_first",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1785102543eed3347b": {
+      "type": "apps",
+      "blocks": {
+        "gsc_instagram_feed_instafeed_tmq7Yi": {
+          "type": "shopify://apps/gsc-instagram-feed/blocks/instafeed/96970b1b-b770-454f-b16b-51f47e1aa4ed",
+          "settings": {
+            "widget_id": "GSC-glWoQXTYSSsEcWb"
+          }
+        }
+      },
+      "block_order": [
+        "gsc_instagram_feed_instafeed_tmq7Yi"
+      ],
+      "settings": {
+        "include_margins": true
       }
     }
   },
   "order": [
     "slideshow",
+    "rich_text_FGdaiK",
+    "178510252768d5eb75",
+    "collection_list_aycxr9",
     "featured_collection_dJQGf8",
-    "newsletter"
+    "image_with_text_DCGyFF",
+    "collapsible_content_anNR6t",
+    "1785102543eed3347b"
   ]
 }

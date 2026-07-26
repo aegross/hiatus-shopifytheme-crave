@@ -79,7 +79,7 @@
           "type": "announcement",
           "disabled": true,
           "settings": {
-            "text": "Spirit orders now shipping throughout California",
+            "text": "Spirit orders are now shipping throughout California!",
             "link": "shopify://collections/frontpage"
           }
         }
@@ -95,6 +95,7 @@
         "announcement_M8NW6c",
         "announcement-bar-0"
       ],
+      "name": "Announcement Bar",
       "settings": {
         "auto_rotate": true,
         "change_slides_speed": 5,
@@ -112,9 +113,9 @@
         "mobile_logo_position": "center",
         "menu": "main-menu",
         "menu_type_desktop": "dropdown",
-        "sticky_header_type": "on-scroll-up",
+        "sticky_header_type": "always",
         "show_line_separator": true,
-        "color_scheme": "background-1",
+        "color_scheme": "accent-2",
         "menu_color_scheme": "background-1",
         "enable_country_selector": true,
         "enable_language_selector": true,

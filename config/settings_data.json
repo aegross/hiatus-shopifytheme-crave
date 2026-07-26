@@ -9,8 +9,8 @@
  */
 {
   "current": {
-    "logo": "shopify://shop_images/with_ca_and_acsa_4e669724-3f56-4bab-b99b-e59360433d0f.png",
-    "logo_width": 300,
+    "logo": "shopify://shop_images/hch-logo-website.png",
+    "logo_width": 150,
     "favicon": "shopify://shop_images/HiatusCH_letterform_primary_png.png",
     "type_header_font": "madera_n6",
     "heading_scale": 120,
@@ -77,8 +77,8 @@
     "blog_card_shadow_vertical_offset": 4,
     "blog_card_shadow_blur": 0,
     "text_boxes_border_thickness": 0,
-    "text_boxes_border_opacity": 100,
-    "text_boxes_radius": 12,
+    "text_boxes_border_opacity": 0,
+    "text_boxes_radius": 0,
     "text_boxes_shadow_opacity": 0,
     "text_boxes_shadow_horizontal_offset": 0,
     "text_boxes_shadow_vertical_offset": 6,
@@ -109,12 +109,11 @@
     "sold_out_badge_color_scheme": "background-1",
     "brand_headline": "",
     "brand_description": "<p></p>",
-    "brand_image": "shopify://shop_images/HCH_Prelim_2_219177ee-b422-4aa7-97d4-6891d00a26d0.png",
     "brand_image_width": 100,
     "social_facebook_link": "https://www.facebook.com/hiatuscrafthouse",
     "social_instagram_link": "https://www.instagram.com/hiatuscrafthouse",
     "social_youtube_link": "",
-    "social_tiktok_link": "",
+    "social_tiktok_link": "https://www.tiktok.com/@hiatuscrafthouse",
     "social_twitter_link": "",
     "social_snapchat_link": "",
     "social_pinterest_link": "",
@@ -215,6 +214,11 @@
           "path_loading_mode": "include",
           "page_paths": ""
         }
+      },
+      "13305437469741356523": {
+        "type": "shopify://apps/gsc-instagram-feed/blocks/embed/96970b1b-b770-454f-b16b-51f47e1aa4ed",
+        "disabled": false,
+        "settings": {}
       }
     },
     "color_schemes": {
