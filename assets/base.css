@@ -3610,7 +3610,7 @@ table.tg {
 /* Adobe Font Integration */
 /* Assign Adobe Allumi to the global body font variable */
 :root {
-  --font-body-family: "allumi-std-light", sans-serif !important;
+  --font-body-family: "allumi-std", sans-serif !important;
 }
 
 /* Force Crave components, paragraphs, and inputs to respect the new body font */
