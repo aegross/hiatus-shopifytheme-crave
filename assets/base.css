@@ -3610,7 +3610,7 @@ table.tg {
 /* Adobe Font Integration */
 /* Assign Adobe Allumi to the global body font variable */
 :root {
-  --font-body-family: "allumi-std", sans-serif !important;
+  --font-body-family: "allumi-std-hair", sans-serif !important;
 }
 
 /* Force Crave components, paragraphs, and inputs to respect the new body font */
@@ -3620,7 +3620,7 @@ body, p, span, a, li, input, textarea, select, button, .button {
 
 /* Assign Adobe Allumi to the global heading font variable */
 :root {
-  --font-heading-family: "allumi-std", sans-serif !important;
+  --font-heading-family: "allumi-std-hair", sans-serif !important;
 }
 
 /* Force Crave headings, titles, and section banners to use the new font */
