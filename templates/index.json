@@ -36,7 +36,7 @@
           "name": "PERM",
           "settings": {
             "image": "shopify://shop_images/IMG_3948.jpg",
-            "image_overlay_opacity": 0,
+            "image_overlay_opacity": 30,
             "heading": "Join our Bottle Club for exclusive access!",
             "heading_size": "h1",
             "subheading": "Sign up for our Lollygaggers Bottle Club and receive <strong>up to 25% off</strong> all bottles, merchandise, and Hiatus events. Bring a friend along for complimentary weekly spirit tastings, unlock exclusive access to member-only events, distillery workshops, tours, and tasting panels, and be the first to get your hands on new releases.",
