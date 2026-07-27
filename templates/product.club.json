@@ -15,7 +15,7 @@
         "heading_eKDwiD": {
           "type": "heading",
           "settings": {
-            "heading": "Lollygaggers Bottle Club",
+            "heading": "<strong>Lollygaggers Bottle Club</strong>",
             "heading_size": "h0"
           }
         },
@@ -153,9 +153,7 @@
         "collapsible-row-2",
         "share"
       ],
-      "custom_css": [
-        "{margin-bottom: -24px;}"
-      ],
+      "custom_css": [],
       "settings": {
         "enable_sticky_info": true,
         "color_scheme": "",
@@ -168,8 +166,8 @@
         "image_zoom": "lightbox",
         "hide_variants": false,
         "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 16
+        "padding_top": 60,
+        "padding_bottom": 36
       }
     },
     "multicolumn_AyYccf": {
@@ -198,9 +196,7 @@
         "column_4eMYpt",
         "column_34b69K"
       ],
-      "custom_css": [
-        "{margin-bottom: 36px;}"
-      ],
+      "custom_css": [],
       "name": "Lollygagger Perks",
       "settings": {
         "title": "Lollygagger Perks",
@@ -366,9 +362,7 @@
         "collapsible_row_NhFGNw",
         "collapsible_row_Y3egRt"
       ],
-      "custom_css": [
-        "{margin-top: 36px;}"
-      ],
+      "custom_css": [],
       "name": "FAQ",
       "settings": {
         "caption": "",
