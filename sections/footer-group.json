@@ -124,15 +124,17 @@
           "settings": {
             "image": "shopify://shop_images/Made_In_California_Logo.png",
             "image_width": 175,
-            "alignment": "right"
+            "alignment": "right",
+            "link": "https://madeincalifornia.ca.gov/"
           }
         },
         "image_DthBDM": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Certified_Craft_Logo.png",
-            "image_width": 125,
-            "alignment": "center"
+            "image_width": 110,
+            "alignment": "center",
+            "link": "https://americancraftspirits.org/"
           }
         }
       },
