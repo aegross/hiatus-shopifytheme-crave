@@ -106,6 +106,7 @@
         },
         "link_list_XjDEVa": {
           "type": "link_list",
+          "disabled": true,
           "settings": {
             "heading": "Quick Links",
             "menu": "footer"
@@ -116,12 +117,31 @@
           "settings": {
             "show_social": true
           }
+        },
+        "image_87JXac": {
+          "type": "image",
+          "name": "Made in CA",
+          "settings": {
+            "image": "shopify://shop_images/Made_In_California_Logo.png",
+            "image_width": 175,
+            "alignment": "right"
+          }
+        },
+        "image_DthBDM": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Certified_Craft_Logo.png",
+            "image_width": 125,
+            "alignment": "center"
+          }
         }
       },
       "block_order": [
         "text_8FnM3e",
         "link_list_XjDEVa",
-        "brand_information_HYxfr7"
+        "brand_information_HYxfr7",
+        "image_87JXac",
+        "image_DthBDM"
       ],
       "settings": {
         "color_scheme": "accent-2",
