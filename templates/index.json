@@ -284,56 +284,24 @@
         "padding_bottom": 36
       }
     },
-    "blocks_bmXyV3": {
-      "type": "_blocks",
-      "blocks": {
-        "ai_gen_block_65755e0_pi9HHg": {
-          "type": "ai_gen_block_65755e0",
-          "settings": {
-            "banner_image": "shopify://shop_images/topography-thin-01.png",
-            "banner_link": "",
-            "border_radius": 12
-          },
-          "blocks": {}
-        }
-      },
-      "block_order": [
-        "ai_gen_block_65755e0_pi9HHg"
-      ],
-      "name": "Image banner",
-      "settings": {}
-    },
-    "featured_collection_dJQGf8": {
-      "type": "featured-collection",
-      "disabled": true,
+    "image_banner_MQTpfE": {
+      "type": "image-banner",
       "custom_css": [
-        "{margin-top: 0px;}"
+        "{margin-top: 24px; margin-bottom: 24px;}"
       ],
-      "name": "(OLD) Featured Spirits Collection",
+      "name": "Topographic Divider",
       "settings": {
-        "collection": "frontpage",
-        "products_to_show": 4,
-        "title": "Shop Our Spirits",
-        "heading_size": "h1",
-        "description": "<p><a href=\"/products/hiatus-membership\" target=\"_blank\" title=\"Club Membership\">Bottle Club</a> members receive up to 25% off of all bottles!</p>",
-        "show_description": false,
-        "description_style": "body",
-        "columns_desktop": 4,
-        "enable_desktop_slider": false,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "color_scheme": "scheme-8000d7dd-04e6-4b1e-8559-f6797720b98f",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 24
+        "image": "shopify://shop_images/topography-fill-01.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": false,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
       }
     },
     "image_with_text_DCGyFF": {
@@ -448,24 +416,25 @@
         "padding_bottom": 36
       }
     },
-    "blocks_RTUh86": {
-      "type": "_blocks",
-      "blocks": {
-        "ai_gen_block_65755e0_BdrDAN": {
-          "type": "ai_gen_block_65755e0",
-          "settings": {
-            "banner_image": "shopify://shop_images/topography-thin-01.png",
-            "banner_link": "",
-            "border_radius": 12
-          },
-          "blocks": {}
-        }
-      },
-      "block_order": [
-        "ai_gen_block_65755e0_BdrDAN"
+    "image_banner_4kNfqT": {
+      "type": "image-banner",
+      "custom_css": [
+        "{margin-top: 24px; margin-bottom: 24px;}"
       ],
-      "name": "Image banner",
-      "settings": {}
+      "name": "Topographic Divider",
+      "settings": {
+        "image": "shopify://shop_images/topography-fill-01.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": false,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
     },
     "1785102543eed3347b": {
       "type": "apps",
@@ -480,6 +449,9 @@
       "block_order": [
         "gsc_instagram_feed_instafeed_tmq7Yi"
       ],
+      "custom_css": [
+        "{}"
+      ],
       "settings": {
         "include_margins": true
       }
@@ -490,11 +462,10 @@
     "rich_text_FGdaiK",
     "178510252768d5eb75",
     "collection_list_aycxr9",
-    "blocks_bmXyV3",
-    "featured_collection_dJQGf8",
+    "image_banner_MQTpfE",
     "image_with_text_DCGyFF",
     "collapsible_content_anNR6t",
-    "blocks_RTUh86",
+    "image_banner_4kNfqT",
     "1785102543eed3347b"
   ]
 }
