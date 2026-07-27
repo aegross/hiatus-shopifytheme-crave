@@ -15,26 +15,19 @@
         "heading_bkGM8x": {
           "type": "heading",
           "settings": {
-            "heading": "Recipes",
+            "heading": "<strong>Recipes</strong>",
             "heading_size": "hxl"
-          }
-        },
-        "text_yRABJw": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Check out our recipes — made with Hiatus Craft House spirits!</p>"
           }
         }
       },
       "block_order": [
-        "heading_bkGM8x",
-        "text_yRABJw"
+        "heading_bkGM8x"
       ],
       "name": "t:sections.rich-text.presets.name",
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "accent-2",
+        "color_scheme": "inverse",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52

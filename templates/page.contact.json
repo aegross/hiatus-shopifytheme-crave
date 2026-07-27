@@ -15,7 +15,7 @@
         "heading_Mjfh9B": {
           "type": "heading",
           "settings": {
-            "heading": "Contact Us",
+            "heading": "<strong>Contact Us</strong>",
             "heading_size": "h0"
           }
         }
@@ -23,11 +23,14 @@
       "block_order": [
         "heading_Mjfh9B"
       ],
+      "custom_css": [
+        "{margin-bottom: 36px;}"
+      ],
       "name": "t:sections.rich-text.presets.name",
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "accent-2",
+        "color_scheme": "inverse",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
@@ -77,13 +80,12 @@
       "type": "contact-form",
       "custom_css": [
         ".title {display: none !important;}",
-        ".contact__button {align-content: center; justify-content: center; display: flex;}",
-        "{margin-top: 24px;}"
+        ".contact__button {align-content: center; justify-content: center; display: flex;}"
       ],
       "settings": {
         "heading": "Contact Us",
         "heading_size": "h1",
-        "color_scheme": "background-2",
+        "color_scheme": "scheme-8000d7dd-04e6-4b1e-8559-f6797720b98f",
         "padding_top": 24,
         "padding_bottom": 24
       }

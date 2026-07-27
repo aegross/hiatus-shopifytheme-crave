@@ -74,6 +74,21 @@
           "type": "description",
           "settings": {}
         },
+        "icon_with_text_xg3AAW": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "vertical",
+            "icon_1": "heart",
+            "image_1": "shopify://shop_images/Flavors.png",
+            "heading_1": "No Artificial Flavors",
+            "icon_2": "return",
+            "image_2": "shopify://shop_images/Colors.png",
+            "heading_2": "No Artificial Colors",
+            "icon_3": "truck",
+            "image_3": "shopify://shop_images/Preservatives.png",
+            "heading_3": "No Added Preservatives"
+          }
+        },
         "collapsible-row-0": {
           "type": "collapsible_tab",
           "disabled": true,
@@ -148,6 +163,7 @@
         "title",
         "variant_picker",
         "description",
+        "icon_with_text_xg3AAW",
         "collapsible-row-0",
         "price",
         "fbd83dbe-d4f2-4988-874c-889934d5edea",
@@ -171,7 +187,7 @@
         "hide_variants": false,
         "enable_video_looping": false,
         "padding_top": 36,
-        "padding_bottom": 16
+        "padding_bottom": 36
       }
     },
     "image-with-text": {
@@ -267,32 +283,6 @@
         "padding_bottom": 36
       }
     },
-    "newsletter": {
-      "type": "newsletter",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Not ready to join the Bottle Club? Subscribe to the Newsletter",
-            "heading_size": "h2"
-          }
-        },
-        "email_form": {
-          "type": "email_form",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "heading",
-        "email_form"
-      ],
-      "settings": {
-        "color_scheme": "inverse",
-        "full_width": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "product-recommendations": {
       "type": "product-recommendations",
       "disabled": true,
@@ -318,7 +308,6 @@
     "image-with-text",
     "image-banner",
     "featured_blog_KA3waj",
-    "newsletter",
     "product-recommendations"
   ]
 }

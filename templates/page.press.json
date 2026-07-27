@@ -15,7 +15,7 @@
         "heading_VGM43D": {
           "type": "heading",
           "settings": {
-            "heading": "Press",
+            "heading": "<strong>Press</strong>",
             "heading_size": "h0"
           }
         }
@@ -27,7 +27,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "accent-2",
+        "color_scheme": "inverse",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52

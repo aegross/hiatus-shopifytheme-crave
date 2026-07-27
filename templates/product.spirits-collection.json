@@ -179,7 +179,7 @@
         "hide_variants": false,
         "enable_video_looping": false,
         "padding_top": 36,
-        "padding_bottom": 16
+        "padding_bottom": 36
       }
     },
     "image-with-text": {
@@ -274,32 +274,6 @@
         "padding_bottom": 0
       }
     },
-    "newsletter": {
-      "type": "newsletter",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Not ready to join the Bottle Club? Subscribe to the Newsletter",
-            "heading_size": "h2"
-          }
-        },
-        "email_form": {
-          "type": "email_form",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "heading",
-        "email_form"
-      ],
-      "settings": {
-        "color_scheme": "inverse",
-        "full_width": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "product-recommendations": {
       "type": "product-recommendations",
       "disabled": true,
@@ -325,7 +299,6 @@
     "image-with-text",
     "image-banner",
     "featured-blog",
-    "newsletter",
     "product-recommendations"
   ]
 }

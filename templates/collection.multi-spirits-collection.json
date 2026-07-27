@@ -13,12 +13,12 @@
       "type": "main-collection-banner",
       "custom_css": [
         ".collection-hero__title {font-size: 60px;}",
-        " {margin-bottom: -60px;}"
+        " {margin-bottom: 36px;}"
       ],
       "settings": {
         "show_collection_description": true,
         "show_collection_image": false,
-        "color_scheme": "accent-2"
+        "color_scheme": "inverse"
       }
     },
     "multicolumn_yVxaPR": {
@@ -125,9 +125,7 @@
     },
     "featured_collection_zdDBri": {
       "type": "featured-collection",
-      "custom_css": [
-        "{margin-bottom: -60px;}"
-      ],
+      "custom_css": [],
       "name": "Whiskey Collection",
       "settings": {
         "collection": "straight-whiskeys",
@@ -151,8 +149,8 @@
         "quick_add": "none",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 12,
-        "padding_bottom": 12
+        "padding_top": 36,
+        "padding_bottom": 48
       }
     },
     "custom_liquid_mYWPLX": {
@@ -170,9 +168,7 @@
     },
     "featured_collection_Ptfir4": {
       "type": "featured-collection",
-      "custom_css": [
-        "{margin-bottom: -60px;}"
-      ],
+      "custom_css": [],
       "name": "Agave Collection",
       "settings": {
         "collection": "agaves",
@@ -196,8 +192,8 @@
         "quick_add": "none",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 12,
-        "padding_bottom": 12
+        "padding_top": 36,
+        "padding_bottom": 48
       }
     },
     "custom_liquid_i6kCnW": {
@@ -215,9 +211,7 @@
     },
     "featured_collection_mXKtFG": {
       "type": "featured-collection",
-      "custom_css": [
-        "{margin-bottom: -60px;}"
-      ],
+      "custom_css": [],
       "name": "Rum Collection",
       "settings": {
         "collection": "rums",
@@ -241,8 +235,8 @@
         "quick_add": "none",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 12,
-        "padding_bottom": 12
+        "padding_top": 36,
+        "padding_bottom": 48
       }
     },
     "custom_liquid_8D8dnD": {
@@ -284,34 +278,64 @@
         "quick_add": "none",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 12,
-        "padding_bottom": 12
+        "padding_top": 36,
+        "padding_bottom": 48
       }
     },
-    "newsletter": {
-      "type": "newsletter",
+    "slideshow_JgbaFF": {
+      "type": "slideshow",
       "blocks": {
-        "heading": {
-          "type": "heading",
+        "slide_WJNr87": {
+          "type": "slide",
           "settings": {
-            "heading": "Not ready to join the Bottle Club? Subscribe to the Newsletter!",
-            "heading_size": "h2"
+            "image": "shopify://shop_images/IMG_4203.jpg",
+            "image_overlay_opacity": 0,
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "scheme-1"
           }
         },
-        "email_form": {
-          "type": "email_form",
-          "settings": {}
+        "slide_3XHiQ9": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/IMG_4528.jpg",
+            "image_overlay_opacity": 0,
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": ""
+          }
         }
       },
       "block_order": [
-        "heading",
-        "email_form"
+        "slide_WJNr87",
+        "slide_3XHiQ9"
       ],
+      "name": "t:sections.slideshow.presets.name",
       "settings": {
-        "color_scheme": "inverse",
-        "full_width": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow containing photography of our spirits"
       }
     }
   },
@@ -327,6 +351,6 @@
     "featured_collection_mXKtFG",
     "custom_liquid_8D8dnD",
     "featured_collection_nFRdhC",
-    "newsletter"
+    "slideshow_JgbaFF"
   ]
 }

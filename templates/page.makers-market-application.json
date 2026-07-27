@@ -23,7 +23,7 @@
         "heading_c4W3cn": {
           "type": "heading",
           "settings": {
-            "heading": "Makers Market Vendor Application",
+            "heading": "<strong>Makers Market Vendor Application</strong>",
             "heading_size": "h1"
           }
         }
@@ -31,11 +31,14 @@
       "block_order": [
         "heading_c4W3cn"
       ],
+      "custom_css": [
+        "{margin-bottom: 24px;}"
+      ],
       "name": "t:sections.rich-text.presets.name",
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "accent-2",
+        "color_scheme": "inverse",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 40
@@ -83,8 +86,8 @@
         "content_alignment": "left",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 0
+        "padding_top": 52,
+        "padding_bottom": 52
       }
     },
     "1770773935418e8bec": {
@@ -101,7 +104,7 @@
             "errors_color": "#e02229",
             "text_alignment": "center",
             "form_alignment": "center",
-            "padding_top": 0,
+            "padding_top": 24,
             "padding_bottom": 24,
             "padding_right": 0,
             "padding_left": 0

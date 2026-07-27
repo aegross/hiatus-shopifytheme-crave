@@ -18,8 +18,25 @@
             "heading": "Where to Experience",
             "heading_size": "h0"
           }
-        },
-        "text_V4LtAF": {
+        }
+      },
+      "block_order": [
+        "heading_VGM43D"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_YGGFRH": {
+      "type": "rich-text",
+      "blocks": {
+        "text_kEKhjq": {
           "type": "text",
           "settings": {
             "text": "<p>Tastings, cocktails, and bottle sales are available in our Camarillo tasting room most Saturday and Sunday afternoons. We have also begun regional distribution to restaurants, bars and stores. We encourage you to experience our spirits at the establishments below. Interact with the map to see where Hiatus Craft House spirits are served and carried!</p>"
@@ -27,17 +44,16 @@
         }
       },
       "block_order": [
-        "heading_VGM43D",
-        "text_V4LtAF"
+        "text_kEKhjq"
       ],
       "name": "t:sections.rich-text.presets.name",
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "accent-2",
+        "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "main": {
@@ -45,11 +61,32 @@
       "custom_css": [
         ".main-page-title {display: none !important;}",
         ".page-width {max-width: 800px; margin: 0 auto;}",
-        " {margin-top: 24px;}"
+        " {margin-top: 36px;}"
       ],
       "settings": {
-        "padding_top": 0,
-        "padding_bottom": 0
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_qCyTgp": {
+      "type": "image-banner",
+      "custom_css": [
+        ".banner {height: 120px;}",
+        " {margin-top: 36px; margin-bottom: 36px;}"
+      ],
+      "name": "Topographic Divider",
+      "settings": {
+        "image": "shopify://shop_images/topography-fill-02.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": false,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
       }
     },
     "multicolumn_GTGcrC": {
@@ -91,9 +128,7 @@
         "column_k7gnLz",
         "column_D3RVCF"
       ],
-      "custom_css": [
-        "{margin-top: 24px;}"
-      ],
+      "custom_css": [],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -108,8 +143,29 @@
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 24,
-        "padding_bottom": 24
+        "padding_top": 36,
+        "padding_bottom": 72
+      }
+    },
+    "image_banner_Xqp7p9": {
+      "type": "image-banner",
+      "custom_css": [
+        ".banner {height: 120px;}",
+        " {margin-top: 36px; margin-bottom: 36px;}"
+      ],
+      "name": "Topographic Divider",
+      "settings": {
+        "image": "shopify://shop_images/topography-fill-04.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": false,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
       }
     },
     "multicolumn_a9TQeg": {
@@ -305,9 +361,7 @@
         "column_3gR3Ye",
         "column_eVtq8G"
       ],
-      "custom_css": [
-        "{margin-top: 24px;}"
-      ],
+      "custom_css": [],
       "name": "Restaurants & Bars",
       "settings": {
         "title": "Restaurants & Bars",
@@ -322,8 +376,8 @@
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 48,
+        "padding_bottom": 48
       }
     },
     "multicolumn_6EPV6V": {
@@ -465,9 +519,7 @@
         "column_gVEDVh",
         "column_rpggra"
       ],
-      "custom_css": [
-        "{margin-top: 24px;}"
-      ],
+      "custom_css": [],
       "name": "Stores",
       "settings": {
         "title": "Stores",
@@ -482,8 +534,8 @@
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 48,
+        "padding_bottom": 48
       }
     },
     "rich_text_xVDh79": {
@@ -525,8 +577,11 @@
   },
   "order": [
     "rich_text_RbWnHT",
+    "rich_text_YGGFRH",
     "main",
+    "image_banner_qCyTgp",
     "multicolumn_GTGcrC",
+    "image_banner_Xqp7p9",
     "multicolumn_a9TQeg",
     "multicolumn_6EPV6V",
     "rich_text_xVDh79"

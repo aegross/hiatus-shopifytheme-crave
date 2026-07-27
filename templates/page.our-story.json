@@ -38,6 +38,9 @@
         "heading_kbYBP4",
         "text_9By9ic"
       ],
+      "custom_css": [
+        "{margin-top: 36px;}"
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",

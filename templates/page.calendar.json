@@ -15,7 +15,7 @@
         "heading_VGM43D": {
           "type": "heading",
           "settings": {
-            "heading": "Events",
+            "heading": "<strong>Events</strong>",
             "heading_size": "h0"
           }
         }
@@ -27,7 +27,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "accent-2",
+        "color_scheme": "inverse",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
@@ -187,9 +187,7 @@
       "block_order": [
         "heading_Ay9Bip"
       ],
-      "custom_css": [
-        "{margin-top: 24px;}"
-      ],
+      "custom_css": [],
       "name": "t:sections.rich-text.presets.name",
       "settings": {
         "desktop_content_position": "center",
@@ -203,12 +201,11 @@
     "main": {
       "type": "main-page",
       "custom_css": [
-        ".main-page-title {display: none !important;}",
-        " {margin-top: 24px;}"
+        ".main-page-title {display: none !important;}"
       ],
       "settings": {
-        "padding_top": 0,
-        "padding_bottom": 0
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },

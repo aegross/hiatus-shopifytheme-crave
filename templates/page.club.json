@@ -19,7 +19,7 @@
             "image_opacity": 100,
             "overlay_color": "#000000",
             "overlay_opacity": 70,
-            "heading": "<p>Lollygaggers Bottle Club</p>",
+            "heading": "<p><strong>Lollygaggers Bottle Club</strong></p>",
             "subtext": "<p>An <strong>exclusive membership</strong> that celebrates the craft and spirit of Hiatus. Enjoy small-batch bourbon, rye, single malt, vodka, gin, agave, rum, crèmes, and liqueurs — each capturing the laid-back charm of Camarillo’s coastal hills and the dedication poured into every bottle. <strong>Experience the heart of our distillery, one sip at a time.</strong> Check out more details below!</p>",
             "text_alignment": "center",
             "content_max_width": 750,
@@ -91,7 +91,7 @@
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
-        "padding_bottom": 0
+        "padding_bottom": 36
       }
     },
     "featured_product_JaL3Qj": {
@@ -132,8 +132,8 @@
         "image_zoom": "lightbox",
         "hide_variants": false,
         "enable_video_looping": false,
-        "padding_top": 0,
-        "padding_bottom": 0
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "collapsible_content_e6fCEx": {
