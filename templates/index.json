@@ -289,6 +289,7 @@
     "image_banner_MQTpfE": {
       "type": "image-banner",
       "custom_css": [
+        ".banner {height: 120px;}",
         "{margin-top: 36px; margin-bottom: 72px;}"
       ],
       "name": "Topographic Divider",
@@ -421,7 +422,8 @@
     "image_banner_4kNfqT": {
       "type": "image-banner",
       "custom_css": [
-        "{margin-top: 36px; margin-bottom: 36px;}"
+        ".banner {height: 120px;}",
+        " {margin-top: 36px; margin-bottom: 36px;}"
       ],
       "name": "Topographic Divider",
       "settings": {
