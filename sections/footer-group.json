@@ -122,7 +122,7 @@
           "type": "image",
           "name": "Made in CA",
           "settings": {
-            "image": "shopify://shop_images/Made_In_California_Logo.png",
+            "image": "shopify://shop_images/madeInCA-logo-website.png",
             "image_width": 175,
             "alignment": "right",
             "link": "https://madeincalifornia.ca.gov/"
@@ -131,8 +131,8 @@
         "image_DthBDM": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Certified_Craft_Logo.png",
-            "image_width": 110,
+            "image": "shopify://shop_images/ACSA-logo-website.png",
+            "image_width": 175,
             "alignment": "center",
             "link": "https://americancraftspirits.org/"
           }
@@ -145,6 +145,7 @@
         "image_87JXac",
         "image_DthBDM"
       ],
+      "custom_css": [],
       "settings": {
         "color_scheme": "accent-2",
         "newsletter_enable": false,
