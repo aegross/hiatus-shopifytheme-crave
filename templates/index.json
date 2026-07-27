@@ -269,7 +269,9 @@
         "featured_collection_tacRCX",
         "featured_collection_WU4UDg"
       ],
-      "custom_css": [],
+      "custom_css": [
+        "{margin-top: 12px; margin-bottom: 36px;}"
+      ],
       "name": "Spirit Collection List",
       "settings": {
         "title": "Shop our Spirits",
@@ -287,7 +289,7 @@
     "image_banner_MQTpfE": {
       "type": "image-banner",
       "custom_css": [
-        "{margin-top: 24px; margin-bottom: 24px;}"
+        "{margin-top: 36px; margin-bottom: 72px;}"
       ],
       "name": "Topographic Divider",
       "settings": {
@@ -413,17 +415,17 @@
         "image_ratio": "adapt",
         "desktop_layout": "image_first",
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 96
       }
     },
     "image_banner_4kNfqT": {
       "type": "image-banner",
       "custom_css": [
-        "{margin-top: 24px; margin-bottom: 24px;}"
+        "{margin-top: 36px; margin-bottom: 36px;}"
       ],
       "name": "Topographic Divider",
       "settings": {
-        "image": "shopify://shop_images/topography-fill-01.png",
+        "image": "shopify://shop_images/topography-fill-02.png",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "image_behavior": "none",
@@ -449,9 +451,7 @@
       "block_order": [
         "gsc_instagram_feed_instafeed_tmq7Yi"
       ],
-      "custom_css": [
-        "{}"
-      ],
+      "custom_css": [],
       "settings": {
         "include_margins": true
       }
