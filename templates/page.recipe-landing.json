@@ -18,10 +18,17 @@
             "heading": "<strong>Recipes</strong>",
             "heading_size": "hxl"
           }
+        },
+        "text_mqRNq7": {
+          "type": "text",
+          "settings": {
+            "text": "<h4>Check out our recipes below.<br/>Search for any Hiatus spirit and see what you can make at home!</h4>"
+          }
         }
       },
       "block_order": [
-        "heading_bkGM8x"
+        "heading_bkGM8x",
+        "text_mqRNq7"
       ],
       "name": "t:sections.rich-text.presets.name",
       "settings": {
@@ -41,8 +48,8 @@
           "settings": {
             "title": "",
             "description": "",
-            "title_size": 40,
-            "description_size": 16,
+            "title_size": 24,
+            "description_size": 14,
             "recipes_blog": "recipes",
             "search_placeholder": "Search recipes...",
             "no_results_text": "No recipes found. Try adjusting your search or filters.",
@@ -91,6 +98,9 @@
       "block_order": [
         "ai_gen_block_3590d46_d66bRH"
       ],
+      "custom_css": [
+        "{margin-top: -36px;}"
+      ],
       "settings": {}
     },
     "17623098775e4515e3": {
@@ -99,7 +109,6 @@
         "ai_gen_block_b99a160_JfEyyn": {
           "type": "ai_gen_block_b99a160",
           "name": "Seasonal Recipes",
-          "disabled": true,
           "settings": {
             "heading": "Featured February Recipes",
             "heading_link": "shopify://collections/frontpage",
