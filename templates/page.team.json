@@ -23,7 +23,7 @@
         "heading_YeyQnz": {
           "type": "heading",
           "settings": {
-            "heading": "Our Team",
+            "heading": "<strong>Our Team</strong>",
             "heading_size": "h1"
           }
         }
@@ -47,7 +47,7 @@
         "heading_NRxmyA": {
           "type": "heading",
           "settings": {
-            "heading": "Our Team",
+            "heading": "<strong>Our Team</strong>",
             "heading_size": "h1"
           }
         },
@@ -87,7 +87,7 @@
         "heading_gTmK9p": {
           "type": "heading",
           "settings": {
-            "heading": "Our Partners",
+            "heading": "<strong>Our Partners</strong>",
             "heading_size": "h1"
           }
         }
@@ -104,8 +104,8 @@
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 24,
+        "padding_bottom": 24
       }
     },
     "multirow_FQPFbq": {
