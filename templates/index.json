@@ -16,11 +16,11 @@
           "type": "slide",
           "name": "COTM",
           "settings": {
-            "image": "shopify://shop_images/IMG_4814_f4991153-1ea7-4912-bfe8-34f0871be94f.jpg",
-            "image_overlay_opacity": 20,
-            "heading": "July Cocktail of the Month",
+            "image": "shopify://shop_images/Mango_Mint_with_Popping_Pearls_07262026_006.jpg",
+            "image_overlay_opacity": 0,
+            "heading": "August Cocktail of the Month",
             "heading_size": "h1",
-            "subheading": "A classic or strawberry daiquiri featuring our latest spirit, Silver Rum.",
+            "subheading": "Boba Tea Tango featuring our Silver Rum.",
             "button_label": "Shop",
             "link": "shopify://products/silver-rum",
             "button_style_secondary": false,
@@ -36,7 +36,7 @@
           "name": "PERM",
           "settings": {
             "image": "shopify://shop_images/IMG_3948.jpg",
-            "image_overlay_opacity": 30,
+            "image_overlay_opacity": 0,
             "heading": "Join our Bottle Club for exclusive access!",
             "heading_size": "h1",
             "subheading": "Sign up for our Lollygaggers Bottle Club and receive <strong>up to 25% off</strong> all bottles, merchandise, and Hiatus events. Bring a friend along for complimentary weekly spirit tastings, unlock exclusive access to member-only events, distillery workshops, tours, and tasting panels, and be the first to get your hands on new releases.",
@@ -55,7 +55,7 @@
           "name": "PERM",
           "settings": {
             "image": "shopify://shop_images/IMG_4469.jpg",
-            "image_overlay_opacity": 30,
+            "image_overlay_opacity": 0,
             "heading": "Schedule a private event!",
             "heading_size": "h1",
             "subheading": "",
@@ -74,7 +74,7 @@
           "name": "PERM?",
           "settings": {
             "image": "shopify://shop_images/20241014_115917_40befcb0-5d92-4514-8e7d-f3ea972c54b2.jpg",
-            "image_overlay_opacity": 20,
+            "image_overlay_opacity": 0,
             "heading": "Exclusive Buyout",
             "heading_size": "h1",
             "subheading": "Book an Exclusive Buyout of our Tasting Room, available Wednesday, Thursday, and Friday from 5:00-7:30PM.",
@@ -93,7 +93,7 @@
           "name": "PERM",
           "settings": {
             "image": "shopify://shop_images/IMG_3936_1.jpg",
-            "image_overlay_opacity": 30,
+            "image_overlay_opacity": 0,
             "heading": "Gift a tasting!",
             "heading_size": "h1",
             "subheading": "Give the gift of a Hiatus Craft House tasting. Explore our craft spirits, discover new favorites, and enjoy a relaxed, memorable experience in Camarillo.",
@@ -112,7 +112,7 @@
           "name": "TEMP",
           "settings": {
             "image": "shopify://shop_images/IMG_3825_2.jpg",
-            "image_overlay_opacity": 30,
+            "image_overlay_opacity": 0,
             "heading": "Workshops at Hiatus Craft House",
             "heading_size": "h1",
             "subheading": "Stay tuned for upcoming workshops at Hiatus Craft House. Sign up for our newsletter below or follow us <a href=\"https://www.instagram.com/hiatuscrafthouse/?hl=en\" target=\"_blank\" title=\"https://www.instagram.com/hiatuscrafthouse/?hl=en\">@hiatuscrafthouse</a> to get the latest news!",
@@ -131,7 +131,7 @@
           "name": "TEMP",
           "settings": {
             "image": "shopify://shop_images/IMG_1668-2.jpg",
-            "image_overlay_opacity": 30,
+            "image_overlay_opacity": 0,
             "heading": "BLOWOUT SALE: Pumpkin Spice Crème Liqueur",
             "heading_size": "h1",
             "subheading": "$12 per bottle, or 6 bottles for $60.",
