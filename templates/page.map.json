@@ -459,9 +459,19 @@
           "name": "Belwood Liquor",
           "settings": {
             "title": "Belwood Liquor",
-            "text": "<p>2830 Tapo St, Simi Valley, CA 93063</p>",
+            "text": "<p><em>2830 Tapo St, Simi Valley, CA 93063</em></p>",
             "link_label": "Website",
             "link": "https://bellwood-liquor.poi.place"
+          }
+        },
+        "column_VpXyMg": {
+          "type": "column",
+          "name": "Venture Liquors",
+          "settings": {
+            "title": "Venture Liquors",
+            "text": "<p><em>494 E Los Angeles Ave, Simi Valley, CA 93065</em></p>",
+            "link_label": "Website",
+            "link": "https://venture-liquors.edan.io/"
           }
         },
         "column_hBqhCK": {
@@ -524,6 +534,7 @@
         "column_xjdgPi",
         "column_TrwWre",
         "column_Y7KVMr",
+        "column_VpXyMg",
         "column_hBqhCK",
         "column_RMCWTP",
         "column_QUij8c",
