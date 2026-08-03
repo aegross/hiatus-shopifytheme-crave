@@ -454,6 +454,16 @@
             "link": "https://www.instagram.com/plaza_market_and_liquor/"
           }
         },
+        "column_Y7KVMr": {
+          "type": "column",
+          "name": "Belwood Liquor",
+          "settings": {
+            "title": "Belwood Liquor",
+            "text": "<p>2830 Tapo St, Simi Valley, CA 93063</p>",
+            "link_label": "Website",
+            "link": "https://bellwood-liquor.poi.place"
+          }
+        },
         "column_hBqhCK": {
           "type": "column",
           "name": "TW Thousand Oaks",
@@ -513,6 +523,7 @@
         "column_xNU6h8",
         "column_xjdgPi",
         "column_TrwWre",
+        "column_Y7KVMr",
         "column_hBqhCK",
         "column_RMCWTP",
         "column_QUij8c",
