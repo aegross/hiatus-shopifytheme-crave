@@ -36,18 +36,6 @@
     "multirow_X4jtxF": {
       "type": "multirow",
       "blocks": {
-        "row_fFf4JB": {
-          "type": "row",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/CLU.jpg",
-            "caption": "Off-Site Event",
-            "heading": "Casa Pacifica Wine, Food & Brew Festival",
-            "text": "<p>🗓️ June 7th | 1:00 to 5:00pm</p><p>📍 <em>California State Univeristy Channel Islands</em></p><p>Catch Hiatus Craft House at the 33rd Annual Casa Pacifica Angels Wine, Food & Brew Festival!</p>",
-            "button_label": "Tickets",
-            "button_link": "https://winefoodandbrewfestival.com/"
-          }
-        },
         "row_3KprYp": {
           "type": "row",
           "settings": {
@@ -59,28 +47,15 @@
             "button_link": "https://www.eventbrite.com/e/fall-mixology-workshop-hiatus-craft-house-tickets-1996350168093?aff=oddtdtcreator"
           }
         },
-        "row_hUqUYV": {
+        "row_8NWUNT": {
           "type": "row",
-          "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/IMG_4033.jpg",
-            "caption": "Off-Site Event",
-            "heading": "Patron Tasting",
-            "text": "<p>🗓️ July 14th | 5:00pm</p><p>📍<em> Patron Mexican Bar & Grill, Westlake</em></p><p>Join Hiatus Craft House at Patron Mexican Bar & Grill for a special Taco Tuesday tasting of our agave spirits! Be sure to order a Hiatus Berry Infusion—a Patron Westlake exclusive cocktail!</p>",
-            "button_label": "Website",
-            "button_link": "https://patronmex.com/locations/westlake-village/"
-          }
-        },
-        "row_hA3gfy": {
-          "type": "row",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/IMG_3654.jpg",
-            "caption": "Off-Site Event",
-            "heading": "Happy Place Tasting",
-            "text": "<p>🗓️ July 16th | 4:00pm</p><p>📍 <em>Happy Place Craft Beer, Wine & Spirits</em></p><p>Join Hiatus Craft House at Happy Place Craft Beer, Wine & Spirits for a special tasting of our spirits! Be sure to pick up some bottles with their Local Thursday discount!</p>",
-            "button_label": "Website",
-            "button_link": "https://wedeliverliquor.com/"
+            "image": "shopify://shop_images/IMG_4578.jpg",
+            "caption": "In-house Event",
+            "heading": "Fall Charcuterie Workshop",
+            "text": "<p>🗓️ October 10th | 12:00 to 2:00pm</p><p>📍 <em>Hiatus Craft House</em></p><p>Join us for our Fall Charcuterie Workshop! Stay tuned for tickets.</p>",
+            "button_label": "",
+            "button_link": ""
           }
         },
         "row_wwwTBq": {
@@ -103,6 +78,42 @@
             "text": "<p>🗓️ August 29th | 6:00 to 9:00pm</p><p>📍<em> Rancho Simi Community Park</em></p><p>Catch Hiatus Craft House at Simi's Endless Summer Beer Fest in Simi Valley!</p>",
             "button_label": "Tickets",
             "button_link": "https://www.simpletix.com/e/simi-s-endless-summer-beer-fest-2026-tickets-272918"
+          }
+        },
+        "row_hUqUYV": {
+          "type": "row",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/IMG_4033.jpg",
+            "caption": "Off-Site Event",
+            "heading": "Patron Tasting",
+            "text": "<p>🗓️ July 14th | 5:00pm</p><p>📍<em> Patron Mexican Bar & Grill, Westlake</em></p><p>Join Hiatus Craft House at Patron Mexican Bar & Grill for a special Taco Tuesday tasting of our agave spirits! Be sure to order a Hiatus Berry Infusion—a Patron Westlake exclusive cocktail!</p>",
+            "button_label": "Website",
+            "button_link": "https://patronmex.com/locations/westlake-village/"
+          }
+        },
+        "row_fFf4JB": {
+          "type": "row",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/CLU.jpg",
+            "caption": "Off-Site Event",
+            "heading": "Casa Pacifica Wine, Food & Brew Festival",
+            "text": "<p>🗓️ June 7th | 1:00 to 5:00pm</p><p>📍 <em>California State Univeristy Channel Islands</em></p><p>Catch Hiatus Craft House at the 33rd Annual Casa Pacifica Angels Wine, Food & Brew Festival!</p>",
+            "button_label": "Tickets",
+            "button_link": "https://winefoodandbrewfestival.com/"
+          }
+        },
+        "row_hA3gfy": {
+          "type": "row",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/IMG_3654.jpg",
+            "caption": "Off-Site Event",
+            "heading": "Happy Place Tasting",
+            "text": "<p>🗓️ July 16th | 4:00pm</p><p>📍 <em>Happy Place Craft Beer, Wine & Spirits</em></p><p>Join Hiatus Craft House at Happy Place Craft Beer, Wine & Spirits for a special tasting of our spirits! Be sure to pick up some bottles with their Local Thursday discount!</p>",
+            "button_label": "Website",
+            "button_link": "https://wedeliverliquor.com/"
           }
         },
         "row_BVDEcj": {
@@ -128,29 +139,18 @@
             "button_label": "Tickets",
             "button_link": "https://www.eventbrite.com/e/camarillo-comedy-club-hiatus-craft-house-tickets-1983287818253?aff=oddtdtcreator"
           }
-        },
-        "row_R6paFP": {
-          "type": "row",
-          "disabled": true,
-          "settings": {
-            "caption": "In-House Event",
-            "heading": "Spring Mixology Workshop",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "button_label": "Tickets",
-            "button_link": ""
-          }
         }
       },
       "block_order": [
-        "row_fFf4JB",
         "row_3KprYp",
-        "row_hUqUYV",
-        "row_hA3gfy",
+        "row_8NWUNT",
         "row_wwwTBq",
         "row_AwkHxK",
+        "row_hUqUYV",
+        "row_fFf4JB",
+        "row_hA3gfy",
         "row_BVDEcj",
-        "row_YyUeff",
-        "row_R6paFP"
+        "row_YyUeff"
       ],
       "custom_css": [
         "{margin-top: 24px;}"
