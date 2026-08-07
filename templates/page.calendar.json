@@ -85,14 +85,13 @@
         },
         "row_wwwTBq": {
           "type": "row",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/conejofwf2025-76_5f234e6d-111e-43f5-a6bf-d80ec9dd05b3.jpg",
             "caption": "Off-site event",
-            "heading": "Conejo Food and Wine Festival",
-            "text": "<p>🗓️ June 28th | 1:30 to 5:30pm</p><p>📍 <em>St. Paschal Baylon School Grounds</em></p><p>Catch Hiatus Craft House at the 2026 Conejo Valley Food and Wine Festival!</p>",
+            "heading": "Surf 'n' Suds Beer Festival",
+            "text": "<p>🗓️ August 15th | 11:30 to 4:30pm</p><p>📍 <em>Carpinteria State Beach</em></p><p>Catch Hiatus Craft House at the 2026 Conejo Valley Food and Wine Festival!</p>",
             "button_label": "Tickets",
-            "button_link": "https://www.eventbrite.com/e/2026-conejo-food-and-wine-festival-tickets-1982407341724?keep_tld=true"
+            "button_link": "https://eventsbyenfuego.ticketsauce.com/e/surf-n-suds-beer-festival-carpinteria-2026/tickets"
           }
         },
         "row_AwkHxK": {
