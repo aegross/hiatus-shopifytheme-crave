@@ -455,6 +455,16 @@
             "link": "https://wedeliverliquor.com/"
           }
         },
+        "column_xBNEg4": {
+          "type": "column",
+          "name": "Grotto",
+          "settings": {
+            "title": "The Liquor & Wine Grotto",
+            "text": "<p><em>1271 Coast Village Rd, Santa Barbara, CA 93108</em></p>",
+            "link_label": "Website",
+            "link": "https://www.montecitovino.com"
+          }
+        },
         "column_TrwWre": {
           "type": "column",
           "name": "Plaza Liquor Mart",
@@ -553,6 +563,7 @@
         "column_GEAFUD",
         "column_xNU6h8",
         "column_xjdgPi",
+        "column_xBNEg4",
         "column_TrwWre",
         "column_Y7KVMr",
         "column_VpXyMg",
