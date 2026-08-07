@@ -331,6 +331,16 @@
             "link": "https://www.samsplaceojai.com"
           }
         },
+        "column_EtjeKe": {
+          "type": "column",
+          "name": "Nugget",
+          "settings": {
+            "title": "The Nugget of Summerland",
+            "text": "<p><em>2318 Lillie Ave, Summerland, CA 93067</em></p>",
+            "link_label": "Website",
+            "link": "https://www.nuggetbarandgrill.com"
+          }
+        },
         "column_eVtq8G": {
           "type": "column",
           "name": "Patron (TO)",
@@ -359,12 +369,13 @@
         "column_CkkqHA",
         "column_RT34UQ",
         "column_3gR3Ye",
+        "column_EtjeKe",
         "column_eVtq8G"
       ],
       "custom_css": [],
       "name": "Restaurants & Bars",
       "settings": {
-        "title": "Restaurants & Bars",
+        "title": "<strong>Restaurants & Bars</strong>",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -514,6 +525,16 @@
             "link": "https://www.instagram.com/grocerybagliquor/"
           }
         },
+        "column_DBbBW8": {
+          "type": "column",
+          "name": "Dale's Liquor",
+          "settings": {
+            "title": "Dale's Liquor",
+            "text": "<p><em>14915 Vanowen St, Van Nuys, CA 91405</em></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "column_rpggra": {
           "type": "column",
           "name": "Old Town Liquor",
@@ -539,12 +560,13 @@
         "column_RMCWTP",
         "column_QUij8c",
         "column_gVEDVh",
+        "column_DBbBW8",
         "column_rpggra"
       ],
       "custom_css": [],
       "name": "Stores",
       "settings": {
-        "title": "Stores",
+        "title": "<strong>Stores</strong>",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
