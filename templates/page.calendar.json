@@ -49,6 +49,7 @@
         },
         "row_8NWUNT": {
           "type": "row",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/IMG_4578.jpg",
             "caption": "In-house Event",
