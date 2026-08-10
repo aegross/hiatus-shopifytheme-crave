@@ -404,6 +404,16 @@
             "link": "https://www.instagram.com/establosmeatmarket/"
           }
         },
+        "column_A38NeV": {
+          "type": "column",
+          "name": "Springville Market",
+          "settings": {
+            "title": "Springville Market",
+            "text": "<p><em>634 Camino Tierra Santa Ste 102, Camarillo, CA 93010</em></p>",
+            "link_label": "Website",
+            "link": "https://springvillebeveragehouse.com"
+          }
+        },
         "column_eziEeg": {
           "type": "column",
           "name": "Harbor Mart (Oxnard)",
@@ -558,6 +568,7 @@
       },
       "block_order": [
         "column_7b4pde",
+        "column_A38NeV",
         "column_eziEeg",
         "column_YmwGkx",
         "column_GEAFUD",
