@@ -465,6 +465,16 @@
             "link": "https://wedeliverliquor.com/"
           }
         },
+        "column_htRWVU": {
+          "type": "column",
+          "name": "Red Barn",
+          "settings": {
+            "title": "Red Barn Market and Liquor",
+            "text": "<p><em>1101 E Main St, Santa Paula, CA 93060</em></p>",
+            "link_label": "Social Media",
+            "link": "https://www.instagram.com/the_red_barn_market/"
+          }
+        },
         "column_xBNEg4": {
           "type": "column",
           "name": "Grotto",
@@ -594,6 +604,7 @@
         "column_GEAFUD",
         "column_xNU6h8",
         "column_xjdgPi",
+        "column_htRWVU",
         "column_xBNEg4",
         "column_Er7gXr",
         "column_qPXX9V",
