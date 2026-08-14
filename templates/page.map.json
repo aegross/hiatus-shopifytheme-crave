@@ -475,6 +475,26 @@
             "link": "https://www.montecitovino.com"
           }
         },
+        "column_Er7gXr": {
+          "type": "column",
+          "name": "Angelo's Liquor",
+          "settings": {
+            "title": "Angelo's Liquor",
+            "text": "<p><em>5599 Hollister Ave A, Goleta, CA 93117</em></p>",
+            "link_label": "Website",
+            "link": "https://angelosliquor.com"
+          }
+        },
+        "column_qPXX9V": {
+          "type": "column",
+          "name": "Hi-Time Liquors",
+          "settings": {
+            "title": "Hi-Time Liquors",
+            "text": "<p><em>4010 Calle Real #1, Santa Barbara, CA 93110</em></p>",
+            "link_label": "Social Media",
+            "link": "https://www.instagram.com/hitimeliquors/"
+          }
+        },
         "column_TrwWre": {
           "type": "column",
           "name": "Plaza Liquor Mart",
@@ -575,6 +595,8 @@
         "column_xNU6h8",
         "column_xjdgPi",
         "column_xBNEg4",
+        "column_Er7gXr",
+        "column_qPXX9V",
         "column_TrwWre",
         "column_Y7KVMr",
         "column_VpXyMg",
