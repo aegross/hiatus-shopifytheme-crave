@@ -16,6 +16,25 @@
           "type": "slide",
           "name": "COTM",
           "settings": {
+            "image": "shopify://shop_images/Summer_Mixology_Workshop_07232026_009_2bb84199-2edb-414a-bf8b-2ba1871116eb.jpg",
+            "image_overlay_opacity": 0,
+            "heading": "Fall Mixology Workshop",
+            "heading_size": "h1",
+            "subheading": "September 10, 2026 from 6:30-8:30pm. Featuring Alex from Firefly Bartending! Craft cocktails, recipe cards, and bites included.",
+            "button_label": "Tickets",
+            "link": "https://www.eventbrite.com/e/fall-mixology-workshop-hiatus-craft-house-tickets-1996350168093",
+            "button_style_secondary": false,
+            "show_text_box": true,
+            "box_align": "bottom-left",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "accent-2"
+          }
+        },
+        "slide_h4hQr6": {
+          "type": "slide",
+          "name": "COTM",
+          "settings": {
             "image": "shopify://shop_images/Mango_Mint_with_Popping_Pearls_07262026_004.jpg",
             "image_overlay_opacity": 0,
             "heading": "August Cocktail of the Month",
@@ -148,6 +167,7 @@
       },
       "block_order": [
         "slide_zN8EHF",
+        "slide_h4hQr6",
         "slide-0",
         "slide_9DGtDz",
         "slide_PKNtV4",
