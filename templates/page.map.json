@@ -414,6 +414,16 @@
             "link": "https://springvillebeveragehouse.com"
           }
         },
+        "column_yNJKYD": {
+          "type": "column",
+          "name": "Village Mart",
+          "settings": {
+            "title": "Village Mart",
+            "text": "<p><em>506 Las Posas Rd, Camarillo, CA 93010</em></p>",
+            "link_label": "Website",
+            "link": "https://www.instagram.com/village_mart/"
+          }
+        },
         "column_eziEeg": {
           "type": "column",
           "name": "Harbor Mart (Oxnard)",
@@ -599,6 +609,7 @@
       "block_order": [
         "column_7b4pde",
         "column_A38NeV",
+        "column_yNJKYD",
         "column_eziEeg",
         "column_YmwGkx",
         "column_GEAFUD",
