@@ -525,6 +525,16 @@
             "link": "https://www.instagram.com/plaza_market_and_liquor/"
           }
         },
+        "column_K6zF7K": {
+          "type": "column",
+          "name": "Mayflower Market & Liquor",
+          "settings": {
+            "title": "Mayflower Market & Liquor",
+            "text": "<p><em>105 E High St, Moorpark, CA 93021</em></p>",
+            "link_label": "Social Media",
+            "link": "https://www.instagram.com/mayflowermarketmoorpark/"
+          }
+        },
         "column_Y7KVMr": {
           "type": "column",
           "name": "Belwood Liquor",
@@ -620,6 +630,7 @@
         "column_Er7gXr",
         "column_qPXX9V",
         "column_TrwWre",
+        "column_K6zF7K",
         "column_Y7KVMr",
         "column_VpXyMg",
         "column_hBqhCK",
