@@ -555,6 +555,16 @@
             "link": "https://venture-liquors.edan.io/"
           }
         },
+        "column_yPtECt": {
+          "type": "column",
+          "name": "Yosemite Market & Liquor",
+          "settings": {
+            "title": "Yosemite Market & Liquor",
+            "text": "<p><em>5704 E Los Angeles Ave, Simi Valley, CA 93063</em></p>",
+            "link_label": "Website",
+            "link": "https://stonegateplazasimivalley.com/shops/19/yosemite-liquor/"
+          }
+        },
         "column_hBqhCK": {
           "type": "column",
           "name": "TW Thousand Oaks",
@@ -633,6 +643,7 @@
         "column_K6zF7K",
         "column_Y7KVMr",
         "column_VpXyMg",
+        "column_yPtECt",
         "column_hBqhCK",
         "column_RMCWTP",
         "column_QUij8c",
