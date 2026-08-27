@@ -70,6 +70,17 @@
             "button_link": "https://www.simpletix.com/e/simi-s-endless-summer-beer-fest-2026-tickets-272918"
           }
         },
+        "row_hUqUYV": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/IMG_4033.jpg",
+            "caption": "Off-Site Event",
+            "heading": "Venture Liquors Tasting",
+            "text": "<p>🗓️ September 11th | 5:00 to 8:00pm</p><p>📍 <em>Venture Liquors</em></p><p>Join Hiatus Craft House at Venture Liquors in Simi Valley for a special tasting of our spirits! </p>",
+            "button_label": "Website",
+            "button_link": "https://venture-liquors.edan.io/"
+          }
+        },
         "row_wwwTBq": {
           "type": "row",
           "settings": {
@@ -79,18 +90,6 @@
             "text": "<p>🗓️ September 30th | 12:00 to 3:30pm</p><p>📍<em> Pioneer Park</em></p><p>Catch Hiatus Craft House at Santa Maria's BBQ & Beer Festival!</p>",
             "button_label": "Tickets",
             "button_link": "https://eventsbyenfuego.ticketsauce.com/e/2026-santa-maria-bbq-festival/tickets"
-          }
-        },
-        "row_hUqUYV": {
-          "type": "row",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/IMG_4033.jpg",
-            "caption": "Off-Site Event",
-            "heading": "Patron Tasting",
-            "text": "<p>🗓️ July 14th | 5:00pm</p><p>📍<em> Patron Mexican Bar & Grill, Westlake</em></p><p>Join Hiatus Craft House at Patron Mexican Bar & Grill for a special Taco Tuesday tasting of our agave spirits! Be sure to order a Hiatus Berry Infusion—a Patron Westlake exclusive cocktail!</p>",
-            "button_label": "Website",
-            "button_link": "https://patronmex.com/locations/westlake-village/"
           }
         },
         "row_fFf4JB": {
@@ -146,8 +145,8 @@
         "row_3KprYp",
         "row_8NWUNT",
         "row_AwkHxK",
-        "row_wwwTBq",
         "row_hUqUYV",
+        "row_wwwTBq",
         "row_fFf4JB",
         "row_hA3gfy",
         "row_BVDEcj",
