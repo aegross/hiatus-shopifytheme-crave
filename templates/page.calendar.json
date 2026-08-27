@@ -59,18 +59,6 @@
             "button_link": ""
           }
         },
-        "row_wwwTBq": {
-          "type": "row",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/conejofwf2025-76_5f234e6d-111e-43f5-a6bf-d80ec9dd05b3.jpg",
-            "caption": "Off-site event",
-            "heading": "Surf 'n' Suds Beer Festival",
-            "text": "<p>🗓️ August 15th | 11:30 to 4:30pm</p><p>📍 <em>Carpinteria State Beach</em></p><p>Catch Hiatus Craft House at the 2026 Surf 'n' Suds Beer Festival in Carpinteria!</p>",
-            "button_label": "Tickets",
-            "button_link": "https://eventsbyenfuego.ticketsauce.com/e/surf-n-suds-beer-festival-carpinteria-2026/tickets"
-          }
-        },
         "row_AwkHxK": {
           "type": "row",
           "settings": {
@@ -80,6 +68,17 @@
             "text": "<p>🗓️ August 29th | 6:00 to 9:00pm</p><p>📍<em> Rancho Simi Community Park</em></p><p>Catch Hiatus Craft House at Simi's Endless Summer Beer Fest in Simi Valley!</p>",
             "button_label": "Tickets",
             "button_link": "https://www.simpletix.com/e/simi-s-endless-summer-beer-fest-2026-tickets-272918"
+          }
+        },
+        "row_wwwTBq": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/conejofwf2025-76_5f234e6d-111e-43f5-a6bf-d80ec9dd05b3.jpg",
+            "caption": "Off-site event",
+            "heading": "Santa Maria BBQ & Beer Festival",
+            "text": "<p>🗓️ September 30th | 12:00 to 3:30pm</p><p>📍<em> Pioneer Park</em></p><p>Catch Hiatus Craft House at Santa Maria's BBQ & Beer Festival!</p>",
+            "button_label": "Tickets",
+            "button_link": "https://eventsbyenfuego.ticketsauce.com/e/surf-n-suds-beer-festival-carpinteria-2026/tickets"
           }
         },
         "row_hUqUYV": {
@@ -146,8 +145,8 @@
       "block_order": [
         "row_3KprYp",
         "row_8NWUNT",
-        "row_wwwTBq",
         "row_AwkHxK",
+        "row_wwwTBq",
         "row_hUqUYV",
         "row_fFf4JB",
         "row_hA3gfy",
