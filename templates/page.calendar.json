@@ -92,6 +92,17 @@
             "button_link": "https://eventsbyenfuego.ticketsauce.com/e/2026-santa-maria-bbq-festival/tickets"
           }
         },
+        "row_hA3gfy": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/IMG_20260628_151915.jpg",
+            "caption": "Off-Site Event",
+            "heading": "Taste of Ojai",
+            "text": "<p>🗓️ October 25th | 2:00 to 5:30pm</p><p>📍 <em>Libbey Park</em></p><p>Join Hiatus Craft House at Taste of Ojai 2026!</p>",
+            "button_label": "Tickets",
+            "button_link": "https://www.tasteofojai.org/tickets"
+          }
+        },
         "row_fFf4JB": {
           "type": "row",
           "disabled": true,
@@ -102,18 +113,6 @@
             "text": "<p>🗓️ June 7th | 1:00 to 5:00pm</p><p>📍 <em>California State Univeristy Channel Islands</em></p><p>Catch Hiatus Craft House at the 33rd Annual Casa Pacifica Angels Wine, Food & Brew Festival!</p>",
             "button_label": "Tickets",
             "button_link": "https://winefoodandbrewfestival.com/"
-          }
-        },
-        "row_hA3gfy": {
-          "type": "row",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/IMG_3654.jpg",
-            "caption": "Off-Site Event",
-            "heading": "Happy Place Tasting",
-            "text": "<p>🗓️ July 16th | 4:00pm</p><p>📍 <em>Happy Place Craft Beer, Wine & Spirits</em></p><p>Join Hiatus Craft House at Happy Place Craft Beer, Wine & Spirits for a special tasting of our spirits! Be sure to pick up some bottles with their Local Thursday discount!</p>",
-            "button_label": "Website",
-            "button_link": "https://wedeliverliquor.com/"
           }
         },
         "row_BVDEcj": {
@@ -147,8 +146,8 @@
         "row_AwkHxK",
         "row_hUqUYV",
         "row_wwwTBq",
-        "row_fFf4JB",
         "row_hA3gfy",
+        "row_fFf4JB",
         "row_BVDEcj",
         "row_YyUeff"
       ],
