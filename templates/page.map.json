@@ -321,6 +321,16 @@
             "link": "https://www.winchestersgrill.com/"
           }
         },
+        "column_w38C6h": {
+          "type": "column",
+          "name": "Parque 1055",
+          "settings": {
+            "title": "Parque 1055",
+            "text": "<p><em>1055 E Main St, Santa Paula, CA 93060</em></p>",
+            "link_label": "Website",
+            "link": "https://parque1055.com"
+          }
+        },
         "column_3gR3Ye": {
           "type": "column",
           "name": "Sam's",
@@ -368,6 +378,7 @@
         "column_eXKzHC",
         "column_CkkqHA",
         "column_RT34UQ",
+        "column_w38C6h",
         "column_3gR3Ye",
         "column_EtjeKe",
         "column_eVtq8G"
