@@ -360,6 +360,16 @@
             "link_label": "Website",
             "link": "https://patronmexicanbarandgrillca.com/"
           }
+        },
+        "column_PADUCe": {
+          "type": "column",
+          "name": "Old Oaks Steakhouse",
+          "settings": {
+            "title": "Old Oaks Steakhouse",
+            "text": "<p><em>556 E Thousand Oaks Blvd, Thousand Oaks, CA 91360</em></p>",
+            "link_label": "Website",
+            "link": "https://oldoakssteakhouse.com"
+          }
         }
       },
       "block_order": [
@@ -381,7 +391,8 @@
         "column_w38C6h",
         "column_3gR3Ye",
         "column_EtjeKe",
-        "column_eVtq8G"
+        "column_eVtq8G",
+        "column_PADUCe"
       ],
       "custom_css": [],
       "name": "Restaurants & Bars",
