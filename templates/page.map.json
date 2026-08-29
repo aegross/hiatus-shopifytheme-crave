@@ -281,16 +281,6 @@
             "link": "https://cafezack.com"
           }
         },
-        "column_G4cKhB": {
-          "type": "column",
-          "name": "Rocks & Drams",
-          "settings": {
-            "title": "Rocks & Drams",
-            "text": "<p><em>14 S California St, Ventura, CA 93001</em></p>",
-            "link_label": "Website",
-            "link": "https://rocksanddrams.com"
-          }
-        },
         "column_eXKzHC": {
           "type": "column",
           "name": "Boatyard Pub",
@@ -319,6 +309,26 @@
             "text": "<p><em>632 E Main St, Ventura, CA 93001</em></p>",
             "link_label": "Website",
             "link": "https://www.winchestersgrill.com/"
+          }
+        },
+        "column_G4cKhB": {
+          "type": "column",
+          "name": "Rocks & Drams",
+          "settings": {
+            "title": "Rocks & Drams",
+            "text": "<p><em>14 S California St, Ventura, CA 93001</em></p>",
+            "link_label": "Website",
+            "link": "https://rocksanddrams.com"
+          }
+        },
+        "column_qEnT37": {
+          "type": "column",
+          "name": "DJ's California Catering",
+          "settings": {
+            "title": "DJ's California Catering",
+            "text": "<p><em>2784 Johnson Dr, Ventura, CA 93003</em></p>",
+            "link_label": "Website",
+            "link": "https://www.djscatering.com/"
           }
         },
         "column_w38C6h": {
@@ -384,10 +394,11 @@
         "column_NT9iWE",
         "column_VGcrm3",
         "column_CjrDp4",
-        "column_G4cKhB",
         "column_eXKzHC",
         "column_CkkqHA",
         "column_RT34UQ",
+        "column_G4cKhB",
+        "column_qEnT37",
         "column_w38C6h",
         "column_3gR3Ye",
         "column_EtjeKe",
