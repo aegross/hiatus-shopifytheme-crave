@@ -457,6 +457,16 @@
             "link": "https://oxnard.harbormart.net/"
           }
         },
+        "column_T8tHQy": {
+          "type": "column",
+          "name": "El Rio Liquor",
+          "settings": {
+            "title": "El Rio Liquor",
+            "text": "<p><em>2910 E Vineyard Ave, Oxnard, CA 93036</em></p>",
+            "link_label": "Website",
+            "link": "https://elrioliquor.com"
+          }
+        },
         "column_YmwGkx": {
           "type": "column",
           "name": "El Maguey Liquor",
@@ -653,6 +663,7 @@
         "column_A38NeV",
         "column_yNJKYD",
         "column_eziEeg",
+        "column_T8tHQy",
         "column_YmwGkx",
         "column_GEAFUD",
         "column_xNU6h8",
