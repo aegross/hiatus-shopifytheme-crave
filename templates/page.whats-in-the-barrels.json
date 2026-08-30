@@ -109,7 +109,7 @@
         "column_alignment": "center",
         "background_style": "primary",
         "color_scheme": "background-2",
-        "columns_mobile": "2",
+        "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 48,
         "padding_bottom": 24
@@ -293,6 +293,19 @@
         "padding_bottom": 56
       }
     },
+    "custom_liquid_hcANFE": {
+      "type": "custom-liquid",
+      "custom_css": [
+        "{margin-bottom: -20px;}"
+      ],
+      "name": "Agave Landing",
+      "settings": {
+        "custom_liquid": "<a id=\"agaves\" style=\"visibility:hidden; width:0px\">Agaves</a>",
+        "color_scheme": "scheme-f6fe83da-87e4-4255-b82c-0ab712ac5194",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "image_banner_btf6hi": {
       "type": "image-banner",
       "custom_css": [
@@ -312,19 +325,6 @@
         "stack_images_on_mobile": false,
         "mobile_content_alignment": "center",
         "show_text_below": true
-      }
-    },
-    "custom_liquid_hcANFE": {
-      "type": "custom-liquid",
-      "custom_css": [
-        "{margin-bottom: -20px;}"
-      ],
-      "name": "Agave Landing",
-      "settings": {
-        "custom_liquid": "<a id=\"agaves\" style=\"visibility:hidden; width:0px\">Agaves</a>",
-        "color_scheme": "scheme-f6fe83da-87e4-4255-b82c-0ab712ac5194",
-        "padding_top": 0,
-        "padding_bottom": 0
       }
     },
     "rich_text_HCP7WL": {
@@ -377,6 +377,19 @@
         "padding_bottom": 56
       }
     },
+    "custom_liquid_KzEQtG": {
+      "type": "custom-liquid",
+      "custom_css": [
+        "{margin-bottom: -20px;}"
+      ],
+      "name": "Rum Landing",
+      "settings": {
+        "custom_liquid": "<a id=\"rums\" style=\"visibility:hidden; width:0px\">Rums</a>",
+        "color_scheme": "scheme-f6fe83da-87e4-4255-b82c-0ab712ac5194",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "image_banner_GAeaJD": {
       "type": "image-banner",
       "custom_css": [
@@ -396,19 +409,6 @@
         "stack_images_on_mobile": false,
         "mobile_content_alignment": "center",
         "show_text_below": true
-      }
-    },
-    "custom_liquid_KzEQtG": {
-      "type": "custom-liquid",
-      "custom_css": [
-        "{margin-bottom: -20px;}"
-      ],
-      "name": "Rum Landing",
-      "settings": {
-        "custom_liquid": "<a id=\"rums\" style=\"visibility:hidden; width:0px\">Rums</a>",
-        "color_scheme": "scheme-f6fe83da-87e4-4255-b82c-0ab712ac5194",
-        "padding_top": 0,
-        "padding_bottom": 0
       }
     },
     "rich_text_Mxcahy": {
@@ -461,6 +461,19 @@
         "padding_bottom": 56
       }
     },
+    "custom_liquid_rmY7a4": {
+      "type": "custom-liquid",
+      "custom_css": [
+        "{margin-bottom: -20px;}"
+      ],
+      "name": "Specialties Landing",
+      "settings": {
+        "custom_liquid": "<a id=\"specialties\" style=\"visibility:hidden; width:0px\">Specialties</a>",
+        "color_scheme": "scheme-f6fe83da-87e4-4255-b82c-0ab712ac5194",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "image_banner_AtLTUn": {
       "type": "image-banner",
       "custom_css": [
@@ -480,19 +493,6 @@
         "stack_images_on_mobile": false,
         "mobile_content_alignment": "center",
         "show_text_below": true
-      }
-    },
-    "custom_liquid_rmY7a4": {
-      "type": "custom-liquid",
-      "custom_css": [
-        "{margin-bottom: -20px;}"
-      ],
-      "name": "Specialties Landing",
-      "settings": {
-        "custom_liquid": "<a id=\"specialties\" style=\"visibility:hidden; width:0px\">Specialties</a>",
-        "color_scheme": "scheme-f6fe83da-87e4-4255-b82c-0ab712ac5194",
-        "padding_top": 0,
-        "padding_bottom": 0
       }
     },
     "rich_text_RLGYLP": {
