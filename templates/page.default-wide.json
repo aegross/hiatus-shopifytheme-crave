@@ -30,7 +30,7 @@
         "heading_cXJhU8",
         "text_EdUqHr"
       ],
-      "name": "t:sections.rich-text.presets.name",
+      "name": "Page Header",
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -42,6 +42,7 @@
     },
     "main": {
       "type": "main-page",
+      "disabled": true,
       "custom_css": [
         ".main-page-title {display: none !important;}",
         ".page-width {max-width: 1200px; margin: 0 auto;}",
@@ -49,14 +50,378 @@
         "td,th {padding: 8px;}",
         " {margin-top: 36px !important; margin-bottom: 12px !important;}"
       ],
+      "name": "Original WITB Page",
       "settings": {
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "rich_text_GpE4AA": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_xXhMej": {
+          "type": "heading",
+          "settings": {
+            "heading": "Barrel Club",
+            "heading_size": "h1"
+          }
+        },
+        "text_Fyk7kB": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>✨ flavor text ✨</p>"
+          }
+        },
+        "button_HmrLtK": {
+          "type": "button",
+          "settings": {
+            "button_label": "Interested in Adopting a Barrel? Click here for details!",
+            "button_link": "shopify://products/barrel-club-1",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_xXhMej",
+        "text_Fyk7kB",
+        "button_HmrLtK"
+      ],
+      "custom_css": [
+        ".button {width: 350px;}"
+      ],
+      "name": "Header - Barrel Club",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-f6fe83da-87e4-4255-b82c-0ab712ac5194",
+        "full_width": true,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "page_Y7mAQL": {
+      "type": "page",
+      "custom_css": [
+        ".page-title {display: none !important;}",
+        ".page-width {max-width: 1200px; margin: 0 auto;}",
+        "table,td,th {border: 1px solid #a16f29;}",
+        "td,th {padding: 8px;}",
+        " {margin-top: 36px !important; margin-bottom: 12px !important;}"
+      ],
+      "name": "WITB - Barrel Club",
+      "settings": {
+        "page": "witb-barrel-club",
+        "heading_size": "h1",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 56
+      }
+    },
+    "image_banner_ceGm6K": {
+      "type": "image-banner",
+      "custom_css": [
+        ".banner {height: 120px;}",
+        " {margin-top: 36px; margin-bottom: 36px;}"
+      ],
+      "name": "Topographic Divider",
+      "settings": {
+        "image": "shopify://shop_images/topography-fill-01.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": false,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    },
+    "rich_text_fH9khL": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_pdcpff": {
+          "type": "heading",
+          "settings": {
+            "heading": "Straight Whiskeys",
+            "heading_size": "h1"
+          }
+        },
+        "text_zGg6DB": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>✨ flavor text ✨</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_pdcpff",
+        "text_zGg6DB"
+      ],
+      "name": "Header - Straight Whiskey",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-f6fe83da-87e4-4255-b82c-0ab712ac5194",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "page_K3DUtb": {
+      "type": "page",
+      "custom_css": [
+        ".page-title {display: none !important;}",
+        ".page-width {max-width: 1200px; margin: 0 auto;}",
+        "table,td,th {border: 1px solid #a16f29;}",
+        "td,th {padding: 8px;}",
+        " {margin-top: 36px !important; margin-bottom: 12px !important;}"
+      ],
+      "name": "WITB - Straight Whiskey",
+      "settings": {
+        "page": "witb-straight-whiskey",
+        "heading_size": "h1",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 56
+      }
+    },
+    "image_banner_btf6hi": {
+      "type": "image-banner",
+      "custom_css": [
+        ".banner {height: 120px;}",
+        " {margin-top: 36px; margin-bottom: 36px;}"
+      ],
+      "name": "Topographic Divider",
+      "settings": {
+        "image": "shopify://shop_images/topography-fill-02.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": false,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    },
+    "rich_text_HCP7WL": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_y7DJrK": {
+          "type": "heading",
+          "settings": {
+            "heading": "Agaves",
+            "heading_size": "h1"
+          }
+        },
+        "text_zi4AGK": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>✨ flavor text ✨</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_y7DJrK",
+        "text_zi4AGK"
+      ],
+      "name": "Header - Agave",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-f6fe83da-87e4-4255-b82c-0ab712ac5194",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "page_XawbUp": {
+      "type": "page",
+      "custom_css": [
+        ".page-title {display: none !important;}",
+        ".page-width {max-width: 1200px; margin: 0 auto;}",
+        "table,td,th {border: 1px solid #a16f29;}",
+        "td,th {padding: 8px;}",
+        " {margin-top: 36px !important; margin-bottom: 12px !important;}"
+      ],
+      "name": "WITB - Agave",
+      "settings": {
+        "page": "witb-agave",
+        "heading_size": "h1",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 56
+      }
+    },
+    "image_banner_GAeaJD": {
+      "type": "image-banner",
+      "custom_css": [
+        ".banner {height: 120px;}",
+        " {margin-top: 36px; margin-bottom: 36px;}"
+      ],
+      "name": "Topographic Divider",
+      "settings": {
+        "image": "shopify://shop_images/topography-fill-03.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": false,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    },
+    "rich_text_Mxcahy": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_mpERcb": {
+          "type": "heading",
+          "settings": {
+            "heading": "Rums",
+            "heading_size": "h1"
+          }
+        },
+        "text_eEbmhV": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>✨ flavor text ✨</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_mpERcb",
+        "text_eEbmhV"
+      ],
+      "name": "Header - Rum",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-f6fe83da-87e4-4255-b82c-0ab712ac5194",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "page_yb6Yiq": {
+      "type": "page",
+      "custom_css": [
+        ".page-title {display: none !important;}",
+        ".page-width {max-width: 1200px; margin: 0 auto;}",
+        "table,td,th {border: 1px solid #a16f29;}",
+        "td,th {padding: 8px;}",
+        " {margin-top: 36px !important; margin-bottom: 12px !important;}"
+      ],
+      "name": "WITB - Rum",
+      "settings": {
+        "page": "witb-rum",
+        "heading_size": "h1",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 56
+      }
+    },
+    "image_banner_AtLTUn": {
+      "type": "image-banner",
+      "custom_css": [
+        ".banner {height: 120px;}",
+        " {margin-top: 36px; margin-bottom: 36px;}"
+      ],
+      "name": "Topographic Divider",
+      "settings": {
+        "image": "shopify://shop_images/topography-fill-04.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": false,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    },
+    "rich_text_RLGYLP": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_CWFjJX": {
+          "type": "heading",
+          "settings": {
+            "heading": "Specialties",
+            "heading_size": "h1"
+          }
+        },
+        "text_PLC9LF": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>✨ flavor text ✨</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_CWFjJX",
+        "text_PLC9LF"
+      ],
+      "name": "Header - Specialties",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-f6fe83da-87e4-4255-b82c-0ab712ac5194",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "page_YN8BY9": {
+      "type": "page",
+      "custom_css": [
+        ".page-title {display: none !important;}",
+        ".page-width {max-width: 1200px; margin: 0 auto;}",
+        "table,td,th {border: 1px solid #a16f29;}",
+        "td,th {padding: 8px;}",
+        " {margin-top: 36px !important; margin-bottom: 12px !important;}"
+      ],
+      "name": "WITB - Specialties",
+      "settings": {
+        "page": "witb-specialties",
+        "heading_size": "h1",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 36
       }
     }
   },
   "order": [
     "rich_text_jYrmzq",
-    "main"
+    "main",
+    "rich_text_GpE4AA",
+    "page_Y7mAQL",
+    "image_banner_ceGm6K",
+    "rich_text_fH9khL",
+    "page_K3DUtb",
+    "image_banner_btf6hi",
+    "rich_text_HCP7WL",
+    "page_XawbUp",
+    "image_banner_GAeaJD",
+    "rich_text_Mxcahy",
+    "page_yb6Yiq",
+    "image_banner_AtLTUn",
+    "rich_text_RLGYLP",
+    "page_YN8BY9"
   ]
 }
