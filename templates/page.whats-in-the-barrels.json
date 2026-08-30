@@ -50,7 +50,7 @@
         "td,th {padding: 8px;}",
         " {margin-top: 36px !important; margin-bottom: 12px !important;}"
       ],
-      "name": "Original WITB Page",
+      "name": "Page",
       "settings": {
         "padding_top": 0,
         "padding_bottom": 0
