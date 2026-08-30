@@ -40,6 +40,81 @@
         "padding_bottom": 52
       }
     },
+    "multicolumn_37JawL": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_YdLyRD": {
+          "type": "column",
+          "settings": {
+            "title": "Barrel Club",
+            "text": "",
+            "link_label": "jump to section",
+            "link": "#barrel-club"
+          }
+        },
+        "column_nAgn7N": {
+          "type": "column",
+          "settings": {
+            "title": "Straight Whiskeys",
+            "text": "",
+            "link_label": "jump to section",
+            "link": "#straight-whiskeys"
+          }
+        },
+        "column_9W9w9j": {
+          "type": "column",
+          "settings": {
+            "title": "Agaves",
+            "text": "",
+            "link_label": "jump to section",
+            "link": "#agaves"
+          }
+        },
+        "column_ykag4m": {
+          "type": "column",
+          "settings": {
+            "title": "Rums",
+            "text": "",
+            "link_label": "jump to section",
+            "link": "#rums"
+          }
+        },
+        "column_8GD83N": {
+          "type": "column",
+          "settings": {
+            "title": "Specialties",
+            "text": "",
+            "link_label": "jump to section",
+            "link": "#specialties"
+          }
+        }
+      },
+      "block_order": [
+        "column_YdLyRD",
+        "column_nAgn7N",
+        "column_9W9w9j",
+        "column_ykag4m",
+        "column_8GD83N"
+      ],
+      "custom_css": [],
+      "name": "Link Buttons",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "color_scheme": "background-2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 48,
+        "padding_bottom": 24
+      }
+    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -100,6 +175,19 @@
         "color_scheme": "scheme-f6fe83da-87e4-4255-b82c-0ab712ac5194",
         "full_width": true,
         "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "custom_liquid_LemhUe": {
+      "type": "custom-liquid",
+      "custom_css": [
+        "{margin-bottom: -20px;}"
+      ],
+      "name": "Barrel Club Landing",
+      "settings": {
+        "custom_liquid": "<a id=\"barrel-club\" style=\"visibility:hidden; width:0px\">Barrel Club</a>",
+        "color_scheme": "scheme-f6fe83da-87e4-4255-b82c-0ab712ac5194",
+        "padding_top": 0,
         "padding_bottom": 0
       }
     },
@@ -174,6 +262,19 @@
         "padding_bottom": 0
       }
     },
+    "custom_liquid_xpRdhX": {
+      "type": "custom-liquid",
+      "custom_css": [
+        "{margin-bottom: -20px;}"
+      ],
+      "name": "Straight Whiskey Landing",
+      "settings": {
+        "custom_liquid": "<a id=\"straight-whiskeys\" style=\"visibility:hidden; width:0px\">Straight Whiskeys</a>",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "page_K3DUtb": {
       "type": "page",
       "custom_css": [
@@ -242,6 +343,19 @@
         "color_scheme": "scheme-f6fe83da-87e4-4255-b82c-0ab712ac5194",
         "full_width": true,
         "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "custom_liquid_hcANFE": {
+      "type": "custom-liquid",
+      "custom_css": [
+        "{margin-bottom: -20px;}"
+      ],
+      "name": "Agave Landing",
+      "settings": {
+        "custom_liquid": "<a id=\"agaves\" style=\"visibility:hidden; width:0px\">Agaves</a>",
+        "color_scheme": "scheme-f6fe83da-87e4-4255-b82c-0ab712ac5194",
+        "padding_top": 0,
         "padding_bottom": 0
       }
     },
@@ -316,6 +430,19 @@
         "padding_bottom": 0
       }
     },
+    "custom_liquid_KzEQtG": {
+      "type": "custom-liquid",
+      "custom_css": [
+        "{margin-bottom: -20px;}"
+      ],
+      "name": "Rum Landing",
+      "settings": {
+        "custom_liquid": "<a id=\"rums\" style=\"visibility:hidden; width:0px\">Rums</a>",
+        "color_scheme": "scheme-f6fe83da-87e4-4255-b82c-0ab712ac5194",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "page_yb6Yiq": {
       "type": "page",
       "custom_css": [
@@ -387,6 +514,19 @@
         "padding_bottom": 0
       }
     },
+    "custom_liquid_rmY7a4": {
+      "type": "custom-liquid",
+      "custom_css": [
+        "{margin-bottom: -20px;}"
+      ],
+      "name": "Specialties Landing",
+      "settings": {
+        "custom_liquid": "<a id=\"specialties\" style=\"visibility:hidden; width:0px\">Specialties</a>",
+        "color_scheme": "scheme-f6fe83da-87e4-4255-b82c-0ab712ac5194",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "page_YN8BY9": {
       "type": "page",
       "custom_css": [
@@ -408,20 +548,26 @@
   },
   "order": [
     "rich_text_jYrmzq",
+    "multicolumn_37JawL",
     "main",
     "rich_text_GpE4AA",
+    "custom_liquid_LemhUe",
     "page_Y7mAQL",
     "image_banner_ceGm6K",
     "rich_text_fH9khL",
+    "custom_liquid_xpRdhX",
     "page_K3DUtb",
     "image_banner_btf6hi",
     "rich_text_HCP7WL",
+    "custom_liquid_hcANFE",
     "page_XawbUp",
     "image_banner_GAeaJD",
     "rich_text_Mxcahy",
+    "custom_liquid_KzEQtG",
     "page_yb6Yiq",
     "image_banner_AtLTUn",
     "rich_text_RLGYLP",
+    "custom_liquid_rmY7a4",
     "page_YN8BY9"
   ]
 }
