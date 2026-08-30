@@ -532,7 +532,8 @@
       "custom_css": [
         ".page-title {display: none !important;}",
         ".page-width {max-width: 1200px; margin: 0 auto;}",
-        "table,td,th {border: 1px solid #a16f29;}",
+        ".specialties-table {}",
+        "table,td,th {border: 1px solid #d6534d;}",
         "td,th {padding: 8px;}",
         " {margin-top: 36px !important; margin-bottom: 12px !important;}"
       ],
