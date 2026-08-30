@@ -131,6 +131,19 @@
         "padding_bottom": 0
       }
     },
+    "custom_liquid_LemhUe": {
+      "type": "custom-liquid",
+      "custom_css": [
+        "{margin-bottom: -20px;}"
+      ],
+      "name": "Barrel Club Landing",
+      "settings": {
+        "custom_liquid": "<a id=\"barrel-club\" style=\"visibility:hidden; width:0px\">Barrel Club</a>",
+        "color_scheme": "scheme-f6fe83da-87e4-4255-b82c-0ab712ac5194",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "rich_text_GpE4AA": {
       "type": "rich-text",
       "blocks": {
@@ -178,19 +191,6 @@
         "padding_bottom": 0
       }
     },
-    "custom_liquid_LemhUe": {
-      "type": "custom-liquid",
-      "custom_css": [
-        "{margin-bottom: -20px;}"
-      ],
-      "name": "Barrel Club Landing",
-      "settings": {
-        "custom_liquid": "<a id=\"barrel-club\" style=\"visibility:hidden; width:0px\">Barrel Club</a>",
-        "color_scheme": "scheme-f6fe83da-87e4-4255-b82c-0ab712ac5194",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "page_Y7mAQL": {
       "type": "page",
       "custom_css": [
@@ -230,6 +230,19 @@
         "show_text_below": true
       }
     },
+    "custom_liquid_xpRdhX": {
+      "type": "custom-liquid",
+      "custom_css": [
+        "{margin-bottom: -20px;}"
+      ],
+      "name": "Straight Whiskey Landing",
+      "settings": {
+        "custom_liquid": "<a id=\"straight-whiskeys\" style=\"visibility:hidden; width:0px\">Straight Whiskeys</a>",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "rich_text_fH9khL": {
       "type": "rich-text",
       "blocks": {
@@ -259,19 +272,6 @@
         "color_scheme": "scheme-f6fe83da-87e4-4255-b82c-0ab712ac5194",
         "full_width": true,
         "padding_top": 20,
-        "padding_bottom": 0
-      }
-    },
-    "custom_liquid_xpRdhX": {
-      "type": "custom-liquid",
-      "custom_css": [
-        "{margin-bottom: -20px;}"
-      ],
-      "name": "Straight Whiskey Landing",
-      "settings": {
-        "custom_liquid": "<a id=\"straight-whiskeys\" style=\"visibility:hidden; width:0px\">Straight Whiskeys</a>",
-        "color_scheme": "background-1",
-        "padding_top": 0,
         "padding_bottom": 0
       }
     },
@@ -314,6 +314,19 @@
         "show_text_below": true
       }
     },
+    "custom_liquid_hcANFE": {
+      "type": "custom-liquid",
+      "custom_css": [
+        "{margin-bottom: -20px;}"
+      ],
+      "name": "Agave Landing",
+      "settings": {
+        "custom_liquid": "<a id=\"agaves\" style=\"visibility:hidden; width:0px\">Agaves</a>",
+        "color_scheme": "scheme-f6fe83da-87e4-4255-b82c-0ab712ac5194",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "rich_text_HCP7WL": {
       "type": "rich-text",
       "blocks": {
@@ -343,19 +356,6 @@
         "color_scheme": "scheme-f6fe83da-87e4-4255-b82c-0ab712ac5194",
         "full_width": true,
         "padding_top": 20,
-        "padding_bottom": 0
-      }
-    },
-    "custom_liquid_hcANFE": {
-      "type": "custom-liquid",
-      "custom_css": [
-        "{margin-bottom: -20px;}"
-      ],
-      "name": "Agave Landing",
-      "settings": {
-        "custom_liquid": "<a id=\"agaves\" style=\"visibility:hidden; width:0px\">Agaves</a>",
-        "color_scheme": "scheme-f6fe83da-87e4-4255-b82c-0ab712ac5194",
-        "padding_top": 0,
         "padding_bottom": 0
       }
     },
@@ -398,6 +398,19 @@
         "show_text_below": true
       }
     },
+    "custom_liquid_KzEQtG": {
+      "type": "custom-liquid",
+      "custom_css": [
+        "{margin-bottom: -20px;}"
+      ],
+      "name": "Rum Landing",
+      "settings": {
+        "custom_liquid": "<a id=\"rums\" style=\"visibility:hidden; width:0px\">Rums</a>",
+        "color_scheme": "scheme-f6fe83da-87e4-4255-b82c-0ab712ac5194",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "rich_text_Mxcahy": {
       "type": "rich-text",
       "blocks": {
@@ -427,19 +440,6 @@
         "color_scheme": "scheme-f6fe83da-87e4-4255-b82c-0ab712ac5194",
         "full_width": true,
         "padding_top": 20,
-        "padding_bottom": 0
-      }
-    },
-    "custom_liquid_KzEQtG": {
-      "type": "custom-liquid",
-      "custom_css": [
-        "{margin-bottom: -20px;}"
-      ],
-      "name": "Rum Landing",
-      "settings": {
-        "custom_liquid": "<a id=\"rums\" style=\"visibility:hidden; width:0px\">Rums</a>",
-        "color_scheme": "scheme-f6fe83da-87e4-4255-b82c-0ab712ac5194",
-        "padding_top": 0,
         "padding_bottom": 0
       }
     },
@@ -482,6 +482,19 @@
         "show_text_below": true
       }
     },
+    "custom_liquid_rmY7a4": {
+      "type": "custom-liquid",
+      "custom_css": [
+        "{margin-bottom: -20px;}"
+      ],
+      "name": "Specialties Landing",
+      "settings": {
+        "custom_liquid": "<a id=\"specialties\" style=\"visibility:hidden; width:0px\">Specialties</a>",
+        "color_scheme": "scheme-f6fe83da-87e4-4255-b82c-0ab712ac5194",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "rich_text_RLGYLP": {
       "type": "rich-text",
       "blocks": {
@@ -514,19 +527,6 @@
         "padding_bottom": 0
       }
     },
-    "custom_liquid_rmY7a4": {
-      "type": "custom-liquid",
-      "custom_css": [
-        "{margin-bottom: -20px;}"
-      ],
-      "name": "Specialties Landing",
-      "settings": {
-        "custom_liquid": "<a id=\"specialties\" style=\"visibility:hidden; width:0px\">Specialties</a>",
-        "color_scheme": "scheme-f6fe83da-87e4-4255-b82c-0ab712ac5194",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "page_YN8BY9": {
       "type": "page",
       "custom_css": [
@@ -550,24 +550,24 @@
     "rich_text_jYrmzq",
     "multicolumn_37JawL",
     "main",
-    "rich_text_GpE4AA",
     "custom_liquid_LemhUe",
+    "rich_text_GpE4AA",
     "page_Y7mAQL",
     "image_banner_ceGm6K",
-    "rich_text_fH9khL",
     "custom_liquid_xpRdhX",
+    "rich_text_fH9khL",
     "page_K3DUtb",
     "image_banner_btf6hi",
-    "rich_text_HCP7WL",
     "custom_liquid_hcANFE",
+    "rich_text_HCP7WL",
     "page_XawbUp",
     "image_banner_GAeaJD",
-    "rich_text_Mxcahy",
     "custom_liquid_KzEQtG",
+    "rich_text_Mxcahy",
     "page_yb6Yiq",
     "image_banner_AtLTUn",
-    "rich_text_RLGYLP",
     "custom_liquid_rmY7a4",
+    "rich_text_RLGYLP",
     "page_YN8BY9"
   ]
 }
