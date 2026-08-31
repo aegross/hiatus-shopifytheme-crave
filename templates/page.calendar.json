@@ -80,6 +80,17 @@
             "button_link": "https://www.tasteofojai.org/tickets"
           }
         },
+        "row_AwkHxK": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/IMG_3911.jpg",
+            "caption": "Off-Site Event",
+            "heading": "Son of the Big Tiki Woo-Woo",
+            "text": "<p>🗓️ October 2nd & 3rd</p><p>📍<em> Crowne Plaza Ventura Beach</em></p><p>Catch Hiatus Craft House and all Tiki enthusiasts at the Son of the Big Tiki Woo-Woo event! </p>",
+            "button_label": "Tickets",
+            "button_link": "https://www.tikiadventura.com/event-tickets"
+          }
+        },
         "row_8NWUNT": {
           "type": "row",
           "disabled": true,
@@ -90,18 +101,6 @@
             "text": "<p>🗓️ October 25th | 12:00 to 2:00pm</p><p>📍 <em>Hiatus Craft House</em></p><p>Join us for our Fall Charcuterie Workshop! Stay tuned for tickets.</p>",
             "button_label": "",
             "button_link": ""
-          }
-        },
-        "row_AwkHxK": {
-          "type": "row",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/IMG_3911.jpg",
-            "caption": "Off-Site Event",
-            "heading": "Simi's Endless Summer Beer Fest",
-            "text": "<p>🗓️ August 29th | 6:00 to 9:00pm</p><p>📍<em> Rancho Simi Community Park</em></p><p>Catch Hiatus Craft House at Simi's Endless Summer Beer Fest in Simi Valley!</p>",
-            "button_label": "Tickets",
-            "button_link": "https://www.simpletix.com/e/simi-s-endless-summer-beer-fest-2026-tickets-272918"
           }
         },
         "row_fFf4JB": {
@@ -146,8 +145,8 @@
         "row_hUqUYV",
         "row_wwwTBq",
         "row_hA3gfy",
-        "row_8NWUNT",
         "row_AwkHxK",
+        "row_8NWUNT",
         "row_fFf4JB",
         "row_BVDEcj",
         "row_YyUeff"
