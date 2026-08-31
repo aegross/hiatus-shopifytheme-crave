@@ -380,6 +380,16 @@
             "link_label": "Website",
             "link": "https://oldoakssteakhouse.com"
           }
+        },
+        "column_pwYKy3": {
+          "type": "column",
+          "name": "Kalaveras",
+          "settings": {
+            "title": "Kalaveras",
+            "text": "<p><em>19530 Nordhoff St, Northridge, CA 91324</em></p>",
+            "link_label": "Website",
+            "link": "https://kalaveras.com/"
+          }
         }
       },
       "block_order": [
@@ -403,7 +413,8 @@
         "column_3gR3Ye",
         "column_EtjeKe",
         "column_eVtq8G",
-        "column_PADUCe"
+        "column_PADUCe",
+        "column_pwYKy3"
       ],
       "custom_css": [],
       "name": "Restaurants & Bars",
