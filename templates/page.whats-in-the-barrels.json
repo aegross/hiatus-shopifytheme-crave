@@ -108,7 +108,7 @@
         "columns_desktop": 5,
         "column_alignment": "center",
         "background_style": "primary",
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 48,
@@ -185,7 +185,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "background-2",
+        "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 36,
         "padding_bottom": 0
@@ -196,7 +196,7 @@
       "custom_css": [
         ".page-title {display: none !important;}",
         ".page-width {max-width: 1200px; margin: 0 auto;}",
-        "table,td,th {border: 1px solid #14404b;}",
+        "table,td,th {border: 1px solid #a16f29;}",
         "td,th {padding: 8px;}",
         " {margin-top: 36px !important; margin-bottom: 12px !important;}"
       ],
@@ -269,7 +269,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "scheme-f6fe83da-87e4-4255-b82c-0ab712ac5194",
+        "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 20,
         "padding_bottom": 0
@@ -353,7 +353,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "scheme-bf95fee1-ed60-472d-920d-076afdfdc9d8",
+        "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 20,
         "padding_bottom": 0
@@ -364,7 +364,7 @@
       "custom_css": [
         ".page-title {display: none !important;}",
         ".page-width {max-width: 1200px; margin: 0 auto;}",
-        "table,td,th {border: 1px solid #726a24;}",
+        "table,td,th {border: 1px solid #a16f29;}",
         "td,th {padding: 8px;}",
         " {margin-top: 36px !important; margin-bottom: 12px !important;}"
       ],
@@ -437,7 +437,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "scheme-8000d7dd-04e6-4b1e-8559-f6797720b98f",
+        "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 20,
         "padding_bottom": 0
@@ -448,7 +448,7 @@
       "custom_css": [
         ".page-title {display: none !important;}",
         ".page-width {max-width: 1200px; margin: 0 auto;}",
-        "table,td,th {border: 1px solid #117d87;}",
+        "table,td,th {border: 1px solid #a16f29;}",
         "td,th {padding: 8px;}",
         " {margin-top: 36px !important; margin-bottom: 12px !important;}"
       ],
@@ -521,7 +521,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "scheme-79c947d9-e791-4133-90fa-311ff4a8bb25",
+        "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 20,
         "padding_bottom": 0
@@ -532,7 +532,7 @@
       "custom_css": [
         ".page-title {display: none !important;}",
         ".page-width {max-width: 1200px; margin: 0 auto;}",
-        "table,td,th {border: 1px solid #d6534d;}",
+        "table,td,th {border: 1px solid #a16f29;}",
         "td,th {padding: 8px;}",
         " {margin-top: 36px !important; margin-bottom: 12px !important;}"
       ],
