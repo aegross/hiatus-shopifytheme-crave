@@ -1,0 +1,100 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "rich_text_qnijFR": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Mjfh9B": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Contact Us</strong>",
+            "heading_size": "h0"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Mjfh9B"
+      ],
+      "custom_css": [
+        "{margin-bottom: 36px;}"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_wThgXx": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_YeyQnz": {
+          "type": "heading",
+          "settings": {
+            "heading": "Looking to host an event or private party at Hiatus Craft House?",
+            "heading_size": "h2"
+          }
+        },
+        "text_8AWUeF": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Event packages are available! </strong>Contact us below with event details and ideal dates.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_YeyQnz",
+        "text_8AWUeF"
+      ],
+      "disabled": true,
+      "name": "Rich text (event hosting)",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "contact-form": {
+      "type": "contact-form",
+      "custom_css": [
+        ".title {display: none !important;}",
+        ".contact__button {align-content: center; justify-content: center; display: flex;}"
+      ],
+      "settings": {
+        "heading": "Contact Us",
+        "heading_size": "h1",
+        "color_scheme": "scheme-8000d7dd-04e6-4b1e-8559-f6797720b98f",
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    }
+  },
+  "order": [
+    "rich_text_qnijFR",
+    "main",
+    "rich_text_wThgXx",
+    "contact-form"
+  ]
+}
