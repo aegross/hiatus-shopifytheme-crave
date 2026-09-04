@@ -26,7 +26,7 @@
       "settings": {
         "collection": "merch",
         "products_to_show": 10,
-        "title": "T-Shirts",
+        "title": "Apparel",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
