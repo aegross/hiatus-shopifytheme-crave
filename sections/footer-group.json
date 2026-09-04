@@ -30,6 +30,7 @@
         "heading_pR7LVH",
         "email_form_FAERpr"
       ],
+      "disabled": true,
       "name": "Email Signup",
       "settings": {
         "color_scheme": "scheme-f6fe83da-87e4-4255-b82c-0ab712ac5194",
