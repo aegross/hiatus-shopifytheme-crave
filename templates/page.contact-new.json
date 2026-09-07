@@ -18,15 +18,22 @@
             "heading": "<strong>Contact Us</strong>",
             "heading_size": "h0"
           }
+        },
+        "text_LQwHEa": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Looking to plan an event, discuss distribution with our wholesale team, or just ask us a question? Send us a message using one of the forms below!</p>"
+          }
         }
       },
       "block_order": [
-        "heading_Mjfh9B"
+        "heading_Mjfh9B",
+        "text_LQwHEa"
       ],
       "custom_css": [
         "{margin-bottom: 36px;}"
       ],
-      "name": "t:sections.rich-text.presets.name",
+      "name": "Rich Text (Top)",
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -36,59 +43,133 @@
         "padding_bottom": 52
       }
     },
-    "main": {
-      "type": "main-page",
-      "disabled": true,
-      "settings": {
-        "padding_top": 36,
-        "padding_bottom": 0
-      }
-    },
-    "rich_text_wThgXx": {
-      "type": "rich-text",
+    "multicolumn_WkBNV9": {
+      "type": "multicolumn",
       "blocks": {
-        "heading_YeyQnz": {
-          "type": "heading",
+        "column_hPj8X3": {
+          "type": "column",
           "settings": {
-            "heading": "Looking to host an event or private party at Hiatus Craft House?",
-            "heading_size": "h2"
+            "title": "If you're an individual with a comment, concern, or question...",
+            "text": "<p>You'll want to fill out our regular contact form.</p><p><em>When in doubt, pick this one.</em></p>",
+            "link_label": "jump to form",
+            "link": "#general-contact-form"
           }
         },
-        "text_8AWUeF": {
-          "type": "text",
+        "column_JJXcRA": {
+          "type": "column",
           "settings": {
-            "text": "<p><strong>Event packages are available! </strong>Contact us below with event details and ideal dates.</p>"
+            "title": "If you're an individual or party looking to plan an event...",
+            "text": "<p>You'll want to fill out our events & rentals contact form.  Your message will go directly to our events coordinator.</p>",
+            "link_label": "jump to form",
+            "link": "#events-rentals-contact-form"
+          }
+        },
+        "column_yPVqP4": {
+          "type": "column",
+          "settings": {
+            "title": "If you're a representative looking to discuss selling or serving our products at your business...",
+            "text": "<p>You'll want to fill out our wholesale contact form. Your message will go directly to our wholesale team.</p>",
+            "link_label": "jump to form",
+            "link": "#wholesale-contact-form"
           }
         }
       },
       "block_order": [
-        "heading_YeyQnz",
-        "text_8AWUeF"
+        "column_hPj8X3",
+        "column_JJXcRA",
+        "column_yPVqP4"
       ],
-      "disabled": true,
-      "name": "Rich text (event hosting)",
+      "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "accent-2",
-        "full_width": true,
+        "title": "Looking for the right form?",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
     },
-    "contact-form": {
-      "type": "contact-form",
+    "main": {
+      "type": "main-page",
       "disabled": true,
-      "custom_css": [
-        ".title {display: none !important;}",
-        ".contact__button {align-content: center; justify-content: center; display: flex;}"
-      ],
+      "custom_css": [],
       "settings": {
-        "heading": "Contact Us",
-        "heading_size": "h1",
-        "color_scheme": "scheme-8000d7dd-04e6-4b1e-8559-f6797720b98f",
-        "padding_top": 24,
-        "padding_bottom": 24
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "custom_liquid_gAt9z7": {
+      "type": "custom-liquid",
+      "custom_css": [
+        "{margin-bottom: -28px;}"
+      ],
+      "name": "General Contact Landing",
+      "settings": {
+        "custom_liquid": "<a id=\"general-contact-form\" style=\"visibility:hidden; width:0px\">General Contact Form</a>",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_banner_VW9RkC": {
+      "type": "image-banner",
+      "custom_css": [
+        ".banner {height: 120px;}",
+        " {margin-top: 36px !important; margin-bottom: 36px !important;}"
+      ],
+      "name": "Topographic Divider",
+      "settings": {
+        "image": "shopify://shop_images/topography-fill-02.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": false,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    },
+    "rich_text_NitHjL": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_NTktbX": {
+          "type": "heading",
+          "settings": {
+            "heading": "Contact Form",
+            "heading_size": "h1"
+          }
+        },
+        "text_q7njtX": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>???</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_NTktbX",
+        "text_q7njtX"
+      ],
+      "name": "General Contact Header",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": false,
+        "padding_top": 36,
+        "padding_bottom": 12
       }
     },
     "1788413186a77f3d00": {
@@ -96,17 +177,18 @@
       "blocks": {
         "forms_inline_DGNUiD": {
           "type": "shopify://apps/forms/blocks/inline/8744a304-fcb1-4347-b211-bb6b4759a76a",
+          "name": "Contact - General",
           "settings": {
             "form_id": "1139276",
-            "text_color": "#0D0D0D",
-            "button_background_color": "#117D87",
+            "text_color": "#0d0d0d",
+            "button_background_color": "#117d87",
             "button_label_color": "#FFFFFF",
-            "links_color": "#117D87",
-            "errors_color": "#E02229",
+            "links_color": "#117d87",
+            "errors_color": "#A16F29",
             "text_alignment": "center",
             "form_alignment": "center",
-            "padding_top": 0,
-            "padding_bottom": 24,
+            "padding_top": 12,
+            "padding_bottom": 36,
             "padding_right": 0,
             "padding_left": 0
           }
@@ -115,6 +197,202 @@
       "block_order": [
         "forms_inline_DGNUiD"
       ],
+      "custom_css": [],
+      "name": "Apps (Contact Form)",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "custom_liquid_4GfBBX": {
+      "type": "custom-liquid",
+      "custom_css": [
+        "{margin-bottom: -28px;}"
+      ],
+      "name": "Events & Rentals Contact Landing",
+      "settings": {
+        "custom_liquid": "<a id=\"events-rentals-contact-form\" style=\"visibility:hidden; width:0px\">Events & Rentals Contact Form</a>",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_banner_Wrn4XL": {
+      "type": "image-banner",
+      "custom_css": [
+        ".banner {height: 120px;}",
+        " {margin-top: 36px !important; margin-bottom: 36px !important;}"
+      ],
+      "name": "Topographic Divider",
+      "settings": {
+        "image": "shopify://shop_images/topography-fill-03.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": false,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    },
+    "rich_text_GAkmRC": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_aNeEML": {
+          "type": "heading",
+          "settings": {
+            "heading": "Events & Rentals Contact Form",
+            "heading_size": "h1"
+          }
+        },
+        "text_n8CDHh": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>???</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_aNeEML",
+        "text_n8CDHh"
+      ],
+      "name": "Events & Rentals Contact Header",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": false,
+        "padding_top": 36,
+        "padding_bottom": 12
+      }
+    },
+    "apps_NwbY9M": {
+      "type": "apps",
+      "blocks": {
+        "forms_inline_cCtzxL": {
+          "type": "shopify://apps/forms/blocks/inline/8744a304-fcb1-4347-b211-bb6b4759a76a",
+          "name": "Contact - Events",
+          "settings": {
+            "form_id": "1139281",
+            "text_color": "#0D0D0D",
+            "button_background_color": "#117D87",
+            "button_label_color": "#FFFFFF",
+            "links_color": "#117D87",
+            "errors_color": "#A16F29",
+            "text_alignment": "center",
+            "form_alignment": "center",
+            "padding_top": 12,
+            "padding_bottom": 36,
+            "padding_right": 0,
+            "padding_left": 0
+          }
+        }
+      },
+      "block_order": [
+        "forms_inline_cCtzxL"
+      ],
+      "custom_css": [],
+      "name": "Apps (Event Form)",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "custom_liquid_Pbme94": {
+      "type": "custom-liquid",
+      "custom_css": [
+        "{margin-bottom: -28px;}"
+      ],
+      "name": "Wholesale Contact Landing",
+      "settings": {
+        "custom_liquid": "<a id=\"wholesale-contact-form\" style=\"visibility:hidden; width:0px\">Wholesale Contact Form</a>",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_banner_bVxmPV": {
+      "type": "image-banner",
+      "custom_css": [
+        ".banner {height: 120px;}",
+        " {margin-top: 36px !important; margin-bottom: 36px !important;}"
+      ],
+      "name": "Topographic Divider",
+      "settings": {
+        "image": "shopify://shop_images/topography-fill-04.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": false,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    },
+    "rich_text_BxDgci": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_ifRxwX": {
+          "type": "heading",
+          "settings": {
+            "heading": "Wholesale Contact Form",
+            "heading_size": "h1"
+          }
+        },
+        "text_8XJNXy": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>???</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_ifRxwX",
+        "text_8XJNXy"
+      ],
+      "name": "Wholesale Contact Header",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": false,
+        "padding_top": 36,
+        "padding_bottom": 12
+      }
+    },
+    "apps_m6FaYa": {
+      "type": "apps",
+      "blocks": {
+        "forms_inline_8PFARF": {
+          "type": "shopify://apps/forms/blocks/inline/8744a304-fcb1-4347-b211-bb6b4759a76a",
+          "name": "Contact - Wholesale",
+          "settings": {
+            "form_id": "1139282",
+            "text_color": "#0D0D0D",
+            "button_background_color": "#117D87",
+            "button_label_color": "#FFFFFF",
+            "links_color": "#117D87",
+            "errors_color": "#A16F29",
+            "text_alignment": "center",
+            "form_alignment": "center",
+            "padding_top": 12,
+            "padding_bottom": 36,
+            "padding_right": 0,
+            "padding_left": 0
+          }
+        }
+      },
+      "block_order": [
+        "forms_inline_8PFARF"
+      ],
+      "custom_css": [],
+      "name": "Apps (Wholesale Form)",
       "settings": {
         "include_margins": true
       }
@@ -122,9 +400,19 @@
   },
   "order": [
     "rich_text_qnijFR",
+    "multicolumn_WkBNV9",
     "main",
-    "rich_text_wThgXx",
-    "contact-form",
-    "1788413186a77f3d00"
+    "custom_liquid_gAt9z7",
+    "image_banner_VW9RkC",
+    "rich_text_NitHjL",
+    "1788413186a77f3d00",
+    "custom_liquid_4GfBBX",
+    "image_banner_Wrn4XL",
+    "rich_text_GAkmRC",
+    "apps_NwbY9M",
+    "custom_liquid_Pbme94",
+    "image_banner_bVxmPV",
+    "rich_text_BxDgci",
+    "apps_m6FaYa"
   ]
 }
