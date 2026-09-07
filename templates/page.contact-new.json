@@ -50,7 +50,7 @@
           "type": "column",
           "settings": {
             "title": "If you're an individual with a comment, concern, or question...",
-            "text": "<p>You'll want to fill out our regular contact form.</p><p><em>When in doubt, pick this one.</em></p>",
+            "text": "<p>You'll want to fill out our general contact form.</p><p><em>When in doubt, pick this one.</em></p>",
             "link_label": "jump to form",
             "link": "#general-contact-form"
           }
@@ -79,7 +79,7 @@
         "column_JJXcRA",
         "column_yPVqP4"
       ],
-      "name": "t:sections.multicolumn.presets.name",
+      "name": "Multicolumn w/ Links",
       "settings": {
         "title": "Looking for the right form?",
         "heading_size": "h2",
