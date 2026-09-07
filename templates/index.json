@@ -34,6 +34,7 @@
         "slide_h4hQr6": {
           "type": "slide",
           "name": "COTM",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Mango_Mint_with_Popping_Pearls_07262026_004.jpg",
             "image_overlay_opacity": 0,
