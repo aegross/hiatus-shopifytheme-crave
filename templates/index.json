@@ -35,11 +35,11 @@
           "type": "slide",
           "name": "COTM",
           "settings": {
-            "image": "shopify://shop_images/IMG_3692.jpg",
+            "image": "shopify://shop_images/IMG_3682.jpg",
             "image_overlay_opacity": 0,
             "heading": "September Cocktail of the Month",
             "heading_size": "h1",
-            "subheading": "<strong>Pumpkin Spice Whiskey Chai</strong>, featuring our <a href=\"/products/psl\" target=\"_blank\" title=\"Pumpkin Spice Crème\">PSL Crème Liqueur</a> and <a href=\"/products/straight-bourbon-whiskey\" target=\"_blank\" title=\"Straight Bourbon Whiskey\">Straight Bourbon Whiskey</a>. <strong>Already have our bottles?</strong> Click below and make it at home!",
+            "subheading": "<strong>Pumpkin Spice Whiskey Chai with Pumpkin Spice Cold Foam</strong>, featuring our <a href=\"/products/psl\" target=\"_blank\" title=\"Pumpkin Spice Crème\">PSL Crème Liqueur</a> and <a href=\"/products/straight-bourbon-whiskey\" target=\"_blank\" title=\"Straight Bourbon Whiskey\">Straight Bourbon Whiskey</a>. <strong>Already have our bottles?</strong> Click below and make it at home!",
             "button_label": "Recipe",
             "link": "shopify://blogs/recipes/pumpkin-spice-whiskey-chai-with-pumpkin-spice-cold-foam",
             "button_style_secondary": false,
