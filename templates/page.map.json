@@ -669,14 +669,14 @@
             "link": ""
           }
         },
-        "column_yYUt6d": {
+        "column_WBjqNq": {
           "type": "column",
-          "name": "805 Liquor",
+          "name": "Oak Knoll Liquors",
           "settings": {
-            "title": "805 Liquor",
-            "text": "<p><em>809 N Broadway # B, Santa Maria, CA 93454</em></p>",
-            "link_label": "Social Media",
-            "link": "https://www.instagram.com/805liquor/"
+            "title": "Oak Knoll Liquors",
+            "text": "<p><em>4854 S Bradley Rd #A, Santa Maria, CA 93455</em></p>",
+            "link_label": "",
+            "link": ""
           }
         },
         "column_Bq8PCV": {
@@ -687,6 +687,16 @@
             "text": "<p><em>400 W Main St, Santa Maria, CA 93458</em></p>",
             "link_label": "",
             "link": ""
+          }
+        },
+        "column_yYUt6d": {
+          "type": "column",
+          "name": "805 Liquor",
+          "settings": {
+            "title": "805 Liquor",
+            "text": "<p><em>809 N Broadway # B, Santa Maria, CA 93454</em></p>",
+            "link_label": "Social Media",
+            "link": "https://www.instagram.com/805liquor/"
           }
         },
         "column_rpggra": {
@@ -724,8 +734,9 @@
         "column_QUij8c",
         "column_gVEDVh",
         "column_DBbBW8",
-        "column_yYUt6d",
+        "column_WBjqNq",
         "column_Bq8PCV",
+        "column_yYUt6d",
         "column_rpggra"
       ],
       "custom_css": [],
