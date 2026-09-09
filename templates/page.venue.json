@@ -135,7 +135,7 @@
         "text_Ldhi7L": {
           "type": "text",
           "settings": {
-            "text": "<p>Fill out the form below or contact <a href=\"mailto:abby@hiatuscrafthouse.com\" target=\"_blank\" title=\"mailto:abby@hiatuscrafthouse.com\">abby@hiatuscrafthouse.com</a>. Feel free to include details of your event, such as ideal dates and number of guests. </p>"
+            "text": "<p>Contact us using the form below, and our event coordinator will reach out to discuss event planning. Not all of the fields are required, but more information is more helpful to us.</p>"
           }
         }
       },
@@ -147,19 +147,49 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "",
+        "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 48,
-        "padding_bottom": 48
+        "padding_bottom": 24
+      }
+    },
+    "17889126666633ade5": {
+      "type": "apps",
+      "blocks": {
+        "forms_inline_Tc66et": {
+          "type": "shopify://apps/forms/blocks/inline/8744a304-fcb1-4347-b211-bb6b4759a76a",
+          "name": "Contact - Events",
+          "settings": {
+            "form_id": "1139281",
+            "text_color": "#0d0d0d",
+            "button_background_color": "#117d87",
+            "button_label_color": "#ffffff",
+            "links_color": "#117d87",
+            "errors_color": "#a16f29",
+            "text_alignment": "center",
+            "form_alignment": "center",
+            "padding_top": 12,
+            "padding_bottom": 36,
+            "padding_right": 0,
+            "padding_left": 0
+          }
+        }
+      },
+      "block_order": [
+        "forms_inline_Tc66et"
+      ],
+      "settings": {
+        "include_margins": true
       }
     },
     "contact_form_caWJC7": {
       "type": "contact-form",
+      "disabled": true,
       "custom_css": [
         ".title {display: none !important;}",
         ".contact__button {align-content: center; justify-content: center; display: flex;}"
       ],
-      "name": "t:sections.contact-form.presets.name",
+      "name": "Default Contact Form",
       "settings": {
         "heading": "",
         "heading_size": "h1",
@@ -175,6 +205,7 @@
     "rich_text_LTBwnR",
     "multirow_QyHyrj",
     "rich_text_pBjy8w",
+    "17889126666633ade5",
     "contact_form_caWJC7"
   ]
 }
