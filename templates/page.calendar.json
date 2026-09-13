@@ -48,6 +48,17 @@
             "button_link": "https://www.eventbrite.com/e/fall-mixology-workshop-hiatus-craft-house-tickets-1996350168093?aff=oddtdtcreator"
           }
         },
+        "row_8NWUNT": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/IMG_4578.jpg",
+            "caption": "In-house Event",
+            "heading": "Fall Charcuterie Workshop",
+            "text": "<p>🗓️ October 25th | 12:00 to 2:00pm</p><p>📍 <em>Hiatus Craft House</em></p><p>Join us for our Fall Charcuterie Workshop on Sunday, October 25th from 12-2pm!</p><p><strong>LOLLYGAGGERS:</strong> Email abby@hiatuscrafthouse.com for your special code to get $10 off General Admission!</p>",
+            "button_label": "Tickets",
+            "button_link": "https://www.eventbrite.com/e/charcuterie-workshop-tickets-1994483244073?"
+          }
+        },
         "row_wwwTBq": {
           "type": "row",
           "settings": {
@@ -92,18 +103,6 @@
             "button_link": "https://www.tasteofojai.org/tickets"
           }
         },
-        "row_8NWUNT": {
-          "type": "row",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/IMG_4578.jpg",
-            "caption": "In-house Event",
-            "heading": "Fall Charcuterie Workshop",
-            "text": "<p>🗓️ October 25th | 12:00 to 2:00pm</p><p>📍 <em>Hiatus Craft House</em></p><p>Join us for our Fall Charcuterie Workshop! Stay tuned for tickets.</p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
         "row_fFf4JB": {
           "type": "row",
           "disabled": true,
@@ -143,11 +142,11 @@
       },
       "block_order": [
         "row_3KprYp",
+        "row_8NWUNT",
         "row_wwwTBq",
         "row_AwkHxK",
         "row_hUqUYV",
         "row_hA3gfy",
-        "row_8NWUNT",
         "row_fFf4JB",
         "row_BVDEcj",
         "row_YyUeff"
