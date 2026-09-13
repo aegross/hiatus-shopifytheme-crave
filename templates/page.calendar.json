@@ -48,17 +48,6 @@
             "button_link": "https://www.eventbrite.com/e/fall-mixology-workshop-hiatus-craft-house-tickets-1996350168093?aff=oddtdtcreator"
           }
         },
-        "row_hUqUYV": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/IMG_4033.jpg",
-            "caption": "Off-Site Event",
-            "heading": "Venture Liquors Tasting",
-            "text": "<p>🗓️ September 11th | 5:00 to 8:00pm</p><p>📍 <em>Venture Liquors</em></p><p>Join Hiatus Craft House at Venture Liquors in Simi Valley for a special tasting of our spirits! </p>",
-            "button_label": "Website",
-            "button_link": "https://venture-liquors.edan.io/"
-          }
-        },
         "row_wwwTBq": {
           "type": "row",
           "settings": {
@@ -70,17 +59,6 @@
             "button_link": "https://eventsbyenfuego.ticketsauce.com/e/2026-santa-maria-bbq-festival/tickets"
           }
         },
-        "row_hA3gfy": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/IMG_20260628_151915.jpg",
-            "caption": "Off-Site Event",
-            "heading": "Taste of Ojai",
-            "text": "<p>🗓️ October 25th | 2:00 to 5:30pm</p><p>📍 <em>Libbey Park</em></p><p>Join Hiatus Craft House at Taste of Ojai 2026!</p>",
-            "button_label": "Tickets",
-            "button_link": "https://www.tasteofojai.org/tickets"
-          }
-        },
         "row_AwkHxK": {
           "type": "row",
           "settings": {
@@ -90,6 +68,28 @@
             "text": "<p>🗓️ October 2nd</p><p>📍<em> Crowne Plaza Ventura Beach</em></p><p>Catch Hiatus Craft House and all Tiki enthusiasts at the Son of the Big Tiki Woo-Woo event! </p>",
             "button_label": "Tickets",
             "button_link": "https://www.tikiadventura.com/event-tickets"
+          }
+        },
+        "row_hUqUYV": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/IMG_4033.jpg",
+            "caption": "Off-Site Event",
+            "heading": "Venture Liquors Tasting",
+            "text": "<p>🗓️ October 23rd | 5:00 to 8:00pm</p><p>📍 <em>Venture Liquors</em></p><p>Join Hiatus Craft House at Venture Liquors in Simi Valley for a special tasting of our spirits! </p>",
+            "button_label": "Website",
+            "button_link": "https://venture-liquors.edan.io/"
+          }
+        },
+        "row_hA3gfy": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/IMG_20260628_151915.jpg",
+            "caption": "Off-Site Event",
+            "heading": "Taste of Ojai",
+            "text": "<p>🗓️ October 25th | 2:00 to 5:30pm</p><p>📍 <em>Libbey Park</em></p><p>Join Hiatus Craft House at Taste of Ojai 2026!</p>",
+            "button_label": "Tickets",
+            "button_link": "https://www.tasteofojai.org/tickets"
           }
         },
         "row_8NWUNT": {
@@ -143,10 +143,10 @@
       },
       "block_order": [
         "row_3KprYp",
-        "row_hUqUYV",
         "row_wwwTBq",
-        "row_hA3gfy",
         "row_AwkHxK",
+        "row_hUqUYV",
+        "row_hA3gfy",
         "row_8NWUNT",
         "row_fFf4JB",
         "row_BVDEcj",
