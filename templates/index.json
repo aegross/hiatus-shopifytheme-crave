@@ -15,13 +15,12 @@
         "slide_zN8EHF": {
           "type": "slide",
           "name": "TEMP",
-          "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/Summer_Mixology_Workshop_07232026_009_2bb84199-2edb-414a-bf8b-2ba1871116eb.jpg",
+            "image": "shopify://shop_images/IMG_4578.jpg",
             "image_overlay_opacity": 0,
-            "heading": "Fall Mixology Workshop",
+            "heading": "Fall Charcuterie Workshop",
             "heading_size": "h1",
-            "subheading": "Thursday, September 10th from 6:30-8:30pm. Featuring Alex from Firefly Bartending! Craft cocktails, recipe cards, and bites included.",
+            "subheading": "Sunday, October 25th from 12:00-2:00pm. Learn the basics of meat and cheese styling, and create an arrangement on your one-of-a-kind custom-made charcuterie board.",
             "button_label": "Tickets",
             "link": "https://www.eventbrite.com/e/fall-mixology-workshop-hiatus-craft-house-tickets-1996350168093",
             "button_style_secondary": false,
