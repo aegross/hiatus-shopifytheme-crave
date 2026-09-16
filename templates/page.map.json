@@ -669,6 +669,26 @@
             "link": ""
           }
         },
+        "column_icNrwa": {
+          "type": "column",
+          "name": "Liquor Emporium",
+          "settings": {
+            "title": "Liquor Emporium",
+            "text": "<p><em>1200 E Ocean Ave, Lompoc, CA 93436</em></p>",
+            "link_label": "Website",
+            "link": "https://liquoremporiuminc.com/"
+          }
+        },
+        "column_hVEwdj": {
+          "type": "column",
+          "name": "Spencer's (Lompoc)",
+          "settings": {
+            "title": "Spencer's Fresh Markets",
+            "text": "<p><em>1009 N H St M, Lompoc, CA 93436</em></p>",
+            "link_label": "Website",
+            "link": "https://spencersfreshmarkets.com/"
+          }
+        },
         "column_WBjqNq": {
           "type": "column",
           "name": "Oak Knoll Liquors",
@@ -734,6 +754,8 @@
         "column_QUij8c",
         "column_gVEDVh",
         "column_DBbBW8",
+        "column_icNrwa",
+        "column_hVEwdj",
         "column_WBjqNq",
         "column_Bq8PCV",
         "column_yYUt6d",
