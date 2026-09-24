@@ -81,6 +81,17 @@
             "button_link": "https://www.tikiadventura.com/event-tickets"
           }
         },
+        "row_fFf4JB": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/IMG_20260628_151915.jpg",
+            "caption": "Off-Site Event",
+            "heading": "Hope & Light Gala",
+            "text": "<p>🗓️ October 3rd | 5:00pm</p><p>📍 <em>The Lodge at Malibu Lake</em></p><p>Catch Hiatus Craft House at the 13th Annual Hope & Light Gala, benefiting Interface Children and Family Services!</p>",
+            "button_label": "Website",
+            "button_link": "https://www.icfs.org/hope-light-2026/"
+          }
+        },
         "row_hUqUYV": {
           "type": "row",
           "settings": {
@@ -95,24 +106,12 @@
         "row_hA3gfy": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/IMG_20260628_151915.jpg",
+            "image": "shopify://shop_images/conejofwf2025-74_013cceef-950b-4369-8567-4fbf5b2f9199.jpg",
             "caption": "Off-Site Event",
             "heading": "Taste of Ojai",
-            "text": "<p>🗓️ October 25th | 2:00 to 5:30pm</p><p>📍 <em>Libbey Park</em></p><p>Join Hiatus Craft House at Taste of Ojai 2026!</p>",
+            "text": "<p>🗓️ October 25th | 2:00 to 5:30pm</p><p>📍&nbsp;<em>Libbey&nbsp;Park</em></p><p>Join Hiatus Craft House at Taste of Ojai 2026!</p>",
             "button_label": "Tickets",
             "button_link": "https://www.tasteofojai.org/tickets"
-          }
-        },
-        "row_fFf4JB": {
-          "type": "row",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/CLU.jpg",
-            "caption": "Off-Site Event",
-            "heading": "Casa Pacifica Wine, Food & Brew Festival",
-            "text": "<p>🗓️ June 7th | 1:00 to 5:00pm</p><p>📍 <em>California State Univeristy Channel Islands</em></p><p>Catch Hiatus Craft House at the 33rd Annual Casa Pacifica Angels Wine, Food & Brew Festival!</p>",
-            "button_label": "Tickets",
-            "button_link": "https://winefoodandbrewfestival.com/"
           }
         },
         "row_BVDEcj": {
@@ -145,9 +144,9 @@
         "row_8NWUNT",
         "row_wwwTBq",
         "row_AwkHxK",
+        "row_fFf4JB",
         "row_hUqUYV",
         "row_hA3gfy",
-        "row_fFf4JB",
         "row_BVDEcj",
         "row_YyUeff"
       ],
