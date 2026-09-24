@@ -91,12 +91,23 @@
             "button_link": "https://www.icfs.org/hope-light-2026/"
           }
         },
+        "row_JphPPD": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Summer_Mixology_Workshop_07232026_009.jpg",
+            "caption": "OFF-SITE EVENT",
+            "heading": "Santa Barbara Fall Tasting Festival&nbsp;",
+            "text": "<p>🗓️ November 7th | 2:00 to 5:00pm</p><p>📍&nbsp;<em>Santa Barbara Museum of Natural History</em></p><p>Join Hiatus Craft House at the Santa Barbara Fall Tasting Festival!</p>",
+            "button_label": "Tickets",
+            "button_link": "https://tickets.sbnature.org/events/019c5e4e-b86c-3736-8ff3-8ec2afd79087"
+          }
+        },
         "row_9WHKpj": {
           "type": "row",
           "settings": {
             "image": "shopify://shop_images/IMG_3948.jpg",
             "caption": "OFF-SITE EVENT",
-            "heading": "Kiwanis Corks & Kegs",
+            "heading": "Kiwanis Corks & Kegs Festival",
             "text": "<p>🗓️ October 8th | 5:30 to 8:30pm</p><p>📍&nbsp;<em>The Gardens at Los Robles Greens</em></p><p>Catch Hiatus Craft House at the Kiwanis Corks & Kegs Beer & Wine Festival!</p>",
             "button_label": "Website",
             "button_link": "https://tobrewfest.ticketsauce.com/e/kiwanis-corks-and-kegs-2026/tickets"
@@ -147,18 +158,6 @@
             "button_label": "Vendor Application",
             "button_link": "shopify://pages/market-vendor-application"
           }
-        },
-        "row_YyUeff": {
-          "type": "row",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/IMG_4033.jpg",
-            "caption": "In-House event",
-            "heading": "Cocktails & Comedy",
-            "text": "<p>🗓️ April 4th | 6:00 to 8:30pm</p><p>📍 <em>Hiatus Craft House</em></p><p>Join Funny Girl Events for their first Cocktails & Comedy event in Camarillo here at Hiatus Craft House!</p>",
-            "button_label": "Tickets",
-            "button_link": "https://www.eventbrite.com/e/camarillo-comedy-club-hiatus-craft-house-tickets-1983287818253?aff=oddtdtcreator"
-          }
         }
       },
       "block_order": [
@@ -167,12 +166,12 @@
         "row_wwwTBq",
         "row_AwkHxK",
         "row_fFf4JB",
+        "row_JphPPD",
         "row_9WHKpj",
         "row_hUqUYV",
         "row_hA3gfy",
         "row_3KprYp",
-        "row_BVDEcj",
-        "row_YyUeff"
+        "row_BVDEcj"
       ],
       "custom_css": [
         "{margin-top: 24px;}"
