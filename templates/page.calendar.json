@@ -36,18 +36,6 @@
     "multirow_X4jtxF": {
       "type": "multirow",
       "blocks": {
-        "row_3KprYp": {
-          "type": "row",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/IMG_2886.jpg",
-            "caption": "In-House Event",
-            "heading": "Fall Mixology Workshop",
-            "text": "<p>🗓️ September 10th | 6:30 to 8:30pm</p><p>📍 <em>Hiatus Craft House</em></p><p>Join us for our Fall Mixology Workshop with Alex from <a href=\"https://www.fireflybartending.com/\" target=\"_blank\" title=\"https://www.fireflybartending.com/\">Firefly Bartending</a>! Craft cocktails, recipe cards, and bites included.</p>",
-            "button_label": "Tickets",
-            "button_link": "https://www.eventbrite.com/e/fall-mixology-workshop-hiatus-craft-house-tickets-1996350168093?aff=oddtdtcreator"
-          }
-        },
         "row_8NWUNT": {
           "type": "row",
           "settings": {
@@ -57,6 +45,17 @@
             "text": "<p>🗓️ October 25th | 12:00 to 2:00pm</p><p>📍 <em>Hiatus Craft House</em></p><p>Join us for our Fall Charcuterie Workshop on Sunday, October 25th from 12-2pm!</p><p><strong>LOLLYGAGGERS:</strong> Email abby@hiatuscrafthouse.com for your special code to get $10 off General Admission!</p>",
             "button_label": "Tickets",
             "button_link": "https://www.eventbrite.com/e/charcuterie-workshop-tickets-1994483244073?"
+          }
+        },
+        "row_PKdhJy": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/IMG_4469.jpg",
+            "caption": "IN-HOUSE EVENT",
+            "heading": "Anniversary Party",
+            "text": "<p>🗓️ November 15th&nbsp;</p><p>📍<em>Hiatus Craft House</em></p><p>Join us to celebrate our Second Anniversary! Stay tuned for more details.</p>",
+            "button_label": "",
+            "button_link": ""
           }
         },
         "row_wwwTBq": {
@@ -114,6 +113,18 @@
             "button_link": "https://www.tasteofojai.org/tickets"
           }
         },
+        "row_3KprYp": {
+          "type": "row",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/IMG_2886.jpg",
+            "caption": "In-House Event",
+            "heading": "Fall Mixology Workshop",
+            "text": "<p>🗓️ September 10th | 6:30 to 8:30pm</p><p>📍 <em>Hiatus Craft House</em></p><p>Join us for our Fall Mixology Workshop with Alex from <a href=\"https://www.fireflybartending.com/\" target=\"_blank\" title=\"https://www.fireflybartending.com/\">Firefly Bartending</a>! Craft cocktails, recipe cards, and bites included.</p>",
+            "button_label": "Tickets",
+            "button_link": "https://www.eventbrite.com/e/fall-mixology-workshop-hiatus-craft-house-tickets-1996350168093?aff=oddtdtcreator"
+          }
+        },
         "row_BVDEcj": {
           "type": "row",
           "disabled": true,
@@ -140,13 +151,14 @@
         }
       },
       "block_order": [
-        "row_3KprYp",
         "row_8NWUNT",
+        "row_PKdhJy",
         "row_wwwTBq",
         "row_AwkHxK",
         "row_fFf4JB",
         "row_hUqUYV",
         "row_hA3gfy",
+        "row_3KprYp",
         "row_BVDEcj",
         "row_YyUeff"
       ],
@@ -170,31 +182,6 @@
         "padding_bottom": 36
       }
     },
-    "rich_text_pcaJrm": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_Ay9Bip": {
-          "type": "heading",
-          "settings": {
-            "heading": "Event Calendar",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_Ay9Bip"
-      ],
-      "custom_css": [],
-      "name": "t:sections.rich-text.presets.name",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "accent-1",
-        "full_width": true,
-        "padding_top": 24,
-        "padding_bottom": 24
-      }
-    },
     "main": {
       "type": "main-page",
       "custom_css": [
@@ -209,7 +196,6 @@
   "order": [
     "rich_text_RbWnHT",
     "multirow_X4jtxF",
-    "rich_text_pcaJrm",
     "main"
   ]
 }
