@@ -9,10 +9,10 @@
  */
 {
   "sections": {
-    "rich_text_RbWnHT": {
+    "rich_text_wVxxmX": {
       "type": "rich-text",
       "blocks": {
-        "heading_VGM43D": {
+        "heading_TzXMr7": {
           "type": "heading",
           "settings": {
             "heading": "<strong>Events</strong>",
@@ -21,7 +21,7 @@
         }
       },
       "block_order": [
-        "heading_VGM43D"
+        "heading_TzXMr7"
       ],
       "name": "t:sections.rich-text.presets.name",
       "settings": {
@@ -91,17 +91,6 @@
             "button_link": "https://www.icfs.org/hope-light-2026/"
           }
         },
-        "row_JphPPD": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/Summer_Mixology_Workshop_07232026_009.jpg",
-            "caption": "OFF-SITE EVENT",
-            "heading": "Santa Barbara Fall Tasting Festival&nbsp;",
-            "text": "<p>🗓️ November 7th | 2:00 to 5:00pm</p><p>📍&nbsp;<em>Santa Barbara Museum of Natural History</em></p><p>Join Hiatus Craft House at the Santa Barbara Fall Tasting Festival!</p>",
-            "button_label": "Tickets",
-            "button_link": "https://tickets.sbnature.org/events/019c5e4e-b86c-3736-8ff3-8ec2afd79087"
-          }
-        },
         "row_9WHKpj": {
           "type": "row",
           "settings": {
@@ -135,6 +124,17 @@
             "button_link": "https://www.tasteofojai.org/tickets"
           }
         },
+        "row_JphPPD": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Summer_Mixology_Workshop_07232026_009.jpg",
+            "caption": "OFF-SITE EVENT",
+            "heading": "Santa Barbara Fall Tasting Festival&nbsp;",
+            "text": "<p>🗓️ November 7th | 2:00 to 5:00pm</p><p>📍&nbsp;<em>Santa Barbara Museum of Natural History</em></p><p>Join Hiatus Craft House at the Santa Barbara Fall Tasting Festival!</p>",
+            "button_label": "Tickets",
+            "button_link": "https://tickets.sbnature.org/events/019c5e4e-b86c-3736-8ff3-8ec2afd79087"
+          }
+        },
         "row_3KprYp": {
           "type": "row",
           "disabled": true,
@@ -166,10 +166,10 @@
         "row_wwwTBq",
         "row_AwkHxK",
         "row_fFf4JB",
-        "row_JphPPD",
         "row_9WHKpj",
         "row_hUqUYV",
         "row_hA3gfy",
+        "row_JphPPD",
         "row_3KprYp",
         "row_BVDEcj"
       ],
@@ -193,6 +193,30 @@
         "padding_bottom": 36
       }
     },
+    "rich_text_RbWnHT": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_VGM43D": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Calendar</strong>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_VGM43D"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-f6fe83da-87e4-4255-b82c-0ab712ac5194",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "main": {
       "type": "main-page",
       "custom_css": [
@@ -205,8 +229,9 @@
     }
   },
   "order": [
-    "rich_text_RbWnHT",
+    "rich_text_wVxxmX",
     "multirow_X4jtxF",
+    "rich_text_RbWnHT",
     "main"
   ]
 }
