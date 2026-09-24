@@ -91,13 +91,24 @@
             "button_link": "https://www.icfs.org/hope-light-2026/"
           }
         },
+        "row_9WHKpj": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/IMG_3948.jpg",
+            "caption": "OFF-SITE EVENT",
+            "heading": "Kiwanis Corks & Kegs",
+            "text": "<p>🗓️ October 8th | 5:30 to 8:30pm</p><p>📍&nbsp;<em>The Gardens at Los Robles Greens</em></p><p>Catch Hiatus Craft House at the Kiwanis Corks & Kegs Beer & Wine Festival!</p>",
+            "button_label": "Website",
+            "button_link": "https://tobrewfest.ticketsauce.com/e/kiwanis-corks-and-kegs-2026/tickets"
+          }
+        },
         "row_hUqUYV": {
           "type": "row",
           "settings": {
             "image": "shopify://shop_images/IMG_4033.jpg",
             "caption": "Off-Site Event",
             "heading": "Venture Liquors Tasting",
-            "text": "<p>🗓️ October 23rd | 5:00 to 8:00pm</p><p>📍 <em>Venture Liquors</em></p><p>Join Hiatus Craft House at Venture Liquors in Simi Valley for a special tasting of our spirits! </p>",
+            "text": "<p>🗓️ October 23rd | 5:00 to 8:00pm</p><p>📍&nbsp;<em>Venture Liquors</em></p><p>Join Hiatus Craft House at Venture Liquors in Simi Valley for a special tasting of our spirits!&nbsp;</p>",
             "button_label": "Website",
             "button_link": "https://venture-liquors.edan.io/"
           }
@@ -156,6 +167,7 @@
         "row_wwwTBq",
         "row_AwkHxK",
         "row_fFf4JB",
+        "row_9WHKpj",
         "row_hUqUYV",
         "row_hA3gfy",
         "row_3KprYp",
