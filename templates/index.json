@@ -34,6 +34,7 @@
         "slide_h4hQr6": {
           "type": "slide",
           "name": "COTM",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/IMG_3692.jpg",
             "image_overlay_opacity": 0,
