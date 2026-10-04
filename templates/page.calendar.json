@@ -58,17 +58,6 @@
             "button_link": ""
           }
         },
-        "row_fFf4JB": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/IMG_20260628_151915.jpg",
-            "caption": "Off-Site Event",
-            "heading": "Hope & Light Gala",
-            "text": "<p>🗓️ October 3rd | 5:00pm</p><p>📍 <em>The Lodge at Malibu Lake</em></p><p>Catch Hiatus Craft House at the 13th Annual Hope & Light Gala, benefiting Interface Children and Family Services!</p>",
-            "button_label": "Website",
-            "button_link": "https://www.icfs.org/hope-light-2026/"
-          }
-        },
         "row_9WHKpj": {
           "type": "row",
           "settings": {
@@ -113,6 +102,18 @@
             "button_link": "https://tickets.sbnature.org/events/019c5e4e-b86c-3736-8ff3-8ec2afd79087"
           }
         },
+        "row_fFf4JB": {
+          "type": "row",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/IMG_20260628_151915.jpg",
+            "caption": "Off-Site Event",
+            "heading": "Hope & Light Gala",
+            "text": "<p>🗓️ October 3rd | 5:00pm</p><p>📍 <em>The Lodge at Malibu Lake</em></p><p>Catch Hiatus Craft House at the 13th Annual Hope & Light Gala, benefiting Interface Children and Family Services!</p>",
+            "button_label": "Website",
+            "button_link": "https://www.icfs.org/hope-light-2026/"
+          }
+        },
         "row_AwkHxK": {
           "type": "row",
           "disabled": true,
@@ -153,11 +154,11 @@
       "block_order": [
         "row_8NWUNT",
         "row_PKdhJy",
-        "row_fFf4JB",
         "row_9WHKpj",
         "row_hUqUYV",
         "row_hA3gfy",
         "row_JphPPD",
+        "row_fFf4JB",
         "row_AwkHxK",
         "row_3KprYp",
         "row_BVDEcj"
