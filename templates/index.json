@@ -34,9 +34,8 @@
         "slide_h4hQr6": {
           "type": "slide",
           "name": "COTM",
-          "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/IMG_3692.jpg",
+            "image": "shopify://shop_images/IMG_5509.jpg",
             "image_overlay_opacity": 0,
             "heading": "October Cocktail of the Month",
             "heading_size": "h1",
