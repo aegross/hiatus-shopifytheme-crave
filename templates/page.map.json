@@ -390,6 +390,16 @@
             "link_label": "Website",
             "link": "https://kalaveras.com/"
           }
+        },
+        "column_NgLFYN": {
+          "type": "column",
+          "name": "Swiss Resturant",
+          "settings": {
+            "title": "Swiss Restaurant&nbsp;",
+            "text": "<p><em>516 N Broadway, Santa Maria, CA 93454</em></p>",
+            "link_label": "Website",
+            "link": "https://www.swissrestaurantandbar.com"
+          }
         }
       },
       "block_order": [
@@ -414,7 +424,8 @@
         "column_EtjeKe",
         "column_eVtq8G",
         "column_PADUCe",
-        "column_pwYKy3"
+        "column_pwYKy3",
+        "column_NgLFYN"
       ],
       "custom_css": [],
       "name": "Restaurants & Bars",
@@ -719,6 +730,16 @@
             "link": "https://www.instagram.com/805liquor/"
           }
         },
+        "column_mMk6zk": {
+          "type": "column",
+          "name": "Remedy Liquor",
+          "settings": {
+            "title": "Remedy Liquor & Wine Cellar&nbsp;",
+            "text": "<p><em>1700 W Glenoaks Blvd, Glendale, CA 91201</em></p>",
+            "link_label": "Website",
+            "link": "https://www.remedyliquor.com"
+          }
+        },
         "column_rpggra": {
           "type": "column",
           "name": "Old Town Liquor",
@@ -759,6 +780,7 @@
         "column_WBjqNq",
         "column_Bq8PCV",
         "column_yYUt6d",
+        "column_mMk6zk",
         "column_rpggra"
       ],
       "custom_css": [],
