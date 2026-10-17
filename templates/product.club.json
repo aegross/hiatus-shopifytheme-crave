@@ -273,7 +273,7 @@
           "settings": {
             "heading": "How do subscriptions work?",
             "icon": "star",
-            "row_content": "<p>Subscribe to your spirit of choice to unlock your Lollygagger Membership. Members can access their online portal at any time to switch their subscription spirit — allowing you to try something new each quarter or stick with your favorite all year long.</p>",
+            "row_content": "<p>Subscribe to your spirit of choice to unlock your Lollygagger Membership. Members can access their online portal at any time to switch their subscription spirit — allowing you to try something new each quarter or stick with your favorite all year long.</p><p>Please note that subscription orders designated for pickup will be shipped to the address on file at customer's expense if not pickup up within 90 days of order notification.</p>",
             "page": ""
           }
         },
@@ -300,7 +300,7 @@
           "settings": {
             "heading": "How do I get my bottles?",
             "icon": "star",
-            "row_content": "<p>Bottles are available for shipping in California or local pickup. Shipping is offered at a flat rate of $25. We encourage Lollygaggers to join us for our quarterly pickup parties — a fun chance to mingle and enjoy light bites. If you can’t make it, additional pickup times can be arranged after your purchase.</p>",
+            "row_content": "<p>Bottles are available for shipping in California or local pickup. Shipping is offered at a flat rate of $25.&nbsp;</p><p>Subscription orders designated for pickup will be shipped to the address on file at customer's expense if not picked up within 90 days of order notification.</p>",
             "page": ""
           }
         },
