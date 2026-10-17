@@ -231,6 +231,16 @@
             "link": "https://theamendmentcamarillo.com/"
           }
         },
+        "column_tBgh4F": {
+          "type": "column",
+          "name": "House of Bamboo",
+          "settings": {
+            "title": "House of Bamboo",
+            "text": "<p><em>2227 Ventura Blvd, Camarillo, CA 93010</em></p>",
+            "link_label": "Website",
+            "link": "https://hobtiki.com/"
+          }
+        },
         "column_tbVW7k": {
           "type": "column",
           "name": "Genmai Sushi",
@@ -331,6 +341,16 @@
             "link": "https://www.djscatering.com/"
           }
         },
+        "column_fdPNjX": {
+          "type": "column",
+          "name": "Harbor Cove Cafe",
+          "settings": {
+            "title": "Harbor Cove Cafe",
+            "text": "<p><em>1867 Spinnaker Dr, Ventura, CA 93001</em></p>",
+            "link_label": "Website",
+            "link": "https://harborcovecafe.net/"
+          }
+        },
         "column_w38C6h": {
           "type": "column",
           "name": "Parque 1055",
@@ -409,6 +429,7 @@
         "column_7T4tDR",
         "column_DEXBfF",
         "column_jkyawk",
+        "column_tBgh4F",
         "column_tbVW7k",
         "column_dnjhcK",
         "column_NT9iWE",
@@ -419,6 +440,7 @@
         "column_RT34UQ",
         "column_G4cKhB",
         "column_qEnT37",
+        "column_fdPNjX",
         "column_w38C6h",
         "column_3gR3Ye",
         "column_EtjeKe",
