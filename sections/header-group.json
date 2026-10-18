@@ -14,19 +14,18 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement_gTt78h": {
-          "type": "announcement",
-          "disabled": true,
-          "settings": {
-            "text": "Closed Fourth of July Weekend (July 4 & 5)",
-            "link": ""
-          }
-        },
         "announcement_gYtPXP": {
           "type": "announcement",
           "settings": {
             "text": "Open Saturdays 12-6 & Sundays 1-5",
             "link": "https://maps.app.goo.gl/sQkLtfTTigDgq3ke7"
+          }
+        },
+        "announcement_gTt78h": {
+          "type": "announcement",
+          "settings": {
+            "text": "Check out our spirits at the Camarillo Costco  November 6-8!",
+            "link": ""
           }
         },
         "announcement_fVrntG": {
@@ -85,8 +84,8 @@
         }
       },
       "block_order": [
-        "announcement_gTt78h",
         "announcement_gYtPXP",
+        "announcement_gTt78h",
         "announcement_fVrntG",
         "announcement_3n7Bn9",
         "announcement_aDiwFk",
