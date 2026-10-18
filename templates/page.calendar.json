@@ -58,17 +58,6 @@
             "button_link": ""
           }
         },
-        "row_9WHKpj": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/conejofwf2025-76_5f234e6d-111e-43f5-a6bf-d80ec9dd05b3.jpg",
-            "caption": "OFF-SITE EVENT",
-            "heading": "Suds at Sunken Gardens",
-            "text": "<p>🗓️ October 17th | 12:00 to 3:30pm</p><p>📍&nbsp;<em>Sunken Gardens</em></p><p>Catch Hiatus Craft House at the Suds at Sunken Gardens 2026 in Atascadero!</p>",
-            "button_label": "Website",
-            "button_link": "https://www.atascaderofallfest.com/suds-at-sunken-gardens"
-          }
-        },
         "row_hUqUYV": {
           "type": "row",
           "settings": {
@@ -91,6 +80,17 @@
             "button_link": "https://www.tasteofojai.org/tickets"
           }
         },
+        "row_AwkHxK": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/IMG_5347.jpg",
+            "caption": "Off-Site Event",
+            "heading": "Costco Pop-Up",
+            "text": "<p>🗓️ November 6-8th | 11:00am to 5:00pm</p><p>📍&nbsp;<em>Costco Wholesale, Camarillo</em></p><p>Visit Hiatus Craft House at our Costco pop-up booth!</p>",
+            "button_label": "",
+            "button_link": "https://www.tikiadventura.com/event-tickets"
+          }
+        },
         "row_JphPPD": {
           "type": "row",
           "settings": {
@@ -100,6 +100,18 @@
             "text": "<p>🗓️ November 7th | 2:00 to 5:00pm</p><p>📍&nbsp;<em>Santa Barbara Museum of Natural History</em></p><p>Join Hiatus Craft House at the Santa Barbara Fall Tasting Festival!</p>",
             "button_label": "Tickets",
             "button_link": "https://tickets.sbnature.org/events/019c5e4e-b86c-3736-8ff3-8ec2afd79087"
+          }
+        },
+        "row_9WHKpj": {
+          "type": "row",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/conejofwf2025-76_5f234e6d-111e-43f5-a6bf-d80ec9dd05b3.jpg",
+            "caption": "OFF-SITE EVENT",
+            "heading": "Suds at Sunken Gardens",
+            "text": "<p>🗓️ October 17th | 12:00 to 3:30pm</p><p>📍&nbsp;<em>Sunken Gardens</em></p><p>Catch Hiatus Craft House at the Suds at Sunken Gardens 2026 in Atascadero!</p>",
+            "button_label": "Website",
+            "button_link": "https://www.atascaderofallfest.com/suds-at-sunken-gardens"
           }
         },
         "row_fFf4JB": {
@@ -112,18 +124,6 @@
             "text": "<p>🗓️ October 3rd | 5:00pm</p><p>📍 <em>The Lodge at Malibu Lake</em></p><p>Catch Hiatus Craft House at the 13th Annual Hope & Light Gala, benefiting Interface Children and Family Services!</p>",
             "button_label": "Website",
             "button_link": "https://www.icfs.org/hope-light-2026/"
-          }
-        },
-        "row_AwkHxK": {
-          "type": "row",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/IMG_5347.jpg",
-            "caption": "Off-Site Event",
-            "heading": "Son of the Big Tiki Woo-Woo",
-            "text": "<p>🗓️ October 2nd</p><p>📍<em> Crowne Plaza Ventura Beach</em></p><p>Catch Hiatus Craft House and all Tiki enthusiasts at the Son of the Big Tiki Woo-Woo event!&nbsp;</p>",
-            "button_label": "Tickets",
-            "button_link": "https://www.tikiadventura.com/event-tickets"
           }
         },
         "row_3KprYp": {
@@ -154,12 +154,12 @@
       "block_order": [
         "row_8NWUNT",
         "row_PKdhJy",
-        "row_9WHKpj",
         "row_hUqUYV",
         "row_hA3gfy",
-        "row_JphPPD",
-        "row_fFf4JB",
         "row_AwkHxK",
+        "row_JphPPD",
+        "row_9WHKpj",
+        "row_fFf4JB",
         "row_3KprYp",
         "row_BVDEcj"
       ],
