@@ -12,9 +12,28 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
+        "slide_iRJrtD": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image_overlay_opacity": 0,
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "show_text_box": true,
+            "box_align": "bottom-left",
+            "text_alignment": "left",
+            "text_alignment_mobile": "center",
+            "color_scheme": "scheme-1"
+          }
+        },
         "slide_zN8EHF": {
           "type": "slide",
           "name": "TEMP",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/IMG_4578.jpg",
             "image_overlay_opacity": 0,
@@ -166,6 +185,7 @@
         }
       },
       "block_order": [
+        "slide_iRJrtD",
         "slide_zN8EHF",
         "slide_h4hQr6",
         "slide-0",
