@@ -14,20 +14,21 @@
       "blocks": {
         "slide_iRJrtD": {
           "type": "slide",
-          "disabled": true,
+          "name": "TEMP",
           "settings": {
+            "image": "shopify://shop_images/IMG_5347.jpg",
             "image_overlay_opacity": 0,
-            "heading": "Image slide",
+            "heading": "Costco Camarillo Pop-Up",
             "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
+            "subheading": "Check out our pop-up booth at Camarillo's new <strong>Costco</strong>! <strong>Friday, November 6th through Sunday, November 8th, 11am to 5pm</strong>. Pick up a bottle at a special Costco price and a curated recipe card. Be sure to spin our wheel for a chance to <strong>win prizes</strong>.&nbsp;",
+            "button_label": "",
             "link": "",
             "button_style_secondary": false,
             "show_text_box": true,
             "box_align": "bottom-left",
             "text_alignment": "left",
             "text_alignment_mobile": "center",
-            "color_scheme": "scheme-1"
+            "color_scheme": "accent-2"
           }
         },
         "slide_zN8EHF": {
