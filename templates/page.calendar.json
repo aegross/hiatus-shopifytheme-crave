@@ -36,37 +36,15 @@
     "multirow_X4jtxF": {
       "type": "multirow",
       "blocks": {
-        "row_8NWUNT": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/IMG_4578.jpg",
-            "caption": "In-house Event",
-            "heading": "Fall Charcuterie Workshop",
-            "text": "<p>🗓️ October 25th | 12:00 to 2:00pm</p><p>📍 <em>Hiatus Craft House</em></p><p>Join us for our Fall Charcuterie Workshop on Sunday, October 25th from 12-2pm!</p><p><strong>LOLLYGAGGERS:</strong> Email abby@hiatuscrafthouse.com for your special code to get $10 off General Admission!</p>",
-            "button_label": "Tickets",
-            "button_link": "https://www.eventbrite.com/e/charcuterie-workshop-tickets-1994483244073?"
-          }
-        },
         "row_PKdhJy": {
           "type": "row",
           "settings": {
             "image": "shopify://shop_images/IMG_4469.jpg",
             "caption": "IN-HOUSE EVENT",
             "heading": "Anniversary Party",
-            "text": "<p>🗓️ November 15th&nbsp;</p><p>📍<em>Hiatus Craft House</em></p><p>Join us to celebrate our Second Anniversary! Stay tuned for more details.</p>",
+            "text": "<p>🗓️ November 15th, 1-5pm&nbsp;</p><p>📍<em>Hiatus Craft House</em></p><p>Join us to celebrate our Second Anniversary! Enjoy complimentary tastings, along with tacos at 1pm, while supplies last.&nbsp;</p><p>Members of our Lollygagger will be sent a special RSVP link to attend a members-only pre-party!&nbsp;</p><p>Questions? Reach out to <a href=\"mailto:abby@hiatuscrafthouse.com\" target=\"_blank\" title=\"mailto:abby@hiatuscrafthouse.com\">abby@hiatuscrafthouse.com</a></p>",
             "button_label": "",
             "button_link": ""
-          }
-        },
-        "row_hUqUYV": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/IMG_4033.jpg",
-            "caption": "Off-Site Event",
-            "heading": "Venture Liquors Tasting",
-            "text": "<p>🗓️ October 23rd | 5:00 to 8:00pm</p><p>📍&nbsp;<em>Venture Liquors</em></p><p>Join Hiatus Craft House at Venture Liquors in Simi Valley for a special tasting of our spirits!&nbsp;</p>",
-            "button_label": "Website",
-            "button_link": "https://venture-liquors.edan.io/"
           }
         },
         "row_hA3gfy": {
@@ -86,7 +64,7 @@
             "image": "shopify://shop_images/IMG_5347.jpg",
             "caption": "Off-Site Event",
             "heading": "Costco Pop-Up",
-            "text": "<p>🗓️ November 6-8th | 11:00am to 5:00pm</p><p>📍&nbsp;<em>Costco Wholesale, Camarillo</em></p><p>Visit Hiatus Craft House at our Costco pop-up booth!</p>",
+            "text": "<p>🗓️ November 6-8th | 11:00am to 5:00pm</p><p>📍&nbsp;<em>Costco Wholesale, Camarillo</em></p><p>Check out our pop-up booth at Camarillo's new Costco! Pick up a bottle at a special Costco price and a curated recipe card. Be sure to spin our wheel for a chance to <strong>win prizes</strong>.&nbsp;</p>",
             "button_label": "",
             "button_link": "https://www.tikiadventura.com/event-tickets"
           }
@@ -100,6 +78,30 @@
             "text": "<p>🗓️ November 7th | 2:00 to 5:00pm</p><p>📍&nbsp;<em>Santa Barbara Museum of Natural History</em></p><p>Join Hiatus Craft House at the Santa Barbara Fall Tasting Festival!</p>",
             "button_label": "Tickets",
             "button_link": "https://tickets.sbnature.org/events/019c5e4e-b86c-3736-8ff3-8ec2afd79087"
+          }
+        },
+        "row_hUqUYV": {
+          "type": "row",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/IMG_4033.jpg",
+            "caption": "Off-Site Event",
+            "heading": "Venture Liquors Tasting",
+            "text": "<p>🗓️ October 23rd | 5:00 to 8:00pm</p><p>📍&nbsp;<em>Venture Liquors</em></p><p>Join Hiatus Craft House at Venture Liquors in Simi Valley for a special tasting of our spirits!&nbsp;</p>",
+            "button_label": "Website",
+            "button_link": "https://venture-liquors.edan.io/"
+          }
+        },
+        "row_8NWUNT": {
+          "type": "row",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/IMG_4578.jpg",
+            "caption": "In-house Event",
+            "heading": "Fall Charcuterie Workshop",
+            "text": "<p>🗓️ October 25th | 12:00 to 2:00pm</p><p>📍 <em>Hiatus Craft House</em></p><p>Join us for our Fall Charcuterie Workshop on Sunday, October 25th from 12-2pm!</p><p><strong>LOLLYGAGGERS:</strong> Email abby@hiatuscrafthouse.com for your special code to get $10 off General Admission!</p>",
+            "button_label": "Tickets",
+            "button_link": "https://www.eventbrite.com/e/charcuterie-workshop-tickets-1994483244073?"
           }
         },
         "row_9WHKpj": {
@@ -152,12 +154,12 @@
         }
       },
       "block_order": [
-        "row_8NWUNT",
         "row_PKdhJy",
-        "row_hUqUYV",
         "row_hA3gfy",
         "row_AwkHxK",
         "row_JphPPD",
+        "row_hUqUYV",
+        "row_8NWUNT",
         "row_9WHKpj",
         "row_fFf4JB",
         "row_3KprYp",
