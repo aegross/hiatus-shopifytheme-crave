@@ -31,26 +31,6 @@
             "color_scheme": "accent-2"
           }
         },
-        "slide_zN8EHF": {
-          "type": "slide",
-          "name": "TEMP",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/IMG_4578.jpg",
-            "image_overlay_opacity": 0,
-            "heading": "Fall Charcuterie Workshop",
-            "heading_size": "h1",
-            "subheading": "Sunday, October 25th from 12:00-2:00pm. Learn the basics of meat and cheese styling, and create an arrangement on your one-of-a-kind custom-made charcuterie board.",
-            "button_label": "Tickets",
-            "link": "https://www.eventbrite.com/e/fall-mixology-workshop-hiatus-craft-house-tickets-1996350168093",
-            "button_style_secondary": false,
-            "show_text_box": true,
-            "box_align": "bottom-left",
-            "text_alignment": "center",
-            "text_alignment_mobile": "center",
-            "color_scheme": "accent-2"
-          }
-        },
         "slide_h4hQr6": {
           "type": "slide",
           "name": "COTM",
@@ -183,18 +163,38 @@
             "text_alignment_mobile": "center",
             "color_scheme": "accent-2"
           }
+        },
+        "slide_zN8EHF": {
+          "type": "slide",
+          "name": "TEMP",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/IMG_4578.jpg",
+            "image_overlay_opacity": 0,
+            "heading": "Fall Charcuterie Workshop",
+            "heading_size": "h1",
+            "subheading": "Sunday, October 25th from 12:00-2:00pm. Learn the basics of meat and cheese styling, and create an arrangement on your one-of-a-kind custom-made charcuterie board.",
+            "button_label": "Tickets",
+            "link": "https://www.eventbrite.com/e/fall-mixology-workshop-hiatus-craft-house-tickets-1996350168093",
+            "button_style_secondary": false,
+            "show_text_box": true,
+            "box_align": "bottom-left",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "accent-2"
+          }
         }
       },
       "block_order": [
         "slide_iRJrtD",
-        "slide_zN8EHF",
         "slide_h4hQr6",
         "slide-0",
         "slide_9DGtDz",
         "slide_PKNtV4",
         "slide_cjdkdq",
         "slide_HJri7T",
-        "slide_PbQA9Y"
+        "slide_PbQA9Y",
+        "slide_zN8EHF"
       ],
       "custom_css": [],
       "settings": {
