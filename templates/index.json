@@ -50,6 +50,25 @@
             "color_scheme": "accent-2"
           }
         },
+        "slide_paFtNG": {
+          "type": "slide",
+          "name": "TEMP",
+          "settings": {
+            "image": "shopify://shop_images/IMG_3762.jpg",
+            "image_overlay_opacity": 0,
+            "heading": "Winter Mixology Workshop",
+            "heading_size": "h1",
+            "subheading": "Join us for our Winter Mixology Workshop on Thursday, December 3rd, from 6:30-8:30pm, with Alex from <a href=\"https://www.fireflybartending.com/\" target=\"_blank\">Firefly Bartending</a>! Craft cocktails, recipe cards, and bites included.",
+            "button_label": "Tickets",
+            "link": "shopify://products/winter-mixology-workshop-2026",
+            "button_style_secondary": false,
+            "show_text_box": true,
+            "box_align": "bottom-left",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "accent-2"
+          }
+        },
         "slide-0": {
           "type": "slide",
           "name": "PERM",
@@ -188,6 +207,7 @@
       "block_order": [
         "slide_iRJrtD",
         "slide_h4hQr6",
+        "slide_paFtNG",
         "slide-0",
         "slide_9DGtDz",
         "slide_PKNtV4",
