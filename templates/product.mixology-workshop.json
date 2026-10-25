@@ -253,30 +253,12 @@
     "collapsible_content_FMkckc": {
       "type": "collapsible-content",
       "blocks": {
-        "collapsible_row_f6wBRj": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "What is Hiatus Craft House?",
-            "icon": "snowflake",
-            "row_content": "<p>Established in 2022, Hiatus Craft House is a small-batch distillery and tasting room in Camarillo, California. Built on innovation by owners Dawn and Dave Gross, this distillery offers a handcrafted selection of high-quality whiskeys, agave spirits, vodka, gin, rums, and liqueurs.</p><p>At the tasting room, guests can unwind with personalized six-spirit flights and are welcome to bring their own food to complement the experience. Beyond tastings, the space serves as a unique venue for workshops and private events. Dawn and Dave’s commitment to community extends beyond the still through their non-profit, the NewCo Foundation, which provides student internships and scholarships across Ventura County, turning craft and compassion into lasting impact.</p>",
-            "page": ""
-          }
-        },
         "collapsible_row_YAYWny": {
           "type": "collapsible_row",
           "settings": {
             "heading": "What time should I arrive?",
             "icon": "snowflake",
             "row_content": "<p><strong>Doors open at 6:00 PM, </strong>so you can find your station and get settled before we start shaking at 6:30 PM.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_LhzFKb": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Do I need experience?",
-            "icon": "snowflake",
-            "row_content": "<p><strong>Zero experience required! </strong>Whether you’ve never held a cocktail shaker or you make drinks at home all the time, our instructor will guide you step-by-step so everyone has fun and crafts two delicious drinks!</p>",
             "page": ""
           }
         },
@@ -289,30 +271,12 @@
             "page": ""
           }
         },
-        "collapsible_row_BiLHpN": {
+        "collapsible_row_LhzFKb": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Can I bring my kids?",
+            "heading": "Do I need experience?",
             "icon": "snowflake",
-            "row_content": "<p>As much as we love little humans, this is a <strong>strictly 21+</strong> zone! Consider this your official hall pass to ditch the juice boxes, leave the bedtime meltdowns behind, and treat yourself to a much-needed adult getaway.&nbsp;</p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_Th6jcy": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "What is your cancellation/refund policy?",
-            "icon": "snowflake",
-            "row_content": "<p>Life happens! While we don't offer cash refunds for cancellations, we are more than happy to transfer your ticket to a future workshop date. Just contact <a href=\"mailto:abby@hiatuscrafthouse.com\" target=\"_blank\" title=\"mailto:abby@hiatuscrafthouse.com\">abby@hiatuscrafthouse.com</a> at least 48 hours before the event so we can make proper adjustments.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_R9cyrV": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "I have food allergies/dietary restrictions. Can I still attend?",
-            "icon": "snowflake",
-            "row_content": "<p>Yes! Please contact <a href=\"mailto:abby@hiatuscrafthouse.com\" target=\"_blank\" title=\"mailto:abby@hiatuscrafthouse.com\">abby@hiatuscrafthouse.com</a> with any allergies or dietary restrictions (e.g., gluten-free, dairy-free, nut allergies) a minimum of 72 hours before the event so we can accommodate appropriately!</p>",
+            "row_content": "<p><strong>Zero experience required! </strong>Whether you’ve never held a cocktail shaker or you make drinks at home all the time, our instructor will guide you step-by-step so everyone has fun and crafts two delicious drinks!</p>",
             "page": ""
           }
         },
@@ -325,19 +289,55 @@
             "page": ""
           }
         },
+        "collapsible_row_R9cyrV": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "I have food allergies/dietary restrictions. Can I still attend?",
+            "icon": "snowflake",
+            "row_content": "<p>Yes! Please contact <a href=\"mailto:abby@hiatuscrafthouse.com\" target=\"_blank\" title=\"mailto:abby@hiatuscrafthouse.com\">abby@hiatuscrafthouse.com</a> with any allergies or dietary restrictions (e.g., gluten-free, dairy-free, nut allergies) a minimum of 72 hours before the event so we can accommodate appropriately!</p>",
+            "page": ""
+          }
+        },
         "collapsible_row_Xqwxxd": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Do you do private mixology workshops?",
+            "heading": "Can I plan a private mixology workshop?",
             "icon": "snowflake",
             "row_content": "<p>Yes! We love a good party. Whether it's a team-building event, a birthday bash, or just a private get-together, we can provide you with a fun place to shake-and-sip stress-free! Contact <a href=\"mailto:abby@hiatuscrafthouse.com\" target=\"_blank\" title=\"mailto:abby@hiatuscrafthouse.com\">abby@hiatuscrafthouse.com</a> with your ideal date and details.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_Th6jcy": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is your cancellation/refund policy?",
+            "icon": "snowflake",
+            "row_content": "<p>Life happens! While we don't offer cash refunds for cancellations, we are more than happy to transfer your ticket to a future workshop date. Just contact <a href=\"mailto:abby@hiatuscrafthouse.com\" target=\"_blank\" title=\"mailto:abby@hiatuscrafthouse.com\">abby@hiatuscrafthouse.com</a> at least 48 hours before the event so we can make proper adjustments.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_BiLHpN": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I bring my kids?",
+            "icon": "snowflake",
+            "row_content": "<p>As much as we love little humans, this is a <strong>strictly 21+</strong> zone! Consider this your official hall pass to ditch the juice boxes, leave the bedtime meltdowns behind, and treat yourself to a much-needed adult getaway.&nbsp;</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_f6wBRj": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is Hiatus Craft House?",
+            "icon": "snowflake",
+            "row_content": "<p>Established in 2022, Hiatus Craft House is a small-batch distillery and tasting room in Camarillo, California. Built on innovation by owners Dawn and Dave Gross, this distillery offers a handcrafted selection of high-quality whiskeys, agave spirits, vodka, gin, rums, and liqueurs.</p><p>At the tasting room, guests can unwind with personalized six-spirit flights and are welcome to bring their own food to complement the experience. Beyond tastings, the space serves as a unique venue for workshops and private events. Dawn and Dave’s commitment to community extends beyond the still through their non-profit, the NewCo Foundation, which provides student internships and scholarships across Ventura County, turning craft and compassion into lasting impact.</p>",
             "page": ""
           }
         },
         "collapsible_row_MnTitq": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "What's the Lollygaggers Bottle Club?",
+            "heading": "What is the Lollygaggers Bottle Club?",
             "icon": "snowflake",
             "row_content": "<p>The <a href=\"https://hiatuscrafthouse.com/products/hiatus-membership\" target=\"_blank\" title=\"https://hiatuscrafthouse.com/products/hiatus-membership\"><strong>Lollygaggers Bottle Club</strong></a> is our exclusive membership program. All members receive discounts on our bottles, events, and merch, alongside weekly complimentary tastings and other perks!</p>",
             "page": ""
@@ -345,15 +345,15 @@
         }
       },
       "block_order": [
-        "collapsible_row_f6wBRj",
         "collapsible_row_YAYWny",
-        "collapsible_row_LhzFKb",
         "collapsible_row_Uni9eH",
-        "collapsible_row_BiLHpN",
-        "collapsible_row_Th6jcy",
-        "collapsible_row_R9cyrV",
+        "collapsible_row_LhzFKb",
         "collapsible_row_axF64W",
+        "collapsible_row_R9cyrV",
         "collapsible_row_Xqwxxd",
+        "collapsible_row_Th6jcy",
+        "collapsible_row_BiLHpN",
+        "collapsible_row_f6wBRj",
         "collapsible_row_MnTitq"
       ],
       "custom_css": [],
