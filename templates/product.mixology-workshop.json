@@ -31,6 +31,7 @@
         "heading_eKDwiD",
         "text_gLGyxk"
       ],
+      "disabled": true,
       "custom_css": [
         ".banner__text {color: rgba(250, 249, 225, 1);}"
       ],
@@ -52,13 +53,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "vendor": {
-          "type": "text",
-          "settings": {
-            "text": "{{ product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
         "title": {
           "type": "title",
           "settings": {}
@@ -139,7 +133,6 @@
         }
       },
       "block_order": [
-        "vendor",
         "title",
         "text_yFiWhK",
         "description",
@@ -196,6 +189,7 @@
         "column_4eMYpt",
         "column_34b69K"
       ],
+      "disabled": true,
       "custom_css": [],
       "name": "Lollygagger Perks",
       "settings": {
@@ -254,6 +248,7 @@
       "block_order": [
         "ai_gen_block_0150230_FJMFCY"
       ],
+      "disabled": true,
       "settings": {}
     },
     "collapsible_content_FMkckc": {
@@ -362,6 +357,7 @@
         "collapsible_row_NhFGNw",
         "collapsible_row_Y3egRt"
       ],
+      "disabled": true,
       "custom_css": [],
       "name": "FAQ",
       "settings": {
