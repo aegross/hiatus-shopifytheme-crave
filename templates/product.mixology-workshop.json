@@ -256,36 +256,36 @@
         "collapsible_row_LhzFKb": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "How do I join?",
-            "icon": "star",
-            "row_content": "<p>To activate your membership add the <strong>Club Membership </strong>product to your cart and continue shopping to<strong> subscribe to at least one eligible </strong><a href=\"https://hiatuscrafthouse.com/collections/frontpage\"><strong>spirit</strong></a><strong>!</strong></p>",
+            "heading": "Do I need experience?",
+            "icon": "snowflake",
+            "row_content": "<p><strong>Zero experience required! </strong>Whether you’ve never held a cocktail shaker or you make drinks at home all the time, our instructor will guide you step-by-step so everyone has fun and crafts two delicious drinks!</p>",
             "page": ""
           }
         },
         "collapsible_row_Uni9eH": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "How do subscriptions work?",
-            "icon": "star",
-            "row_content": "<p>Subscribe to your spirit of choice to unlock your Lollygagger Membership. Members can access their online portal at any time to switch their subscription spirit — allowing you to try something new each quarter or stick with your favorite all year long.</p><p>Please note that subscription orders designated for pickup will be shipped to the address on file at customer's expense if not pickup up within 90 days of order notification.</p>",
+            "heading": "What is included in the ticket price?",
+            "icon": "snowflake",
+            "row_content": "<p>All ingredients, spirits, bar tools, glassware, and recipe cards needed for the class are provided. You just need to show up ready to have fun!</p>",
             "page": ""
           }
         },
         "collapsible_row_BiLHpN": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "How do I swap my subscribed bottle?",
-            "icon": "star",
-            "row_content": "<p><a href=\"https://hiatuscrafthouse.com/apps/subscriptions\" target=\"_blank\" title=\"Manage subscriptions\">Click here</a> to manage your subscription. Under \"Details\", click \"Swap Product\" to choose your next subscription bottle!</p>",
+            "heading": "Can I bring my kids?",
+            "icon": "snowflake",
+            "row_content": "<p>As much as we love little humans, this is a <strong>strictly 21+</strong> zone! Consider this your official hall pass to ditch the juice boxes, leave the bedtime meltdowns behind, and treat yourself to a much-needed adult getaway.&nbsp;</p>",
             "page": ""
           }
         },
         "collapsible_row_Th6jcy": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "How much does the bottle club cost?",
-            "icon": "star",
-            "row_content": "<p>The Bottle Club is <strong>free to join</strong> — there are no sign-up or membership fees. Simply make your quarterly (four per year) bottle purchases to keep your membership active and unlock all member perks. Members also enjoy exclusive pricing on all spirits, with discounts of up to 25%.</p>",
+            "heading": "What is your cancellation/refund policy?",
+            "icon": "snowflake",
+            "row_content": "<p>Life happens! While we don't offer cash refunds for cancellations, we are more than happy to transfer your ticket to a future workshop date. Just contact <a href=\"mailto:abby@hiatuscrafthouse.com\" target=\"_blank\" title=\"mailto:abby@hiatuscrafthouse.com\">abby@hiatuscrafthouse.com</a> at least 48 hours before the event so we can make proper adjustments.</p>",
             "page": ""
           }
         },
@@ -356,7 +356,6 @@
         "collapsible_row_NhFGNw",
         "collapsible_row_Y3egRt"
       ],
-      "disabled": true,
       "custom_css": [],
       "name": "FAQ",
       "settings": {
