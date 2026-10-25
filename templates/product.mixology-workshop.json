@@ -253,6 +253,24 @@
     "collapsible_content_FMkckc": {
       "type": "collapsible-content",
       "blocks": {
+        "collapsible_row_f6wBRj": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is Hiatus Craft House?",
+            "icon": "snowflake",
+            "row_content": "<p>Established in 2022, Hiatus Craft House is a small-batch distillery and tasting room in Camarillo, California. Built on innovation by owners Dawn and Dave Gross, this distillery offers a handcrafted selection of high-quality whiskeys, agave spirits, vodka, gin, rums, and liqueurs.</p><p>At the tasting room, guests can unwind with personalized six-spirit flights and are welcome to bring their own food to complement the experience. Beyond tastings, the space serves as a unique venue for workshops and private events. Dawn and Dave’s commitment to community extends beyond the still through their non-profit, the NewCo Foundation, which provides student internships and scholarships across Ventura County, turning craft and compassion into lasting impact.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_YAYWny": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What time should I arrive?",
+            "icon": "snowflake",
+            "row_content": "<p><strong>Doors open at 6:00 PM, </strong>so you can find your station and get settled before we start shaking at 6:30 PM.</p>",
+            "page": ""
+          }
+        },
         "collapsible_row_LhzFKb": {
           "type": "collapsible_row",
           "settings": {
@@ -267,7 +285,7 @@
           "settings": {
             "heading": "What is included in the ticket price?",
             "icon": "snowflake",
-            "row_content": "<p>All ingredients, spirits, bar tools, glassware, and recipe cards needed for the class are provided. You just need to show up ready to have fun!</p>",
+            "row_content": "<p>All ingredients, spirits, bar tools, glassware, and recipe cards needed for the class are provided, along with festival bites. You just need to show up ready to have fun!</p>",
             "page": ""
           }
         },
@@ -292,59 +310,43 @@
         "collapsible_row_R9cyrV": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "How do I get my bottles?",
-            "icon": "star",
-            "row_content": "<p>Bottles are available for shipping in California or local pickup. Shipping is offered at a flat rate of $25.&nbsp;</p><p>Subscription orders designated for pickup will be shipped to the address on file at customer's expense if not picked up within 90 days of order notification.</p>",
+            "heading": "I have food allergies/dietary restrictions. Can I still attend?",
+            "icon": "snowflake",
+            "row_content": "<p>Yes! Please contact <a href=\"mailto:abby@hiatuscrafthouse.com\" target=\"_blank\" title=\"mailto:abby@hiatuscrafthouse.com\">abby@hiatuscrafthouse.com</a> with any allergies or dietary restrictions (e.g., gluten-free, dairy-free, nut allergies) a minimum of 72 hours before the event so we can accommodate appropriately!</p>",
             "page": ""
           }
         },
         "collapsible_row_axF64W": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Can you ship out of state?",
-            "icon": "star",
-            "row_content": "<p>Unfortunately, we’re not able to ship spirits out of state due to current laws and regulations. However, we always welcome out-of-state visitors to stop by the distillery for a tasting when they’re in town!</p>",
+            "heading": "Will there be food served?",
+            "icon": "snowflake",
+            "row_content": "<p>We will have small bites (e.g., charcuterie and sweets) to enjoy in between cocktails.</p>",
             "page": ""
           }
         },
         "collapsible_row_Xqwxxd": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "How much do I benefit?",
-            "icon": "star",
-            "row_content": "<p>You’ll enjoy plenty of perks as a member! Join before <strong>December 31st</strong> to unlock:</p><ul><li>A personalized <strong>Lollygaggers jersey!</strong></li><li>An <strong>invite to our Founders Party.</strong></li><li>Up to <strong>25% off</strong> bottles, merchandise, and events.</li><li>One weekly <strong>complimentary tasting flight </strong>for you and a guest.</li><li><strong>Exclusive Access</strong> to member-only events, distillery workshops, tours and tasting panels giving you a voice  in product development.</li><li><strong>First Access</strong> to new products including  single-barrel bottlings.</li><li><strong>Earn Loyalty Points</strong> on all purchases.</li></ul>",
+            "heading": "Do you do private mixology workshops?",
+            "icon": "snowflake",
+            "row_content": "<p>Yes! We love a good party. Whether it's a team-building event, a birthday bash, or just a private get-together, we can provide you with a fun place to shake-and-sip stress-free! Contact <a href=\"mailto:abby@hiatuscrafthouse.com\" target=\"_blank\" title=\"mailto:abby@hiatuscrafthouse.com\">abby@hiatuscrafthouse.com</a> with your ideal date and details.</p>",
             "page": ""
           }
         },
-        "collapsible_row_YAYWny": {
+        "collapsible_row_MnTitq": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "How do I earn and redeem loyalty points?",
-            "icon": "star",
-            "row_content": "<p>Lollygaggers earn<strong> 5 points for every $1</strong> spent with us. You can also earn extra points through friend referrals, social media engagement, and birthday bonuses. Once you’ve accumulated points, you can redeem them for discounts on future purchases, such as <strong>$5 off</strong> when you reach 500 points.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_NhFGNw": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Can I gift a membership?",
-            "icon": "star",
-            "row_content": "<p>Yes! To gift a membership:</p><ol><li>Add the Club Membership to your cart, then choose an item to subscribe to and add it to your cart.<br/></li><li>During checkout, enter the <strong>recipient’s contact information </strong>instead of your own.<br/></li><li>Complete the purchase using <strong>your payment details</strong>.<br/><br/>Once the subscription is created, the recipient will receive a confirmation email and can manage their subscription directly through their own account.</li></ol>",
-            "page": ""
-          }
-        },
-        "collapsible_row_Y3egRt": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "How do I cancel the membership?",
-            "icon": "star",
-            "row_content": "<p>We’re sad to see you go! Cancellations can be made by emailing us or by managing your subscription directly through your account.</p><p>Please note: All member benefits and loyalty points will end at the time of cancellation. We ask members to commit for one year when joining, but we understand things come up.</p><p><strong>If you cancel before your fourth bottle a $30 cancellation fee will apply.</strong></p>",
+            "heading": "What's the Lollygaggers Bottle Club?",
+            "icon": "snowflake",
+            "row_content": "<p>The <a href=\"https://hiatuscrafthouse.com/products/hiatus-membership\" target=\"_blank\" title=\"https://hiatuscrafthouse.com/products/hiatus-membership\"><strong>Lollygaggers Bottle Club</strong></a> is our exclusive membership program. All members receive discounts on our bottles, events, and merch, alongside weekly complimentary tastings and other perks!</p>",
             "page": ""
           }
         }
       },
       "block_order": [
+        "collapsible_row_f6wBRj",
+        "collapsible_row_YAYWny",
         "collapsible_row_LhzFKb",
         "collapsible_row_Uni9eH",
         "collapsible_row_BiLHpN",
@@ -352,9 +354,7 @@
         "collapsible_row_R9cyrV",
         "collapsible_row_axF64W",
         "collapsible_row_Xqwxxd",
-        "collapsible_row_YAYWny",
-        "collapsible_row_NhFGNw",
-        "collapsible_row_Y3egRt"
+        "collapsible_row_MnTitq"
       ],
       "custom_css": [],
       "name": "FAQ",
