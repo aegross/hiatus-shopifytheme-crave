@@ -15,14 +15,14 @@
         "heading_eKDwiD": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Lollygaggers Bottle Club</strong>",
+            "heading": "<strong>Mixology Workshops at Hiatus Craft House</strong>",
             "heading_size": "h0"
           }
         },
         "text_gLGyxk": {
           "type": "text",
           "settings": {
-            "text": "An <strong>exclusive membership </strong>that celebrates the craft and spirit of Hiatus. Enjoy small-batch bourbon, rye, single malt, vodka, gin, agave, rum, crèmes, and liqueurs — each capturing the laid-back charm of Camarillo’s coastal hills and the dedication poured into every bottle. <strong>Experience the heart of our distillery, one sip at a time. </strong>Check out more details below!",
+            "text": "Join us for our Mixology Workshops, led by guest bartenders and featuring our house-made spirits!",
             "text_style": "subtitle"
           }
         }
@@ -31,14 +31,13 @@
         "heading_eKDwiD",
         "text_gLGyxk"
       ],
-      "disabled": true,
       "custom_css": [
         ".banner__text {color: rgba(250, 249, 225, 1);}"
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Asset_3_1f18c9d4-f635-4fae-ad2b-0cbb39c0773f.png",
-        "image_overlay_opacity": 20,
+        "image": "shopify://shop_images/IMG_3762_6a77e99e-7a29-4a27-b4fe-4692dda3d4f8.jpg",
+        "image_overlay_opacity": 80,
         "image_height": "small",
         "image_behavior": "none",
         "desktop_content_position": "middle-center",
