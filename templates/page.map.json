@@ -471,6 +471,16 @@
     "multicolumn_6EPV6V": {
       "type": "multicolumn",
       "blocks": {
+        "column_cRTxyb": {
+          "type": "column",
+          "name": "Showcase Wine & Spirits",
+          "settings": {
+            "title": "Showcase Wine & Spirits",
+            "text": "<p><em>1392 N Lake Ave, Pasadena, CA 91104</em></p>",
+            "link_label": "Website",
+            "link": "https://www.showcaseliquor.com"
+          }
+        },
         "column_7b4pde": {
           "type": "column",
           "name": "Establos",
@@ -774,6 +784,7 @@
         }
       },
       "block_order": [
+        "column_cRTxyb",
         "column_7b4pde",
         "column_A38NeV",
         "column_yNJKYD",
