@@ -128,6 +128,7 @@
         "column_k7gnLz",
         "column_D3RVCF"
       ],
+      "disabled": true,
       "custom_css": [],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
@@ -197,7 +198,6 @@
         "column_LA34G8",
         "column_FFVRDj"
       ],
-      "disabled": true,
       "custom_css": [],
       "name": "PROPOSED",
       "settings": {
@@ -236,6 +236,217 @@
         "stack_images_on_mobile": false,
         "mobile_content_alignment": "center",
         "show_text_below": true
+      }
+    },
+    "multicolumn_KQjiFy": {
+      "type": "multicolumn",
+      "name": "PROPOSED-VC",
+      "settings": {
+        "title": "<strong>Ventura County</strong>",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_NdwpMd": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_kwE63e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/local_bar_250dp_A16F29.svg",
+            "title": "The Local",
+            "text": "<p><em>795 Camarillo Springs Rd, Camarillo, CA 93012</em></p>",
+            "link_label": "Website",
+            "link": "https://www.thelocalcamarillo.com/"
+          }
+        },
+        "column_fcCaYc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/local_bar_250dp_A16F29.svg",
+            "title": "Take Five Cocktails",
+            "text": "<p><em>2244 Pickwick Dr, Camarillo, CA 93010</em></p>",
+            "link_label": "Social Media",
+            "link": "https://www.instagram.com/takefivecocktails/"
+          }
+        },
+        "column_qmEApi": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/restaurant_66dp_A16F2A_FILL0_wght400_GRAD0_opsz48.svg",
+            "title": "Patron Mexican Bar & Grill",
+            "text": "<p><em>5227 Mission Oaks Blvd, Camarillo, CA 93012</em></p>",
+            "link_label": "Website",
+            "link": "https://camarillo.patronmex.com/"
+          }
+        }
+      },
+      "block_order": [
+        "column_kwE63e",
+        "column_fcCaYc",
+        "column_qmEApi"
+      ],
+      "name": "PROPOSED-Cam",
+      "settings": {
+        "title": "Camarillo",
+        "heading_size": "h2",
+        "image_width": "third",
+        "image_ratio": "square",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_DHwn8J": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_h8efLG": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/restaurant_66dp_A16F2A_FILL0_wght400_GRAD0_opsz48.svg",
+            "title": "Genmai Sushi",
+            "text": "<p><em>3623 W 5th St, Oxnard, CA 93030</em></p>",
+            "link_label": "Social Media",
+            "link": "https://www.instagram.com/genmaisushi_oxnard"
+          }
+        },
+        "column_DX9WbT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/restaurant_66dp_A16F2A_FILL0_wght400_GRAD0_opsz48.svg",
+            "title": "The Shores Restaurant",
+            "text": "<p><em>1031 Harbor Blvd, Oxnard, CA 93035</em></p>",
+            "link_label": "Website",
+            "link": "https://www.theshoresoxnard.com/"
+          }
+        },
+        "column_eyz3DC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/local_bar_250dp_A16F29.svg",
+            "title": "Q Club",
+            "text": "<p><em>2362 N Oxnard Blvd #107, Oxnard, CA 93036</em></p>",
+            "link_label": "Website",
+            "link": "https://qcluboxnard.com/"
+          }
+        }
+      },
+      "block_order": [
+        "column_h8efLG",
+        "column_DX9WbT",
+        "column_eyz3DC"
+      ],
+      "name": "PROPOSED-Ox",
+      "settings": {
+        "title": "Oxnard",
+        "heading_size": "h2",
+        "image_width": "third",
+        "image_ratio": "square",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_HY6fVH": {
+      "type": "multicolumn",
+      "name": "PROPOSED-LA",
+      "settings": {
+        "title": "<strong>Los Angeles County</strong>",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_PxkH6t": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_NeiapJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/shopping_bag_250dp_A16F29.svg",
+            "title": "Remedy Liquor & Wine Cellar",
+            "text": "<p><em>1700 W Glenoaks Blvd, Glendale, CA 91201</em></p>",
+            "link_label": "Website",
+            "link": "https://www.remedyliquor.com"
+          }
+        },
+        "column_dN4tTg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/shopping_bag_250dp_A16F29.svg",
+            "title": "Showcase Wine & Spirits",
+            "text": "<p>1392 N Lake Ave, Pasadena, CA 91104</p>",
+            "link_label": "Website",
+            "link": "https://www.showcaseliquor.com"
+          }
+        },
+        "column_YeGqEh": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/local_bar_250dp_A16F29.svg",
+            "title": "Q Club",
+            "text": "<p><em>2362 N Oxnard Blvd #107, Oxnard, CA 93036</em></p>",
+            "link_label": "Website",
+            "link": "https://qcluboxnard.com/"
+          }
+        }
+      },
+      "block_order": [
+        "column_NeiapJ",
+        "column_dN4tTg",
+        "column_YeGqEh"
+      ],
+      "name": "PROPOSED-Ox",
+      "settings": {
+        "title": "Glendale & Pasadena",
+        "heading_size": "h2",
+        "image_width": "third",
+        "image_ratio": "square",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "multicolumn_a9TQeg": {
@@ -328,7 +539,7 @@
             "title": "The Shores Restaurant",
             "text": "<p><em>1031 Harbor Blvd, Oxnard, CA 93035</em></p>",
             "link_label": "Website",
-            "link": ""
+            "link": "https://www.theshoresoxnard.com/"
           }
         },
         "column_NT9iWE": {
@@ -519,6 +730,7 @@
         "column_pwYKy3",
         "column_NgLFYN"
       ],
+      "disabled": true,
       "custom_css": [],
       "name": "Restaurants & Bars",
       "settings": {
@@ -886,6 +1098,7 @@
         "column_mMk6zk",
         "column_rpggra"
       ],
+      "disabled": true,
       "custom_css": [],
       "name": "Stores",
       "settings": {
@@ -950,6 +1163,11 @@
     "multicolumn_GTGcrC",
     "multicolumn_temgjz",
     "image_banner_Xqp7p9",
+    "multicolumn_KQjiFy",
+    "multicolumn_NdwpMd",
+    "multicolumn_DHwn8J",
+    "multicolumn_HY6fVH",
+    "multicolumn_PxkH6t",
     "multicolumn_a9TQeg",
     "multicolumn_6EPV6V",
     "rich_text_xVDh79"
