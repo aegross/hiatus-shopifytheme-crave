@@ -128,7 +128,6 @@
         "column_k7gnLz",
         "column_D3RVCF"
       ],
-      "disabled": true,
       "custom_css": [],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
@@ -198,6 +197,7 @@
         "column_LA34G8",
         "column_FFVRDj"
       ],
+      "disabled": true,
       "custom_css": [],
       "name": "PROPOSED",
       "settings": {
@@ -240,6 +240,7 @@
     },
     "multicolumn_KQjiFy": {
       "type": "multicolumn",
+      "disabled": true,
       "name": "PROPOSED-VC",
       "settings": {
         "title": "<strong>Ventura County</strong>",
@@ -297,6 +298,7 @@
         "column_fcCaYc",
         "column_qmEApi"
       ],
+      "disabled": true,
       "name": "PROPOSED-Cam",
       "settings": {
         "title": "Camarillo",
@@ -354,6 +356,7 @@
         "column_DX9WbT",
         "column_eyz3DC"
       ],
+      "disabled": true,
       "name": "PROPOSED-Ox",
       "settings": {
         "title": "Oxnard",
@@ -374,6 +377,7 @@
     },
     "multicolumn_HY6fVH": {
       "type": "multicolumn",
+      "disabled": true,
       "name": "PROPOSED-LA",
       "settings": {
         "title": "<strong>Los Angeles County</strong>",
@@ -431,6 +435,7 @@
         "column_dN4tTg",
         "column_YeGqEh"
       ],
+      "disabled": true,
       "name": "PROPOSED-Ox",
       "settings": {
         "title": "Glendale & Pasadena",
@@ -730,7 +735,6 @@
         "column_pwYKy3",
         "column_NgLFYN"
       ],
-      "disabled": true,
       "custom_css": [],
       "name": "Restaurants & Bars",
       "settings": {
@@ -1098,7 +1102,6 @@
         "column_mMk6zk",
         "column_rpggra"
       ],
-      "disabled": true,
       "custom_css": [],
       "name": "Stores",
       "settings": {
@@ -1161,6 +1164,8 @@
     "main",
     "image_banner_qCyTgp",
     "multicolumn_GTGcrC",
+    "multicolumn_a9TQeg",
+    "multicolumn_6EPV6V",
     "multicolumn_temgjz",
     "image_banner_Xqp7p9",
     "multicolumn_KQjiFy",
@@ -1168,8 +1173,6 @@
     "multicolumn_DHwn8J",
     "multicolumn_HY6fVH",
     "multicolumn_PxkH6t",
-    "multicolumn_a9TQeg",
-    "multicolumn_6EPV6V",
     "rich_text_xVDh79"
   ]
 }
