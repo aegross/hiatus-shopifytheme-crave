@@ -60,6 +60,7 @@
         },
         "row_hA3gfy": {
           "type": "row",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/conejofwf2025-74_013cceef-950b-4369-8567-4fbf5b2f9199.jpg",
             "caption": "Off-Site Event",
