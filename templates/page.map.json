@@ -81,22 +81,22 @@
             "link": ""
           }
         },
-        "column_WfygEf": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Restaurant-Icon_e512664c-8a69-4343-9364-14c289c549b8.svg",
-            "title": "Restaurant",
-            "text": "<p>Visit a local restaurant to enjoy a meal and try our spirits in one of their signature cocktails!</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_LA34G8": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Bar-Icon_8a115f74-c127-414c-ac62-028c062efaaa.svg",
             "title": "Bars",
             "text": "<p>Visit a local bar to try our spirits in one of their signature cocktails!</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_WfygEf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Restaurant-Icon_e512664c-8a69-4343-9364-14c289c549b8.svg",
+            "title": "Restaurants",
+            "text": "<p>Visit a local restaurant to enjoy a meal and try our spirits in one of their signature cocktails!</p>",
             "link_label": "",
             "link": ""
           }
@@ -114,8 +114,8 @@
       },
       "block_order": [
         "column_qcAHL7",
-        "column_WfygEf",
         "column_LA34G8",
+        "column_WfygEf",
         "column_FFVRDj"
       ],
       "custom_css": [],
@@ -893,7 +893,7 @@
     "multicolumn_KQjiFy": {
       "type": "multicolumn",
       "disabled": true,
-      "name": "PROPOSED-VC",
+      "name": "VC",
       "settings": {
         "title": "<strong>Ventura County</strong>",
         "heading_size": "h1",
@@ -913,45 +913,8 @@
     },
     "multicolumn_NdwpMd": {
       "type": "multicolumn",
-      "blocks": {
-        "column_kwE63e": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/local_bar_250dp_A16F29.svg",
-            "title": "The Local",
-            "text": "<p><em>795 Camarillo Springs Rd, Camarillo, CA 93012</em></p>",
-            "link_label": "Website",
-            "link": "https://www.thelocalcamarillo.com/"
-          }
-        },
-        "column_fcCaYc": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/local_bar_250dp_A16F29.svg",
-            "title": "Take Five Cocktails",
-            "text": "<p><em>2244 Pickwick Dr, Camarillo, CA 93010</em></p>",
-            "link_label": "Social Media",
-            "link": "https://www.instagram.com/takefivecocktails/"
-          }
-        },
-        "column_qmEApi": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/restaurant_66dp_A16F2A_FILL0_wght400_GRAD0_opsz48.svg",
-            "title": "Patron Mexican Bar & Grill",
-            "text": "<p><em>5227 Mission Oaks Blvd, Camarillo, CA 93012</em></p>",
-            "link_label": "Website",
-            "link": "https://camarillo.patronmex.com/"
-          }
-        }
-      },
-      "block_order": [
-        "column_kwE63e",
-        "column_fcCaYc",
-        "column_qmEApi"
-      ],
       "disabled": true,
-      "name": "PROPOSED-Cam",
+      "name": "Camarillo",
       "settings": {
         "title": "Camarillo",
         "heading_size": "h2",
