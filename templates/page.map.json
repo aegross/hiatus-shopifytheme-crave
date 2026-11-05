@@ -74,7 +74,7 @@
         "column_qcAHL7": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Home-Icon.svg",
+            "image": "shopify://shop_images/Home-Icon_6785ca09-097a-4716-9426-031a479232f6.svg",
             "title": "Distillery & Tasting Room",
             "text": "<p>Stop by Hiatus Craft House to pick up orders, do a tasting, or try one of our cocktails!</p>",
             "link_label": "",
@@ -84,7 +84,7 @@
         "column_WfygEf": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Restaurant-Icon.svg",
+            "image": "shopify://shop_images/Restaurant-Icon_e512664c-8a69-4343-9364-14c289c549b8.svg",
             "title": "Restaurant",
             "text": "<p>Visit a local restaurant to enjoy a meal and try our spirits in one of their signature cocktails!</p>",
             "link_label": "",
@@ -94,7 +94,7 @@
         "column_LA34G8": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Bar-Icon.svg",
+            "image": "shopify://shop_images/Bar-Icon_8a115f74-c127-414c-ac62-028c062efaaa.svg",
             "title": "Bars",
             "text": "<p>Visit a local bar to try our spirits in one of their signature cocktails!</p>",
             "link_label": "",
@@ -104,7 +104,7 @@
         "column_FFVRDj": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Store-Icon.svg",
+            "image": "shopify://shop_images/Store-Icon_a8b38b7a-33c3-4645-a98d-cd17463c7e53.svg",
             "title": "Stores",
             "text": "<p>Visit these local stores to purchase one of our bottles.</p>",
             "link_label": "",
