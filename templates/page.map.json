@@ -530,69 +530,9 @@
         "padding_bottom": 48
       }
     },
-    "multicolumn_KLPrBC": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_3EQg9M": {
-          "type": "column",
-          "name": "Parque 1055",
-          "settings": {
-            "image": "shopify://shop_images/Restaurant-Icon_e512664c-8a69-4343-9364-14c289c549b8.svg",
-            "title": "Parque 1055",
-            "text": "<p><em>1055 E Main St, Santa Paula, CA 93060</em></p>",
-            "link_label": "Website",
-            "link": "https://parque1055.com"
-          }
-        },
-        "column_eENntx": {
-          "type": "column",
-          "name": "Red Barn",
-          "settings": {
-            "image": "shopify://shop_images/Store-Icon_a8b38b7a-33c3-4645-a98d-cd17463c7e53.svg",
-            "title": "Red Barn Market and Liquor",
-            "text": "<p><em>1101 E Main St, Santa Paula, CA 93060</em></p>",
-            "link_label": "Social Media",
-            "link": "https://www.instagram.com/the_red_barn_market/"
-          }
-        },
-        "column_NjYjPT": {
-          "type": "column",
-          "name": "Sam's",
-          "settings": {
-            "image": "shopify://shop_images/Restaurant-Icon_e512664c-8a69-4343-9364-14c289c549b8.svg",
-            "title": "Sam's Place",
-            "text": "<p><em>308 E Ojai Ave, Ojai, CA 93023</em></p>",
-            "link_label": "Website",
-            "link": "https://www.samsplaceojai.com"
-          }
-        }
-      },
-      "block_order": [
-        "column_3EQg9M",
-        "column_eENntx",
-        "column_NjYjPT"
-      ],
-      "disabled": true,
-      "name": "Ojai & Santa Paula",
-      "settings": {
-        "title": "Ojai & Santa Paula",
-        "heading_size": "h2",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "button_label": "",
-        "button_link": "",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "image_banner_Xqp7p9": {
       "type": "image-banner",
+      "disabled": true,
       "custom_css": [
         ".banner {height: 120px;}",
         " {margin-top: 36px; margin-bottom: 36px;}"
@@ -1041,6 +981,67 @@
       "name": "Ventura",
       "settings": {
         "title": "Ventura",
+        "heading_size": "h2",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_KLPrBC": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_3EQg9M": {
+          "type": "column",
+          "name": "Parque 1055",
+          "settings": {
+            "image": "shopify://shop_images/Restaurant-Icon_e512664c-8a69-4343-9364-14c289c549b8.svg",
+            "title": "Parque 1055",
+            "text": "<p><em>1055 E Main St, Santa Paula, CA 93060</em></p>",
+            "link_label": "Website",
+            "link": "https://parque1055.com"
+          }
+        },
+        "column_eENntx": {
+          "type": "column",
+          "name": "Red Barn",
+          "settings": {
+            "image": "shopify://shop_images/Store-Icon_a8b38b7a-33c3-4645-a98d-cd17463c7e53.svg",
+            "title": "Red Barn Market and Liquor",
+            "text": "<p><em>1101 E Main St, Santa Paula, CA 93060</em></p>",
+            "link_label": "Social Media",
+            "link": "https://www.instagram.com/the_red_barn_market/"
+          }
+        },
+        "column_NjYjPT": {
+          "type": "column",
+          "name": "Sam's",
+          "settings": {
+            "image": "shopify://shop_images/Restaurant-Icon_e512664c-8a69-4343-9364-14c289c549b8.svg",
+            "title": "Sam's Place",
+            "text": "<p><em>308 E Ojai Ave, Ojai, CA 93023</em></p>",
+            "link_label": "Website",
+            "link": "https://www.samsplaceojai.com"
+          }
+        }
+      },
+      "block_order": [
+        "column_3EQg9M",
+        "column_eENntx",
+        "column_NjYjPT"
+      ],
+      "disabled": true,
+      "name": "Ojai & Santa Paula",
+      "settings": {
+        "title": "Ojai & Santa Paula",
         "heading_size": "h2",
         "image_width": "third",
         "image_ratio": "adapt",
