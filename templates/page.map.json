@@ -1058,54 +1058,6 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn_kzeF9n": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_mcpmVB": {
-          "type": "column",
-          "name": "Remedy Liquor",
-          "settings": {
-            "image": "shopify://shop_images/Store-Icon_a8b38b7a-33c3-4645-a98d-cd17463c7e53.svg",
-            "title": "Remedy Liquor & Wine Cellar&nbsp;",
-            "text": "<p><em>1700 W Glenoaks Blvd, Glendale, CA 91201</em></p>",
-            "link_label": "Website",
-            "link": "https://www.remedyliquor.com"
-          }
-        },
-        "column_jaDNCV": {
-          "type": "column",
-          "name": "Showcase Wine & Spirits",
-          "settings": {
-            "image": "shopify://shop_images/Store-Icon_a8b38b7a-33c3-4645-a98d-cd17463c7e53.svg",
-            "title": "Showcase Wine & Spirits",
-            "text": "<p><em>1392 N Lake Ave, Pasadena, CA 91104</em></p>",
-            "link_label": "Website",
-            "link": "https://www.showcaseliquor.com"
-          }
-        }
-      },
-      "block_order": [
-        "column_mcpmVB",
-        "column_jaDNCV"
-      ],
-      "name": "Glendale & Pasadena",
-      "settings": {
-        "title": "Glendale & Pasadena",
-        "heading_size": "h2",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "button_label": "",
-        "button_link": "",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "multicolumn_HY6fVH": {
       "type": "multicolumn",
       "name": "LA & SD",
@@ -1210,6 +1162,54 @@
         "padding_bottom": 36
       }
     },
+    "multicolumn_kzeF9n": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_mcpmVB": {
+          "type": "column",
+          "name": "Remedy Liquor",
+          "settings": {
+            "image": "shopify://shop_images/Store-Icon_a8b38b7a-33c3-4645-a98d-cd17463c7e53.svg",
+            "title": "Remedy Liquor & Wine Cellar&nbsp;",
+            "text": "<p><em>1700 W Glenoaks Blvd, Glendale, CA 91201</em></p>",
+            "link_label": "Website",
+            "link": "https://www.remedyliquor.com"
+          }
+        },
+        "column_jaDNCV": {
+          "type": "column",
+          "name": "Showcase Wine & Spirits",
+          "settings": {
+            "image": "shopify://shop_images/Store-Icon_a8b38b7a-33c3-4645-a98d-cd17463c7e53.svg",
+            "title": "Showcase Wine & Spirits",
+            "text": "<p><em>1392 N Lake Ave, Pasadena, CA 91104</em></p>",
+            "link_label": "Website",
+            "link": "https://www.showcaseliquor.com"
+          }
+        }
+      },
+      "block_order": [
+        "column_mcpmVB",
+        "column_jaDNCV"
+      ],
+      "name": "Glendale & Pasadena",
+      "settings": {
+        "title": "Glendale & Pasadena",
+        "heading_size": "h2",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "multicolumn_dAkcaK": {
       "type": "multicolumn",
       "blocks": {
@@ -1297,9 +1297,9 @@
     "multicolumn_qkRDL6",
     "multicolumn_kWT7LU",
     "multicolumn_qx7e83",
-    "multicolumn_kzeF9n",
     "multicolumn_HY6fVH",
     "multicolumn_pGtw6B",
+    "multicolumn_kzeF9n",
     "multicolumn_dAkcaK",
     "image_banner_Xqp7p9"
   ]
