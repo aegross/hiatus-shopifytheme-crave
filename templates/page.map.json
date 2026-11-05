@@ -158,27 +158,6 @@
         "show_text_below": true
       }
     },
-    "image_banner_Xqp7p9": {
-      "type": "image-banner",
-      "custom_css": [
-        ".banner {height: 120px;}",
-        " {margin-top: 36px; margin-bottom: 36px;}"
-      ],
-      "name": "Topographic Divider",
-      "settings": {
-        "image": "shopify://shop_images/topography-fill-04.png",
-        "image_overlay_opacity": 0,
-        "image_height": "adapt",
-        "image_behavior": "none",
-        "desktop_content_position": "middle-center",
-        "desktop_content_alignment": "center",
-        "show_text_box": true,
-        "color_scheme": "background-1",
-        "stack_images_on_mobile": false,
-        "mobile_content_alignment": "center",
-        "show_text_below": true
-      }
-    },
     "multicolumn_KQjiFy": {
       "type": "multicolumn",
       "name": "VC",
@@ -273,7 +252,7 @@
           "name": "Patron Camarillo",
           "settings": {
             "image": "shopify://shop_images/Restaurant-Icon_e512664c-8a69-4343-9364-14c289c549b8.svg",
-            "title": "Patron Mexican Bar & Grill (Camarillo)",
+            "title": "Patron Mexican Bar & Grill",
             "text": "<p><em>5227 Mission Oaks Blvd, Camarillo, CA 93012</em></p>",
             "link_label": "Website",
             "link": "https://camarillo.patronmex.com/"
@@ -1276,6 +1255,27 @@
         "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "image_banner_Xqp7p9": {
+      "type": "image-banner",
+      "custom_css": [
+        ".banner {height: 120px;}",
+        " {margin-top: 36px; margin-bottom: 36px;}"
+      ],
+      "name": "Topographic Divider",
+      "settings": {
+        "image": "shopify://shop_images/topography-fill-04.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": false,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
       }
     }
   },
