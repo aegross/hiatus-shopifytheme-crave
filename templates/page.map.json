@@ -161,26 +161,6 @@
     "multicolumn_a9TQeg": {
       "type": "multicolumn",
       "blocks": {
-        "column_w38C6h": {
-          "type": "column",
-          "name": "Parque 1055",
-          "settings": {
-            "title": "Parque 1055",
-            "text": "<p><em>1055 E Main St, Santa Paula, CA 93060</em></p>",
-            "link_label": "Website",
-            "link": "https://parque1055.com"
-          }
-        },
-        "column_3gR3Ye": {
-          "type": "column",
-          "name": "Sam's",
-          "settings": {
-            "title": "Sam's Place",
-            "text": "<p><em>308 E Ojai Ave, Ojai, CA 93023</em></p>",
-            "link_label": "Website",
-            "link": "https://www.samsplaceojai.com"
-          }
-        },
         "column_EtjeKe": {
           "type": "column",
           "name": "Nugget",
@@ -243,8 +223,6 @@
         }
       },
       "block_order": [
-        "column_w38C6h",
-        "column_3gR3Ye",
         "column_EtjeKe",
         "column_eVtq8G",
         "column_PADUCe",
@@ -294,16 +272,6 @@
             "text": "<p><em>2810 Harbor Blvd #B3, Oxnard, CA 93035</em></p>",
             "link_label": "Website",
             "link": "https://oxnard.harbormart.net/"
-          }
-        },
-        "column_htRWVU": {
-          "type": "column",
-          "name": "Red Barn",
-          "settings": {
-            "title": "Red Barn Market and Liquor",
-            "text": "<p><em>1101 E Main St, Santa Paula, CA 93060</em></p>",
-            "link_label": "Social Media",
-            "link": "https://www.instagram.com/the_red_barn_market/"
           }
         },
         "column_xBNEg4": {
@@ -520,7 +488,6 @@
       "block_order": [
         "column_cRTxyb",
         "column_eziEeg",
-        "column_htRWVU",
         "column_xBNEg4",
         "column_Er7gXr",
         "column_qPXX9V",
@@ -561,6 +528,67 @@
         "swipe_on_mobile": true,
         "padding_top": 48,
         "padding_bottom": 48
+      }
+    },
+    "multicolumn_KLPrBC": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_3EQg9M": {
+          "type": "column",
+          "name": "Parque 1055",
+          "settings": {
+            "image": "shopify://shop_images/Restaurant-Icon_e512664c-8a69-4343-9364-14c289c549b8.svg",
+            "title": "Parque 1055",
+            "text": "<p><em>1055 E Main St, Santa Paula, CA 93060</em></p>",
+            "link_label": "Website",
+            "link": "https://parque1055.com"
+          }
+        },
+        "column_eENntx": {
+          "type": "column",
+          "name": "Red Barn",
+          "settings": {
+            "image": "shopify://shop_images/Store-Icon_a8b38b7a-33c3-4645-a98d-cd17463c7e53.svg",
+            "title": "Red Barn Market and Liquor",
+            "text": "<p><em>1101 E Main St, Santa Paula, CA 93060</em></p>",
+            "link_label": "Social Media",
+            "link": "https://www.instagram.com/the_red_barn_market/"
+          }
+        },
+        "column_NjYjPT": {
+          "type": "column",
+          "name": "Sam's",
+          "settings": {
+            "image": "shopify://shop_images/Restaurant-Icon_e512664c-8a69-4343-9364-14c289c549b8.svg",
+            "title": "Sam's Place",
+            "text": "<p><em>308 E Ojai Ave, Ojai, CA 93023</em></p>",
+            "link_label": "Website",
+            "link": "https://www.samsplaceojai.com"
+          }
+        }
+      },
+      "block_order": [
+        "column_3EQg9M",
+        "column_eENntx",
+        "column_NjYjPT"
+      ],
+      "disabled": true,
+      "name": "Ojai & Santa Paula",
+      "settings": {
+        "title": "Ojai & Santa Paula",
+        "heading_size": "h2",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "image_banner_Xqp7p9": {
@@ -762,10 +790,10 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn_KLPrBC": {
+    "multicolumn_ezEL8D": {
       "type": "multicolumn",
       "blocks": {
-        "column_PaBjX8": {
+        "column_ff4W9y": {
           "type": "column",
           "name": "El Maguey Liquor",
           "settings": {
@@ -776,7 +804,7 @@
             "link": "https://www.facebook.com/p/El-Maguey-Liquor-100057664111443/"
           }
         },
-        "column_P3aE9t": {
+        "column_teHFfE": {
           "type": "column",
           "name": "El Rio Liquor",
           "settings": {
@@ -787,7 +815,7 @@
             "link": "https://elrioliquor.com"
           }
         },
-        "column_FTyBkg": {
+        "column_pVnB7q": {
           "type": "column",
           "name": "Genmai Sushi",
           "settings": {
@@ -798,7 +826,7 @@
             "link": "https://www.instagram.com/genmaisushi_oxnard"
           }
         },
-        "column_e3Va6j": {
+        "column_WYyyi7": {
           "type": "column",
           "name": "Larsen's Grill",
           "settings": {
@@ -809,7 +837,7 @@
             "link": "https://www.larsensrestaurants.com"
           }
         },
-        "column_Fey7qU": {
+        "column_Qgc7NU": {
           "type": "column",
           "name": "Pat Holden",
           "settings": {
@@ -820,7 +848,7 @@
             "link": "https://www.instagram.com/patholdensliquor/?hl=en"
           }
         },
-        "column_KGCWWK": {
+        "column_Bkydwj": {
           "type": "column",
           "name": "Plaza Liquor Mart",
           "settings": {
@@ -831,7 +859,7 @@
             "link": "https://www.instagram.com/plaza_market_and_liquor/"
           }
         },
-        "column_taCzwf": {
+        "column_y3qFJY": {
           "type": "column",
           "name": "Q Club",
           "settings": {
@@ -842,7 +870,7 @@
             "link": "https://qcluboxnard.com/"
           }
         },
-        "column_8DjiDE": {
+        "column_xKAY3J": {
           "type": "column",
           "name": "The Shores",
           "settings": {
@@ -855,14 +883,14 @@
         }
       },
       "block_order": [
-        "column_PaBjX8",
-        "column_P3aE9t",
-        "column_FTyBkg",
-        "column_e3Va6j",
-        "column_Fey7qU",
-        "column_KGCWWK",
-        "column_taCzwf",
-        "column_8DjiDE"
+        "column_ff4W9y",
+        "column_teHFfE",
+        "column_pVnB7q",
+        "column_WYyyi7",
+        "column_Qgc7NU",
+        "column_Bkydwj",
+        "column_y3qFJY",
+        "column_xKAY3J"
       ],
       "disabled": true,
       "name": "Oxnard",
@@ -1155,8 +1183,9 @@
     "image_banner_Xqp7p9",
     "multicolumn_KQjiFy",
     "multicolumn_NdwpMd",
-    "multicolumn_KLPrBC",
+    "multicolumn_ezEL8D",
     "multicolumn_DHwn8J",
+    "multicolumn_KLPrBC",
     "multicolumn_HY6fVH",
     "multicolumn_PxkH6t",
     "rich_text_xVDh79"
