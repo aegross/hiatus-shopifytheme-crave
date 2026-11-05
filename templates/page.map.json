@@ -171,16 +171,6 @@
             "link": "https://kalaveras.com/"
           }
         },
-        "column_NgLFYN": {
-          "type": "column",
-          "name": "Swiss Resturant",
-          "settings": {
-            "title": "Swiss Restaurant&nbsp;",
-            "text": "<p><em>516 N Broadway, Santa Maria, CA 93454</em></p>",
-            "link_label": "Website",
-            "link": "https://www.swissrestaurantandbar.com"
-          }
-        },
         "column_XHrdXT": {
           "type": "column",
           "name": "The Siren",
@@ -194,7 +184,6 @@
       },
       "block_order": [
         "column_pwYKy3",
-        "column_NgLFYN",
         "column_XHrdXT"
       ],
       "disabled": true,
@@ -281,56 +270,6 @@
             "link": ""
           }
         },
-        "column_icNrwa": {
-          "type": "column",
-          "name": "Liquor Emporium",
-          "settings": {
-            "title": "Liquor Emporium",
-            "text": "<p><em>1200 E Ocean Ave, Lompoc, CA 93436</em></p>",
-            "link_label": "Website",
-            "link": "https://liquoremporiuminc.com/"
-          }
-        },
-        "column_hVEwdj": {
-          "type": "column",
-          "name": "Spencer's (Lompoc)",
-          "settings": {
-            "title": "Spencer's Fresh Markets",
-            "text": "<p><em>1009 N H St M, Lompoc, CA 93436</em></p>",
-            "link_label": "Website",
-            "link": "https://spencersfreshmarkets.com/"
-          }
-        },
-        "column_WBjqNq": {
-          "type": "column",
-          "name": "Oak Knoll Liquors",
-          "settings": {
-            "title": "Oak Knoll Liquors",
-            "text": "<p><em>4854 S Bradley Rd #A, Santa Maria, CA 93455</em></p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_Bq8PCV": {
-          "type": "column",
-          "name": "Maguey (Santa Maria)",
-          "settings": {
-            "title": "Maguey (Santa Maria)",
-            "text": "<p><em>400 W Main St, Santa Maria, CA 93458</em></p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_yYUt6d": {
-          "type": "column",
-          "name": "805 Liquor",
-          "settings": {
-            "title": "805 Liquor",
-            "text": "<p><em>809 N Broadway # B, Santa Maria, CA 93454</em></p>",
-            "link_label": "Social Media",
-            "link": "https://www.instagram.com/805liquor/"
-          }
-        },
         "column_C96Dix": {
           "type": "column",
           "name": "Grapes & Grains",
@@ -379,11 +318,6 @@
         "column_QUij8c",
         "column_gVEDVh",
         "column_DBbBW8",
-        "column_icNrwa",
-        "column_hVEwdj",
-        "column_WBjqNq",
-        "column_Bq8PCV",
-        "column_yYUt6d",
         "column_C96Dix",
         "column_deJMU4",
         "column_mMk6zk",
@@ -434,23 +368,85 @@
     "multicolumn_qkRDL6": {
       "type": "multicolumn",
       "blocks": {
-        "column_8wKGhh": {
+        "column_qJiWUA": {
           "type": "column",
+          "name": "805 Liquor",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "image": "shopify://shop_images/Store-Icon_a8b38b7a-33c3-4645-a98d-cd17463c7e53.svg",
+            "title": "805 Liquor",
+            "text": "<p><em>809 N Broadway # B, Santa Maria, CA 93454</em></p>",
+            "link_label": "Social Media",
+            "link": "https://www.instagram.com/805liquor/"
+          }
+        },
+        "column_eRA4QQ": {
+          "type": "column",
+          "name": "Liquor Emporium",
+          "settings": {
+            "image": "shopify://shop_images/Store-Icon_a8b38b7a-33c3-4645-a98d-cd17463c7e53.svg",
+            "title": "Liquor Emporium",
+            "text": "<p><em>1200 E Ocean Ave, Lompoc, CA 93436</em></p>",
+            "link_label": "Website",
+            "link": "https://liquoremporiuminc.com/"
+          }
+        },
+        "column_rF6zir": {
+          "type": "column",
+          "name": "Maguey (Santa Maria)",
+          "settings": {
+            "image": "shopify://shop_images/Store-Icon_a8b38b7a-33c3-4645-a98d-cd17463c7e53.svg",
+            "title": "Maguey",
+            "text": "<p><em>400 W Main St, Santa Maria, CA 93458</em></p>",
             "link_label": "",
             "link": ""
+          }
+        },
+        "column_z6J7j4": {
+          "type": "column",
+          "name": "Oak Knoll Liquors",
+          "settings": {
+            "image": "shopify://shop_images/Store-Icon_a8b38b7a-33c3-4645-a98d-cd17463c7e53.svg",
+            "title": "Oak Knoll Liquors",
+            "text": "<p><em>4854 S Bradley Rd #A, Santa Maria, CA 93455</em></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_tbcE3k": {
+          "type": "column",
+          "name": "Spencer's (Lompoc)",
+          "settings": {
+            "image": "shopify://shop_images/Store-Icon_a8b38b7a-33c3-4645-a98d-cd17463c7e53.svg",
+            "title": "Spencer's Fresh Markets",
+            "text": "<p><em>1009 N H St M, Lompoc, CA 93436</em></p>",
+            "link_label": "Website",
+            "link": "https://spencersfreshmarkets.com/"
+          }
+        },
+        "column_DhyX7Y": {
+          "type": "column",
+          "name": "Swiss Resturant",
+          "settings": {
+            "image": "shopify://shop_images/Restaurant-Icon_e512664c-8a69-4343-9364-14c289c549b8.svg",
+            "title": "Swiss Restaurant&nbsp;",
+            "text": "<p><em>516 N Broadway, Santa Maria, CA 93454</em></p>",
+            "link_label": "Website",
+            "link": "https://www.swissrestaurantandbar.com"
           }
         }
       },
       "block_order": [
-        "column_8wKGhh"
+        "column_qJiWUA",
+        "column_eRA4QQ",
+        "column_rF6zir",
+        "column_z6J7j4",
+        "column_tbcE3k",
+        "column_DhyX7Y"
       ],
       "disabled": true,
-      "name": "TEMPLATE",
+      "name": "Lompoc & Santa Maria",
       "settings": {
-        "title": "TEMPLATE",
+        "title": "Lompoc & Santa Maria",
         "heading_size": "h2",
         "image_width": "third",
         "image_ratio": "adapt",
