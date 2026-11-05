@@ -161,46 +161,6 @@
     "multicolumn_a9TQeg": {
       "type": "multicolumn",
       "blocks": {
-        "column_tbVW7k": {
-          "type": "column",
-          "name": "Genmai Sushi",
-          "settings": {
-            "title": "Genmai Sushi",
-            "text": "<p><em>3623 W 5th St, Oxnard, CA 93030</em></p>",
-            "link_label": "Social Media",
-            "link": "https://www.instagram.com/genmaisushi_oxnard"
-          }
-        },
-        "column_dnjhcK": {
-          "type": "column",
-          "name": "The Shore",
-          "settings": {
-            "title": "The Shores Restaurant",
-            "text": "<p><em>1031 Harbor Blvd, Oxnard, CA 93035</em></p>",
-            "link_label": "Website",
-            "link": "https://www.theshoresoxnard.com/"
-          }
-        },
-        "column_NT9iWE": {
-          "type": "column",
-          "name": "Larsen's Grill",
-          "settings": {
-            "title": "Larsen's Grill (Oxnard)",
-            "text": "<p><em>590 Town Center Dr, Oxnard, CA 93036</em></p>",
-            "link_label": "Website",
-            "link": "https://www.larsensrestaurants.com"
-          }
-        },
-        "column_VGcrm3": {
-          "type": "column",
-          "name": "Q Club",
-          "settings": {
-            "title": "Q Club",
-            "text": "<p><em>2362 N Oxnard Blvd #107, Oxnard, CA 93036</em></p>",
-            "link_label": "Website",
-            "link": "https://qcluboxnard.com/"
-          }
-        },
         "column_CjrDp4": {
           "type": "column",
           "name": "Cafe Zack",
@@ -363,10 +323,6 @@
         }
       },
       "block_order": [
-        "column_tbVW7k",
-        "column_dnjhcK",
-        "column_NT9iWE",
-        "column_VGcrm3",
         "column_CjrDp4",
         "column_eXKzHC",
         "column_CkkqHA",
@@ -427,36 +383,6 @@
             "link": "https://oxnard.harbormart.net/"
           }
         },
-        "column_T8tHQy": {
-          "type": "column",
-          "name": "El Rio Liquor",
-          "settings": {
-            "title": "El Rio Liquor",
-            "text": "<p><em>2910 E Vineyard Ave, Oxnard, CA 93036</em></p>",
-            "link_label": "Website",
-            "link": "https://elrioliquor.com"
-          }
-        },
-        "column_YmwGkx": {
-          "type": "column",
-          "name": "El Maguey Liquor",
-          "settings": {
-            "title": "El Maguey Liquor",
-            "text": "<p><em>3610 Saviers Rd, Oxnard, CA 93033</em></p>",
-            "link_label": "Social Media",
-            "link": "https://www.facebook.com/p/El-Maguey-Liquor-100057664111443/"
-          }
-        },
-        "column_GEAFUD": {
-          "type": "column",
-          "name": "Pat Holden",
-          "settings": {
-            "title": "Pat Holden's Liquor & Gift Shop",
-            "text": "<p><em>860 S A St, Oxnard, CA 93030</em></p>",
-            "link_label": "Social Media",
-            "link": "https://www.instagram.com/patholdensliquor/?hl=en"
-          }
-        },
         "column_xNU6h8": {
           "type": "column",
           "name": "Harbor Mart (Ventura)",
@@ -515,16 +441,6 @@
             "text": "<p><em>4010 Calle Real #1, Santa Barbara, CA 93110</em></p>",
             "link_label": "Social Media",
             "link": "https://www.instagram.com/hitimeliquors/"
-          }
-        },
-        "column_TrwWre": {
-          "type": "column",
-          "name": "Plaza Liquor Mart",
-          "settings": {
-            "title": "Plaza Liquor Mart",
-            "text": "<p><em>481 W Channel Islands Blvd, Port Hueneme, CA 93041</em></p>",
-            "link_label": "Social Media",
-            "link": "https://www.instagram.com/plaza_market_and_liquor/"
           }
         },
         "column_K6zF7K": {
@@ -711,16 +627,12 @@
       "block_order": [
         "column_cRTxyb",
         "column_eziEeg",
-        "column_T8tHQy",
-        "column_YmwGkx",
-        "column_GEAFUD",
         "column_xNU6h8",
         "column_xjdgPi",
         "column_htRWVU",
         "column_xBNEg4",
         "column_Er7gXr",
         "column_qPXX9V",
-        "column_TrwWre",
         "column_K6zF7K",
         "column_Y7KVMr",
         "column_VpXyMg",
@@ -778,6 +690,127 @@
         "stack_images_on_mobile": false,
         "mobile_content_alignment": "center",
         "show_text_below": true
+      }
+    },
+    "multicolumn_DHwn8J": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_VphXep": {
+          "type": "column",
+          "name": "El Maguey Liquor",
+          "settings": {
+            "image": "shopify://shop_images/Store-Icon_a8b38b7a-33c3-4645-a98d-cd17463c7e53.svg",
+            "title": "El Maguey Liquor",
+            "text": "<p><em>3610 Saviers Rd, Oxnard, CA 93033</em></p>",
+            "link_label": "Social Media",
+            "link": "https://www.facebook.com/p/El-Maguey-Liquor-100057664111443/"
+          }
+        },
+        "column_YP7zRa": {
+          "type": "column",
+          "name": "El Rio Liquor",
+          "settings": {
+            "image": "shopify://shop_images/Store-Icon_a8b38b7a-33c3-4645-a98d-cd17463c7e53.svg",
+            "title": "El Rio Liquor",
+            "text": "<p><em>2910 E Vineyard Ave, Oxnard, CA 93036</em></p>",
+            "link_label": "Website",
+            "link": "https://elrioliquor.com"
+          }
+        },
+        "column_qCmn6G": {
+          "type": "column",
+          "name": "Genmai Sushi",
+          "settings": {
+            "image": "shopify://shop_images/Restaurant-Icon_e512664c-8a69-4343-9364-14c289c549b8.svg",
+            "title": "Genmai Sushi",
+            "text": "<p><em>3623 W 5th St, Oxnard, CA 93030</em></p>",
+            "link_label": "Social Media",
+            "link": "https://www.instagram.com/genmaisushi_oxnard"
+          }
+        },
+        "column_9abKJk": {
+          "type": "column",
+          "name": "Larsen's Grill",
+          "settings": {
+            "image": "shopify://shop_images/Restaurant-Icon_e512664c-8a69-4343-9364-14c289c549b8.svg",
+            "title": "Larsen's Grill (Oxnard)",
+            "text": "<p><em>590 Town Center Dr, Oxnard, CA 93036</em></p>",
+            "link_label": "Website",
+            "link": "https://www.larsensrestaurants.com"
+          }
+        },
+        "column_daPnHF": {
+          "type": "column",
+          "name": "Pat Holden",
+          "settings": {
+            "image": "shopify://shop_images/Store-Icon_a8b38b7a-33c3-4645-a98d-cd17463c7e53.svg",
+            "title": "Pat Holden's Liquor & Gift Shop",
+            "text": "<p><em>860 S A St, Oxnard, CA 93030</em></p>",
+            "link_label": "Social Media",
+            "link": "https://www.instagram.com/patholdensliquor/?hl=en"
+          }
+        },
+        "column_yRKkhq": {
+          "type": "column",
+          "name": "Plaza Liquor Mart",
+          "settings": {
+            "image": "shopify://shop_images/Store-Icon_a8b38b7a-33c3-4645-a98d-cd17463c7e53.svg",
+            "title": "Plaza Liquor Mart",
+            "text": "<p><em>481 W Channel Islands Blvd, Port Hueneme, CA 93041</em></p>",
+            "link_label": "Social Media",
+            "link": "https://www.instagram.com/plaza_market_and_liquor/"
+          }
+        },
+        "column_NHrd3w": {
+          "type": "column",
+          "name": "Q Club",
+          "settings": {
+            "image": "shopify://shop_images/Bar-Icon_8a115f74-c127-414c-ac62-028c062efaaa.svg",
+            "title": "Q Club",
+            "text": "<p><em>2362 N Oxnard Blvd #107, Oxnard, CA 93036</em></p>",
+            "link_label": "Website",
+            "link": "https://qcluboxnard.com/"
+          }
+        },
+        "column_bEGnwR": {
+          "type": "column",
+          "name": "The Shores",
+          "settings": {
+            "image": "shopify://shop_images/Bar-Icon_8a115f74-c127-414c-ac62-028c062efaaa.svg",
+            "title": "The Shores Restaurant",
+            "text": "<p><em>1031 Harbor Blvd, Oxnard, CA 93035</em></p>",
+            "link_label": "Website",
+            "link": "https://www.theshoresoxnard.com/"
+          }
+        }
+      },
+      "block_order": [
+        "column_VphXep",
+        "column_YP7zRa",
+        "column_qCmn6G",
+        "column_9abKJk",
+        "column_daPnHF",
+        "column_yRKkhq",
+        "column_NHrd3w",
+        "column_bEGnwR"
+      ],
+      "disabled": true,
+      "name": "Oxnard",
+      "settings": {
+        "title": "Oxnard",
+        "heading_size": "h2",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "multicolumn_KQjiFy": {
@@ -958,64 +991,6 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn_DHwn8J": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_h8efLG": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/restaurant_66dp_A16F2A_FILL0_wght400_GRAD0_opsz48.svg",
-            "title": "Genmai Sushi",
-            "text": "<p><em>3623 W 5th St, Oxnard, CA 93030</em></p>",
-            "link_label": "Social Media",
-            "link": "https://www.instagram.com/genmaisushi_oxnard"
-          }
-        },
-        "column_DX9WbT": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/restaurant_66dp_A16F2A_FILL0_wght400_GRAD0_opsz48.svg",
-            "title": "The Shores Restaurant",
-            "text": "<p><em>1031 Harbor Blvd, Oxnard, CA 93035</em></p>",
-            "link_label": "Website",
-            "link": "https://www.theshoresoxnard.com/"
-          }
-        },
-        "column_eyz3DC": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/local_bar_250dp_A16F29.svg",
-            "title": "Q Club",
-            "text": "<p><em>2362 N Oxnard Blvd #107, Oxnard, CA 93036</em></p>",
-            "link_label": "Website",
-            "link": "https://qcluboxnard.com/"
-          }
-        }
-      },
-      "block_order": [
-        "column_h8efLG",
-        "column_DX9WbT",
-        "column_eyz3DC"
-      ],
-      "disabled": true,
-      "name": "PROPOSED-Ox",
-      "settings": {
-        "title": "Oxnard",
-        "heading_size": "h2",
-        "image_width": "third",
-        "image_ratio": "square",
-        "button_label": "",
-        "button_link": "",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "multicolumn_HY6fVH": {
       "type": "multicolumn",
       "disabled": true,
@@ -1141,9 +1116,9 @@
     "multicolumn_a9TQeg",
     "multicolumn_6EPV6V",
     "image_banner_Xqp7p9",
+    "multicolumn_DHwn8J",
     "multicolumn_KQjiFy",
     "multicolumn_NdwpMd",
-    "multicolumn_DHwn8J",
     "multicolumn_HY6fVH",
     "multicolumn_PxkH6t",
     "rich_text_xVDh79"
