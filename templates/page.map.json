@@ -340,6 +340,7 @@
         "column_NgLFYN",
         "column_XHrdXT"
       ],
+      "disabled": true,
       "custom_css": [],
       "name": "Restaurants & Bars",
       "settings": {
@@ -652,6 +653,7 @@
         "column_mMk6zk",
         "column_rpggra"
       ],
+      "disabled": true,
       "custom_css": [],
       "name": "Stores",
       "settings": {
