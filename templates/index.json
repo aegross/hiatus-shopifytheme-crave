@@ -164,25 +164,6 @@
             "color_scheme": "accent-2"
           }
         },
-        "slide_PbQA9Y": {
-          "type": "slide",
-          "name": "TEMP",
-          "settings": {
-            "image": "shopify://shop_images/IMG_1668-2.jpg",
-            "image_overlay_opacity": 0,
-            "heading": "BLOWOUT SALE: Pumpkin Spice Crème Liqueur",
-            "heading_size": "h1",
-            "subheading": "$5.95 per bottle, or 6 bottles for $29.95!",
-            "button_label": "Buy now!",
-            "link": "shopify://products/psl",
-            "button_style_secondary": false,
-            "show_text_box": true,
-            "box_align": "bottom-left",
-            "text_alignment": "center",
-            "text_alignment_mobile": "center",
-            "color_scheme": "accent-2"
-          }
-        },
         "slide_zN8EHF": {
           "type": "slide",
           "name": "TEMP",
@@ -213,7 +194,6 @@
         "slide_PKNtV4",
         "slide_cjdkdq",
         "slide_HJri7T",
-        "slide_PbQA9Y",
         "slide_zN8EHF"
       ],
       "custom_css": [],

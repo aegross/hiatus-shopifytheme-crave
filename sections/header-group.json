@@ -35,13 +35,6 @@
             "link": "shopify://pages/venue-rental"
           }
         },
-        "announcement_3n7Bn9": {
-          "type": "announcement",
-          "settings": {
-            "text": "PSL Blowout Sale! $5.95 per bottle or 6 bottles for $29.95!",
-            "link": "shopify://products/psl"
-          }
-        },
         "announcement_aDiwFk": {
           "type": "announcement",
           "disabled": true,
@@ -87,7 +80,6 @@
         "announcement_gYtPXP",
         "announcement_gTt78h",
         "announcement_fVrntG",
-        "announcement_3n7Bn9",
         "announcement_aDiwFk",
         "announcement_HVryY3",
         "announcement_PVAqwK",
