@@ -23,6 +23,7 @@
         },
         "announcement_gTt78h": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Check out our spirits at the Camarillo Costco  November 6-8!",
             "link": ""

@@ -15,31 +15,13 @@
         "slide_iRJrtD": {
           "type": "slide",
           "name": "TEMP",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/IMG_5347.jpg",
             "image_overlay_opacity": 0,
             "heading": "Costco Camarillo Pop-Up | Nov 6-8",
             "heading_size": "h1",
             "subheading": "Check out our pop-up booth at Camarillo's new <strong>Costco</strong>! <strong>Friday, November 6th through Sunday, November 8th, 11 am to 5 pm</strong>. Pick up a bottle at a special Costco price and a curated recipe card. Be sure to spin our wheel for a chance to <strong>win prizes</strong>.&nbsp;",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "show_text_box": true,
-            "box_align": "bottom-left",
-            "text_alignment": "center",
-            "text_alignment_mobile": "center",
-            "color_scheme": "accent-2"
-          }
-        },
-        "slide_h4hQr6": {
-          "type": "slide",
-          "name": "COTM",
-          "settings": {
-            "image": "shopify://shop_images/IMG_5699.jpg",
-            "image_overlay_opacity": 0,
-            "heading": "November Cocktail of the Month",
-            "heading_size": "h1",
-            "subheading": "<strong>Cran Apple Margarita,</strong> featuring our <a href=\"/products/pinot-noir-reposado\" target=\"_blank\" title=\"Pinot Noir Reposado\">Pinot Noir Reposado</a>.",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
@@ -61,6 +43,25 @@
             "subheading": "Join us for our Winter Mixology Workshop on Thursday, December 3rd, from 6:30-8:30pm, with Alex from <a href=\"https://www.fireflybartending.com/\" target=\"_blank\">Firefly Bartending</a>! Craft cocktails, recipe cards, and bites included.",
             "button_label": "Tickets",
             "link": "shopify://products/mixology-workshop",
+            "button_style_secondary": false,
+            "show_text_box": true,
+            "box_align": "bottom-left",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "accent-2"
+          }
+        },
+        "slide_h4hQr6": {
+          "type": "slide",
+          "name": "COTM",
+          "settings": {
+            "image": "shopify://shop_images/IMG_5699.jpg",
+            "image_overlay_opacity": 0,
+            "heading": "November Cocktail of the Month",
+            "heading_size": "h1",
+            "subheading": "<strong>Cran Apple Margarita,</strong> featuring our <a href=\"/products/pinot-noir-reposado\" target=\"_blank\" title=\"Pinot Noir Reposado\">Pinot Noir Reposado</a>.",
+            "button_label": "",
+            "link": "",
             "button_style_secondary": false,
             "show_text_box": true,
             "box_align": "bottom-left",
@@ -187,8 +188,8 @@
       },
       "block_order": [
         "slide_iRJrtD",
-        "slide_h4hQr6",
         "slide_paFtNG",
+        "slide_h4hQr6",
         "slide-0",
         "slide_9DGtDz",
         "slide_PKNtV4",

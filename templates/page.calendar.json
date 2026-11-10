@@ -72,6 +72,7 @@
         },
         "row_AwkHxK": {
           "type": "row",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/IMG_5347.jpg",
             "caption": "Off-Site Event",
@@ -83,6 +84,7 @@
         },
         "row_JphPPD": {
           "type": "row",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/IMG_5143_1b5dd5e0-9da8-4301-a2f0-f8b5561ff486.jpg",
             "caption": "OFF-SITE EVENT",
