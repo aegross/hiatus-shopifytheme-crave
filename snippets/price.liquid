@@ -59,7 +59,6 @@
           - div.price__sale: Displayed when a variant is a sale
       {%- endcomment -%}
        <span class='appstle_member_price appstle_membership_stand_alone_selector' data-product-data='{{ product| json| escape }}' data-product-collection-data='{{ product.collections | json | escape }}' style="display:none;"></span>
-      <span class="appstle_stand_alone_price_display_selector" data-product-data="{{ card_product | json | escape }}" style="display:none;"></span>
       <div class="price__regular">
         {%- if product.quantity_price_breaks_configured? -%}
           {%- if show_compare_at_price and compare_at_price -%}
@@ -92,6 +91,7 @@
           </span>
         {%- endif -%}
       </div>
+      <span class="appstle_stand_alone_price_display_selector" data-product-data="{{ card_product | json | escape }}" style="display:none;"></span>
       <div class="price__sale">
         {%- unless product.price_varies == false and product.compare_at_price_varies %}
           <span class="visually-hidden visually-hidden--inline">{{ 'products.product.price.regular_price' | t }}</span>
