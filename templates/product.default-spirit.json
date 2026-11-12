@@ -101,6 +101,7 @@
         },
         "price": {
           "type": "price",
+          "disabled": true,
           "settings": {}
         },
         "fbd83dbe-d4f2-4988-874c-889934d5edea": {
