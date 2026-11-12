@@ -111,6 +111,7 @@
       </div>
       {%- if product.selected_or_first_available_variant.unit_price_measurement -%}
         {% render 'unit-price', price: product.selected_or_first_available_variant.unit_price, measurement: product.selected_or_first_available_variant.unit_price_measurement %}
+        <span class="appstle_stand_alone_price_display_selector" data-product-data="{{ product | json | escape }}" style="display:none;"></span>
       {%- endif -%}
     </div>
     {%- if show_badges -%}
