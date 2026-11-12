@@ -514,7 +514,6 @@
                           <h3>{{ card_product.title | escape }}</h3>
                         </a>
                         {% render 'price', product: card_product, price_class: '', show_compare_at_price: true %}
-                        <span class="appstle_stand_alone_price_display_selector" data-product-data="{{ product | json | escape }}" style="display:none;"></span>
                         {%- if card_product.quantity_price_breaks_configured? -%}
                           <div class="card__information-volume-pricing-note">
                             <span class="caption">{{ 'products.product.volume_pricing.note' | t }}</span>
@@ -530,7 +529,6 @@
                           </h3>
                         </a>
                         {% render 'price', product: card_product, price_class: '', show_compare_at_price: true %}
-                        <span class="appstle_stand_alone_price_display_selector" data-product-data="{{ product | json | escape }}" style="display:none;"></span>
                         {%- if card_product.quantity_price_breaks_configured? -%}
                           <div class="card__information-volume-pricing-note">
                             <span class="caption">{{ 'products.product.volume_pricing.note' | t }}</span>
