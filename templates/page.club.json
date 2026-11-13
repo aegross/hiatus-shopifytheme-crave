@@ -11,7 +11,6 @@
   "sections": {
     "image_banner_HEJNcM": {
       "type": "image-banner",
-      "disabled": true,
       "name": "(?) Lollygaggers Image Banner",
       "settings": {
         "image": "shopify://shop_images/Lollygaggersbottleclub.png",
@@ -49,7 +48,6 @@
         "heading_JymPMa",
         "text_RPMCFa"
       ],
-      "disabled": true,
       "custom_css": [
         ".rich-text__blocks {max-width: 115rem;}"
       ],
@@ -75,7 +73,6 @@
         },
         "text_yCVz4P": {
           "type": "text",
-          "disabled": true,
           "settings": {
             "text": "An <strong>exclusive membership </strong>that celebrates the craft and spirit of Hiatus. Enjoy small-batch bourbon, rye, single malt, vodka, gin, agave, rum, crèmes, and liqueurs — each capturing the laid-back charm of Camarillo’s coastal hills and the dedication poured into every bottle. <strong>Experience the heart of our distillery, one sip at a time. </strong>Check out more details below!",
             "text_style": "subtitle"
@@ -128,6 +125,7 @@
         "heading_kDygUi",
         "text_apRQGq"
       ],
+      "disabled": true,
       "name": "(?) Lollygaggers Image w/ Text",
       "settings": {
         "image": "shopify://shop_images/Asset_1.png",
@@ -152,7 +150,7 @@
           "type": "column",
           "settings": {
             "title": "Free Membership with any Bottle Subscription",
-            "text": "<p>There’s no fee to join the Lollygagger Club -- <strong>membership is free with with a qualifying active subscription.</strong></p><ul><li>Subscribe to at least one bottle per quarter (four per year) to keep your membership active.</li><li>Receive up to 25% off<strong> ALL</strong> bottles, merchandise, and Hiatus events.</li><li>Get one weekly <strong>complimentary tasting flight </strong>for you and a guest during regular business hours.</li></ul>",
+            "text": "<p>There’s no fee to join the Lollygagger Club — <strong>membership is free with with a qualifying active subscription.</strong></p><ul><li>Subscribe to at least one bottle per quarter (four per year) to keep your membership active.</li><li>Receive up to 25% off<strong> ALL</strong> bottles, merchandise, and Hiatus events.</li><li>Get one weekly <strong>complimentary tasting flight </strong>for you and a guest during regular business hours.</li></ul>",
             "link_label": "",
             "link": ""
           }
@@ -161,7 +159,7 @@
           "type": "column",
           "settings": {
             "title": "More Member Benefits",
-            "text": "<ul><li><strong>Exclusive Access</strong> to member-only events, distillery workshops, tours and tasting panels giving you a voice &nbsp;in product development</li><li><strong>First Access</strong> to new products, including single-barrel bottlings.</li><li><strong>Earn Loyalty Points</strong> on all purchases. Get <strong>5 points for every $1 spent</strong>, with bonus points for referrals, birthdays, and social shares. Redeem your points for discounts on future purchases.</li></ul>",
+            "text": "<ul><li><strong>Exclusive Access</strong> to member-only events, distillery workshops, tours, and tasting panels, giving you a voice in product development.</li><li><strong>First Access</strong> to new products, including single-barrel bottlings.</li><li><strong>Earn Loyalty Points</strong> on all purchases. Get <strong>3 points for every $1 spent</strong>, with bonus points for referrals, birthdays, and social shares. Redeem your points for discounts on future purchases.</li></ul>",
             "link_label": "",
             "link": ""
           }
@@ -171,10 +169,12 @@
         "column_UJDjHM",
         "column_wY96GP"
       ],
-      "custom_css": [],
+      "custom_css": [
+        "ul {list-style-position: outside;}"
+      ],
       "name": "Lollygagger Perks",
       "settings": {
-        "title": "Lollygagger Perks",
+        "title": "Lollygagger Bottle Club Perks",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -199,7 +199,7 @@
             "collection": "frontpage",
             "products_to_show": 4,
             "heading": "Subscribe to any spirit to become an active member!",
-            "description": "Pick out which any our spirits you would like to subscribe to quarterly. Don't worry— you can change your subscription bottle(s) at any time!",
+            "description": "Pick any of our spirits that you would like to subscribe to quarterly. Don't worry — you can change your subscription bottle(s) at any time!",
             "heading_alignment": "center",
             "products_per_row": 4,
             "products_per_row_mobile": "2",
@@ -249,7 +249,7 @@
           "settings": {
             "heading": "How do subscriptions work?",
             "icon": "star",
-            "row_content": "<p>Subscribe to your spirit of choice to unlock your Lollygagger Membership. Members can access their online portal at any time to switch their subscription spirit — allowing you to try something new each quarter or stick with your favorite all year long.</p><p><em>Please note that subscription orders designated for pickup will be shipped to the address on file at customer's expense if not pickup up within 90 days of order notification.</em></p>",
+            "row_content": "<p>Subscribe to your spirit of choice to unlock your Lollygagger Membership. Members can access their online portal at any time to switch their subscription spirit — allowing you to try something new each quarter or stick with your favorite all year long.</p><p><em>Please note that subscription orders designated for pickup will be shipped to the address on file at the customer's expense if not picked up within 90 days of order notification.</em></p>",
             "page": ""
           }
         },
@@ -276,7 +276,7 @@
           "settings": {
             "heading": "How do I get my bottles?",
             "icon": "star",
-            "row_content": "<p>Bottles are available for shipping in California or local pickup. Shipping is offered at a flat rate of $25.&nbsp;</p><p><em>Subscription orders designated for pickup will be shipped to the address on file at customer's expense if not picked up within 90 days of order notification.</em></p>",
+            "row_content": "<p>Bottles are available for shipping in California or local pickup. Shipping is offered at a flat rate of $25.&nbsp;</p><p><em>Please note that subscription orders designated for pickup will be shipped to the address on file at the customer's expense if not picked up within 90 days of order notification.</em></p>",
             "page": ""
           }
         },
@@ -292,9 +292,9 @@
         "collapsible_row_r9aRMC": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "How much do I benefit?",
+            "heading": "How much do I benefit from being a member?",
             "icon": "star",
-            "row_content": "<p>You’ll enjoy plenty of perks as a member:</p><ul><li>Up to&nbsp;<strong>25% off</strong>&nbsp;bottles, merchandise, and events.</li><li>One weekly <strong>complimentary tasting flight </strong>for you and a guest.</li><li><strong>Exclusive Access</strong> to member-only events, distillery workshops, tours and tasting panels giving you a voice &nbsp;in product development.</li><li><strong>First Access</strong> to new products, including single-barrel bottlings.</li><li><strong>Earn Loyalty Points</strong> on all purchases.</li></ul>",
+            "row_content": "<p>You’ll enjoy plenty of perks as a member:</p><ul><li>Up to&nbsp;<strong>25% off</strong>&nbsp;bottles, merchandise, and events.</li><li>One weekly <strong>complimentary tasting flight </strong>for you and a guest.</li><li><strong>Exclusive Access</strong> to member-only events, distillery workshops, tours, and tasting panels, giving you a voice in product development.</li><li><strong>First Access</strong> to new products, including single-barrel bottlings.</li><li><strong>Earn Loyalty Points</strong> on all purchases.</li></ul>",
             "page": ""
           }
         },
@@ -303,25 +303,25 @@
           "settings": {
             "heading": "How do I earn and redeem loyalty points?",
             "icon": "star",
-            "row_content": "<p>Lollygaggers earn<strong> 5 points for every $1</strong> spent with us. You can also earn extra points through friend referrals, social media engagement, and birthday bonuses. Once you’ve accumulated points, you can redeem them for discounts on future purchases, such as <strong>$5 off</strong> when you reach 500 points.</p>",
+            "row_content": "<p>Lollygaggers earn<strong> 3 points for every $1</strong> spent with us. You can also earn extra points through friend referrals, social media engagement, and birthday bonuses. Once you’ve accumulated points, you can redeem them for discounts on future purchases, such as <strong>$5 off</strong> when you reach 500 points.</p>",
             "page": ""
           }
         },
         "collapsible_row_NetkFB": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Can I gift a membership?",
+            "heading": "Can I gift a membership/subscription?",
             "icon": "star",
-            "row_content": "<p>Yes! To gift a membership:</p><ol><li>Choose an item to subscribe to and add it to your cart.<br/></li><li>During checkout, enter the&nbsp;<strong>recipient’s contact information </strong>instead of your own.<br/></li><li>Complete the purchase using <strong>your&nbsp;payment details</strong>.<br/><br/>Once the subscription is created, the recipient will receive a confirmation email and can manage their subscription directly through their own account.</li></ol>",
+            "row_content": "<p>Yes! To gift a membership/subscription:</p><ol><li>Choose a spirit to subscribe to and add it to your cart.<br/></li><li>During checkout, enter the&nbsp;<strong>recipient’s contact information </strong>instead of your own.<br/></li><li>Complete the purchase using <strong>your&nbsp;payment details</strong>.</li></ol><p>Once the subscription is created, the recipient will receive a confirmation email and can manage their subscription directly through their own account.</p>",
             "page": ""
           }
         },
         "collapsible_row_cBqBgh": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "How do I cancel the membership?",
+            "heading": "How do I cancel my subscription?",
             "icon": "star",
-            "row_content": "<p>We’re sad to see you go! Cancellations can be made by emailing us or by managing your subscription directly through your account.</p><p>Please note: All member benefits and loyalty points will end at the time of cancellation. We ask members to commit for one year when joining, but we understand things come up.</p><p><strong>If you cancel before your fourth bottle, a $30 cancellation fee will apply.</strong></p>",
+            "row_content": "<p>We’re sad to see you go! Cancellations can be made by emailing us or by managing your subscription directly through your account.</p><p>Please note that all member benefits and loyalty points will end at the time of cancellation. We ask members to commit for one year when joining, but we understand things come up.</p><p><strong>If you cancel before your fourth subscription bottle, a $30 cancellation fee will apply.</strong></p>",
             "page": ""
           }
         }
