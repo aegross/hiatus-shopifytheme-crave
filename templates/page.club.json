@@ -338,7 +338,9 @@
         "collapsible_row_NetkFB",
         "collapsible_row_cBqBgh"
       ],
-      "custom_css": [],
+      "custom_css": [
+        "ul {list-style-position: outside;}"
+      ],
       "name": "FAQ",
       "settings": {
         "caption": "",
