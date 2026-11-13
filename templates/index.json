@@ -370,7 +370,7 @@
           "type": "button",
           "settings": {
             "button_label": "Learn More",
-            "button_link": "shopify://products/hiatus-membership",
+            "button_link": "shopify://pages/membership",
             "button_style_secondary": false
           }
         }
