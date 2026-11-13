@@ -13,7 +13,7 @@
       "type": "image-banner",
       "name": "(?) Lollygaggers Image Banner",
       "settings": {
-        "image": "shopify://shop_images/Lollygaggersbottleclub.png",
+        "image": "shopify://shop_images/HCH_LollygaggersClubHeader.png",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "image_behavior": "none",
