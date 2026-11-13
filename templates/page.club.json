@@ -75,6 +75,7 @@
         },
         "text_yCVz4P": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "An <strong>exclusive membership </strong>that celebrates the craft and spirit of Hiatus. Enjoy small-batch bourbon, rye, single malt, vodka, gin, agave, rum, crèmes, and liqueurs — each capturing the laid-back charm of Camarillo’s coastal hills and the dedication poured into every bottle. <strong>Experience the heart of our distillery, one sip at a time. </strong>Check out more details below!",
             "text_style": "subtitle"
@@ -85,6 +86,7 @@
         "heading_geA74T",
         "text_yCVz4P"
       ],
+      "disabled": true,
       "custom_css": [
         ".banner__text {color: rgba(250, 249, 225, 1);}"
       ],
@@ -126,7 +128,6 @@
         "heading_kDygUi",
         "text_apRQGq"
       ],
-      "disabled": true,
       "name": "(?) Lollygaggers Image w/ Text",
       "settings": {
         "image": "shopify://shop_images/Asset_1.png",
