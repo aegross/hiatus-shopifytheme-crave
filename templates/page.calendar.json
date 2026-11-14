@@ -58,6 +58,17 @@
             "button_link": "shopify://products/mixology-workshop"
           }
         },
+        "row_AwkHxK": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/IMG_5347.jpg",
+            "caption": "Off-Site Event",
+            "heading": "Costco Pop-Up",
+            "text": "<p>🗓️ November 13th & 14th&nbsp;</p><p>📍&nbsp;<em>Costco Wholesale, Camarillo</em></p><p>Check out our pop-up booth at Camarillo's new Costco! Pick up a bottle at a special Costco price and a curated recipe card.</p>",
+            "button_label": "",
+            "button_link": "https://www.tikiadventura.com/event-tickets"
+          }
+        },
         "row_hA3gfy": {
           "type": "row",
           "disabled": true,
@@ -68,18 +79,6 @@
             "text": "<p>🗓️ October 25th | 2:00 to 5:30pm</p><p>📍&nbsp;<em>Libbey&nbsp;Park</em></p><p>Join Hiatus Craft House at Taste of Ojai 2026!</p>",
             "button_label": "Tickets",
             "button_link": "https://www.tasteofojai.org/tickets"
-          }
-        },
-        "row_AwkHxK": {
-          "type": "row",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/IMG_5347.jpg",
-            "caption": "Off-Site Event",
-            "heading": "Costco Pop-Up",
-            "text": "<p>🗓️ November 6-8th | 11:00am to 5:00pm</p><p>📍&nbsp;<em>Costco Wholesale, Camarillo</em></p><p>Check out our pop-up booth at Camarillo's new Costco! Pick up a bottle at a special Costco price and a curated recipe card. Be sure to spin our wheel for a chance to <strong>win prizes</strong>.&nbsp;</p>",
-            "button_label": "",
-            "button_link": "https://www.tikiadventura.com/event-tickets"
           }
         },
         "row_JphPPD": {
@@ -158,8 +157,8 @@
       "block_order": [
         "row_PKdhJy",
         "row_3KprYp",
-        "row_hA3gfy",
         "row_AwkHxK",
+        "row_hA3gfy",
         "row_JphPPD",
         "row_hUqUYV",
         "row_8NWUNT",
