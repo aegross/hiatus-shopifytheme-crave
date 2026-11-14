@@ -89,6 +89,25 @@
             "color_scheme": "accent-2"
           }
         },
+        "slide_cjdkdq": {
+          "type": "slide",
+          "name": "PERM",
+          "settings": {
+            "image": "shopify://shop_images/IMG_3936_1.jpg",
+            "image_overlay_opacity": 0,
+            "heading": "Gift a Tasting",
+            "heading_size": "h1",
+            "subheading": "Give the gift of a Hiatus Craft House tasting. Explore our craft spirits, discover new favorites, and enjoy a relaxed, memorable experience in Camarillo.",
+            "button_label": "Buy Now",
+            "link": "shopify://products/spirit-tasting-gift-card",
+            "button_style_secondary": false,
+            "show_text_box": true,
+            "box_align": "bottom-right",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "accent-2"
+          }
+        },
         "slide_9DGtDz": {
           "type": "slide",
           "name": "PERM",
@@ -122,25 +141,6 @@
             "button_style_secondary": false,
             "show_text_box": true,
             "box_align": "bottom-left",
-            "text_alignment": "center",
-            "text_alignment_mobile": "center",
-            "color_scheme": "accent-2"
-          }
-        },
-        "slide_cjdkdq": {
-          "type": "slide",
-          "name": "PERM",
-          "settings": {
-            "image": "shopify://shop_images/IMG_3936_1.jpg",
-            "image_overlay_opacity": 0,
-            "heading": "Gift a Tasting",
-            "heading_size": "h1",
-            "subheading": "Give the gift of a Hiatus Craft House tasting. Explore our craft spirits, discover new favorites, and enjoy a relaxed, memorable experience in Camarillo.",
-            "button_label": "Buy Now",
-            "link": "shopify://products/spirit-tasting-gift-card",
-            "button_style_secondary": false,
-            "show_text_box": true,
-            "box_align": "bottom-right",
             "text_alignment": "center",
             "text_alignment_mobile": "center",
             "color_scheme": "accent-2"
@@ -191,9 +191,9 @@
         "slide_paFtNG",
         "slide_h4hQr6",
         "slide-0",
+        "slide_cjdkdq",
         "slide_9DGtDz",
         "slide_PKNtV4",
-        "slide_cjdkdq",
         "slide_HJri7T",
         "slide_zN8EHF"
       ],
