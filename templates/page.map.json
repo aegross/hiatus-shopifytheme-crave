@@ -203,6 +203,17 @@
             "link": "https://theamendmentcamarillo.com/"
           }
         },
+        "column_YQ3Tfq": {
+          "type": "column",
+          "name": "Costco",
+          "settings": {
+            "image": "shopify://shop_images/Store-Icon_a8b38b7a-33c3-4645-a98d-cd17463c7e53.svg",
+            "title": "Costco Wholesale",
+            "text": "<p><em>431 W Ventura Blvd, Camarillo, CA 93010</em></p>",
+            "link_label": "Website",
+            "link": "https://www.costco.com"
+          }
+        },
         "column_3cBfJz": {
           "type": "column",
           "name": "HCH",
@@ -269,28 +280,6 @@
             "link": "https://springvillebeveragehouse.com"
           }
         },
-        "column_VRfjcL": {
-          "type": "column",
-          "name": "Take 5",
-          "settings": {
-            "image": "shopify://shop_images/Bar-Icon_8a115f74-c127-414c-ac62-028c062efaaa.svg",
-            "title": "Take Five Cocktails",
-            "text": "<p><em>2244 Pickwick Dr, Camarillo, CA 93010</em></p>",
-            "link_label": "Social Media",
-            "link": "https://www.instagram.com/takefivecocktails/"
-          }
-        },
-        "column_VxHM9n": {
-          "type": "column",
-          "name": "Twisted Oak",
-          "settings": {
-            "image": "shopify://shop_images/Bar-Icon_8a115f74-c127-414c-ac62-028c062efaaa.svg",
-            "title": "Twisted Oak Tavern",
-            "text": "<p><em>2433 Ventura Blvd, Camarillo, CA 93010</em></p>",
-            "link_label": "Website",
-            "link": "https://www.twistedoaktavern.pub/"
-          }
-        },
         "column_DbirBG": {
           "type": "column",
           "name": "Village Mart",
@@ -306,14 +295,13 @@
       "block_order": [
         "column_GYbqk3",
         "column_rhERnH",
+        "column_YQ3Tfq",
         "column_3cBfJz",
         "column_bfgkFQ",
         "column_tN73VK",
         "column_Em9whb",
         "column_qnnNf3",
         "column_DETP9e",
-        "column_VRfjcL",
-        "column_VxHM9n",
         "column_DbirBG"
       ],
       "name": "Camarillo",
@@ -392,17 +380,6 @@
             "link": "https://www.instagram.com/patholdensliquor/?hl=en"
           }
         },
-        "column_Bkydwj": {
-          "type": "column",
-          "name": "Plaza Liquor Mart",
-          "settings": {
-            "image": "shopify://shop_images/Store-Icon_a8b38b7a-33c3-4645-a98d-cd17463c7e53.svg",
-            "title": "Plaza Liquor Mart",
-            "text": "<p><em>481 W Channel Islands Blvd, Port Hueneme, CA 93041</em></p>",
-            "link_label": "Social Media",
-            "link": "https://www.instagram.com/plaza_market_and_liquor/"
-          }
-        },
         "column_y3qFJY": {
           "type": "column",
           "name": "Q Club",
@@ -432,7 +409,6 @@
         "column_pVnB7q",
         "column_WYyyi7",
         "column_Qgc7NU",
-        "column_Bkydwj",
         "column_y3qFJY",
         "column_xKAY3J"
       ],
@@ -753,24 +729,12 @@
             "link_label": "Website",
             "link": "https://venture-liquors.edan.io/"
           }
-        },
-        "column_6geyRJ": {
-          "type": "column",
-          "name": "Yosemite Market & Liquor",
-          "settings": {
-            "image": "shopify://shop_images/Store-Icon_a8b38b7a-33c3-4645-a98d-cd17463c7e53.svg",
-            "title": "Yosemite Market & Liquor",
-            "text": "<p><em>5704 E Los Angeles Ave, Simi Valley, CA 93063</em></p>",
-            "link_label": "Website",
-            "link": "https://stonegateplazasimivalley.com/shops/19/yosemite-liquor/"
-          }
         }
       },
       "block_order": [
         "column_4xqUHi",
         "column_hpMyGp",
-        "column_3kf3zn",
-        "column_6geyRJ"
+        "column_3kf3zn"
       ],
       "name": "Moorpark & Simi Valley",
       "settings": {
@@ -1092,17 +1056,6 @@
             "link": ""
           }
         },
-        "column_U84PL9": {
-          "type": "column",
-          "name": "Grocery Bag",
-          "settings": {
-            "image": "shopify://shop_images/Store-Icon_a8b38b7a-33c3-4645-a98d-cd17463c7e53.svg",
-            "title": "The Grocery Bag Liquor",
-            "text": "<p><em>22722 Roscoe Blvd, West Hills, CA 91304</em></p>",
-            "link_label": "Social Media",
-            "link": "https://www.instagram.com/grocerybagliquor/"
-          }
-        },
         "column_gyAwkg": {
           "type": "column",
           "name": "Kalaveras",
@@ -1139,14 +1092,13 @@
       },
       "block_order": [
         "column_fd4e3Y",
-        "column_U84PL9",
         "column_gyAwkg",
         "column_VtRAXK",
         "column_JP6VDr"
       ],
       "name": "The Valley",
       "settings": {
-        "title": "Northridge, Van Nuys, West Hills, & Woodland Hills",
+        "title": "Northridge, Van Nuys, & Woodland Hills",
         "heading_size": "h2",
         "image_width": "third",
         "image_ratio": "adapt",
