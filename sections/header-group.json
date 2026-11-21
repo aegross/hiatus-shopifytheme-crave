@@ -21,19 +21,19 @@
             "link": "https://maps.app.goo.gl/sQkLtfTTigDgq3ke7"
           }
         },
+        "announcement_fVrntG": {
+          "type": "announcement",
+          "settings": {
+            "text": "Host an event or private party",
+            "link": "shopify://pages/venue-rental"
+          }
+        },
         "announcement_gTt78h": {
           "type": "announcement",
           "disabled": true,
           "settings": {
             "text": "Check out our spirits at the Camarillo Costco  November 6-8!",
             "link": ""
-          }
-        },
-        "announcement_fVrntG": {
-          "type": "announcement",
-          "settings": {
-            "text": "Host an event or private party",
-            "link": "shopify://pages/venue-rental"
           }
         },
         "announcement_aDiwFk": {
@@ -79,8 +79,8 @@
       },
       "block_order": [
         "announcement_gYtPXP",
-        "announcement_gTt78h",
         "announcement_fVrntG",
+        "announcement_gTt78h",
         "announcement_aDiwFk",
         "announcement_HVryY3",
         "announcement_PVAqwK",
