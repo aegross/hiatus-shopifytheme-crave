@@ -1117,6 +1117,17 @@
     "multicolumn_kzeF9n": {
       "type": "multicolumn",
       "blocks": {
+        "column_XW9GBz": {
+          "type": "column",
+          "name": "Flask",
+          "settings": {
+            "image": "shopify://shop_images/Store-Icon_a8b38b7a-33c3-4645-a98d-cd17463c7e53.svg",
+            "title": "Flask Highland Park",
+            "text": "<p><em>5900 N Figueroa St, Los Angeles, CA 90042</em></p>",
+            "link_label": "Website",
+            "link": "https://flaskfinewines.com"
+          }
+        },
         "column_mcpmVB": {
           "type": "column",
           "name": "Remedy Liquor",
@@ -1141,12 +1152,13 @@
         }
       },
       "block_order": [
+        "column_XW9GBz",
         "column_mcpmVB",
         "column_jaDNCV"
       ],
       "name": "Glendale & Pasadena",
       "settings": {
-        "title": "Glendale & Pasadena",
+        "title": "Glendale, Highland Park, & Pasadena",
         "heading_size": "h2",
         "image_width": "third",
         "image_ratio": "adapt",
