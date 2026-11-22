@@ -35,6 +35,7 @@
         "slide_paFtNG": {
           "type": "slide",
           "name": "TEMP",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/IMG_3762.jpg",
             "image_overlay_opacity": 0,
@@ -108,6 +109,25 @@
             "color_scheme": "accent-2"
           }
         },
+        "slide_HJri7T": {
+          "type": "slide",
+          "name": "TEMP",
+          "settings": {
+            "image": "shopify://shop_images/IMG_3825_2.jpg",
+            "image_overlay_opacity": 0,
+            "heading": "Workshops at Hiatus Craft House",
+            "heading_size": "h1",
+            "subheading": "Stay tuned for upcoming workshops at Hiatus Craft House. Sign up for our newsletter below or follow us <a href=\"https://www.instagram.com/hiatuscrafthouse/?hl=en\" target=\"_blank\" title=\"https://www.instagram.com/hiatuscrafthouse/?hl=en\">@hiatuscrafthouse</a> to get the latest news!",
+            "button_label": "Follow us!",
+            "link": "https://www.instagram.com/hiatuscrafthouse/?hl=en",
+            "button_style_secondary": false,
+            "show_text_box": true,
+            "box_align": "bottom-right",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "accent-2"
+          }
+        },
         "slide_9DGtDz": {
           "type": "slide",
           "name": "PERM",
@@ -146,25 +166,6 @@
             "color_scheme": "accent-2"
           }
         },
-        "slide_HJri7T": {
-          "type": "slide",
-          "name": "TEMP",
-          "settings": {
-            "image": "shopify://shop_images/IMG_3825_2.jpg",
-            "image_overlay_opacity": 0,
-            "heading": "Workshops at Hiatus Craft House",
-            "heading_size": "h1",
-            "subheading": "Stay tuned for upcoming workshops at Hiatus Craft House. Sign up for our newsletter below or follow us <a href=\"https://www.instagram.com/hiatuscrafthouse/?hl=en\" target=\"_blank\" title=\"https://www.instagram.com/hiatuscrafthouse/?hl=en\">@hiatuscrafthouse</a> to get the latest news!",
-            "button_label": "Follow us!",
-            "link": "https://www.instagram.com/hiatuscrafthouse/?hl=en",
-            "button_style_secondary": false,
-            "show_text_box": true,
-            "box_align": "bottom-right",
-            "text_alignment": "center",
-            "text_alignment_mobile": "center",
-            "color_scheme": "accent-2"
-          }
-        },
         "slide_zN8EHF": {
           "type": "slide",
           "name": "TEMP",
@@ -192,9 +193,9 @@
         "slide_h4hQr6",
         "slide-0",
         "slide_cjdkdq",
+        "slide_HJri7T",
         "slide_9DGtDz",
         "slide_PKNtV4",
-        "slide_HJri7T",
         "slide_zN8EHF"
       ],
       "custom_css": [],
