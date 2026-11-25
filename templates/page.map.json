@@ -258,6 +258,17 @@
             "link": "https://www.thelocalcamarillo.com/"
           }
         },
+        "column_nwyBB6": {
+          "type": "column",
+          "name": "Lure",
+          "settings": {
+            "image": "shopify://shop_images/Restaurant-Icon_e512664c-8a69-4343-9364-14c289c549b8.svg",
+            "title": "Lure Fish House",
+            "text": "<p><em>259 W Ventura Blvd, Camarillo, CA 93010</em></p>",
+            "link_label": "Website",
+            "link": "https://www.lurefishhouse.com/location/lure-fish-house-camarillo/"
+          }
+        },
         "column_qnnNf3": {
           "type": "column",
           "name": "Patron Camarillo",
@@ -300,6 +311,7 @@
         "column_bfgkFQ",
         "column_tN73VK",
         "column_Em9whb",
+        "column_nwyBB6",
         "column_qnnNf3",
         "column_DETP9e",
         "column_DbirBG"
@@ -510,6 +522,17 @@
             "link": "https://harbormart.net/"
           }
         },
+        "column_FnMNRD": {
+          "type": "column",
+          "name": "Lure",
+          "settings": {
+            "image": "shopify://shop_images/Restaurant-Icon_e512664c-8a69-4343-9364-14c289c549b8.svg",
+            "title": "Lure Fish House",
+            "text": "<p><em>60 S California St, Ventura, CA 93001</em></p>",
+            "link_label": "Website",
+            "link": "https://www.lurefishhouse.com/location/lure-fish-house-ventura/"
+          }
+        },
         "column_HFwMDQ": {
           "type": "column",
           "name": "Rocks & Drams",
@@ -552,6 +575,7 @@
         "column_gpPMkQ",
         "column_hGPQPm",
         "column_6QeD7q",
+        "column_FnMNRD",
         "column_HFwMDQ",
         "column_qRqX9p",
         "column_xkVb4g"
@@ -788,6 +812,17 @@
             "link": "https://angelosliquor.com"
           }
         },
+        "column_NiN4Bz": {
+          "type": "column",
+          "name": "Grotto",
+          "settings": {
+            "image": "shopify://shop_images/Store-Icon_a8b38b7a-33c3-4645-a98d-cd17463c7e53.svg",
+            "title": "The Liquor & Wine Grotto",
+            "text": "<p><em>1271 Coast Village Rd, Santa Barbara, CA 93108</em></p>",
+            "link_label": "Website",
+            "link": "https://www.montecitovino.com"
+          }
+        },
         "column_CcCJ8B": {
           "type": "column",
           "name": "Hi-Time Liquors",
@@ -799,15 +834,15 @@
             "link": "https://www.instagram.com/hitimeliquors/"
           }
         },
-        "column_NiN4Bz": {
+        "column_LXTNTE": {
           "type": "column",
-          "name": "Grotto",
+          "name": "Lure",
           "settings": {
-            "image": "shopify://shop_images/Store-Icon_a8b38b7a-33c3-4645-a98d-cd17463c7e53.svg",
-            "title": "The Liquor & Wine Grotto",
-            "text": "<p><em>1271 Coast Village Rd, Santa Barbara, CA 93108</em></p>",
+            "image": "shopify://shop_images/Restaurant-Icon_e512664c-8a69-4343-9364-14c289c549b8.svg",
+            "title": "Lure Fish House",
+            "text": "<p><em>3815 State St Suite G131, Santa Barbara, CA 93105</em></p>",
             "link_label": "Website",
-            "link": "https://www.montecitovino.com"
+            "link": "https://www.lurefishhouse.com/location/lure-fish-house-santa-barbara/"
           }
         },
         "column_jGHagj": {
@@ -824,8 +859,9 @@
       },
       "block_order": [
         "column_XyaKmG",
-        "column_CcCJ8B",
         "column_NiN4Bz",
+        "column_CcCJ8B",
+        "column_LXTNTE",
         "column_jGHagj"
       ],
       "name": "Summerland, Santa Barbara, & Goleta",
