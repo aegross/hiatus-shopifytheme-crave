@@ -661,6 +661,17 @@
     "multicolumn_zEQxXB": {
       "type": "multicolumn",
       "blocks": {
+        "column_rxMFFD": {
+          "type": "column",
+          "name": "Lure",
+          "settings": {
+            "image": "shopify://shop_images/Restaurant-Icon_e512664c-8a69-4343-9364-14c289c549b8.svg",
+            "title": "Lure Fish House",
+            "text": "<p><em>30970 Russell Ranch Rd, Westlake Village, CA 91362</em></p>",
+            "link_label": "Website",
+            "link": "https://www.lurefishhouse.com/location/lure-fish-house-westlake/"
+          }
+        },
         "column_UXqFA8": {
           "type": "column",
           "name": "Patron (TO)",
@@ -696,13 +707,14 @@
         }
       },
       "block_order": [
+        "column_rxMFFD",
         "column_UXqFA8",
         "column_KwEnKK",
         "column_3fiWtL"
       ],
       "name": "Thousand Oaks",
       "settings": {
-        "title": "Thousand Oaks",
+        "title": "Thousand Oaks & Westlake Village",
         "heading_size": "h2",
         "image_width": "third",
         "image_ratio": "adapt",
@@ -1103,6 +1115,17 @@
             "link": "https://kalaveras.com/"
           }
         },
+        "column_m3MA7g": {
+          "type": "column",
+          "name": "Lure",
+          "settings": {
+            "image": "shopify://shop_images/Restaurant-Icon_e512664c-8a69-4343-9364-14c289c549b8.svg",
+            "title": "Lure Fish House",
+            "text": "<p><em>20001 Rinaldi St, Porter Ranch, CA 91326</em></p>",
+            "link_label": "Website",
+            "link": "https://www.lurefishhouse.com/location/lure-fish-house-porter-ranch/"
+          }
+        },
         "column_VtRAXK": {
           "type": "column",
           "name": "TW Woodland Hills",
@@ -1129,12 +1152,13 @@
       "block_order": [
         "column_fd4e3Y",
         "column_gyAwkg",
+        "column_m3MA7g",
         "column_VtRAXK",
         "column_JP6VDr"
       ],
       "name": "The Valley",
       "settings": {
-        "title": "Northridge, Van Nuys, & Woodland Hills",
+        "title": "Northridge, Porter Ranch, Van Nuys, & Woodland Hills",
         "heading_size": "h2",
         "image_width": "third",
         "image_ratio": "adapt",
@@ -1192,7 +1216,7 @@
         "column_mcpmVB",
         "column_jaDNCV"
       ],
-      "name": "Glendale & Pasadena",
+      "name": "Glendale, Highland Park, & Pasadena",
       "settings": {
         "title": "Glendale, Highland Park, & Pasadena",
         "heading_size": "h2",
