@@ -1015,6 +1015,17 @@
       "blocks": {
         "column_GAMcDy": {
           "type": "column",
+          "name": "Granada Hotel & Bistro",
+          "settings": {
+            "image": "shopify://shop_images/Restaurant-Icon_e512664c-8a69-4343-9364-14c289c549b8.svg",
+            "title": "Granada Hotel & Bistro",
+            "text": "<p><em>1126 Morro St, San Luis Obispo, CA 93401</em></p>",
+            "link_label": "Website",
+            "link": "https://www.granadahotelandbistro.com"
+          }
+        },
+        "column_ifVdbk": {
+          "type": "column",
           "name": "Grapes & Grains",
           "settings": {
             "image": "shopify://shop_images/Store-Icon_a8b38b7a-33c3-4645-a98d-cd17463c7e53.svg",
@@ -1049,12 +1060,13 @@
       },
       "block_order": [
         "column_GAMcDy",
+        "column_ifVdbk",
         "column_m9N7Tc",
         "column_AxbKt6"
       ],
-      "name": "Morro Bay & Paso Robles",
+      "name": "Morro Bay, Paso Robles, & San Luis Obispo",
       "settings": {
-        "title": "Morro Bay & Paso Robles",
+        "title": "Morro Bay, Paso Robles, & San Luis Obispo",
         "heading_size": "h2",
         "image_width": "third",
         "image_ratio": "adapt",
