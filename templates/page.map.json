@@ -1141,17 +1141,6 @@
     "multicolumn_pGtw6B": {
       "type": "multicolumn",
       "blocks": {
-        "column_fd4e3Y": {
-          "type": "column",
-          "name": "Dale's Liquor",
-          "settings": {
-            "image": "shopify://shop_images/Store-Icon_a8b38b7a-33c3-4645-a98d-cd17463c7e53.svg",
-            "title": "Dale's Liquor",
-            "text": "<p><em>14915 Vanowen St, Van Nuys, CA 91405</em></p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_gyAwkg": {
           "type": "column",
           "name": "Kalaveras",
@@ -1174,17 +1163,6 @@
             "link": "https://www.lurefishhouse.com/location/lure-fish-house-porter-ranch/"
           }
         },
-        "column_VtRAXK": {
-          "type": "column",
-          "name": "TW Woodland Hills",
-          "settings": {
-            "image": "shopify://shop_images/Store-Icon_a8b38b7a-33c3-4645-a98d-cd17463c7e53.svg",
-            "title": "Total Wine & More",
-            "text": "<p><em>6232 Topanga Canyon Blvd, Ste 1380<br/>Woodland Hills, CA 91367</em></p>",
-            "link_label": "Website",
-            "link": "https://www.totalwine.com/store-info/california-woodland-hills/1116"
-          }
-        },
         "column_JP6VDr": {
           "type": "column",
           "name": "TW Northridge",
@@ -1198,15 +1176,61 @@
         }
       },
       "block_order": [
-        "column_fd4e3Y",
         "column_gyAwkg",
         "column_m3MA7g",
-        "column_VtRAXK",
         "column_JP6VDr"
       ],
-      "name": "The Valley",
+      "name": "Northridge & Porter Ranch",
       "settings": {
-        "title": "Northridge, Porter Ranch, Van Nuys, & Woodland Hills",
+        "title": "Northridge & Porter Ranch",
+        "heading_size": "h2",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_Can8Tc": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_d3LwRz": {
+          "type": "column",
+          "name": "Dale's Liquor",
+          "settings": {
+            "image": "shopify://shop_images/Store-Icon_a8b38b7a-33c3-4645-a98d-cd17463c7e53.svg",
+            "title": "Dale's Liquor",
+            "text": "<p><em>14915 Vanowen St, Van Nuys, CA 91405</em></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_fqnLfB": {
+          "type": "column",
+          "name": "TW Woodland Hills",
+          "settings": {
+            "image": "shopify://shop_images/Store-Icon_a8b38b7a-33c3-4645-a98d-cd17463c7e53.svg",
+            "title": "Total Wine & More",
+            "text": "<p><em>6232 Topanga Canyon Blvd, Ste 1380<br/>Woodland Hills, CA 91367</em></p>",
+            "link_label": "Website",
+            "link": "https://www.totalwine.com/store-info/california-woodland-hills/1116"
+          }
+        }
+      },
+      "block_order": [
+        "column_d3LwRz",
+        "column_fqnLfB"
+      ],
+      "name": "Van Nuys & Woodland Hills",
+      "settings": {
+        "title": "Van Nuys & Woodland Hills",
         "heading_size": "h2",
         "image_width": "third",
         "image_ratio": "adapt",
@@ -1384,6 +1408,7 @@
     "multicolumn_qx7e83",
     "multicolumn_HY6fVH",
     "multicolumn_pGtw6B",
+    "multicolumn_Can8Tc",
     "multicolumn_kzeF9n",
     "multicolumn_dAkcaK",
     "image_banner_Xqp7p9"
